@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul 15 09:39:33 2016
-
-@author: ar988996
+Andrew D. Rouillard
+Computational Biologist
+Target Sciences
+GSK
+andrew.d.rouillard@gsk.com
 """
 
 import copy
 import numpy as np
-from scipy import spatial, linalg
-from sklearn import decomposition
-import machinelearning.stats as mlstats
+import stats as mlstats
 import scipy.cluster.hierarchy as hierarchy
 import scipy.spatial.distance as distance
 import fastcluster
@@ -533,141 +533,6 @@ class datamatrix(object):
             plt.close()
         else:
             plt.show()
-            
-            
-    def bigheatmap(self, rowmetalabels='all', columnmetalabels='all', normalize=False, standardize=False, normalizebeforestandardize=True, cmap_name='bwr', ub=None, lb=None, savefilename=None, closefigure=False):
-        if type(cmap_name) == str:
-            cmap_name = {'rowmeta':cmap_name, 'columnmeta':cmap_name, 'main':cmap_name}
-        if type(rowmetalabels) == str and rowmetalabels != 'all':
-            rowmetalabels = [rowmetalabels]
-        if type(columnmetalabels) == str and columnmetalabels != 'all':
-            columnmetalabels = [columnmetalabels]
-        rowlabelcharlim = 10
-        columnlabelcharlim = 40
-        rowname = str(self.shape[0]) + ' ' + self.rowname
-        columnname = str(self.shape[1]) + ' ' + self.columnname
-        rowlabels = [x[:rowlabelcharlim]+'...' if len(x) > rowlabelcharlim else x for x in self.rowlabels]
-        columnlabels = [x[:columnlabelcharlim]+'...' if len(x) > columnlabelcharlim else x for x in self.columnlabels]
-        if rowmetalabels == 'all':
-            rowmetalabels = list(self.rowmeta.keys())
-        if columnmetalabels == 'all':
-            columnmetalabels = list(self.columnmeta.keys())
-        X = self.matrix.copy()
-        
-        fg, axs = plt.subplots(2, 2, figsize=(13,13))
-        plt.delaxes(axs[0,0])
-        if columnmetalabels == None or len(columnmetalabels) == 0:
-            plt.delaxes(axs[0,1])
-        else:
-            columnmetamatrix = np.zeros((len(columnmetalabels), self.shape[1]), dtype='float64')
-            for i, columnmetalabel in enumerate(columnmetalabels):
-                columnmetamatrix[i,:] = self.columnmeta[columnmetalabel]
-            rowmax = np.nanmax(np.abs(columnmetamatrix), axis=1)
-            rowmax[rowmax==0] = 1
-            columnmetamatrix = columnmetamatrix/rowmax[:,np.newaxis]
-            columnmetalabels = [x[:rowlabelcharlim]+'...' if len(x) > rowlabelcharlim else x for x in columnmetalabels]
-            ax = axs[0,1]
-            ax.set_position([1.4/13, 12/13, 10/13, 0.8/13])
-            ax.set_ylim(0, columnmetamatrix.shape[0])
-            ax.set_xlim(0, columnmetamatrix.shape[1])
-            ax.pcolormesh(columnmetamatrix, cmap=plt.get_cmap(cmap_name['columnmeta']), vmin=-1, vmax=1)
-            ax.set_yticks(np.arange(columnmetamatrix.shape[0]) + 0.5, minor=False)
-            ax.set_xticks(np.arange(columnmetamatrix.shape[1]) + 0.5, minor=False)
-            ax.invert_yaxis()
-            ax.set_yticklabels(columnmetalabels, minor=False, fontsize=16, fontname='arial')
-            ax.grid(False)
-            ax.tick_params(axis='x', which='major', bottom='off', top='off', labelbottom='off', labeltop='off', pad=4)
-            ax.tick_params(axis='y', which='major', left='off', right='off', labelleft='off', labelright='on', pad=4)
-        if rowmetalabels == None or len(rowmetalabels) == 0:
-            plt.delaxes(axs[1,0])
-        else:
-            rowmetamatrix = np.zeros((self.shape[0], len(rowmetalabels)), dtype='float64')
-            for j, rowmetalabel in enumerate(rowmetalabels):
-                rowmetamatrix[:,j] = self.rowmeta[rowmetalabel]
-            colmax = np.nanmax(np.abs(rowmetamatrix), axis=0)
-            colmax[colmax==0] = 1
-            rowmetamatrix = rowmetamatrix/colmax[np.newaxis,:]
-            rowmetalabels = [x[:columnlabelcharlim]+'...' if len(x) > columnlabelcharlim else x for x in rowmetalabels]
-            ax = axs[1,0]
-            ax.set_position([0.2/13, 5.6/13, 0.8/13, 6/13])
-            ax.set_ylim(0, rowmetamatrix.shape[0])
-            ax.set_xlim(0, rowmetamatrix.shape[1])
-            ax.pcolormesh(rowmetamatrix, cmap=plt.get_cmap(cmap_name['rowmeta']), vmin=-1, vmax=1)
-            ax.set_yticks(np.arange(rowmetamatrix.shape[0]) + 0.5, minor=False)
-            ax.set_xticks(np.arange(rowmetamatrix.shape[1]) + 0.5, minor=False)
-            ax.invert_yaxis()
-            ax.set_xticklabels(rowmetalabels, minor=False, rotation=90, fontsize=16, fontname='arial')
-            ax.grid(False)
-            ax.tick_params(axis='x', which='major', bottom='off', top='off', labelbottom='on', labeltop='off', pad=4)
-            ax.tick_params(axis='y', which='major', left='off', right='off', labelleft='off', labelright='off', pad=4)
-        
-        if normalizebeforestandardize:
-            if normalize == 'columns':
-                colmax = np.nanmax(np.abs(X), axis=0)
-                colmax[colmax==0] = 1
-                X = X/colmax[np.newaxis,:]
-            elif normalize == 'rows':
-                rowmax = np.nanmax(np.abs(X), axis=1)
-                rowmax[rowmax==0] = 1
-                X = X/rowmax[:,np.newaxis]
-            if standardize == 'columns':
-                colmean = np.nanmean(X, axis=0)
-                colstdv = np.nanstd(X, axis=0)
-                colstdv[colstdv==0] = 1
-                X = (X - colmean[np.newaxis,:])/colstdv[np.newaxis,:]
-            elif standardize == 'rows':
-                rowmean = np.nanmean(X, axis=1)
-                rowstdv = np.nanstd(X, axis=1)
-                rowstdv[rowstdv==0] = 1
-                X = (X - rowmean[:,np.newaxis])/rowstdv[:,np.newaxis]
-        else:
-            if standardize == 'columns':
-                colmean = np.nanmean(X, axis=0)
-                colstdv = np.nanstd(X, axis=0)
-                colstdv[colstdv==0] = 1
-                X = (X - colmean[np.newaxis,:])/colstdv[np.newaxis,:]
-            elif standardize == 'rows':
-                rowmean = np.nanmean(X, axis=1)
-                rowstdv = np.nanstd(X, axis=1)
-                rowstdv[rowstdv==0] = 1
-                X = (X - rowmean[:,np.newaxis])/rowstdv[:,np.newaxis]
-            if normalize == 'columns':
-                colmax = np.nanmax(np.abs(X), axis=0)
-                colmax[colmax==0] = 1
-                X = X/colmax[np.newaxis,:]
-            elif normalize == 'rows':
-                rowmax = np.nanmax(np.abs(X), axis=1)
-                rowmax[rowmax==0] = 1
-                X = X/rowmax[:,np.newaxis]
-        
-        if ub == None:
-            ub = np.nanmax(np.abs(X))
-        if lb == None:
-            lb = -ub
-        
-        ax = axs[1,1]
-        ax.set_position([1.4/13, 5.6/13, 10/13, 6/13])
-        ax.set_ylim(0, X.shape[0])
-        ax.set_xlim(0, X.shape[1])
-        ax.pcolormesh(X, cmap=plt.get_cmap(cmap_name['main']), vmin=lb, vmax=ub)
-        ax.set_yticks(np.arange(X.shape[0]) + 0.5, minor=False)
-        ax.set_xticks(np.arange(X.shape[1]) + 0.5, minor=False)
-        ax.invert_yaxis()
-        ax.set_xticklabels(columnlabels, minor=False, rotation=90, fontsize=16, fontname='arial')
-        ax.set_yticklabels(rowlabels, minor=False, fontsize=16, fontname='arial')
-        ax.grid(False)
-        ax.tick_params(axis='x', which='major', bottom='off', top='off', labelbottom='on', labeltop='off', pad=4)
-        ax.tick_params(axis='y', which='major', left='off', right='off', labelleft='off', labelright='on', pad=4)
-        ax.set_ylabel(rowname, fontsize=16, fontname='arial', labelpad=2)
-        ax.set_title(columnname, loc='center', fontsize=16, fontname='arial')
-        
-        if savefilename != None and len(savefilename) > 0:
-            plt.savefig(savefilename, transparent=True, pad_inches=0)
-        
-        if closefigure:
-            plt.close()
-        else:
-            plt.show()
 
     
     def merge(self, axis, merge_function=np.nanmean):
@@ -710,7 +575,6 @@ class datamatrix(object):
         else:
             print('Data matrix already unique along axis={!s}. Data matrix unchanged.'.format(axis))
     
-    
     def nanreplace(self, axis, replace_function=np.nanmean):
         is_nan = np.isnan(self.matrix)
         if axis==-1:
@@ -732,28 +596,6 @@ class datamatrix(object):
                 replace_values = replace_function(self.matrix, axis=axis, keepdims=True)
                 self.matrix[is_nan] = 0
                 self.matrix += replace_values*is_nan
-                    
-                
-    '''def select(self, rowlabels, columnlabels):
-        if rowlabels == []:
-            submatrix = self.matrix
-        elif type(rowlabels) == str:
-            submatrix = self.matrix[self.rowlabels==rowlabels,:]
-        else:
-            submatrix = self.matrix[np.in1d(self.rowlabels, rowlabels),:]
-        if columnlabels == []:
-            if rowlabels == []:
-                raise ValueError('nothing selected.')
-            else:
-                pass
-        elif type(columnlabels) == str:
-            submatrix = submatrix[:,self.columnlabels==columnlabels]
-        else:
-            submatrix = submatrix[:,np.in1d(self.columnlabels, columnlabels)]
-        if submatrix.size == 1:
-            return submatrix[0,0]
-        else:
-            return submatrix'''
             
     def select(self, rowlabels, columnlabels):
         if rowlabels == []:
@@ -883,36 +725,6 @@ class datamatrix(object):
                               columnmeta=copy.deepcopy(self.columnmeta))
         else:
             raise ValueError('invalid axis')
-            
-    def toRWR(self, restart_probability=0.5):
-        return datamatrix(rowname=self.rowname,
-                          rowlabels=self.rowlabels.copy(),
-                          columnname=self.rowname,
-                          columnlabels=self.rowlabels.copy(),
-                          matrixname='random_walk_with_restart_relevance_scores_from_' + self.matrixname,
-                          matrix=mlstats.sm2rm(self.matrix, restart_probability),
-                          rowmeta=copy.deepcopy(self.rowmeta),
-                          columnmeta=copy.deepcopy(self.rowmeta))
-    
-    def toCLR(self):
-        return datamatrix(rowname=self.rowname,
-                          rowlabels=self.rowlabels.copy(),
-                          columnname=self.rowname,
-                          columnlabels=self.rowlabels.copy(),
-                          matrixname='clr_adjusted_' + self.matrixname,
-                          matrix=mlstats.sm2clrm(self.matrix),
-                          rowmeta=copy.deepcopy(self.rowmeta),
-                          columnmeta=copy.deepcopy(self.rowmeta))
-    
-    def toCDF(self):
-        return datamatrix(rowname=self.rowname,
-                          rowlabels=self.rowlabels.copy(),
-                          columnname=self.rowname,
-                          columnlabels=self.rowlabels.copy(),
-                          matrixname='cdf_adjusted_' + self.matrixname,
-                          matrix=mlstats.sm2cdfm(self.matrix),
-                          rowmeta=copy.deepcopy(self.rowmeta),
-                          columnmeta=copy.deepcopy(self.rowmeta))
     
     def tosimilaritypvalues(self, axis, metric='cosine'):
         if axis==0:
@@ -935,48 +747,3 @@ class datamatrix(object):
                               columnmeta=copy.deepcopy(self.columnmeta))
         else:
             raise ValueError('invalid axis')
-
-        
-    def toeigenvectors(self, axis, cutoff=0):
-        if axis==0:
-            s, Vh = linalg.svd(self.matrix, full_matrices=False, compute_uv=True, overwrite_a=False)[1:]
-            if cutoff >= 1:
-                numdims = cutoff
-                s = s[:numdims]
-                Vh = Vh[:numdims,:]
-            elif cutoff > 0:
-                cumulvarfrac = np.cumsum(s**2)/np.sum(s**2)
-                numdims = (cumulvarfrac <= cutoff).nonzero()[0][-1] + 1
-                s = s[:numdims]
-                Vh = Vh[:numdims,:]
-            return datamatrix(rowname='eigenvector',
-                              rowlabels=np.array(['EV' + str(i) for i in range(s.size)], dtype='object'),
-                              columnname=self.columnname,
-                              columnlabels=self.columnlabels,
-                              matrixname=self.rowname + '_eigenvector_loadings_derived_from_' + self.matrixname,
-                              matrix=Vh,
-                              rowmeta={'eigenvalues':s**2},
-                              columnmeta=self.columnmeta)
-        elif axis==1:
-            s, Vh = linalg.svd(self.matrix.T, full_matrices=False, compute_uv=True, overwrite_a=False)[1:]
-            if cutoff >= 1:
-                numdims = cutoff
-                s = s[:numdims]
-                Vh = Vh[:numdims,:]
-            elif cutoff > 0:
-                cumulvarfrac = np.cumsum(s**2)/np.sum(s**2)
-                numdims = (cumulvarfrac <= cutoff).nonzero()[0][-1] + 1
-                s = s[:numdims]
-                Vh = Vh[:numdims,:]
-            return datamatrix(rowname=self.rowname,
-                              rowlabels=self.rowlabels,
-                              columnname='eigenvector',
-                              columnlabels=np.array(['EV' + str(i) for i in range(s.size)], dtype='object'),
-                              matrixname=self.columnname + '_eigenvector_loadings_derived_from_' + self.matrixname,
-                              matrix=Vh.T,
-                              rowmeta=self.rowmeta,
-                              columnmeta={'eigenvalues':s**2})
-        else:
-            raise ValueError('invalid axis')
-
-        

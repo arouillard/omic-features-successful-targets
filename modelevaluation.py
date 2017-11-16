@@ -1,12 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Performance Evaluation Module
+Andrew D. Rouillard
+Computational Biologist
+Target Sciences
+GSK
+andrew.d.rouillard@gsk.com
 """
-
 
 import numpy as np
 import matplotlib.pyplot as plt
-from machinelearning import dataclasses
+import dataclasses
 from scipy import stats
 
 def get_unique_pcuts(P, max_cuts=1000):
@@ -38,86 +41,6 @@ def get_priority_cutoff_metadata(stat_cut, pp_min_frac=0.1, xx_min_frac=0.01):
     stat_cut.columnmeta['p50_cutoff'] = np.arange(stat_cut.shape[1], dtype='int64') == p50_idx
     stat_cut.columnmeta['ppe_cutoff'] = np.arange(stat_cut.shape[1], dtype='int64') == ppe_idx
     
-def get_classifier_performance_stats(Y, P, uP=1000, classifier_stats='all', plot_curves=True, get_priority_cutoffs=True, pp_min_frac=0.1, xx_min_frac=0.01):
-    if type(uP) == int:
-        uP = get_unique_pcuts(P=P, max_cuts=uP).reshape(-1,1)
-    elif len(uP.shape) == 1:
-        uP = uP.reshape(-1,1)
-    if type(classifier_stats) == str:
-        classifier_stats = np.array(['p', 'n', 'ap', 'an', 'pp', 'pn', 'tp', 'fp', 'tn', 'fn', 'tpr', 'fpr', 'auroc', 'fnr', 'tnr',
-                                     'mcr', 'acc', 'fdr', 'ppv', 'auprc', 'fomr', 'npv', 'plr', 'nlr', 'dor', 'drr', 'darr',
-                                     'mrr', 'marr', 'f1s', 'mcc', 'fnlp'], dtype='object')
-    n = np.float64(Y.size)  + 0.2
-    ap = Y.sum().astype('float64')  + 0.1
-    an = (~Y).sum().astype('float64')  + 0.1
-    pp = (P >= uP).sum(1).astype('float64')  + 0.1
-    pn = (P < uP).sum(1).astype('float64')  + 0.1
-    tp = np.logical_and(P >= uP, Y).sum(1).astype('float64')  + 0.05 # if count is 5, then this introduces 1% error
-    fp = np.logical_and(P >= uP, ~Y).sum(1).astype('float64')  + 0.05 # so don't take seriously any cut-off where
-    tn = np.logical_and(P < uP, ~Y).sum(1).astype('float64')  + 0.05 # any count is less than 5
-    fn = np.logical_and(P < uP, Y).sum(1).astype('float64')  + 0.05 # nnt is extremely sensitive to this adjustment, but not where nnt is actually reasonable
-    uP = uP.reshape(-1)
-    tpr = tp/ap # sensitivity, recall, 1-fnr
-    fpr = fp/an # fall-out, 1-tnr, 1-specificity
-    auroc = np.trapz(tpr, fpr)
-    fnr = fn/ap # miss rate
-    tnr = tn/an # specificity
-    mcr = (fp + fn)/n
-    acc = (tp + tn)/n
-    fdr = fp/pp
-    ppv = tp/pp # precision = 1-fdr
-    auprc = np.trapz(ppv, tpr)
-    fomr = fn/pn # false omission rate
-    npv = tn/pn
-    plr = (tp/fp)/(ap/an) # ratio of positives to negatives in positive predictions relative to ratio in whole sample, higher is better, tpr/fpr
-    nlr = (fn/tn)/(ap/an) # ratio of positives to negatives in negative predictions relative to ratio in whole sample, lower is better, fnr/tnr
-    dor = (tp/fp)/(fn/tn) # ratio of positives to negatives in positive predictions, divided by ratio of positives to negatives in negative predictions, positivelikelihoodratio/negativelikelihoodratio
-    drr = (tp/pp)/(fn/pn) # relative risk or risk ratio, fraction of positives in positive predictions divided by fraction of positives in negative predictions, ppv/fomr
-    darr = (tp/pp) - (fn/pn) # absolute risk reduction, fraction of positives in positive predictions minus fraction of positives in negative predictions, ppv - fomr
-    mrr = (tp/pp)/(ap/n) # modified (by me) relative risk or risk ratio, fraction of positives in positive predictions divided by fraction of positives in whole sample, ppv/prevalence
-    marr = (tp/pp) - (ap/n) # modified (by me) absolute risk reduction, fraction of positives in positive predictions minus fraction of positives in whole sample, ppv - prevalence
-    f1s = 2*tp/(2*tp + fp + fn)
-    mcc = (tp*tn - fp*fn)/np.sqrt((tp + fp)*(tp + fn)*(tn + fp)*(tn + fn))
-    fnlp = -stats.hypergeom.logsf(tp, n, ap, pp, loc=1)/np.log(10)
-    results_dict = {'p':uP, 'n':n, 'ap':ap, 'an':an, 'pp':pp, 'pn':pn, 'tp':tp, 'fp':fp, 'tn':tn, 'fn':fn, 'tpr':tpr,
-                    'fpr':fpr, 'auroc':auroc, 'fnr':fnr, 'tnr':tnr, 'mcr':mcr, 'acc':acc, 'fdr':fdr, 'ppv':ppv,
-                    'auprc':auprc, 'fomr':fomr, 'npv':npv, 'plr':plr, 'nlr':nlr, 'dor':dor, 'drr':drr, 'darr':darr,
-                    'mrr':mrr, 'marr':marr, 'f1s':f1s, 'mcc':mcc, 'fnlp':fnlp}
-    stat_cut = dataclasses.datamatrix(rowname='classifier_performance_stat', rowlabels=classifier_stats.copy(), rowmeta={},
-                                      columnname='probability_cutoff', columnlabels=uP.copy(), columnmeta={},
-                                      matrixname='classifier_performance_stats_vs_probability_cutoffs', matrix=np.zeros((classifier_stats.size, uP.size), dtype='float64'))
-    for i, stat in enumerate(stat_cut.rowlabels):
-        stat_cut.matrix[i,:] = results_dict[stat]
-    if get_priority_cutoffs:
-        get_priority_cutoff_metadata(stat_cut, pp_min_frac, xx_min_frac)
-    if plot_curves:
-        plt.figure()
-        plt.subplot(2,2,1)
-        plt.plot(fpr, tpr, 'k-')
-        plt.ylabel('tpr, sensitivity, recall')
-        plt.xlabel('fpr, 1-specificity, fall-out')
-        plt.axis([0, 1, 0, 1])
-        plt.subplot(2,2,2)
-        plt.plot(tpr, ppv, 'k-')
-        plt.ylabel('ppv, precision, 1-fdr')
-        plt.xlabel('tpr, sensitivity, recall')
-        plt.axis([0, 1, 0, 1])
-        plt.subplot(2,2,3)
-        plt.plot(uP, mcr, 'k-')
-        plt.ylabel('mcr')
-        plt.xlabel('p')
-        plt.axis([0, 1, 0, 1])
-        plt.gca().invert_xaxis()
-        plt.subplot(2,2,4)
-        plt.plot(uP, mcc, 'k-')
-        plt.ylabel('mcc')
-        plt.xlabel('p')
-        plt.axis([0, 1, 0, 1])
-        plt.gca().invert_xaxis()
-    return stat_cut
-
-
-
 def get_classifier_performance_stats(Y, P, uP=1000, classifier_stats='all', plot_curves=True, get_priority_cutoffs=True, pp_min_frac=0.1, xx_min_frac=0.01):
     if type(uP) == int:
         uP = get_unique_pcuts(P=P, max_cuts=uP).reshape(-1,1)

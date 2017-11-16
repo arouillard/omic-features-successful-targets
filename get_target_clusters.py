@@ -7,23 +7,9 @@ GSK
 andrew.d.rouillard@gsk.com
 """
 
-import sys
-#custompaths = ['/GWD/bioinfo/projects/cb01/users/rouillard/Python/Classes',
-#               '/GWD/bioinfo/projects/cb01/users/rouillard/Python/Modules',
-#               '/GWD/bioinfo/projects/cb01/users/rouillard/Python/Packages',
-#               '/GWD/bioinfo/projects/cb01/users/rouillard/Python/Scripts']
-custompaths = ['C:\\Users\\ar988996\\Documents\\Python\\Classes',
-               'C:\\Users\\ar988996\\Documents\\Python\\Modules',
-               'C:\\Users\\ar988996\\Documents\\Python\\Packages',
-               'C:\\Users\\ar988996\\Documents\\Python\\Scripts']
-for custompath in custompaths:
-    if custompath not in sys.path:
-        sys.path.append(custompath)
-del custompath, custompaths
-
 import pickle
 import numpy as np
-from machinelearning import datasetIO
+import datasetIO
 import matplotlib.pyplot as plt
 import scipy.cluster.hierarchy as hierarchy
 import scipy.spatial.distance as distance
@@ -34,7 +20,7 @@ def main():
     
     # load gene family membership from HGNC
     print('loading gene family membership from HGNC...', flush=True)
-    with open('targets/clusters/target_family_matrix_revised2.pickle', 'rb') as fr:
+    with open('targets/clusters/target_family_matrix.pickle', 'rb') as fr:
         gf = pickle.load(fr)
     gf.matrix = (gf.matrix != 0).astype('int64')
     
@@ -93,7 +79,7 @@ def main():
     
     # save assignments of targets to clusters by membership in HGNC families
     print('saving assignments of targets to clusters by membership in HGNC families...', flush=True)
-    with open('targets/clusters/gene_cluster_byfamily_revised2.pickle', 'wb') as fw:
+    with open('targets/clusters/gene_cluster_byfamily.pickle', 'wb') as fw:
         pickle.dump(gene_cluster, fw)
             
     print('done.', flush=True)

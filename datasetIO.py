@@ -1,16 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Functions for discovering, loading, or saving data
 Andrew D. Rouillard
+Computational Biologist
+Target Sciences
+GSK
+andrew.d.rouillard@gsk.com
 """
-
 
 import os
 import gzip
 import pickle
 import numpy as np
-import machinelearning.dataclasses as dc
-
+import dataclasses as dc
 
 def load_datasetinfo(datasetspath):
     dataset_info = []
@@ -21,7 +22,6 @@ def load_datasetinfo(datasetspath):
             dataset_info.append({field:entry for field,entry in zip(fields,entries)})
     return dataset_info
 
-
 def save_datasetinfo(datasetspath, dataset_infos):
     fields = sorted(dataset_infos[0].keys())
     with open(datasetspath, mode='wt', encoding='utf-8', errors='surrogateescape') as fw:
@@ -29,7 +29,6 @@ def save_datasetinfo(datasetspath, dataset_infos):
         for dataset_info in dataset_infos:
             entries = [dataset_info[field] for field in fields]
             fw.write('\t'.join([entry if type(entry)==str else '{0:1.6g}'.format(entry) for entry in entries]) + '\n')
-
 
 def append_datasetinfo(datasetspath, dataset_info):
     fields = sorted(dataset_info.keys())
@@ -40,7 +39,6 @@ def append_datasetinfo(datasetspath, dataset_info):
     with open(datasetspath, mode='at', encoding='utf-8', errors='surrogateescape') as fw:
             fw.write('\t'.join([entry if type(entry)==str else '{0:1.6g}'.format(entry) for entry in entries]) + '\n')
 
-
 def load_examples(examplespath):
     examples = set()
     with open(examplespath, mode='rt', encoding='utf-8', errors='surrogateescape') as fr:
@@ -48,7 +46,6 @@ def load_examples(examplespath):
         for line in fr:
             examples.add(line.split('\t', maxsplit=1)[0].strip())
     return examples
-
 
 def load_clusterassignments(clusterassignmentspath):
     if '.pickle' in clusterassignmentspath:
@@ -63,7 +60,6 @@ def load_clusterassignments(clusterassignmentspath):
                 item_cluster[item] = int(cluster)
         return item_cluster
 
-
 def save_clusterassignments(clusterassignmentspath, item_cluster, itemname):
     if '.pickle' in clusterassignmentspath:
         with open(clusterassignmentspath, 'wb') as fw:
@@ -73,7 +69,6 @@ def save_clusterassignments(clusterassignmentspath, item_cluster, itemname):
             fw.write('\t'.join([itemname, 'cluster']) + '\n')
             for item, cluster in item_cluster.items():
                 fw.write('\t'.join([item, str(cluster)]) + '\n')
-
 
 def load_datamatrix(datasetpath, delimiter='\t', dtype='float64', getmetadata=True, getmatrix=True):
     if '.pickle' in datasetpath:
@@ -135,7 +130,6 @@ def load_datamatrix(datasetpath, delimiter='\t', dtype='float64', getmetadata=Tr
             matrix = np.zeros((0,0), dtype=dtype)
         matrixname = rowname + '_' + columnname + '_associations_from_' + datasetpath
         return dc.datamatrix(rowname, rowlabels, columnname, columnlabels, matrixname, matrix, rowmeta, columnmeta)
-
 
 def save_datamatrix(datasetpath, dm):
     if '.pickle' in datasetpath:

@@ -7,29 +7,16 @@ GSK
 andrew.d.rouillard@gsk.com
 """
 
-import sys
-#custompaths = ['/GWD/bioinfo/projects/cb01/users/rouillard/Python/Classes',
-#               '/GWD/bioinfo/projects/cb01/users/rouillard/Python/Modules',
-#               '/GWD/bioinfo/projects/cb01/users/rouillard/Python/Packages',
-#               '/GWD/bioinfo/projects/cb01/users/rouillard/Python/Scripts']
-custompaths = ['C:\\Users\\ar988996\\Documents\\Python\\Classes',
-               'C:\\Users\\ar988996\\Documents\\Python\\Modules',
-               'C:\\Users\\ar988996\\Documents\\Python\\Packages',
-               'C:\\Users\\ar988996\\Documents\\Python\\Scripts']
-for custompath in custompaths:
-    if custompath not in sys.path:
-        sys.path.append(custompath)
-del custompath, custompaths
-
 import os
 import numpy as np
-from machinelearning import datasetIO, featureselection
+import datasetIO
+import featureselection
 
 def main(validation_rep=0, validation_fold=0):
     
     # load target clusters
     print('loading target cluster assignments...', flush=True)
-    target_cluster_path = 'targets/clusters/gene_cluster_byfamily_revised2.pickle'
+    target_cluster_path = 'targets/clusters/gene_cluster_byfamily.pickle'
     gene_cluster = datasetIO.load_clusterassignments(target_cluster_path)
     
     # load dataset info
