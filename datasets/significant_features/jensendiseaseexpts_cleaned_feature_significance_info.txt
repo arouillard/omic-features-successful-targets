@@ -1,0 +1,43 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	eye disease	-0.27858	0.39382	1	0	-1		eye disease|globe disease|eye and adnexa disease|sensory system disease|retinal disease|retinal degeneration|macular degeneration|nervous system disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	disease of metabolism	0.76466	0.489	1	0	1		disease of metabolism|acquired metabolic disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	hepatobiliary disease	-0.44409	0.050999	1	0	-1		hepatobiliary disease|liver disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	neurodegenerative disease	-0.74011	0.1715	1	0	-1		neurodegenerative disease|central nervous system disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	male reproductive organ cancer	-0.36416	0.1317	1	0	-1		male reproductive organ cancer|reproductive organ cancer
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	lipid metabolism disorder	-1.6707	0.24533	1	0	-1		lipid metabolism disorder|inherited metabolic disorder
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	disease of mental health	-0.2626	0.44197	1	0	-1		disease of mental health|substance-related disorder
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	bipolar disorder	0.1235	0.54796	1	0	1		bipolar disorder|mood disorder
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	heart conduction disease	0.47218	0.28812	1	0	1		heart conduction disease|heart disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	cognitive disorder	-0.86391	0.082159	1	0	-1		cognitive disorder
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	connective tissue disease	0.26187	0.13399	1	0	1		connective tissue disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	disease by infectious agent	-0.11324	0.72449	1	0	-1		disease by infectious agent
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	skin disease	0.36336	0.68549	1	0	1		skin disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	brain disease	-0.44935	0.093159	1	0	-1		brain disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	metabolic syndrome x	-1.7756	0.091879	1	0	-1		metabolic syndrome x
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	cell type cancer	-0.038285	1	1	0	-1		cell type cancer
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	type 1 diabetes mellitus	0.70989	0.58458	1	0	1		type 1 diabetes mellitus
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	alopecia areata	0.31087	0.58373	1	0	1		alopecia areata
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	thyroid gland disease	-0.66831	0.2292	1	0	-1		thyroid gland disease|endocrine system disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	psychotic disorder	-0.0088587	1	1	0	-1		psychotic disorder|schizophrenia
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	kidney disease	0.38659	0.58597	1	0	1		kidney disease|urinary system disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	colitis	0.47936	0.38644	1	0	1		colitis|ulcerative colitis
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	peripheral vascular disease	-1.2888	0.03405	1	0	-1		peripheral vascular disease|arteriosclerosis|arteriosclerotic cardiovascular disease|atherosclerosis|artery disease|vascular disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	leukemia	-0.156	0.72518	1	0	-1		leukemia|lymphoid leukemia|lymphoblastic leukemia|hematologic cancer|immune system cancer
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	obstructive lung disease	0.080969	0.81926	1	0	1		obstructive lung disease|lower respiratory tract disease|lung disease|respiratory system disease|chronic obstructive pulmonary disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	arthritis	0.77518	0.16874	1	0	1		arthritis|bone disease|musculoskeletal system disease|bone inflammation disease|gout
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	mean	-0.071365	0.36008	1	0	-1	mean	mean|stdv|disease|disease of anatomical entity
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	carbohydrate metabolism disease	-0.10903	0.90464	1	0	-1		carbohydrate metabolism disease|glucose metabolism disease|diabetes mellitus|type 2 diabetes mellitus
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	alopecia	1.2825	0.38184	1	0	1		alopecia|hypotrichosis|hair disease|integumentary system disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	inflammatory bowel disease	0.0023141	0.99699	1	0	1		inflammatory bowel disease|intestinal disease|gastrointestinal system disease|crohn's disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	rheumatoid arthritis	0.030032	0.9131	1	0	1		rheumatoid arthritis
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	alzheimer's disease	-0.65992	0.0461	1	0	-1		alzheimer's disease|tauopathy|dementia
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	bone resorption disease	0.43242	0.48092	1	0	1		bone resorption disease|osteoporosis|bone remodeling disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	hypersensitivity reaction disease	0.15181	0.82938	1	0	1		hypersensitivity reaction disease|hypersensitivity reaction type ii disease|immune system disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	specific developmental disorder	0.033031	0.96252	1	0	1		specific developmental disorder|developmental disorder of mental health|attention deficit hyperactivity disorder
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	overnutrition	-0.6916	0.51661	1	0	-1		overnutrition|obesity|nutrition disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	demyelinating disease	-0.042401	0.92725	1	0	-1		demyelinating disease|multiple sclerosis
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	syndrome	0.28117	0.58363	1	0	1		syndrome|polycystic ovary syndrome
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	breast cancer	-0.017976	0.78696	1	0	-1		breast cancer|thoracic cancer
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	asthma	0.26654	0.58544	1	0	1		asthma|bronchial disease
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	cancer	-0.27562	0.58245	1	0	-1		cancer|disease of cellular proliferation|organ system cancer
+DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	jensendiseaseexpts_cleaned	cardiovascular system disease	-9.3365	0.14373	1	0	-1		cardiovascular system disease

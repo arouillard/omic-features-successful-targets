@@ -1,0 +1,665 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+HPO Gene-Disease Associations	hpo	mean	0.0019745	0.54028	1	0	1	mean	mean|stdv|abnormality of nervous system physiology|abnormality of the skeletal system|abnormality of the nervous system|abnormality of skeletal morphology|abnormality of the head|abnormality of head or neck|abnormality of nervous system morphology|abnormality of the face|abnormal axial skeleton morphology|abnormality of limb bone morphology|abnormality of limb bone|abnormal appendicular skeleton morphology|abnormality of limbs|abnormality of the eye|aplasia/hypoplasia involving the skeleton|morphological abnormality of the central nervous system|abnormality of digit|abnormality of the skull|abnormality of the mouth|abnormality of the upper limb|abnormality of the hand|abnormality of brain morphology|abnormality of the musculature|abnormal eye morphology|abnormality of the globe|abnormality of the oral cavity|abnormality of the ocular region|abnormality of the integument|abnormality of the lower limb|abnormality of the genitourinary system|abnormal eye physiology|abnormality of the nose|growth abnormality|abnormality of the outer ear|abnormality of the ear|abnormality of higher mental function|abnormality of body height|growth delay|abnormality of the abdomen|abnormality of the vertebral column|abnormality of the cardiovascular system|abnormal joint morphology
+HPO Gene-Disease Associations	hpo	dystonia	0.021277	0.63568	1	0	1		dystonia
+HPO Gene-Disease Associations	hpo	abnormal aggressive, impulsive or violent behavior	-0.012057	1	1	0	-1		abnormal aggressive, impulsive or violent behavior
+HPO Gene-Disease Associations	hpo	deeply set eye	-0.019149	1	1	0	-1		deeply set eye
+HPO Gene-Disease Associations	hpo	sleep disturbance	-0.043262	0.41182	1	0	-1		sleep disturbance
+HPO Gene-Disease Associations	hpo	abnormality of the tongue	-0.043262	0.41074	1	0	-1		abnormality of the tongue
+HPO Gene-Disease Associations	hpo	hypogonadism	0.0092199	1	1	0	1		hypogonadism
+HPO Gene-Disease Associations	hpo	short nose	-0.04539	0.21179	1	0	-1		short nose
+HPO Gene-Disease Associations	hpo	involuntary movements	-0.043262	0.4107	1	0	-1		involuntary movements
+HPO Gene-Disease Associations	hpo	short palm	-0.019149	1	1	0	-1		short palm
+HPO Gene-Disease Associations	hpo	recurrent urinary tract infections	-0.04539	0.21234	1	0	-1		recurrent urinary tract infections
+HPO Gene-Disease Associations	hpo	abnormality of the pancreas	0.01844	1	1	0	1		abnormality of the pancreas
+HPO Gene-Disease Associations	hpo	memory impairment	-0.019149	1	1	0	-1		memory impairment
+HPO Gene-Disease Associations	hpo	myalgia	0.016312	1	1	0	1		myalgia
+HPO Gene-Disease Associations	hpo	nephrocalcinosis	0.021277	0.63667	1	0	1		nephrocalcinosis
+HPO Gene-Disease Associations	hpo	myopathy	0.0092199	1	1	0	1		myopathy
+HPO Gene-Disease Associations	hpo	seborrheic dermatitis	0.021277	0.63791	1	0	1		seborrheic dermatitis
+HPO Gene-Disease Associations	hpo	abnormality of the phalanges of the toes	0.035461	0.58776	1	0	1		abnormality of the phalanges of the toes
+HPO Gene-Disease Associations	hpo	dysphagia	-0.04539	0.21221	1	0	-1		dysphagia
+HPO Gene-Disease Associations	hpo	abnormality of the esophagus	0.0042553	1	1	0	1		abnormality of the esophagus
+HPO Gene-Disease Associations	hpo	craniosynostosis	0.042553	0.37548	1	0	1		craniosynostosis
+HPO Gene-Disease Associations	hpo	pulmonary infiltrates	0.021277	0.63842	1	0	1		pulmonary infiltrates
+HPO Gene-Disease Associations	hpo	polyneuropathy	0.021277	0.63688	1	0	1		polyneuropathy
+HPO Gene-Disease Associations	hpo	aseptic necrosis	-0.0049645	1	1	0	-1		aseptic necrosis
+HPO Gene-Disease Associations	hpo	recurrent abscess formation	-0.059574	0.078169	1	0	-1		recurrent abscess formation
+HPO Gene-Disease Associations	hpo	osteomyelitis	0.035461	0.58569	1	0	1		osteomyelitis
+HPO Gene-Disease Associations	hpo	pneumonia	-0.038298	0.59283	1	0	-1		pneumonia
+HPO Gene-Disease Associations	hpo	decreased fertility	0.030496	0.69439	1	0	1		decreased fertility
+HPO Gene-Disease Associations	hpo	infertility	0.028369	0.60414	1	0	1		infertility
+HPO Gene-Disease Associations	hpo	recurrent otitis media	-0.012057	1	1	0	-1		recurrent otitis media
+HPO Gene-Disease Associations	hpo	menorrhagia	0.035461	0.58753	1	0	1		menorrhagia
+HPO Gene-Disease Associations	hpo	gingival bleeding	0.028369	0.60261	1	0	1		gingival bleeding
+HPO Gene-Disease Associations	hpo	localized skin lesion	0.015603	1	1	0	1		localized skin lesion
+HPO Gene-Disease Associations	hpo	proteinuria	-0.031206	0.60442	1	0	-1		proteinuria
+HPO Gene-Disease Associations	hpo	flared metaphysis	-0.019149	1	1	0	-1		flared metaphysis
+HPO Gene-Disease Associations	hpo	short thorax	-0.019149	1	1	0	-1		short thorax
+HPO Gene-Disease Associations	hpo	dental malocclusion	-0.019149	1	1	0	-1		dental malocclusion
+HPO Gene-Disease Associations	hpo	vertebral segmentation defect	-0.0049645	1	1	0	-1		vertebral segmentation defect
+HPO Gene-Disease Associations	hpo	intestinal malrotation	0.028369	0.60016	1	0	1		intestinal malrotation
+HPO Gene-Disease Associations	hpo	pancytopenia	0.028369	0.60328	1	0	1		pancytopenia
+HPO Gene-Disease Associations	hpo	hypohidrosis	0.021277	0.63877	1	0	1		hypohidrosis
+HPO Gene-Disease Associations	hpo	thickened helices	0.021277	0.63791	1	0	1		thickened helices
+HPO Gene-Disease Associations	hpo	telangiectasia	-0.019149	1	1	0	-1		telangiectasia
+HPO Gene-Disease Associations	hpo	venous abnormality	0.028369	0.6044	1	0	1		venous abnormality
+HPO Gene-Disease Associations	hpo	bronchomalacia	0.021277	0.63917	1	0	1		bronchomalacia
+HPO Gene-Disease Associations	hpo	tracheomalacia	-0.019149	1	1	0	-1		tracheomalacia
+HPO Gene-Disease Associations	hpo	trigonocephaly	0.021277	0.63927	1	0	1		trigonocephaly
+HPO Gene-Disease Associations	hpo	sleep apnea	-0.012057	1	1	0	-1		sleep apnea
+HPO Gene-Disease Associations	hpo	fasciculations	-0.019149	1	1	0	-1		fasciculations
+HPO Gene-Disease Associations	hpo	abnormality of cholesterol metabolism	0.0092199	1	1	0	1		abnormality of cholesterol metabolism
+HPO Gene-Disease Associations	hpo	hypercholesterolemia	0.028369	0.59919	1	0	1		hypercholesterolemia
+HPO Gene-Disease Associations	hpo	abnormality of lipid metabolism	0.044681	0.47782	1	0	1		abnormality of lipid metabolism
+HPO Gene-Disease Associations	hpo	abnormality of subcutaneous fat tissue	0.021277	0.6405	1	0	1		abnormality of subcutaneous fat tissue
+HPO Gene-Disease Associations	hpo	symptomatic seizures	-0.019149	1	1	0	-1		symptomatic seizures
+HPO Gene-Disease Associations	hpo	hyperglycemia	-0.019149	1	1	0	-1		hyperglycemia
+HPO Gene-Disease Associations	hpo	insulin resistance	-0.019149	1	1	0	-1		insulin resistance
+HPO Gene-Disease Associations	hpo	abnormality of the costochondral junction	0.021277	0.63612	1	0	1		abnormality of the costochondral junction
+HPO Gene-Disease Associations	hpo	abnormality of calcium-phosphate metabolism	0.021277	0.63891	1	0	1		abnormality of calcium-phosphate metabolism
+HPO Gene-Disease Associations	hpo	prenatal maternal abnormality	-0.012057	1	1	0	-1		prenatal maternal abnormality
+HPO Gene-Disease Associations	hpo	abnormality of the rectum	-0.019149	1	1	0	-1		abnormality of the rectum
+HPO Gene-Disease Associations	hpo	recurrent fungal infections	-0.012057	1	1	0	-1		recurrent fungal infections
+HPO Gene-Disease Associations	hpo	abnormality of the large intestine	-0.024113	0.62866	1	0	-1		abnormality of the large intestine
+HPO Gene-Disease Associations	hpo	palpitations	0.021277	0.63902	1	0	1		palpitations
+HPO Gene-Disease Associations	hpo	abnormality of female external genitalia	-0.038298	0.592	1	0	-1		abnormality of female external genitalia
+HPO Gene-Disease Associations	hpo	brachycephaly	0.035461	0.58836	1	0	1		brachycephaly
+HPO Gene-Disease Associations	hpo	disproportionate tall stature	-0.019149	1	1	0	-1		disproportionate tall stature
+HPO Gene-Disease Associations	hpo	coronal craniosynostosis	0.021277	0.6386	1	0	1		coronal craniosynostosis
+HPO Gene-Disease Associations	hpo	cloverleaf skull	0.021277	0.6386	1	0	1		cloverleaf skull
+HPO Gene-Disease Associations	hpo	turricephaly	0.021277	0.63927	1	0	1		turricephaly
+HPO Gene-Disease Associations	hpo	mixed hearing impairment	-0.019149	1	1	0	-1		mixed hearing impairment
+HPO Gene-Disease Associations	hpo	hyperphosphatemia	0.021277	0.6361	1	0	1		hyperphosphatemia
+HPO Gene-Disease Associations	hpo	limited elbow extension	-0.019149	1	1	0	-1		limited elbow extension
+HPO Gene-Disease Associations	hpo	abnormality of the fibula	-0.012057	1	1	0	-1		abnormality of the fibula
+HPO Gene-Disease Associations	hpo	protuberant abdomen	-0.012057	1	1	0	-1		protuberant abdomen
+HPO Gene-Disease Associations	hpo	lumbar hyperlordosis	-0.019149	1	1	0	-1		lumbar hyperlordosis
+HPO Gene-Disease Associations	hpo	coxa valga	-0.019149	1	1	0	-1		coxa valga
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia involving the vertebral column	-0.0049645	1	1	0	-1		aplasia/hypoplasia involving the vertebral column
+HPO Gene-Disease Associations	hpo	disproportionate short-trunk short stature	-0.019149	1	1	0	-1		disproportionate short-trunk short stature
+HPO Gene-Disease Associations	hpo	limited hip movement	-0.019149	1	1	0	-1		limited hip movement
+HPO Gene-Disease Associations	hpo	chest pain	-0.012057	1	1	0	-1		chest pain
+HPO Gene-Disease Associations	hpo	neoplasm of the nervous system	-0.012057	1	1	0	-1		neoplasm of the nervous system
+HPO Gene-Disease Associations	hpo	gastrointestinal dysmotility	0.021277	0.63968	1	0	1		gastrointestinal dysmotility
+HPO Gene-Disease Associations	hpo	dry skin	0.035461	0.58584	1	0	1		dry skin
+HPO Gene-Disease Associations	hpo	restrictive lung disease	0.0021277	1	1	0	1		restrictive lung disease
+HPO Gene-Disease Associations	hpo	hypergonadotropic hypogonadism	-0.019149	1	1	0	-1		hypergonadotropic hypogonadism
+HPO Gene-Disease Associations	hpo	dilated cardiomyopathy	0.021277	0.63995	1	0	1		dilated cardiomyopathy
+HPO Gene-Disease Associations	hpo	telecanthus	0.028369	0.60139	1	0	1		telecanthus
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the nails	-0.012057	1	1	0	-1		aplasia/hypoplasia of the nails
+HPO Gene-Disease Associations	hpo	cupped ear	0.021277	0.63779	1	0	1		cupped ear
+HPO Gene-Disease Associations	hpo	tall stature	-0.017021	1	1	0	-1		tall stature
+HPO Gene-Disease Associations	hpo	hyperextensible skin	0.021277	0.63763	1	0	1		hyperextensible skin
+HPO Gene-Disease Associations	hpo	dolichocephaly	0.056738	0.35166	1	0	1		dolichocephaly
+HPO Gene-Disease Associations	hpo	aortic valve stenosis	0.021277	0.63778	1	0	1		aortic valve stenosis
+HPO Gene-Disease Associations	hpo	lacrimation abnormality	-0.012057	1	1	0	-1		lacrimation abnormality
+HPO Gene-Disease Associations	hpo	abnormality of the tibia	0.028369	0.59771	1	0	1		abnormality of the tibia
+HPO Gene-Disease Associations	hpo	abnormality of the middle phalanges of the toes	0.028369	0.60124	1	0	1		abnormality of the middle phalanges of the toes
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the thumb	-0.0049645	1	1	0	-1		aplasia/hypoplasia of the thumb
+HPO Gene-Disease Associations	hpo	preaxial foot polydactyly	0.028369	0.60124	1	0	1		preaxial foot polydactyly
+HPO Gene-Disease Associations	hpo	abdominal distention	-0.0049645	1	1	0	-1		abdominal distention
+HPO Gene-Disease Associations	hpo	waddling gait	-0.0049645	1	1	0	-1		waddling gait
+HPO Gene-Disease Associations	hpo	xerostomia	0.028369	0.60053	1	0	1		xerostomia
+HPO Gene-Disease Associations	hpo	abnormality of the nasal tip	-0.019149	1	1	0	-1		abnormality of the nasal tip
+HPO Gene-Disease Associations	hpo	high forehead	0.035461	0.58952	1	0	1		high forehead
+HPO Gene-Disease Associations	hpo	broad forehead	-0.012057	1	1	0	-1		broad forehead
+HPO Gene-Disease Associations	hpo	platyspondyly	0.016312	1	1	0	1		platyspondyly
+HPO Gene-Disease Associations	hpo	renal hypoplasia/aplasia	0.042553	0.37572	1	0	1		renal hypoplasia/aplasia
+HPO Gene-Disease Associations	hpo	hypodontia	0.021277	0.63789	1	0	1		hypodontia
+HPO Gene-Disease Associations	hpo	hypertrichosis	0.023404	0.70316	1	0	1		hypertrichosis
+HPO Gene-Disease Associations	hpo	abnormality of the scalp	0.028369	0.60132	1	0	1		abnormality of the scalp
+HPO Gene-Disease Associations	hpo	convex nasal ridge	-0.019149	1	1	0	-1		convex nasal ridge
+HPO Gene-Disease Associations	hpo	holoprosencephaly	0.021277	0.63897	1	0	1		holoprosencephaly
+HPO Gene-Disease Associations	hpo	abnormality of the clavicle	0.049645	0.35793	1	0	1		abnormality of the clavicle
+HPO Gene-Disease Associations	hpo	abnormality of the stomach	0.030496	0.69352	1	0	1		abnormality of the stomach
+HPO Gene-Disease Associations	hpo	developmental regression	-0.012057	1	1	0	-1		developmental regression
+HPO Gene-Disease Associations	hpo	phenotypic variability	0.11348	0.078319	1	0	1		phenotypic variability
+HPO Gene-Disease Associations	hpo	autosomal dominant inheritance	-0.13404	0.22516	1	0	-1		autosomal dominant inheritance
+HPO Gene-Disease Associations	hpo	abnormal emotion/affect behavior	0.058865	0.46955	1	0	1		abnormal emotion/affect behavior
+HPO Gene-Disease Associations	hpo	pathologic fracture	0.021277	0.63613	1	0	1		pathologic fracture
+HPO Gene-Disease Associations	hpo	bone pain	0.049645	0.35713	1	0	1		bone pain
+HPO Gene-Disease Associations	hpo	gynecomastia	-0.0049645	1	1	0	-1		gynecomastia
+HPO Gene-Disease Associations	hpo	small face	0.021277	0.63749	1	0	1		small face
+HPO Gene-Disease Associations	hpo	hyperlordosis	0.0092199	1	1	0	1		hyperlordosis
+HPO Gene-Disease Associations	hpo	enlarged thorax	-0.019149	1	1	0	-1		enlarged thorax
+HPO Gene-Disease Associations	hpo	abnormality of the acetabulum	-0.012057	1	1	0	-1		abnormality of the acetabulum
+HPO Gene-Disease Associations	hpo	genu varum	-0.012057	1	1	0	-1		genu varum
+HPO Gene-Disease Associations	hpo	premature loss of teeth	0.021277	0.63839	1	0	1		premature loss of teeth
+HPO Gene-Disease Associations	hpo	dermatological manifestations of systemic disorders	-0.012057	1	1	0	-1		dermatological manifestations of systemic disorders
+HPO Gene-Disease Associations	hpo	cirrhosis	0.028369	0.60067	1	0	1		cirrhosis
+HPO Gene-Disease Associations	hpo	fat malabsorption	0.028369	0.59952	1	0	1		fat malabsorption
+HPO Gene-Disease Associations	hpo	delayed speech and language development	-0.04539	0.20986	1	0	-1		delayed speech and language development
+HPO Gene-Disease Associations	hpo	childhood onset	0.021277	0.63852	1	0	1		childhood onset
+HPO Gene-Disease Associations	hpo	blindness	-0.012057	1	1	0	-1		blindness
+HPO Gene-Disease Associations	hpo	metabolic acidosis	0.028369	0.59948	1	0	1		metabolic acidosis
+HPO Gene-Disease Associations	hpo	nausea	0.035461	0.58964	1	0	1		nausea
+HPO Gene-Disease Associations	hpo	muscle cramps	-0.0049645	1	1	0	-1		muscle cramps
+HPO Gene-Disease Associations	hpo	abnormality of the endocardium	0.0021277	1	1	0	1		abnormality of the endocardium
+HPO Gene-Disease Associations	hpo	syncope	0.021277	0.63909	1	0	1		syncope
+HPO Gene-Disease Associations	hpo	abnormality of the coagulation cascade	0.037589	0.69305	1	0	1		abnormality of the coagulation cascade
+HPO Gene-Disease Associations	hpo	joint hemorrhage	0.056738	0.3517	1	0	1		joint hemorrhage
+HPO Gene-Disease Associations	hpo	abnormality of temperature regulation	0.053901	0.5324	1	0	1		abnormality of temperature regulation
+HPO Gene-Disease Associations	hpo	abnormal autonomic nervous system physiology	0.021277	0.63912	1	0	1		abnormal autonomic nervous system physiology
+HPO Gene-Disease Associations	hpo	lymphoma	-0.019149	1	1	0	-1		lymphoma
+HPO Gene-Disease Associations	hpo	periodontitis	-0.019149	1	1	0	-1		periodontitis
+HPO Gene-Disease Associations	hpo	pruritus	0.030496	0.69528	1	0	1		pruritus
+HPO Gene-Disease Associations	hpo	hepatosplenomegaly	0.056738	0.35247	1	0	1		hepatosplenomegaly
+HPO Gene-Disease Associations	hpo	ovoid vertebral bodies	-0.019149	1	1	0	-1		ovoid vertebral bodies
+HPO Gene-Disease Associations	hpo	osteoarthritis	-0.0049645	1	1	0	-1		osteoarthritis
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the cerebellum	0.042553	0.37417	1	0	1		aplasia/hypoplasia of the cerebellum
+HPO Gene-Disease Associations	hpo	abnormality of the scapula	-0.052482	0.14132	1	0	-1		abnormality of the scapula
+HPO Gene-Disease Associations	hpo	abdominal pain	0.080142	0.31249	1	0	1		abdominal pain
+HPO Gene-Disease Associations	hpo	sporadic	-0.019149	1	1	0	-1		sporadic
+HPO Gene-Disease Associations	hpo	intracranial hemorrhage	-0.031206	0.60855	1	0	-1		intracranial hemorrhage
+HPO Gene-Disease Associations	hpo	hydrops fetalis	-0.0049645	1	1	0	-1		hydrops fetalis
+HPO Gene-Disease Associations	hpo	premature birth	-0.019149	1	1	0	-1		premature birth
+HPO Gene-Disease Associations	hpo	paraplegia/paraparesis	-0.019149	1	1	0	-1		paraplegia/paraparesis
+HPO Gene-Disease Associations	hpo	sensory impairment	-0.0049645	1	1	0	-1		sensory impairment
+HPO Gene-Disease Associations	hpo	muscle weakness	-0.08156	0.18303	1	0	-1		muscle weakness
+HPO Gene-Disease Associations	hpo	stillbirth	-0.019149	1	1	0	-1		stillbirth
+HPO Gene-Disease Associations	hpo	accelerated skeletal maturation	-0.038298	0.59148	1	0	-1		accelerated skeletal maturation
+HPO Gene-Disease Associations	hpo	acanthosis nigricans	0.028369	0.60099	1	0	1		acanthosis nigricans
+HPO Gene-Disease Associations	hpo	osteolysis	0.042553	0.37492	1	0	1		osteolysis
+HPO Gene-Disease Associations	hpo	neoplasm of the skeletal system	-0.019149	1	1	0	-1		neoplasm of the skeletal system
+HPO Gene-Disease Associations	hpo	joint stiffness	-0.019149	1	1	0	-1		joint stiffness
+HPO Gene-Disease Associations	hpo	dermatan sulfate excretion in urine	0.021277	0.63588	1	0	1		dermatan sulfate excretion in urine
+HPO Gene-Disease Associations	hpo	abnormality of epiphysis morphology	-0.014894	1	1	0	-1		abnormality of epiphysis morphology
+HPO Gene-Disease Associations	hpo	adult onset	-0.0049645	1	1	0	-1		adult onset
+HPO Gene-Disease Associations	hpo	dysostosis multiplex	0.028369	0.59778	1	0	1		dysostosis multiplex
+HPO Gene-Disease Associations	hpo	spinal canal stenosis	-0.019149	1	1	0	-1		spinal canal stenosis
+HPO Gene-Disease Associations	hpo	visual field defect	0.028369	0.59726	1	0	1		visual field defect
+HPO Gene-Disease Associations	hpo	abnormality of prenatal development or birth	0.053901	0.53219	1	0	1		abnormality of prenatal development or birth
+HPO Gene-Disease Associations	hpo	small for gestational age	-0.092908	0.0171	1	0	-1		small for gestational age
+HPO Gene-Disease Associations	hpo	congenital onset	0.0092199	1	1	0	1		congenital onset
+HPO Gene-Disease Associations	hpo	premature loss of primary teeth	0.021277	0.63839	1	0	1		premature loss of primary teeth
+HPO Gene-Disease Associations	hpo	elevated hepatic transaminases	-0.019149	1	1	0	-1		elevated hepatic transaminases
+HPO Gene-Disease Associations	hpo	pulmonary fibrosis	0.028369	0.60241	1	0	1		pulmonary fibrosis
+HPO Gene-Disease Associations	hpo	long penis	0.021277	0.63904	1	0	1		long penis
+HPO Gene-Disease Associations	hpo	abnormality of extrapyramidal motor function	-0.0049645	1	1	0	-1		abnormality of extrapyramidal motor function
+HPO Gene-Disease Associations	hpo	abnormality of vitamin metabolism	0.021277	0.63891	1	0	1		abnormality of vitamin metabolism
+HPO Gene-Disease Associations	hpo	abnormal iris pigmentation	-0.012057	1	1	0	-1		abnormal iris pigmentation
+HPO Gene-Disease Associations	hpo	intellectual disability, mild	0.021277	0.63645	1	0	1		intellectual disability, mild
+HPO Gene-Disease Associations	hpo	abnormality of prothrombin	-0.019149	1	1	0	-1		abnormality of prothrombin
+HPO Gene-Disease Associations	hpo	limited elbow movement	-0.019149	1	1	0	-1		limited elbow movement
+HPO Gene-Disease Associations	hpo	congenital hip dislocation	0.021277	0.63481	1	0	1		congenital hip dislocation
+HPO Gene-Disease Associations	hpo	gonadal dysgenesis	0.021277	0.63979	1	0	1		gonadal dysgenesis
+HPO Gene-Disease Associations	hpo	intellectual disability, profound	-0.019149	1	1	0	-1		intellectual disability, profound
+HPO Gene-Disease Associations	hpo	joint swelling	0.028369	0.60054	1	0	1		joint swelling
+HPO Gene-Disease Associations	hpo	2-3 toe syndactyly	0.021277	0.63741	1	0	1		2-3 toe syndactyly
+HPO Gene-Disease Associations	hpo	hypogonadotrophic hypogonadism	0.021277	0.63995	1	0	1		hypogonadotrophic hypogonadism
+HPO Gene-Disease Associations	hpo	arnold-chiari malformation	0.021277	0.6386	1	0	1		arnold-chiari malformation
+HPO Gene-Disease Associations	hpo	diabetes insipidus	0.021277	0.63643	1	0	1		diabetes insipidus
+HPO Gene-Disease Associations	hpo	urogenital fistula	0.021277	0.63751	1	0	1		urogenital fistula
+HPO Gene-Disease Associations	hpo	oligohydramnios	0.035461	0.58846	1	0	1		oligohydramnios
+HPO Gene-Disease Associations	hpo	abnormality of cardiovascular system physiology	0.17163	0.070909	1	0	1		abnormality of cardiovascular system physiology
+HPO Gene-Disease Associations	hpo	constipation	-0.034043	0.74227	1	0	-1		constipation
+HPO Gene-Disease Associations	hpo	hypercalcemia	0.028369	0.59674	1	0	1		hypercalcemia
+HPO Gene-Disease Associations	hpo	nephrolithiasis	0.049645	0.35742	1	0	1		nephrolithiasis
+HPO Gene-Disease Associations	hpo	prematurely aged appearance	0.028369	0.60028	1	0	1		prematurely aged appearance
+HPO Gene-Disease Associations	hpo	choanal stenosis	0.021277	0.63819	1	0	1		choanal stenosis
+HPO Gene-Disease Associations	hpo	bifid scrotum	0.028369	0.60016	1	0	1		bifid scrotum
+HPO Gene-Disease Associations	hpo	female pseudohermaphroditism	-0.019149	1	1	0	-1		female pseudohermaphroditism
+HPO Gene-Disease Associations	hpo	motor delay	-0.083688	0.1053	1	0	-1		motor delay
+HPO Gene-Disease Associations	hpo	shortening of all middle phalanges of the fingers	-0.019149	1	1	0	-1		shortening of all middle phalanges of the fingers
+HPO Gene-Disease Associations	hpo	abnormality of the 3rd finger	-0.019149	1	1	0	-1		abnormality of the 3rd finger
+HPO Gene-Disease Associations	hpo	conical tooth	0.021277	0.63779	1	0	1		conical tooth
+HPO Gene-Disease Associations	hpo	preaxial polydactyly	0.028369	0.60124	1	0	1		preaxial polydactyly
+HPO Gene-Disease Associations	hpo	abnormality of the skull base	0.028369	0.60121	1	0	1		abnormality of the skull base
+HPO Gene-Disease Associations	hpo	abnormality of the voice	-0.057447	0.36199	1	0	-1		abnormality of the voice
+HPO Gene-Disease Associations	hpo	abnormality of reproductive system physiology	0.058865	0.46894	1	0	1		abnormality of reproductive system physiology
+HPO Gene-Disease Associations	hpo	abnormality of the helix	0.028369	0.60156	1	0	1		abnormality of the helix
+HPO Gene-Disease Associations	hpo	abnormality of hair texture	0.021277	0.63625	1	0	1		abnormality of hair texture
+HPO Gene-Disease Associations	hpo	joint hypermobility	-0.038298	0.59316	1	0	-1		joint hypermobility
+HPO Gene-Disease Associations	hpo	metaphyseal irregularity	-0.012057	1	1	0	-1		metaphyseal irregularity
+HPO Gene-Disease Associations	hpo	retrognathia	-0.019149	1	1	0	-1		retrognathia
+HPO Gene-Disease Associations	hpo	juvenile onset	0.042553	0.3759	1	0	1		juvenile onset
+HPO Gene-Disease Associations	hpo	hypertension	0.058865	0.46374	1	0	1		hypertension
+HPO Gene-Disease Associations	hpo	abnormality of the vasculature	0.02695	0.81669	1	0	1		abnormality of the vasculature
+HPO Gene-Disease Associations	hpo	pulmonary embolism	0.035461	0.58911	1	0	1		pulmonary embolism
+HPO Gene-Disease Associations	hpo	abnormality of the scrotum	0.028369	0.60016	1	0	1		abnormality of the scrotum
+HPO Gene-Disease Associations	hpo	pectus carinatum	-0.04539	0.21054	1	0	-1		pectus carinatum
+HPO Gene-Disease Associations	hpo	abnormality of cell physiology	0.044681	0.48047	1	0	1		abnormality of cell physiology
+HPO Gene-Disease Associations	hpo	ptosis	-0.043262	0.4128	1	0	-1		ptosis
+HPO Gene-Disease Associations	hpo	abnormality of the endocrine system	0.13121	0.1786	1	0	1		abnormality of the endocrine system
+HPO Gene-Disease Associations	hpo	abnormality of the lip	0.037589	0.692	1	0	1		abnormality of the lip
+HPO Gene-Disease Associations	hpo	abnormality of the nail	0.011348	1	1	0	1		abnormality of the nail
+HPO Gene-Disease Associations	hpo	macrocephaly	-0.0028369	1	1	0	-1		macrocephaly
+HPO Gene-Disease Associations	hpo	abnormality of the vagina	-0.0049645	1	1	0	-1		abnormality of the vagina
+HPO Gene-Disease Associations	hpo	myoclonus	0.021277	0.63863	1	0	1		myoclonus
+HPO Gene-Disease Associations	hpo	abnormality of the tarsal bones	-0.0049645	1	1	0	-1		abnormality of the tarsal bones
+HPO Gene-Disease Associations	hpo	nephropathy	-0.012057	1	1	0	-1		nephropathy
+HPO Gene-Disease Associations	hpo	growth hormone deficiency	0.021277	0.64032	1	0	1		growth hormone deficiency
+HPO Gene-Disease Associations	hpo	hirsutism	0.035461	0.58878	1	0	1		hirsutism
+HPO Gene-Disease Associations	hpo	arrhythmia	0.065957	0.31962	1	0	1		arrhythmia
+HPO Gene-Disease Associations	hpo	delayed puberty	0.035461	0.5888	1	0	1		delayed puberty
+HPO Gene-Disease Associations	hpo	mitral valve prolapse	-0.059574	0.080389	1	0	-1		mitral valve prolapse
+HPO Gene-Disease Associations	hpo	abnormality of the thumb	0.0021277	1	1	0	1		abnormality of the thumb
+HPO Gene-Disease Associations	hpo	abnormality of neuronal migration	0.028369	0.60239	1	0	1		abnormality of neuronal migration
+HPO Gene-Disease Associations	hpo	neoplasm of the skin	0.06383	0.21957	1	0	1		neoplasm of the skin
+HPO Gene-Disease Associations	hpo	cranial nerve compression	0.021277	0.63814	1	0	1		cranial nerve compression
+HPO Gene-Disease Associations	hpo	abnormality of the biliary system	0.035461	0.58689	1	0	1		abnormality of the biliary system
+HPO Gene-Disease Associations	hpo	parkinsonism	-0.019149	1	1	0	-1		parkinsonism
+HPO Gene-Disease Associations	hpo	tachycardia	-0.0049645	1	1	0	-1		tachycardia
+HPO Gene-Disease Associations	hpo	persistent bleeding after trauma	0.028369	0.60187	1	0	1		persistent bleeding after trauma
+HPO Gene-Disease Associations	hpo	abnormality of blood and blood-forming tissues	0.06383	0.54454	1	0	1		abnormality of blood and blood-forming tissues
+HPO Gene-Disease Associations	hpo	epicanthus	-0.04539	0.20909	1	0	-1		epicanthus
+HPO Gene-Disease Associations	hpo	intrauterine growth retardation	0.023404	0.70537	1	0	1		intrauterine growth retardation
+HPO Gene-Disease Associations	hpo	limitation of joint mobility	0.044681	0.47699	1	0	1		limitation of joint mobility
+HPO Gene-Disease Associations	hpo	increased bone mineral density	0.042553	0.37642	1	0	1		increased bone mineral density
+HPO Gene-Disease Associations	hpo	abnormality of the lumbar spine	-0.019149	1	1	0	-1		abnormality of the lumbar spine
+HPO Gene-Disease Associations	hpo	dysarthria	-0.019149	1	1	0	-1		dysarthria
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia affecting the eye	0.0021277	1	1	0	1		aplasia/hypoplasia affecting the eye
+HPO Gene-Disease Associations	hpo	prolonged partial thromboplastin time	0.035461	0.58572	1	0	1		prolonged partial thromboplastin time
+HPO Gene-Disease Associations	hpo	abnormality of the intrinsic pathway	-0.012057	1	1	0	-1		abnormality of the intrinsic pathway
+HPO Gene-Disease Associations	hpo	deep venous thrombosis	0.042553	0.37667	1	0	1		deep venous thrombosis
+HPO Gene-Disease Associations	hpo	fever	0.0021277	1	1	0	1		fever
+HPO Gene-Disease Associations	hpo	hypotension	0.070922	0.21304	1	0	1		hypotension
+HPO Gene-Disease Associations	hpo	hypergammaglobulinemia	0.021277	0.63834	1	0	1		hypergammaglobulinemia
+HPO Gene-Disease Associations	hpo	retinopathy	0.0092199	1	1	0	1		retinopathy
+HPO Gene-Disease Associations	hpo	abnormality of the common coagulation pathway	-0.019149	1	1	0	-1		abnormality of the common coagulation pathway
+HPO Gene-Disease Associations	hpo	epistaxis	0.085106	0.12968	1	0	1		epistaxis
+HPO Gene-Disease Associations	hpo	kyphosis	-0.0099291	1	1	0	-1		kyphosis
+HPO Gene-Disease Associations	hpo	abnormality of upper lip	0.028369	0.59912	1	0	1		abnormality of upper lip
+HPO Gene-Disease Associations	hpo	midface retrusion	-0.012057	1	1	0	-1		midface retrusion
+HPO Gene-Disease Associations	hpo	short long bone	0.0092199	1	1	0	1		short long bone
+HPO Gene-Disease Associations	hpo	skeletal dysplasia	0.016312	1	1	0	1		skeletal dysplasia
+HPO Gene-Disease Associations	hpo	alopecia	0.0092199	1	1	0	1		alopecia
+HPO Gene-Disease Associations	hpo	abnormality of the spinal cord	-0.071631	0.104	1	0	-1		abnormality of the spinal cord
+HPO Gene-Disease Associations	hpo	glaucoma	0.0092199	1	1	0	1		glaucoma
+HPO Gene-Disease Associations	hpo	ventricular arrhythmia	0.028369	0.60162	1	0	1		ventricular arrhythmia
+HPO Gene-Disease Associations	hpo	abnormality of vitamin b metabolism	0.021277	0.63891	1	0	1		abnormality of vitamin b metabolism
+HPO Gene-Disease Associations	hpo	abnormal fear/anxiety-related behavior	0.028369	0.60135	1	0	1		abnormal fear/anxiety-related behavior
+HPO Gene-Disease Associations	hpo	neurodegeneration	0.021277	0.63711	1	0	1		neurodegeneration
+HPO Gene-Disease Associations	hpo	abnormal cortical bone morphology	0.035461	0.58438	1	0	1		abnormal cortical bone morphology
+HPO Gene-Disease Associations	hpo	gonadotropin excess	0.021277	0.63907	1	0	1		gonadotropin excess
+HPO Gene-Disease Associations	hpo	biliary tract abnormality	0.021277	0.64062	1	0	1		biliary tract abnormality
+HPO Gene-Disease Associations	hpo	tetany	0.021277	0.63738	1	0	1		tetany
+HPO Gene-Disease Associations	hpo	alkalosis	0.021277	0.63898	1	0	1		alkalosis
+HPO Gene-Disease Associations	hpo	abnormality of renin-angiotensin system	0.035461	0.5858	1	0	1		abnormality of renin-angiotensin system
+HPO Gene-Disease Associations	hpo	neonatal onset	-0.012057	1	1	0	-1		neonatal onset
+HPO Gene-Disease Associations	hpo	hyperkalemia	0.021277	0.6365	1	0	1		hyperkalemia
+HPO Gene-Disease Associations	hpo	hyperpituitarism	-0.031206	0.60752	1	0	-1		hyperpituitarism
+HPO Gene-Disease Associations	hpo	anxiety	0.021277	0.63803	1	0	1		anxiety
+HPO Gene-Disease Associations	hpo	rigidity	0.021277	0.6393	1	0	1		rigidity
+HPO Gene-Disease Associations	hpo	abnormality of salivation	0.028369	0.60053	1	0	1		abnormality of salivation
+HPO Gene-Disease Associations	hpo	muscular hypotonia of the trunk	-0.019149	1	1	0	-1		muscular hypotonia of the trunk
+HPO Gene-Disease Associations	hpo	irritability	0.042553	0.3772	1	0	1		irritability
+HPO Gene-Disease Associations	hpo	functional motor problems	0.021277	0.64058	1	0	1		functional motor problems
+HPO Gene-Disease Associations	hpo	coma	-0.012057	1	1	0	-1		coma
+HPO Gene-Disease Associations	hpo	variable expressivity	0.06383	0.22086	1	0	1		variable expressivity
+HPO Gene-Disease Associations	hpo	osteoporosis	0.028369	0.60311	1	0	1		osteoporosis
+HPO Gene-Disease Associations	hpo	osteopenia	0.021277	0.63909	1	0	1		osteopenia
+HPO Gene-Disease Associations	hpo	erectile abnormalities	0.021277	0.63749	1	0	1		erectile abnormalities
+HPO Gene-Disease Associations	hpo	reduced consciousness/confusion	-0.0028369	1	1	0	-1		reduced consciousness/confusion
+HPO Gene-Disease Associations	hpo	dyspnea	-0.017021	1	1	0	-1		dyspnea
+HPO Gene-Disease Associations	hpo	respiratory distress	-0.038298	0.59381	1	0	-1		respiratory distress
+HPO Gene-Disease Associations	hpo	cerebral venous thrombosis	0.021277	0.64048	1	0	1		cerebral venous thrombosis
+HPO Gene-Disease Associations	hpo	emphysema	-0.012057	1	1	0	-1		emphysema
+HPO Gene-Disease Associations	hpo	vasculitis	-0.031206	0.60624	1	0	-1		vasculitis
+HPO Gene-Disease Associations	hpo	skin rash	-0.031206	0.60849	1	0	-1		skin rash
+HPO Gene-Disease Associations	hpo	recurrent skin infections	-0.052482	0.14215	1	0	-1		recurrent skin infections
+HPO Gene-Disease Associations	hpo	recurrent bacterial infections	-0.064539	0.1472	1	0	-1		recurrent bacterial infections
+HPO Gene-Disease Associations	hpo	hemoptysis	-0.0049645	1	1	0	-1		hemoptysis
+HPO Gene-Disease Associations	hpo	inflammatory abnormality of the eye	0.030496	0.69209	1	0	1		inflammatory abnormality of the eye
+HPO Gene-Disease Associations	hpo	diarrhea	0.065957	0.31731	1	0	1		diarrhea
+HPO Gene-Disease Associations	hpo	wide nasal bridge	0.016312	1	1	0	1		wide nasal bridge
+HPO Gene-Disease Associations	hpo	abnormality of the elbow	0.0021277	1	1	0	1		abnormality of the elbow
+HPO Gene-Disease Associations	hpo	metaphyseal widening	-0.0049645	1	1	0	-1		metaphyseal widening
+HPO Gene-Disease Associations	hpo	wide mouth	0.021277	0.63954	1	0	1		wide mouth
+HPO Gene-Disease Associations	hpo	cerebellar malformation	0.035461	0.58673	1	0	1		cerebellar malformation
+HPO Gene-Disease Associations	hpo	abnormality of the adrenal glands	0.021277	0.63657	1	0	1		abnormality of the adrenal glands
+HPO Gene-Disease Associations	hpo	postnatal growth retardation	-0.012057	1	1	0	-1		postnatal growth retardation
+HPO Gene-Disease Associations	hpo	abnormality of the renal tubule	0.049645	0.35827	1	0	1		abnormality of the renal tubule
+HPO Gene-Disease Associations	hpo	increased circulating renin level	0.021277	0.63851	1	0	1		increased circulating renin level
+HPO Gene-Disease Associations	hpo	abnormality of the sense of smell	0.021277	0.63942	1	0	1		abnormality of the sense of smell
+HPO Gene-Disease Associations	hpo	anosmia	0.021277	0.63942	1	0	1		anosmia
+HPO Gene-Disease Associations	hpo	congestive heart failure	0.042553	0.37562	1	0	1		congestive heart failure
+HPO Gene-Disease Associations	hpo	abnormality of adipose tissue	0.056738	0.35547	1	0	1		abnormality of adipose tissue
+HPO Gene-Disease Associations	hpo	abnormality of the toenails	-0.0049645	1	1	0	-1		abnormality of the toenails
+HPO Gene-Disease Associations	hpo	short middle phalanx of toe	0.021277	0.6386	1	0	1		short middle phalanx of toe
+HPO Gene-Disease Associations	hpo	absent toe	0.021277	0.63741	1	0	1		absent toe
+HPO Gene-Disease Associations	hpo	metaphyseal cupping	-0.019149	1	1	0	-1		metaphyseal cupping
+HPO Gene-Disease Associations	hpo	arthritis	0.011348	1	1	0	1		arthritis
+HPO Gene-Disease Associations	hpo	retinal degeneration	-0.019149	1	1	0	-1		retinal degeneration
+HPO Gene-Disease Associations	hpo	abnormality of the vitreous humor	-0.019149	1	1	0	-1		abnormality of the vitreous humor
+HPO Gene-Disease Associations	hpo	contractures of the joints of the lower limbs	-0.019149	1	1	0	-1		contractures of the joints of the lower limbs
+HPO Gene-Disease Associations	hpo	cervical subluxation	-0.019149	1	1	0	-1		cervical subluxation
+HPO Gene-Disease Associations	hpo	abnormality of the musculature of the limbs	0.0021277	1	1	0	1		abnormality of the musculature of the limbs
+HPO Gene-Disease Associations	hpo	proximal muscle weakness	0.021277	0.63798	1	0	1		proximal muscle weakness
+HPO Gene-Disease Associations	hpo	delayed epiphyseal ossification	-0.019149	1	1	0	-1		delayed epiphyseal ossification
+HPO Gene-Disease Associations	hpo	abnormality of periauricular region	0.021277	0.6386	1	0	1		abnormality of periauricular region
+HPO Gene-Disease Associations	hpo	dehydration	0.028369	0.59865	1	0	1		dehydration
+HPO Gene-Disease Associations	hpo	abnormal morphology of bones of the lower limbs	-0.0049645	1	1	0	-1		abnormal morphology of bones of the lower limbs
+HPO Gene-Disease Associations	hpo	nephrotic syndrome	-0.012057	1	1	0	-1		nephrotic syndrome
+HPO Gene-Disease Associations	hpo	high palate	0.0092199	1	1	0	1		high palate
+HPO Gene-Disease Associations	hpo	short phalanx of finger	-0.0035729	1	1	0	-1		short phalanx of finger|aplasia/hypoplasia of the phalanges of the hand|abnormality of the distal phalanx of finger
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of metatarsal bones	-0.017237	0.9013	1	0	-1		aplasia/hypoplasia of metatarsal bones|short metatarsal|abnormality of the metatarsal bones
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the ribs	-0.0057663	0.99764	1	0	-1		aplasia/hypoplasia of the ribs|short ribs|aplasia/hypoplasia involving bones of the thorax
+HPO Gene-Disease Associations	hpo	decreased body weight	0.0047484	0.98555	1	0	1		decreased body weight|abnormality of body weight|failure to thrive
+HPO Gene-Disease Associations	hpo	abnormality of the femoral neck or head region	-0.00015755	1	1	0	-1		abnormality of the femoral neck or head region|abnormality of the femoral neck|abnormality of the femur
+HPO Gene-Disease Associations	hpo	abnormality of the tracheobronchial system	0.04136	0.40904	1	0	1		abnormality of the tracheobronchial system|abnormality of the trachea|abnormality of the upper respiratory tract
+HPO Gene-Disease Associations	hpo	abnormality of muscle size	-0.050856	0.35067	1	0	-1		abnormality of muscle size|abnormality of muscle morphology|skeletal muscle atrophy
+HPO Gene-Disease Associations	hpo	functional abnormality of the bladder	0.016934	0.71653	1	0	1		functional abnormality of the bladder|vesicoureteral reflux|abnormality of the bladder
+HPO Gene-Disease Associations	hpo	abnormality of sodium homeostasis	0.031865	0.3952	1	0	1		abnormality of sodium homeostasis|abnormality of monovalent inorganic cation homeostasis|hyponatremia
+HPO Gene-Disease Associations	hpo	abnormality of the ilium	-0.02157	0.52483	1	0	-1		abnormality of the ilium|abnormality of the wing of the ilium|hypoplastic ilia
+HPO Gene-Disease Associations	hpo	feeding difficulties	-0.045954	0.45849	1	0	-1		feeding difficulties|feeding difficulties in infancy|abdominal symptom
+HPO Gene-Disease Associations	hpo	abnormality of the rib cage	0.024053	0.6741	1	0	1		abnormality of the rib cage|abnormality of the ribs|abnormality of the thorax
+HPO Gene-Disease Associations	hpo	abnormal enchondral ossification	-0.035433	0.42804	1	0	-1		abnormal enchondral ossification|abnormal bone ossification|abnormal epiphyseal ossification
+HPO Gene-Disease Associations	hpo	hydrocephalus	0.077326	0.13666	1	0	1		hydrocephalus|abnormality of the cerebral ventricles|abnormality of the cerebrospinal fluid
+HPO Gene-Disease Associations	hpo	synostosis involving bones of the upper limbs	0.0073396	0.7835	1	0	1		synostosis involving bones of the upper limbs|synostosis of joints|radioulnar synostosis
+HPO Gene-Disease Associations	hpo	leukemia	0.041394	0.31664	1	0	1		leukemia|acute leukemia|hematological neoplasm
+HPO Gene-Disease Associations	hpo	abnormality of the intestine	0.065248	0.4569	1	0	1		abnormality of the intestine
+HPO Gene-Disease Associations	hpo	abnormality of the gingiva	0.028226	0.56846	1	0	1		abnormality of the gingiva|abnormality of oral mucosa|gingival overgrowth
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia involving the femoral head and neck	-0.019149	1	1	0	-1		aplasia/hypoplasia involving the femoral head and neck|aplasia/hypoplasia of the femur|aplasia/hypoplasia involving the pelvis
+HPO Gene-Disease Associations	hpo	abnormality of skeletal maturation	-0.027159	0.63593	1	0	-1		abnormality of skeletal maturation|delayed skeletal maturation|abnormality of skeletal physiology
+HPO Gene-Disease Associations	hpo	abnormality of the nasopharynx	-0.017069	0.79137	1	0	-1		abnormality of the nasopharynx|recurrent upper respiratory tract infections|abnormality of the pharynx
+HPO Gene-Disease Associations	hpo	abnormality of cardiac morphology	0.036472	0.6887	1	0	1		abnormality of cardiac morphology|malformation of the heart and great vessels
+HPO Gene-Disease Associations	hpo	talipes	-0.04938	0.090559	1	0	-1		talipes|positional foot deformity|talipes equinovarus
+HPO Gene-Disease Associations	hpo	abnormality of bone mineral density	0.072669	0.25565	1	0	1		abnormality of bone mineral density|reduced bone mineral density|abnormal bone structure
+HPO Gene-Disease Associations	hpo	abnormality of carboxylic acid metabolism	0.021277	0.58017	1	0	1		abnormality of carboxylic acid metabolism|abnormality of amino acid metabolism|aciduria
+HPO Gene-Disease Associations	hpo	thick lower lip vermilion	0.039612	0.4637	1	0	1		thick lower lip vermilion|thick vermilion border|abnormality of lower lip
+HPO Gene-Disease Associations	hpo	short attention span	-0.062227	0.03761	1	0	-1		short attention span|attention deficit hyperactivity disorder|hyperactivity
+HPO Gene-Disease Associations	hpo	venous thrombosis	0.069261	0.17922	1	0	1		venous thrombosis|abnormal thrombosis|thrombophlebitis
+HPO Gene-Disease Associations	hpo	abnormality of the urethra	0.019533	0.78161	1	0	1		abnormality of the urethra|displacement of the external urethral meatus|abnormality of the lower urinary tract
+HPO Gene-Disease Associations	hpo	short neck	0.013264	0.81272	1	0	1		short neck|abnormality of the cervical spine|abnormality of the neck
+HPO Gene-Disease Associations	hpo	ovarian cyst	0.010889	0.75355	1	0	1		ovarian cyst|polycystic ovaries|abnormality of the ovary
+HPO Gene-Disease Associations	hpo	genital neoplasm	0.025186	0.5884	1	0	1		genital neoplasm|gonadal neoplasm|neoplasm of the genitourinary tract
+HPO Gene-Disease Associations	hpo	x-linked inheritance	0.058285	0.27134	1	0	1		x-linked inheritance|gonosomal inheritance|x-linked recessive inheritance
+HPO Gene-Disease Associations	hpo	arachnodactyly	-0.05052	0.1427	1	0	-1		arachnodactyly|slender finger|long fingers
+HPO Gene-Disease Associations	hpo	abnormality of urine calcium concentration	0.036946	0.41424	1	0	1		abnormality of urine calcium concentration|hypercalciuria|abnormal urinary electrolyte concentration
+HPO Gene-Disease Associations	hpo	abnormally lax or hyperextensible skin	0.026128	0.60132	1	0	1		abnormally lax or hyperextensible skin|cutis laxa|abnormal elasticity of skin
+HPO Gene-Disease Associations	hpo	abnormality of the hip bone	0.037639	0.55736	1	0	1		abnormality of the hip bone|abnormality of pelvic girdle bone morphology|abnormality of lower limb joint
+HPO Gene-Disease Associations	hpo	abnormality of the glomerulus	0.0095269	0.8015	1	0	1		abnormality of the glomerulus|abnormality of the nephron|glomerulopathy
+HPO Gene-Disease Associations	hpo	regional abnormality of skin	0.016719	0.65477	1	0	1		regional abnormality of skin|abnormal dermatoglyphics|abnormality of the palm
+HPO Gene-Disease Associations	hpo	syndactyly	0.041794	0.31799	1	0	1		syndactyly|finger syndactyly|toe syndactyly
+HPO Gene-Disease Associations	hpo	abnormality of the carpal bones	-0.005681	0.98567	1	0	-1		abnormality of the carpal bones|abnormality of the wrist
+HPO Gene-Disease Associations	hpo	hemangioma	0.021277	0.63789	1	0	1		hemangioma|vascular neoplasm
+HPO Gene-Disease Associations	hpo	sudden cardiac death	0.042553	0.38039	1	0	1		sudden cardiac death|cardiac arrest
+HPO Gene-Disease Associations	hpo	conotruncal defect	-0.052482	0.14264	1	0	-1		conotruncal defect|tetralogy of fallot
+HPO Gene-Disease Associations	hpo	facial edema	-0.019149	1	1	0	-1		facial edema|periorbital edema
+HPO Gene-Disease Associations	hpo	chondrocalcinosis	0.021277	0.63736	1	0	1		chondrocalcinosis|abnormality of sharpey fibers
+HPO Gene-Disease Associations	hpo	obesity	-0.057447	0.36053	1	0	-1		obesity|increased body weight
+HPO Gene-Disease Associations	hpo	triangular shaped phalanges of the hand	-0.0049645	1	1	0	-1		triangular shaped phalanges of the hand|abnormality of thumb phalanx
+HPO Gene-Disease Associations	hpo	lymphadenopathy	0.036714	0.42952	1	0	1		lymphadenopathy|abnormality of the lymph nodes
+HPO Gene-Disease Associations	hpo	hemangiomatosis	0.021277	0.63789	1	0	1		hemangiomatosis|visceral angiomatosis
+HPO Gene-Disease Associations	hpo	diminished motivation	0.021277	0.63855	1	0	1		diminished motivation|apathy
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the hallux	0.021277	0.63741	1	0	1		aplasia/hypoplasia of the hallux|short hallux
+HPO Gene-Disease Associations	hpo	split hand	0.031856	0.51843	1	0	1		split hand|ectrodactyly
+HPO Gene-Disease Associations	hpo	neoplasm by anatomical site	0.043854	0.60212	1	0	1		neoplasm by anatomical site|neoplasm
+HPO Gene-Disease Associations	hpo	abnormally folded helix	0.021277	0.63846	1	0	1		abnormally folded helix|overfolded helix
+HPO Gene-Disease Associations	hpo	abnormality of acid-base homeostasis	-0.01328	0.8659	1	0	-1		abnormality of acid-base homeostasis|acidosis
+HPO Gene-Disease Associations	hpo	abnormal retinal pigmentation	0.031847	0.51955	1	0	1		abnormal retinal pigmentation|abnormality of the retinal pigment epithelium
+HPO Gene-Disease Associations	hpo	choanal atresia	0.042553	0.37656	1	0	1		choanal atresia|abnormality of the choanae
+HPO Gene-Disease Associations	hpo	abnormality of nitrogen compound homeostasis	0.021277	0.64003	1	0	1		abnormality of nitrogen compound homeostasis|azotemia
+HPO Gene-Disease Associations	hpo	hypohidrosis or hyperhidrosis	0.057571	0.25246	1	0	1		hypohidrosis or hyperhidrosis|abnormality of the sweat gland|hyperhidrosis
+HPO Gene-Disease Associations	hpo	intestinal obstruction	0.0021277	1	1	0	1		intestinal obstruction|gastrointestinal obstruction
+HPO Gene-Disease Associations	hpo	conductive hearing impairment	-0.038298	0.59086	1	0	-1		conductive hearing impairment|functional abnormality of the middle ear
+HPO Gene-Disease Associations	hpo	abnormality of dental structure	0.051802	0.32168	1	0	1		abnormality of dental structure|abnormality of dental enamel|carious teeth
+HPO Gene-Disease Associations	hpo	abnormality of upper limb joint	-0.0028369	1	1	0	-1		abnormality of upper limb joint
+HPO Gene-Disease Associations	hpo	hyperinsulinemia	0.0066782	0.97178	1	0	1		hyperinsulinemia|abnormality of circulating hormone level
+HPO Gene-Disease Associations	hpo	abnormality of the cerebral vasculature	0.020567	0.77844	1	0	1		abnormality of the cerebral vasculature
+HPO Gene-Disease Associations	hpo	abnormal urine cytology	-0.071631	0.10371	1	0	-1		abnormal urine cytology|hematuria
+HPO Gene-Disease Associations	hpo	cephalocele	0.021277	0.63717	1	0	1		cephalocele|encephalocele
+HPO Gene-Disease Associations	hpo	abnormality of the pylorus	-0.019149	1	1	0	-1		abnormality of the pylorus|pyloric stenosis
+HPO Gene-Disease Associations	hpo	abnormality of intracranial pressure	0.035461	0.58745	1	0	1		abnormality of intracranial pressure|increased intracranial pressure
+HPO Gene-Disease Associations	hpo	abnormal platelet function	0.021277	0.64021	1	0	1		abnormal platelet function|impaired platelet aggregation
+HPO Gene-Disease Associations	hpo	mortality/aging	0.0092199	1	1	0	1		mortality/aging|time of death
+HPO Gene-Disease Associations	hpo	facial shape deformation	0.028369	0.60262	1	0	1		facial shape deformation|potter facies
+HPO Gene-Disease Associations	hpo	abnormality of cellular immune system	0.041844	0.58658	1	0	1		abnormality of cellular immune system|abnormality of leukocytes
+HPO Gene-Disease Associations	hpo	obstructive lung disease	0.035461	0.58518	1	0	1		obstructive lung disease|chronic obstructive pulmonary disease
+HPO Gene-Disease Associations	hpo	early onset of sexual maturation	0.021277	0.63791	1	0	1		early onset of sexual maturation|precocious puberty
+HPO Gene-Disease Associations	hpo	abnormal neutrophil cell number	-0.019149	1	1	0	-1		abnormal neutrophil cell number|neutropenia
+HPO Gene-Disease Associations	hpo	abnormality of the zygomatic bone	0.0021277	1	1	0	1		abnormality of the zygomatic bone|cheekbone underdevelopment
+HPO Gene-Disease Associations	hpo	anemia due to reduced life span of red cells	-0.052482	0.14287	1	0	-1		anemia due to reduced life span of red cells|hemolytic anemia
+HPO Gene-Disease Associations	hpo	eclabion	0.028369	0.59942	1	0	1		eclabion|everted lower lip vermilion
+HPO Gene-Disease Associations	hpo	abnormality of the humerus	0.021277	0.6359	1	0	1		abnormality of the humerus|abnormality of the upper arm
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the middle phalanges of the hand	-0.0097128	1	1	0	-1		aplasia/hypoplasia of the middle phalanges of the hand|abnormality of the middle phalanges of the hand|short middle phalanx of finger
+HPO Gene-Disease Associations	hpo	abnormality of central nervous system electrophysiology	-0.090762	0.018	1	0	-1		abnormality of central nervous system electrophysiology|eeg abnormality|abnormal nervous system electrophysiology
+HPO Gene-Disease Associations	hpo	abnormality of the kidney	0.071892	0.3342	1	0	1		abnormality of the kidney|abnormality of the upper urinary tract|abnormality of the urinary system|abnormal renal physiology|abnormal renal morphology
+HPO Gene-Disease Associations	hpo	abnormality of muscle physiology	-0.13085	0.10978	1	0	-1		abnormality of muscle physiology|abnormal muscle tone|muscular hypotonia
+HPO Gene-Disease Associations	hpo	abnormality of the abdominal organs	0.017066	0.83003	1	0	1		abnormality of the abdominal organs|abnormality of the gastrointestinal tract|morphological abnormality of the gastrointestinal tract|abnormality of the liver
+HPO Gene-Disease Associations	hpo	abnormality of the external nose	-0.017501	0.70693	1	0	-1		abnormality of the external nose|abnormal nasal morphology|abnormality of the nasal alae|anteverted nares|abnormality of the nares
+HPO Gene-Disease Associations	hpo	abnormality of the anterior segment of the eye	0.0028927	0.9435	1	0	1		abnormality of the anterior segment of the eye|abnormality of the lens|cataract|abnormality of the cornea
+HPO Gene-Disease Associations	hpo	visceromegaly	0.075726	0.26253	1	0	1		visceromegaly|abnormality of the spleen|splenomegaly|abnormality of the lymphatic system|hepatomegaly
+HPO Gene-Disease Associations	hpo	abnormality of glycosaminoglycan metabolism	0.042553	0.37275	1	0	1		abnormality of glycosaminoglycan metabolism|abnormality of mucopolysaccharide metabolism|abnormality of polysaccharide metabolism|mucopolysacchariduria|urinary glycosaminoglycan excretion
+HPO Gene-Disease Associations	hpo	bowing of the legs	0.018677	0.78288	1	0	1		bowing of the legs|abnormality of the calf|anomaly of the limb diaphyses|bowing of the long bones|abnormal diaphysis morphology|genu valgum
+HPO Gene-Disease Associations	hpo	brain atrophy	-0.014368	0.80573	1	0	-1		brain atrophy|brain very small|atrophy/degeneration affecting the cerebrum|cerebral atrophy|atrophy/degeneration affecting the central nervous system
+HPO Gene-Disease Associations	hpo	broad phalanges of the hand	-0.019149	1	1	0	-1		broad phalanges of the hand|broad phalanx|broad finger|broad long bones|broad thumb
+HPO Gene-Disease Associations	hpo	abnormal location of ears	-0.029078	0.70203	1	0	-1		abnormal location of ears|low-set ears|posteriorly rotated ears|low-set, posteriorly rotated ears
+HPO Gene-Disease Associations	hpo	abnormality of the anterior pituitary	0.010112	0.82155	1	0	1		abnormality of the anterior pituitary|abnormality of the pituitary gland|anterior hypopituitarism|hypopituitarism|abnormality of the hypothalamus-pituitary axis
+HPO Gene-Disease Associations	hpo	polyuria	0.039763	0.35717	1	0	1		polyuria|abnormal urine output|abnormal drinking behavior|polydipsia|abnormality of renal excretion
+HPO Gene-Disease Associations	hpo	upper motor neuron dysfunction	-0.078508	0.099379	1	0	-1		upper motor neuron dysfunction|abnormal pyramidal signs|hypertonia|hyperreflexia
+HPO Gene-Disease Associations	hpo	abnormality of divalent inorganic cation homeostasis	0.080727	0.10557	1	0	1		abnormality of divalent inorganic cation homeostasis|abnormality of calcium homeostasis|abnormality of cation homeostasis|abnormality of ion homeostasis|abnormal concentration of calcium in blood
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of fingers	0.0064005	0.88069	1	0	1		aplasia/hypoplasia of fingers|short finger|abnormal hand morphology
+HPO Gene-Disease Associations	hpo	abnormality of the zygomatic arch	-0.0057429	0.96857	1	0	-1		abnormality of the zygomatic arch|hypoplastic facial bones|malar anomaly|malar flattening|abnormality of the midface
+HPO Gene-Disease Associations	hpo	hernia of the abdominal wall	-0.026938	0.70154	1	0	-1		hernia of the abdominal wall|abdominal wall defect|hernia|abnormality of the abdominal wall|abnormality of the umbilicus|umbilical hernia
+HPO Gene-Disease Associations	hpo	abnormality of b cell physiology	0.045842	0.33483	1	0	1		abnormality of b cell physiology|abnormal immunoglobulin level|abnormality of b cells|abnormality of humoral immunity|abnormality of lymphocytes|hypogammaglobulinemia
+HPO Gene-Disease Associations	hpo	abnormality of coordination	0.052443	0.26116	1	0	1		abnormality of coordination|abnormality of the cerebellum|abnormality of hindbrain morphology|abnormality of the metencephalon|abnormality of central motor function|ataxia|incoordination
+HPO Gene-Disease Associations	hpo	limb joint contracture	-0.032587	0.35547	1	0	-1		limb joint contracture|joint contracture of the hand|contractures of the joints of the upper limbs|flexion contracture of finger|interphalangeal joint contracture of finger|camptodactyly of finger|abnormality of phalangeal joints of the hand|flexion contracture of digit|camptodactyly|flexion contracture|abnormal tendon morphology
+HPO Gene-Disease Associations	hpo	abnormal genital system morphology	0.066014	0.27578	1	0	1		abnormal genital system morphology|abnormality of the penis|abnormality of male external genitalia|abnormal external genitalia|abnormality of the male genitalia|abnormality of the testis|abnormality of the genital system|cryptorchidism|abnormality of the female genitalia
+HPO Gene-Disease Associations	hpo	radial deviation of finger	-0.054345	0.099049	1	0	-1		radial deviation of finger|radial deviation of the hand or of fingers of the hand|finger clinodactyly|clinodactyly of the 5th finger|deviation of the 5th finger|deviation of finger|clinodactyly|deviation of the hand or of fingers of the hand|abnormality of the 5th finger
+HPO Gene-Disease Associations	hpo	abnormality of the cerebrum	0.025444	0.69944	1	0	1		abnormality of the cerebrum|abnormality of forebrain morphology|aplasia/hypoplasia involving the central nervous system|abnormality of skull size|aplasia/hypoplasia of the cerebrum|microcephaly
+HPO Gene-Disease Associations	hpo	abnormality of finger	-0.045344	0.36623	1	0	-1		abnormality of finger|abnormality of phalanx of finger
+HPO Gene-Disease Associations	hpo	forearm undergrowth	-0.0043072	1	1	0	-1		forearm undergrowth|upper limb undergrowth|abnormal morphology of ulna|hypoplasia of the ulna|abnormal morphology of bones of the upper limbs|aplasia/hypoplasia of the ulna|hypoplasia of the radius|abnormal morphology of the radius
+HPO Gene-Disease Associations	hpo	aplasia involving bones of the extremities	0.01036	0.81149	1	0	1		aplasia involving bones of the extremities|aplasia/hypoplasia of the extremities|aplasia/hypoplasia involving bones of the hand|aplasia/hypoplasia involving bones of the lower limbs|aplasia/hypoplasia involving bones of the upper limbs|short digit|abnormality of lower limb bone
+HPO Gene-Disease Associations	hpo	abnormality of the fundus	0.095365	0.086489	1	0	1		abnormality of the fundus|abnormality of the posterior segment of the eye|abnormality of the optic nerve|abnormality of the optic disc|optic atrophy|abnormality of the retina
+HPO Gene-Disease Associations	hpo	abnormality of facial skeleton	0.026084	0.66213	1	0	1		abnormality of facial skeleton|aplasia/hypoplasia involving bones of the skull|aplasia/hypoplasia of the mandible|micrognathia|aplasia/hypoplasia affecting bones of the axial skeleton|abnormality of the mandible
+HPO Gene-Disease Associations	hpo	hand polydactyly	-0.01156	0.73722	1	0	-1		hand polydactyly|polydactyly|duplication involving bones of the feet|duplication of phalanx of hand|duplication of bones involving the upper extremities|duplication of hand bones|foot polydactyly
+HPO Gene-Disease Associations	hpo	abnormality of the radius	0.010776	0.66006	1	0	1		abnormality of the radius|abnormality of forearm bone|abnormality of the forearm|abnormality of upper limb bone|abnormality of the ulna|aplasia/hypoplasia involving forearm bones|aplasia/hypoplasia of the radius
+HPO Gene-Disease Associations	hpo	abnormality of the middle ear	0.024407	0.69529	1	0	1		abnormality of the middle ear|hearing impairment|hearing abnormality|abnormality of the inner ear|functional abnormality of the inner ear|sensorineural hearing impairment
+HPO Gene-Disease Associations	hpo	abnormality of the foot	0.022852	0.73523	1	0	1		abnormality of the foot|abnormality of toe
+HPO Gene-Disease Associations	hpo	synostosis of carpals/tarsals	-0.0010694	1	1	0	-1		synostosis of carpals/tarsals|carpal synostosis|synostosis involving bones of the feet|synostosis involving bones of the lower limbs|tarsal synostosis|synostosis involving bones of the hand|synostosis of carpal bones
+HPO Gene-Disease Associations	hpo	abnormalities of the peripheral arteries	0.0084702	0.79057	1	0	1		abnormalities of the peripheral arteries|arterial stenosis|abnormality of the coronary arteries|coronary artery disease|cerebral ischemia|abnormality of cerebral artery|abnormality of the systemic arterial tree
+HPO Gene-Disease Associations	hpo	abnormality of the cardiac septa	0.01684	0.6593	1	0	1		abnormality of the cardiac septa|abnormality of the atrial septum|defect in the atrial septum|abnormality of cardiac atrium|abnormality of the ventricular septum|ventricular septal defect|abnormality of cardiac ventricle
+HPO Gene-Disease Associations	hpo	abnormality of eye movement	-0.091492	0.068559	1	0	-1		abnormality of eye movement|abnormal involuntary eye movements|nystagmus|abnormal conjugate eye movement|strabismus
+HPO Gene-Disease Associations	hpo	abnormal morphology of forearm bone	-0.012057	1	1	0	-1		abnormal morphology of forearm bone
+HPO Gene-Disease Associations	hpo	abnormality of the skin	0.12649	0.13376	1	0	1		abnormality of the skin|generalized abnormality of skin|abnormality of skin morphology
+HPO Gene-Disease Associations	hpo	abnormality of the menstrual cycle	0.055311	0.27758	1	0	1		abnormality of the menstrual cycle|menstrual irregularities|amenorrhea|primary amenorrhea|puberty and gonadal disorders
+HPO Gene-Disease Associations	hpo	abnormality of the palpebral fissures	-0.024212	0.54575	1	0	-1		abnormality of the palpebral fissures|abnormality of the periorbital region|abnormality of the eyelid|slanting of the palpebral fissure|downslanted palpebral fissures
+HPO Gene-Disease Associations	hpo	abnormality of the urinary system physiology	0.078107	0.31609	1	0	1		abnormality of the urinary system physiology|abnormality of urine homeostasis
+HPO Gene-Disease Associations	hpo	abnormality of calvarial morphology	-0.017779	0.7553	1	0	-1		abnormality of calvarial morphology|abnormal shape of the frontal region|frontal bossing|abnormality of the calvaria
+HPO Gene-Disease Associations	hpo	abnormality of facial musculature	0.0095057	0.79571	1	0	1		abnormality of facial musculature|cranial nerve paralysis|abnormality of the cranial nerves|abnormality of facial soft tissue
+HPO Gene-Disease Associations	hpo	hypoparathyroidism	0.010248	0.70914	1	0	1		hypoparathyroidism|abnormality of the parathyroid physiology|abnormality of the parathyroid gland|hyperthyroidism
+HPO Gene-Disease Associations	hpo	diabetes mellitus	0.0062553	0.88138	1	0	1		diabetes mellitus|abnormal glucose homeostasis|abnormality of carbohydrate metabolism/homeostasis|type ii diabetes mellitus
+HPO Gene-Disease Associations	hpo	subcutaneous hemorrhage	0.029722	0.62489	1	0	1		subcutaneous hemorrhage|bruising susceptibility|vascular skin abnormality
+HPO Gene-Disease Associations	hpo	renotubular dysgenesis	0.028369	0.60262	1	0	1		renotubular dysgenesis|decreased urine output|anuria
+HPO Gene-Disease Associations	hpo	dilatation of the renal pelvis	0.021277	0.63627	1	0	1		dilatation of the renal pelvis|hydronephrosis|abnormality of the renal pelvis
+HPO Gene-Disease Associations	hpo	abnormality of alkaline phosphatase activity	0.014893	0.65166	1	0	1		abnormality of alkaline phosphatase activity|abnormal enzyme/coenzyme activity|elevated alkaline phosphatase
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the maxilla	0.021277	0.63927	1	0	1		aplasia/hypoplasia of the maxilla|hypoplasia of the maxilla|abnormality of the maxilla
+HPO Gene-Disease Associations	hpo	abnormality of granulocytes	0.021129	0.67179	1	0	1		abnormality of granulocytes|abnormality of myeloid leukocytes|abnormality of neutrophils
+HPO Gene-Disease Associations	hpo	abnormality of female internal genitalia	0.12109	0.13688	1	0	1		abnormality of female internal genitalia|abnormal internal genitalia
+HPO Gene-Disease Associations	hpo	abnormal platelet count	0.072716	0.24854	1	0	1		abnormal platelet count|thrombocytopenia|abnormality of thrombocytes
+HPO Gene-Disease Associations	hpo	abnormality of corneal stroma	0.023404	0.7049	1	0	1		abnormality of corneal stroma|opacification of the corneal stroma|corneal opacity
+HPO Gene-Disease Associations	hpo	cardiomyopathy	0.019572	0.75866	1	0	1		cardiomyopathy|abnormality of the myocardium|hypertrophic cardiomyopathy
+HPO Gene-Disease Associations	hpo	deviation of the hallux	0.033046	0.58962	1	0	1		deviation of the hallux|hallux valgus|deviation of toes
+HPO Gene-Disease Associations	hpo	abnormality of thyroid physiology	-0.055365	0.3302	1	0	-1		abnormality of thyroid physiology|hypothyroidism|abnormality of the thyroid gland
+HPO Gene-Disease Associations	hpo	abnormality of skin adnexa	0.089236	0.21174	1	0	1		abnormality of skin adnexa|abnormality of the hair|abnormal hair quantity
+HPO Gene-Disease Associations	hpo	abnormality of the curvature of the vertebral column	0.0067346	0.96684	1	0	1		abnormality of the curvature of the vertebral column|scoliosis
+HPO Gene-Disease Associations	hpo	hyperkeratosis	0.064981	0.21882	1	0	1		hyperkeratosis|epidermal thickening|thickened skin|palmoplantar keratoderma
+HPO Gene-Disease Associations	hpo	abnormality of joint mobility	-0.051064	0.58205	1	0	-1		abnormality of joint mobility
+HPO Gene-Disease Associations	hpo	lower extremity joint dislocation	6.2624e-06	1	1	0	1		lower extremity joint dislocation|abnormality of the hip joint|abnormality of the synovia|hip dislocation|joint dislocation
+HPO Gene-Disease Associations	hpo	mode of inheritance	0.024804	0.69984	1	0	1		mode of inheritance|autosomal recessive inheritance
+HPO Gene-Disease Associations	hpo	neurodevelopmental abnormality	-0.085461	0.19512	1	0	-1		neurodevelopmental abnormality|neurodevelopmental delay|intellectual disability
+HPO Gene-Disease Associations	hpo	abnormality of the palate	0.004367	0.99945	1	0	1		abnormality of the palate|abnormality of the hard palate|cleft palate|oral cleft
+HPO Gene-Disease Associations	hpo	abnormality of cells of the erythroid lineage	0.1089	0.1526	1	0	1		abnormality of cells of the erythroid lineage|abnormality of erythrocytes|anemia|abnormality of bone marrow cell morphology
+HPO Gene-Disease Associations	hpo	abnormal levels of creatine kinase in blood	0.028369	0.59921	1	0	1		abnormal levels of creatine kinase in blood|elevated serum creatine phosphokinase|abnormality of circulating enzyme level|abnormality of circulating protein level
+HPO Gene-Disease Associations	hpo	abnormality of the corpus callosum	-0.0070221	0.99753	1	0	-1		abnormality of the corpus callosum|abnormality of the cerebral white matter|aplasia/hypoplasia of the corpus callosum|abnormality of the cerebral subcortex
+HPO Gene-Disease Associations	hpo	atherosclerosis	0.044681	0.47933	1	0	1		atherosclerosis|arteriosclerosis
+HPO Gene-Disease Associations	hpo	hypoplastic male external genitalia	0.021132	0.67136	1	0	1		hypoplastic male external genitalia|external genital hypoplasia|hypoplasia of penis
+HPO Gene-Disease Associations	hpo	abnormality of the epiphyses of the hand	-0.019149	1	1	0	-1		abnormality of the epiphyses of the hand|abnormality of upper limb epiphysis morphology|abnormality of the epiphyses of the phalanges of the hand|abnormality of limb epiphysis morphology
+HPO Gene-Disease Associations	hpo	abnormality of the respiratory system	0.15651	0.069309	1	0	1		abnormality of the respiratory system|abnormal respiratory system morphology|abnormality of the lung|functional respiratory abnormality
+HPO Gene-Disease Associations	hpo	short stature	-0.0014184	1	1	0	-1		short stature
+HPO Gene-Disease Associations	hpo	abnormality of blood circulation	0.011158	0.86913	1	0	1		abnormality of blood circulation|internal hemorrhage|gastrointestinal hemorrhage|abnormal bleeding
+HPO Gene-Disease Associations	hpo	elevated pulmonary artery pressure	0.042553	0.37619	1	0	1		elevated pulmonary artery pressure|pulmonary hypertension|abnormality of the pulmonary artery|abnormality of the pulmonary vasculature
+HPO Gene-Disease Associations	hpo	abnormality of globe location	-0.020073	0.76234	1	0	-1		abnormality of globe location|abnormality of the orbital region|hypertelorism
+HPO Gene-Disease Associations	hpo	recurrent infections	0.017618	0.83174	1	0	1		recurrent infections|recurrent respiratory infections|respiratory tract infection|abnormality of immune system physiology
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of toe	-0.031206	0.61216	1	0	-1		aplasia/hypoplasia of toe|aplasia/hypoplasia involving bones of the feet|short toe
+HPO Gene-Disease Associations	hpo	irregular hyperpigmentation	-0.033836	0.47147	1	0	-1		irregular hyperpigmentation|macule|hypermelanotic macule|hyperpigmentation of the skin
+HPO Gene-Disease Associations	hpo	abnormal number of teeth	0.039081	0.52082	1	0	1		abnormal number of teeth|reduced number of teeth
+HPO Gene-Disease Associations	hpo	neoplasm of the lung	0.021277	0.63841	1	0	1		neoplasm of the lung|neoplasm of the respiratory system
+HPO Gene-Disease Associations	hpo	visual impairment	0.055723	0.48665	1	0	1		visual impairment|abnormality of vision
+HPO Gene-Disease Associations	hpo	abnormal facial shape	0.051064	0.60577	1	0	1		abnormal facial shape
+HPO Gene-Disease Associations	hpo	abnormality of the forehead	-0.062411	0.27449	1	0	-1		abnormality of the forehead
+HPO Gene-Disease Associations	hpo	depressed nasal bridge	0.0042553	1	1	0	1		depressed nasal bridge
+HPO Gene-Disease Associations	hpo	abnormality of connective tissue	-0.058865	0.64123	1	0	-1		abnormality of connective tissue
+HPO Gene-Disease Associations	hpo	abnormality of the metaphyses	0.058865	0.46856	1	0	1		abnormality of the metaphyses
+HPO Gene-Disease Associations	hpo	proptosis	-0.0099291	1	1	0	-1		proptosis
+HPO Gene-Disease Associations	hpo	abnormality of the knees	0.01844	1	1	0	1		abnormality of the knees
+HPO Gene-Disease Associations	hpo	seizures	0.034043	0.81248	1	0	1		seizures
+HPO Gene-Disease Associations	hpo	misalignment of teeth	0.0092199	1	1	0	1		misalignment of teeth
+HPO Gene-Disease Associations	hpo	renal cyst	-0.019149	1	1	0	-1		renal cyst
+HPO Gene-Disease Associations	hpo	tremor	0.0092199	1	1	0	1		tremor
+HPO Gene-Disease Associations	hpo	infantile onset	0.051773	0.46808	1	0	1		infantile onset
+HPO Gene-Disease Associations	hpo	coarse facial features	-0.021986	0.71508	1	0	-1		coarse facial features
+HPO Gene-Disease Associations	hpo	abnormality of the sacrum	-0.012057	1	1	0	-1		abnormality of the sacrum
+HPO Gene-Disease Associations	hpo	anorexia	0.035461	0.58916	1	0	1		anorexia
+HPO Gene-Disease Associations	hpo	ophthalmoparesis	-0.012057	1	1	0	-1		ophthalmoparesis
+HPO Gene-Disease Associations	hpo	abnormality of the autonomic nervous system	0.035461	0.58584	1	0	1		abnormality of the autonomic nervous system
+HPO Gene-Disease Associations	hpo	abnormality of metabolism/homeostasis	0.055319	0.68266	1	0	1		abnormality of metabolism/homeostasis
+HPO Gene-Disease Associations	hpo	basal ganglia calcification	0.021277	0.63944	1	0	1		basal ganglia calcification|abnormality of the basal ganglia
+HPO Gene-Disease Associations	hpo	abnormality of thyroid morphology	-0.05543	0.078579	1	0	-1		abnormality of thyroid morphology|goiter
+HPO Gene-Disease Associations	hpo	abnormal ekg	0.025302	0.60162	1	0	1		abnormal ekg|prolonged qt interval
+HPO Gene-Disease Associations	hpo	hypocalcemia	0.035461	0.58478	1	0	1		hypocalcemia
+HPO Gene-Disease Associations	hpo	abnormality of the pinna	0.030496	0.69277	1	0	1		abnormality of the pinna
+HPO Gene-Disease Associations	hpo	abnormal cns myelination	-0.0059841	0.98559	1	0	-1		abnormal cns myelination|abnormal myelination
+HPO Gene-Disease Associations	hpo	abnormality of the nasal bridge	0.046809	0.5369	1	0	1		abnormality of the nasal bridge
+HPO Gene-Disease Associations	hpo	abnormality of eosinophils	-0.010096	0.75347	1	0	-1		abnormality of eosinophils|leukocytosis
+HPO Gene-Disease Associations	hpo	polyphagia	-0.033309	0.14168	1	0	-1		polyphagia|abnormal eating behavior
+HPO Gene-Disease Associations	hpo	pace of progression	-0.042248	0.34647	1	0	-1		pace of progression|progressive disorder
+HPO Gene-Disease Associations	hpo	reduced tendon reflexes	0.04469	0.29459	1	0	1		reduced tendon reflexes|hyporeflexia
+HPO Gene-Disease Associations	hpo	abnormality of the aortic valve	0.0060757	0.94008	1	0	1		abnormality of the aortic valve|abnormality of the heart valves
+HPO Gene-Disease Associations	hpo	abnormality of the teeth	0.029787	0.79048	1	0	1		abnormality of the teeth
+HPO Gene-Disease Associations	hpo	abnormality of mouth size	-0.01893	0.83716	1	0	-1		abnormality of mouth size|narrow mouth
+HPO Gene-Disease Associations	hpo	functional abnormality of the gastrointestinal tract	0.032624	0.74236	1	0	1		functional abnormality of the gastrointestinal tract
+HPO Gene-Disease Associations	hpo	neoplasm of the gastrointestinal tract	0.039557	0.51891	1	0	1		neoplasm of the gastrointestinal tract|neoplasm of the stomach
+HPO Gene-Disease Associations	hpo	vomiting	0.075923	0.16262	1	0	1		vomiting|nausea and vomiting
+HPO Gene-Disease Associations	hpo	abnormality of skin pigmentation	0.006383	1	1	0	1		abnormality of skin pigmentation
+HPO Gene-Disease Associations	hpo	abnormality of the breast	0.029611	0.44641	1	0	1		abnormality of the breast|abnormality of the nipple
+HPO Gene-Disease Associations	hpo	pes cavus	0.028369	0.60143	1	0	1		pes cavus
+HPO Gene-Disease Associations	hpo	autoimmunity	0.016312	1	1	0	1		autoimmunity
+HPO Gene-Disease Associations	hpo	arthralgia	0.011348	1	1	0	1		arthralgia
+HPO Gene-Disease Associations	hpo	otitis media	-0.0099291	1	1	0	-1		otitis media
+HPO Gene-Disease Associations	hpo	generalized seizures	0.035461	0.58839	1	0	1		generalized seizures
+HPO Gene-Disease Associations	hpo	heterogeneous	-0.04539	0.21247	1	0	-1		heterogeneous
+HPO Gene-Disease Associations	hpo	abnormality of coagulation	0.080142	0.31486	1	0	1		abnormality of coagulation
+HPO Gene-Disease Associations	hpo	sepsis	0.021277	0.64013	1	0	1		sepsis
+HPO Gene-Disease Associations	hpo	eczema	0.028369	0.60178	1	0	1		eczema
+HPO Gene-Disease Associations	hpo	skin ulcer	0.023404	0.70573	1	0	1		skin ulcer
+HPO Gene-Disease Associations	hpo	recurrent viral infections	-0.012057	1	1	0	-1		recurrent viral infections
+HPO Gene-Disease Associations	hpo	acne	0.035461	0.58793	1	0	1		acne
+HPO Gene-Disease Associations	hpo	abnormality of the pleura	-0.0049645	1	1	0	-1		abnormality of the pleura
+HPO Gene-Disease Associations	hpo	abnormality of the pericardium	-0.0049645	1	1	0	-1		abnormality of the pericardium
+HPO Gene-Disease Associations	hpo	gangrene	0.028369	0.60061	1	0	1		gangrene
+HPO Gene-Disease Associations	hpo	abnormal blistering of the skin	-0.012057	1	1	0	-1		abnormal blistering of the skin
+HPO Gene-Disease Associations	hpo	recurrent lower respiratory tract infections	-0.059574	0.079629	1	0	-1		recurrent lower respiratory tract infections
+HPO Gene-Disease Associations	hpo	abnormality of the bronchi	0.042553	0.37606	1	0	1		abnormality of the bronchi
+HPO Gene-Disease Associations	hpo	prolonged bleeding time	0.021277	0.64132	1	0	1		prolonged bleeding time
+HPO Gene-Disease Associations	hpo	malabsorption	0.099291	0.13584	1	0	1		malabsorption
+HPO Gene-Disease Associations	hpo	inguinal hernia	-0.017021	1	1	0	-1		inguinal hernia
+HPO Gene-Disease Associations	hpo	abnormality of primary teeth	0.042553	0.37579	1	0	1		abnormality of primary teeth
+HPO Gene-Disease Associations	hpo	depressed nasal ridge	-0.067857	0.03733	1	0	-1		depressed nasal ridge|abnormality of the nasal dorsum
+HPO Gene-Disease Associations	hpo	photophobia	0.042553	0.37508	1	0	1		photophobia
+HPO Gene-Disease Associations	hpo	somatic mutation	0.028369	0.60064	1	0	1		somatic mutation
+HPO Gene-Disease Associations	hpo	micropenis	0.028369	0.5998	1	0	1		micropenis
+HPO Gene-Disease Associations	hpo	hypospadias	0.042553	0.37646	1	0	1		hypospadias
+HPO Gene-Disease Associations	hpo	abnormality of the eyebrow	0.0021277	1	1	0	1		abnormality of the eyebrow
+HPO Gene-Disease Associations	hpo	abnormality of the larynx	0.035461	0.58764	1	0	1		abnormality of the larynx
+HPO Gene-Disease Associations	hpo	abnormality of movement	-0.16312	0.04839	1	0	-1		abnormality of movement
+HPO Gene-Disease Associations	hpo	gait disturbance	-0.062411	0.27154	1	0	-1		gait disturbance
+HPO Gene-Disease Associations	hpo	neurological speech impairment	-0.029078	0.70006	1	0	-1		neurological speech impairment
+HPO Gene-Disease Associations	hpo	chorea	-0.019149	1	1	0	-1		chorea
+HPO Gene-Disease Associations	hpo	slow progression	-0.052482	0.14415	1	0	-1		slow progression
+HPO Gene-Disease Associations	hpo	abnormality of the hallux	0.035461	0.58962	1	0	1		abnormality of the hallux
+HPO Gene-Disease Associations	hpo	macrotia	0.021277	0.63612	1	0	1		macrotia
+HPO Gene-Disease Associations	hpo	abnormality of the small intestine	0.049645	0.3553	1	0	1		abnormality of the small intestine
+HPO Gene-Disease Associations	hpo	pes planus	-0.052482	0.14203	1	0	-1		pes planus
+HPO Gene-Disease Associations	hpo	emg abnormality	-0.038298	0.5945	1	0	-1		emg abnormality
+HPO Gene-Disease Associations	hpo	abnormality of the fingernails	0.023404	0.7038	1	0	1		abnormality of the fingernails
+HPO Gene-Disease Associations	hpo	weight loss	0.049645	0.35527	1	0	1		weight loss
+HPO Gene-Disease Associations	hpo	ascites	0.028369	0.5998	1	0	1		ascites
+HPO Gene-Disease Associations	hpo	stroke	-0.0049645	1	1	0	-1		stroke
+HPO Gene-Disease Associations	hpo	severe short stature	-0.019149	1	1	0	-1		severe short stature|proportionate short stature
+HPO Gene-Disease Associations	hpo	ectopic calcification	-0.03307	0.46221	1	0	-1		ectopic calcification|cerebral calcification
+HPO Gene-Disease Associations	hpo	abnormality of the ureter	0.035461	0.58836	1	0	1		abnormality of the ureter
+HPO Gene-Disease Associations	hpo	melanocytic nevus	-0.0049645	1	1	0	-1		melanocytic nevus|nevus
+HPO Gene-Disease Associations	hpo	edema	0.019836	0.86009	1	0	1		edema|abnormality of fluid regulation
+HPO Gene-Disease Associations	hpo	abnormality of skin physiology	0.011266	0.82564	1	0	1		abnormality of skin physiology|inflammatory abnormality of the skin
+HPO Gene-Disease Associations	hpo	large fontanelles	0.06383	0.21898	1	0	1		large fontanelles|abnormality of fontanelles
+HPO Gene-Disease Associations	hpo	hypoplasia of dental enamel	0.021277	0.63766	1	0	1		hypoplasia of dental enamel|hypoplasia of teeth
+HPO Gene-Disease Associations	hpo	meningitis	0.024614	0.60232	1	0	1		meningitis|cns infection
+HPO Gene-Disease Associations	hpo	immunologic hypersensitivity	0.03213	0.51929	1	0	1		immunologic hypersensitivity|asthma
+HPO Gene-Disease Associations	hpo	hemiplegia/hemiparesis	-0.011584	0.864	1	0	-1		hemiplegia/hemiparesis|weakness due to upper motor neuron dysfunction
+HPO Gene-Disease Associations	hpo	cognitive impairment	0.031915	0.80329	1	0	1		cognitive impairment
+HPO Gene-Disease Associations	hpo	abnormality of the level of lipoprotein cholesterol	0.0073115	1	1	0	1		abnormality of the level of lipoprotein cholesterol|hypolipoproteinemia
+HPO Gene-Disease Associations	hpo	abnormality of the vertebrae	0.073974	0.22855	1	0	1		abnormality of the vertebrae|abnormal form of the vertebral bodies
+HPO Gene-Disease Associations	hpo	global developmental delay	-0.0078014	1	1	0	-1		global developmental delay
+HPO Gene-Disease Associations	hpo	myopia	-0.0347	0.14144	1	0	-1		myopia|abnormality of refraction
+HPO Gene-Disease Associations	hpo	dialeptic seizures	0.028369	0.60184	1	0	1		dialeptic seizures|absence seizures
+HPO Gene-Disease Associations	hpo	paresthesia	-0.010414	0.98905	1	0	-1		paresthesia|sensory neuropathy
+HPO Gene-Disease Associations	hpo	disproportionate short-limb short stature	-0.0054647	0.98578	1	0	-1		disproportionate short-limb short stature|disproportionate short stature
+HPO Gene-Disease Associations	hpo	respiratory insufficiency	0.068085	0.37832	1	0	1		respiratory insufficiency
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the abdominal wall musculature	-0.034913	0.53503	1	0	-1		aplasia/hypoplasia of the abdominal wall musculature|abnormality of the abdominal musculature
+HPO Gene-Disease Associations	hpo	diaphyseal sclerosis	0.021277	0.63814	1	0	1		diaphyseal sclerosis|increased density of long bones
+HPO Gene-Disease Associations	hpo	migraine	0.021501	0.73419	1	0	1		migraine|headache
+HPO Gene-Disease Associations	hpo	delayed eruption of teeth	0.073989	0.15312	1	0	1		delayed eruption of teeth|abnormality of dental eruption
+HPO Gene-Disease Associations	hpo	lipoatrophy	0.031838	0.52073	1	0	1		lipoatrophy|lipodystrophy
+HPO Gene-Disease Associations	hpo	abnormality of blood glucose concentration	-0.034673	0.53724	1	0	-1		abnormality of blood glucose concentration|hypoglycemia
+HPO Gene-Disease Associations	hpo	patent ductus arteriosus	-0.0049645	1	1	0	-1		patent ductus arteriosus|congenital malformation of the great arteries
+HPO Gene-Disease Associations	hpo	abnormality of the atrioventricular valves	-0.023918	0.6117	1	0	-1		abnormality of the atrioventricular valves|abnormality of the mitral valve
+HPO Gene-Disease Associations	hpo	decreased skull ossification	-0.012057	1	1	0	-1		decreased skull ossification|abnormality of skull ossification
+HPO Gene-Disease Associations	hpo	iris hypopigmentation	-0.019149	1	1	0	-1		iris hypopigmentation|ocular albinism
+HPO Gene-Disease Associations	hpo	abnormality of hair pigmentation	0.021277	0.63848	1	0	1		abnormality of hair pigmentation|hypopigmentation of hair
+HPO Gene-Disease Associations	hpo	abnormal male reproductive system physiology	0.024935	0.601	1	0	1		abnormal male reproductive system physiology|functional abnormality of male internal genitalia
+HPO Gene-Disease Associations	hpo	narrow chest	0.00556	1	1	0	1		narrow chest|thoracic hypoplasia
+HPO Gene-Disease Associations	hpo	sinusitis	0.0092199	1	1	0	1		sinusitis|abnormality of the sinuses
+HPO Gene-Disease Associations	hpo	hepatic failure	-0.012057	1	1	0	-1		hepatic failure|decreased liver function
+HPO Gene-Disease Associations	hpo	abnormality of cells of the lymphoid lineage	-0.019149	1	1	0	-1		abnormality of cells of the lymphoid lineage|lymphopenia
+HPO Gene-Disease Associations	hpo	cranial hyperostosis	0.038871	0.52172	1	0	1		cranial hyperostosis|hyperostosis
+HPO Gene-Disease Associations	hpo	cervical myelopathy	-0.019149	1	1	0	-1		cervical myelopathy|myelopathy
+HPO Gene-Disease Associations	hpo	abnormality of the odontoid process	-0.0049645	1	1	0	-1		abnormality of the odontoid process|hypoplasia of the odontoid process
+HPO Gene-Disease Associations	hpo	broad hallux	0.028369	0.60124	1	0	1		broad hallux|broad toe
+HPO Gene-Disease Associations	hpo	autistic behavior	-0.04539	0.20963	1	0	-1		autistic behavior|autism
+HPO Gene-Disease Associations	hpo	increased susceptibility to fractures	0.030819	0.59472	1	0	1		increased susceptibility to fractures|recurrent fractures
+HPO Gene-Disease Associations	hpo	abnormality of long bone morphology	0.063121	0.42654	1	0	1		abnormality of long bone morphology
+HPO Gene-Disease Associations	hpo	abnormality of potassium homeostasis	0.035461	0.58677	1	0	1		abnormality of potassium homeostasis
+HPO Gene-Disease Associations	hpo	hypopigmentation of the skin	0.039297	0.52284	1	0	1		hypopigmentation of the skin|hypopigmented skin patches
+HPO Gene-Disease Associations	hpo	tracheoesophageal fistula	0.021277	0.63763	1	0	1		tracheoesophageal fistula
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the lungs	0.028739	0.55273	1	0	1		aplasia/hypoplasia of the lungs|pulmonary hypoplasia
+HPO Gene-Disease Associations	hpo	abnormality of male internal genitalia	0.021277	0.63932	1	0	1		abnormality of male internal genitalia|abnormality of the prostate
+HPO Gene-Disease Associations	hpo	macroglossia	0.024408	0.60043	1	0	1		macroglossia|skeletal muscle hypertrophy
+HPO Gene-Disease Associations	hpo	limb undergrowth	-0.00015912	1	1	0	-1		limb undergrowth|micromelia
+HPO Gene-Disease Associations	hpo	long philtrum	-0.050355	0.38284	1	0	-1		long philtrum|abnormality of the philtrum
+HPO Gene-Disease Associations	hpo	conjunctivitis	0.031493	0.5185	1	0	1		conjunctivitis|abnormality of the conjunctiva
+HPO Gene-Disease Associations	hpo	abnormality of the aorta	-0.038298	0.59169	1	0	-1		abnormality of the aorta
+HPO Gene-Disease Associations	hpo	microdontia	0.041682	0.34696	1	0	1		microdontia|abnormality of dental morphology
+HPO Gene-Disease Associations	hpo	abnormality of the amniotic fluid	0.02204	0.67909	1	0	1		abnormality of the amniotic fluid|polyhydramnios
+HPO Gene-Disease Associations	hpo	sarcoma	0.020875	0.58917	1	0	1		sarcoma|neoplasm by histology
+HPO Gene-Disease Associations	hpo	renal insufficiency	0.0092199	1	1	0	1		renal insufficiency
+HPO Gene-Disease Associations	hpo	aplasia/hypoplasia of the earlobes	0.021277	0.63846	1	0	1		aplasia/hypoplasia of the earlobes|abnormality of earlobe
+HPO Gene-Disease Associations	hpo	abnormal peripheral nervous system morphology	-0.048262	0.49268	1	0	-1		abnormal peripheral nervous system morphology|peripheral neuropathy
+HPO Gene-Disease Associations	hpo	abnormality of corneal epithelium	0.025283	0.59978	1	0	1		abnormality of corneal epithelium|corneal erosion
+HPO Gene-Disease Associations	hpo	abnormal metacarpal morphology	-0.0028215	0.96636	1	0	-1		abnormal metacarpal morphology|abnormality of the metacarpal bones
+HPO Gene-Disease Associations	hpo	mental deterioration	0.013234	0.93077	1	0	1		mental deterioration|dementia
+HPO Gene-Disease Associations	hpo	abnormal leukocyte count	-0.026963	0.50565	1	0	-1		abnormal leukocyte count|leukopenia
+HPO Gene-Disease Associations	hpo	vestibular dysfunction	-0.0011386	1	1	0	-1		vestibular dysfunction|vertigo
+HPO Gene-Disease Associations	hpo	mandibular prognathia	0.056065	0.24308	1	0	1		mandibular prognathia|abnormality of the chin
+HPO Gene-Disease Associations	hpo	pectus excavatum	-0.0086456	0.99033	1	0	-1		pectus excavatum|abnormality of the sternum
+HPO Gene-Disease Associations	hpo	abnormality of phosphate homeostasis	0.039875	0.4237	1	0	1		abnormality of phosphate homeostasis|hypophosphatemia
+HPO Gene-Disease Associations	hpo	abnormal pattern of respiration	-0.027896	0.69089	1	0	-1		abnormal pattern of respiration|apnea
+HPO Gene-Disease Associations	hpo	widely patent fontanelles and sutures	0.042553	0.3732	1	0	1		widely patent fontanelles and sutures|wide cranial sutures
+HPO Gene-Disease Associations	hpo	ventriculomegaly	0.0092199	1	1	0	1		ventriculomegaly
+HPO Gene-Disease Associations	hpo	cardiomegaly	0.021277	0.63713	1	0	1		cardiomegaly|abnormal heart morphology
+HPO Gene-Disease Associations	hpo	brachydactyly syndrome	-0.0099291	1	1	0	-1		brachydactyly syndrome
+HPO Gene-Disease Associations	hpo	onset	0.074273	0.34048	1	0	1		onset|clinical modifier
+HPO Gene-Disease Associations	hpo	abnormality of nucleobase metabolism	-0.0049645	1	1	0	-1		abnormality of nucleobase metabolism|abnormality of purine metabolism
+HPO Gene-Disease Associations	hpo	spasticity	-0.10496	0.03357	1	0	-1		spasticity
+HPO Gene-Disease Associations	hpo	abnormality of the anus	-0.020702	0.56837	1	0	-1		abnormality of the anus|anorectal anomaly
+HPO Gene-Disease Associations	hpo	abnormality of multiple cell lineages in the bone marrow	0.032951	0.41918	1	0	1		abnormality of multiple cell lineages in the bone marrow|bone marrow hypocellularity
+HPO Gene-Disease Associations	hpo	abnormality of the fontanelles or cranial sutures	0.018835	0.74633	1	0	1		abnormality of the fontanelles or cranial sutures|abnormality of cranial sutures
+HPO Gene-Disease Associations	hpo	abnormality of the 2nd finger	-0.019149	1	1	0	-1		abnormality of the 2nd finger|abnormality of the phalanges of the 2nd finger
+HPO Gene-Disease Associations	hpo	underdeveloped supraorbital ridges	0.034745	0.46344	1	0	1		underdeveloped supraorbital ridges|abnormality of the supraorbital ridges
+HPO Gene-Disease Associations	hpo	decreased fetal movement	0.021277	0.64008	1	0	1		decreased fetal movement|prenatal movement abnormality
+HPO Gene-Disease Associations	hpo	abnormality of the uvea	0.0099671	0.98978	1	0	1		abnormality of the uvea|abnormality of the iris
+HPO Gene-Disease Associations	hpo	abnormality of the immune system	0.082979	0.41526	1	0	1		abnormality of the immune system
+HPO Gene-Disease Associations	hpo	pancreatitis	0.019817	0.73624	1	0	1		pancreatitis|abnormality of pancreas physiology
+HPO Gene-Disease Associations	hpo	behavioral abnormality	-0.11348	0.23711	1	0	-1		behavioral abnormality

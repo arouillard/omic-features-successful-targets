@@ -1,0 +1,3 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+ClinVar SNP-Phenotype Associations	clinvar	mean	-1.9818e-06	0.98052	1	0	-1	mean	mean|stdv
+ClinVar SNP-Phenotype Associations	clinvar	Renal dysplasia	0.033333	0.6089	1	0	1		Renal dysplasia

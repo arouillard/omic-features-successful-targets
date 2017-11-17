@@ -1,0 +1,150 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	mean	-0.030761	0.36952	1	0	-1	mean	mean|abnormality of limb bone morphology|abnormality of finger|abnormality of the hand|abnormality of phalanx of finger|abnormality of digit|abnormality of the clavicle|abnormality of the costochondral junction|abnormality of the ribs|costochondral joint sclerosis|craniofacial osteosclerosis|abnormality of the vertebrae|calvarial osteosclerosis|abnormality of the thorax|abnormality of the rib cage|clavicular sclerosis|choroidal sclerosis|vertebral body sclerosis|generalized osteosclerosis|cortical sclerosis|anomaly of the limb diaphyses|patchy sclerosis of radial diaphysis|anomaly of the upper limb diaphyses|increased density of long bones|sclerosis of humeral diaphysis|osteosclerosis of the ulna|abnormality of the humerus|abnormality of the forearm|abnormality of the radius|sclerosis of metaphyses of the upper limbs|abnormality of upper limb metaphysis|metaphyseal sclerosis|abnormality of the metaphyses|abnormality of the ulna|abnormality of upper limb bone|abnormality of forearm bone|sclerotic forearm bones|humeral sclerosis|diaphyseal sclerosis of the upper limbs|diaphyseal sclerosis|abnormality of the humeral diaphysis|abnormality of radial diaphysis|abnormal diaphysis morphology|abnormal cortical bone morphology|diffuse mesangial sclerosis|nephrosclerosis|mesangial abnormality|abnormality of long bone morphology|sclerosis of finger phalanx|patchy changes of bone mineral density|sclerosis of foot bone|patchy osteosclerosis|sclerosis of hand bone|increased bone mineral density|sclerosis of skull base|abnormality of the skull base|urethral stenosis|urethral sphincter sclerosis|urethral obstruction|abnormal appendicular skeleton morphology|abnormality of the upper limb|abnormality of limb bone|abnormality of the skull|abnormality of limbs|abnormality of the nephron|abnormality of the glomerulus|abnormal renal morphology|abnormal bone structure|glomerulosclerosis|abnormality of facial skeleton|abnormality of the lower urinary tract|abnormality of the urethra|abnormal axial skeleton morphology|abnormality of the upper arm|abnormality of the choroid|abnormality of skeletal morphology|abnormality of the upper urinary tract|abnormality of male external genitalia|abnormal external genitalia|abnormality of the genitourinary system|abnormality of the male genitalia|arteriosclerosis|abnormality of head or neck|abnormality of the skeletal system|all|abnormality of the vertebral column|abnormality of the head|abnormal genital system morphology|abnormality of bone mineral density|stdv
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	arthritis	0.034056	0.9473	1	0	1		arthritis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	hypertension	0.10225	0.66534	1	0	1		hypertension
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the nervous system	-0.11006	0.63644	1	0	-1		abnormality of the nervous system
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	hypothyroidism	0.086319	0.55106	1	0	1		hypothyroidism
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the ovary	-0.079586	0.35199	1	0	-1		abnormality of the ovary
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	aneurysm	0.026498	0.72893	1	0	1		aneurysm
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of humoral immunity	-0.13246	0.12841	1	0	-1		abnormality of humoral immunity
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	insulin resistance	-0.26543	0.01135	1	0	-1		insulin resistance
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	urinary tract neoplasm	-0.0035412	1	1	0	-1		urinary tract neoplasm
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	behavioral abnormality	0.0038188	0.93978	1	0	1		behavioral abnormality
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	ischemic stroke	-0.098386	0.15034	1	0	-1		ischemic stroke
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	hearing abnormality	-0.074758	0.7626	1	0	-1		hearing abnormality
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the thyroid gland	-0.0051698	1	1	0	-1		abnormality of the thyroid gland
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the liver	0.0019168	0.98383	1	0	1		abnormality of the liver
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of renin-angiotensin system	0.086386	0.80709	1	0	1		abnormality of renin-angiotensin system
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the uterus	-0.017003	0.93133	1	0	-1		abnormality of the uterus
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	sleep-wake cycle disturbance	-0.012696	1	1	0	-1		sleep-wake cycle disturbance
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of coagulation	1.397	0.29992	1	0	1		abnormality of coagulation
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	congestive heart failure	0.057801	0.82803	1	0	1		congestive heart failure
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	immunodeficiency	0.17884	0.40763	1	0	1		immunodeficiency
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	morphological abnormality of the central nervous system	0.036182	0.79577	1	0	1		morphological abnormality of the central nervous system
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the ear	-0.011038	0.82977	1	0	-1		abnormality of the ear
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of leukocytes	-0.17484	0.31078	1	0	-1		abnormality of leukocytes
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of metabolism/homeostasis	0.044199	0.95719	1	0	1		abnormality of metabolism/homeostasis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	schizophrenia	0.011125	0.96224	1	0	1		schizophrenia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of blood and blood-forming tissues	0.061382	0.62064	1	0	1		abnormality of blood and blood-forming tissues
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	atherosclerosis	-0.074543	0.95095	1	0	-1		atherosclerosis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	psychosis	0.00081047	0.96529	1	0	1		psychosis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of cardiac morphology	-0.21625	0.12196	1	0	-1		abnormality of cardiac morphology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	myocardial infarction	-1.9786	0.13833	1	0	-1		myocardial infarction
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	hearing impairment	-0.00029655	1	1	0	-1		hearing impairment
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the myocardium	0.059675	0.59165	1	0	1		abnormality of the myocardium
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the coagulation cascade	0.3084	0.35465	1	0	1		abnormality of the coagulation cascade
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	seizures	-0.031972	0.86644	1	0	-1		seizures
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	autistic behavior	0.0047009	1	1	0	1		autistic behavior
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the vasculature	-0.029383	0.838	1	0	-1		abnormality of the vasculature
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	vitiligo	0.17195	0.73136	1	0	1		vitiligo
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	osteoarthritis	-0.20817	0.04605	1	0	-1		osteoarthritis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	neoplasm of the large intestine	-0.05616	0.43307	1	0	-1		neoplasm of the large intestine
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of brain morphology	-0.044488	0.078719	1	0	-1		abnormality of brain morphology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	anemia	-0.058794	0.25502	1	0	-1		anemia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	hematological neoplasm	-0.047558	0.61151	1	0	-1		hematological neoplasm
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	functional respiratory abnormality	0.21055	0.44217	1	0	1		functional respiratory abnormality
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of body height	0.021086	0.961	1	0	1		abnormality of body height
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	neoplasm of the gastrointestinal tract	-0.022106	0.13849	1	0	-1		neoplasm of the gastrointestinal tract
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of cellular immune system	-0.071417	0.03722	1	0	-1		abnormality of cellular immune system
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormal ekg	0.20883	0.45	1	0	1		abnormal ekg
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormal eye physiology	-0.029977	0.03373	1	0	-1		abnormal eye physiology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	phenotypic abnormality	0.19915	0.82977	1	0	1		phenotypic abnormality
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of circulating protein level	0.71522	0.65948	1	0	1		abnormality of circulating protein level
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	growth abnormality	-0.17481	0.43438	1	0	-1		growth abnormality
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	neoplasm	-1.1541	0.091089	1	0	-1		neoplasm
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of vitamin metabolism	0.12812	0.58887	1	0	1		abnormality of vitamin metabolism
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of nervous system physiology	-0.035365	0.25838	1	0	-1		abnormality of nervous system physiology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the cornea	0.03095	0.82926	1	0	1		abnormality of the cornea
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the abdomen	0.073253	0.69483	1	0	1		abnormality of the abdomen
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	ulcerative colitis	0.16185	0.69265	1	0	1		ulcerative colitis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of reproductive system physiology	-0.012714	1	1	0	-1		abnormality of reproductive system physiology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of thyroid physiology	-0.14256	0.21922	1	0	-1		abnormality of thyroid physiology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	biliary tract abnormality	0.035083	0.78773	1	0	1		biliary tract abnormality
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	chronic hepatitis	-0.027878	1	1	0	-1		chronic hepatitis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	hepatitis	-0.061941	0.51195	1	0	-1		hepatitis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	chronic obstructive pulmonary disease	-0.043191	0.68269	1	0	-1		chronic obstructive pulmonary disease
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of cardiovascular system physiology	-0.23274	0.86059	1	0	-1		abnormality of cardiovascular system physiology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the immune system	-0.0059863	0.97628	1	0	-1		abnormality of the immune system
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	vasculitis	0.07106	0.73337	1	0	1		vasculitis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	personality disorder	-0.041854	0.81286	1	0	-1		personality disorder
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	obstructive lung disease	0.049207	0.81817	1	0	1		obstructive lung disease
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	retinopathy	0.09354	0.58212	1	0	1		retinopathy
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	oral cleft	-0.03049	0.83529	1	0	-1		oral cleft
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of immune serum protein physiology	-0.041327	0.81939	1	0	-1		abnormality of immune serum protein physiology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of acid-base homeostasis	-3.3151	0.04718	1	0	-1		abnormality of acid-base homeostasis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the lung	-0.05515	0.74912	1	0	-1		abnormality of the lung
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the cardiovascular system	0.45623	0.91461	1	0	1		abnormality of the cardiovascular system
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	type ii diabetes mellitus	-0.23178	0.49256	1	0	-1		type ii diabetes mellitus
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the pharynx	0.43526	0.5896	1	0	1		abnormality of the pharynx|neoplasia of the nasopharynx|abnormality of the nasopharynx|abnormality of the nose
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of b cell physiology	0.018511	0.79071	1	0	1		abnormality of b cell physiology|abnormality of b cells|abnormal immunoglobulin level|abnormality of cell physiology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of cells of the erythroid lineage	-0.25037	0.12931	1	0	-1		abnormality of cells of the erythroid lineage|abnormality of bone marrow cell morphology|abnormality of erythrocytes
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of cardiac ventricle	0.022866	0.77712	1	0	1		abnormality of cardiac ventricle|abnormality of the left ventricle|ventricular hypertrophy|left ventricular hypertrophy
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the oral cavity	-0.072125	0.14854	1	0	-1		abnormality of the oral cavity|abnormality of the tongue|abnormality of taste sensation|abnormality of the mouth
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the uvea	-0.0074664	0.79076	1	0	-1		abnormality of the uvea|abnormality of the anterior segment of the eye
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	short attention span	-0.051144	0.61591	1	0	-1		short attention span|hyperactivity|attention deficit hyperactivity disorder|abnormality of movement
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of central motor function	-0.89632	0.055229	1	0	-1		abnormality of central motor function|parkinsonism|abnormality of extrapyramidal motor function
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	breast carcinoma	0.36619	0.98393	1	0	1		breast carcinoma|neoplasm of the breast|abnormality of the breast
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the esophagus	-0.050331	0.73119	1	0	-1		abnormality of the esophagus|esophageal neoplasm|esophageal carcinoma
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the endometrium	0.050624	0.59495	1	0	1		abnormality of the endometrium|endometrial carcinoma|uterine neoplasm
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	increased body weight	-0.58956	0.38563	1	0	-1		increased body weight|obesity|abnormality of body weight
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of skin physiology	0.089203	0.7964	1	0	1		abnormality of skin physiology|inflammatory abnormality of the skin|psoriasis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormal gallbladder morphology	-0.15686	0.01513	1	0	-1		abnormal gallbladder morphology|cholelithiasis|abnormality of the gallbladder
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	dyslexia	-0.0034787	0.89479	1	0	-1		dyslexia|specific learning disability|neurodevelopmental abnormality
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	acute myeloid leukemia	-0.16134	0.1141	1	0	-1		acute myeloid leukemia|neoplasm of the colon|colon cancer|diarrhea
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the prostate	-0.18739	0.29198	1	0	-1		abnormality of the prostate|prostate neoplasm|prostate cancer|abnormality of male internal genitalia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of carbohydrate metabolism/homeostasis	0.0307	0.82962	1	0	1		abnormality of carbohydrate metabolism/homeostasis|diabetes mellitus|type i diabetes mellitus|abnormality of the endocrine system|abnormal glucose homeostasis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	increased blood urea nitrogen (bun)	-0.16999	0.56817	1	0	-1		increased blood urea nitrogen (bun)|abnormalities of placenta or umbilical cord|abnormality of the placenta|abnormality of purine metabolism|abnormality of nucleobase metabolism|abnormality of the biliary system|abnormality of prenatal development or birth|leukemia|azotemia|abnormality of nitrogen compound homeostasis|abnormal platelet count|abnormality of the kidney|abnormal hemoglobin
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	chronic colitis	0.053294	0.47439	1	0	1		chronic colitis|inflammation of the large intestine|colitis|abnormality of the intestine|functional abnormality of the gastrointestinal tract|abnormality of the gastrointestinal tract|crohn's disease|abnormality of the large intestine|morphological abnormality of the gastrointestinal tract
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the integument	0.26331	0.65996	1	0	1		abnormality of the integument|generalized abnormality of skin|abnormality of skin pigmentation|abnormality of skin adnexa|abnormality of skin morphology|cutaneous photosensitivity|abnormality of the hair|abnormality of the eye|abnormality of the skin
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	nervous tissue neoplasm	0.027409	0.35892	1	0	1		nervous tissue neoplasm|neuroepithelial neoplasm|neuroectodermal neoplasm|malignant neoplasm of the central nervous system|neoplasm of the central nervous system|neoplasm of the nervous system|abnormality of the glial cells|neoplasm by histology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormal electrophysiology of sinoatrial node origin	-0.065489	0.41787	1	0	-1		abnormal electrophysiology of sinoatrial node origin|sick sinus syndrome|heart block|dilated cardiomyopathy|cardiomyopathy|malformation of the heart and great vessels|abnormal atrioventricular conduction|arrhythmia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the posterior segment of the eye	-0.090551	0.15432	1	0	-1		abnormality of the posterior segment of the eye|abnormality of the fundus|abnormality of the macula|macular degeneration|age-related macular degeneration|abnormality of the retina|abnormality of the globe|abnormal eye morphology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the hypothalamus-pituitary axis	-0.34247	0.21955	1	0	-1		abnormality of the hypothalamus-pituitary axis|abnormality of the pituitary gland|elevated follicle stimulating hormone|hyperpituitarism|gonadotropin excess|abnormality of the anterior pituitary
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	neutropenia	-0.22461	0.02068	1	0	-1		neutropenia|abnormal neutrophil cell number|leukopenia|abnormal leukocyte count|abnormality of granulocytes|abnormality of neutrophils
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	primary atrial arrhythmia	-0.8452	0.073859	1	0	-1		primary atrial arrhythmia|supraventricular tachycardia|atrial fibrillation|tachycardia|supraventricular arrhythmia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormal neuron morphology	-0.23813	0.056929	1	0	-1		abnormal neuron morphology|amyotrophic lateral sclerosis|atrophy/degeneration affecting the central nervous system|motor neuron atrophy|abnormal motor neuron morphology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormalities of the peripheral arteries	-0.46973	0.42948	1	0	-1		abnormalities of the peripheral arteries|arterial stenosis|abnormality of the coronary arteries|abnormality of the systemic arterial tree|coronary artery disease
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	genital neoplasm	-0.11231	0.072979	1	0	-1		genital neoplasm|gonadal neoplasm|abnormality of the testis|testicular neoplasm|neoplasm of the genitourinary tract
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	neoplasm of the respiratory system	0.030455	0.77431	1	0	1		neoplasm of the respiratory system|neoplasm of the lung|abnormality of the respiratory system|abnormal respiratory system morphology|neoplasm by anatomical site
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the genital system	-0.041146	0.10594	1	0	-1		abnormality of the genital system
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the female genitalia	-0.043817	0.13429	1	0	-1		abnormality of the female genitalia|menstrual irregularities|puberty and gonadal disorders|abnormal internal genitalia|abnormality of female internal genitalia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the menstrual cycle	-0.11748	0.14961	1	0	-1		abnormality of the menstrual cycle
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the cerebral vasculature	-0.055157	0.16187	1	0	-1		abnormality of the cerebral vasculature|abnormality of cerebral artery|stroke
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	gastrointestinal inflammation	0.1619	0.56292	1	0	1		gastrointestinal inflammation
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the urinary system physiology	0.068272	0.38159	1	0	1		abnormality of the urinary system physiology|nephropathy|abnormal renal physiology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	glioma	0.063906	0.73075	1	0	1		glioma
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	alzheimer disease	-0.030832	0.85664	1	0	-1		alzheimer disease|abnormality of nervous system morphology
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	acute lymphatic leukemia	-0.093292	0.57771	1	0	-1		acute lymphatic leukemia|acute leukemia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	aortic dilatation	-0.018178	0.68291	1	0	-1		aortic dilatation|abnormality of the aorta
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of circulating hormone level	-0.054368	0.61355	1	0	-1		abnormality of circulating hormone level|fasting hypoglycemia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	neoplasm of head and neck	-0.22479	0.15031	1	0	-1		neoplasm of head and neck
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of thrombocytes	-0.006495	0.94736	1	0	-1		abnormality of thrombocytes
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the level of lipoprotein cholesterol	0.36209	0.86383	1	0	1		abnormality of the level of lipoprotein cholesterol|abnormality of cholesterol metabolism
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the abdominal organs	-0.012934	0.44754	1	0	-1		abnormality of the abdominal organs
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	cerebral ischemia	-0.049193	0.15034	1	0	-1		cerebral ischemia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the face	0.018731	0.72256	1	0	1		abnormality of the face
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	lymphoma	-0.21386	0.4026	1	0	-1		lymphoma|abnormality of lymphocytes
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormal emotion/affect behavior	-0.014232	0.92008	1	0	-1		abnormal emotion/affect behavior|depression
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of myeloid leukocytes	0.0095472	0.88691	1	0	1		abnormality of myeloid leukocytes|abnormality of macrophages
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of the urinary system	0.31953	0.48523	1	0	1		abnormality of the urinary system
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormal joint morphology	-0.13343	0.32881	1	0	-1		abnormal joint morphology|rheumatoid arthritis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of lipid metabolism	-0.62749	0.66674	1	0	-1		abnormality of lipid metabolism
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	immunologic hypersensitivity	0.14122	0.64202	1	0	1		immunologic hypersensitivity|asthma
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of transition element cation homeostasis	0.080814	0.29803	1	0	1		abnormality of transition element cation homeostasis|abnormality of iron homeostasis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abdominal symptom	0.035482	0.48163	1	0	1		abdominal symptom|nausea and vomiting|headache
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	bipolar affective disorder	-0.076638	0.73799	1	0	-1		bipolar affective disorder|mania
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	ovarian cyst	0.19655	0.73098	1	0	1		ovarian cyst|polycystic ovaries
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	lipid accumulation in hepatocytes	-0.054447	0.71922	1	0	-1		lipid accumulation in hepatocytes|hepatic steatosis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	dementia	-0.083069	0.57812	1	0	-1		dementia|mental deterioration
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of circulating fibrinogen	0.22455	0.59172	1	0	1		abnormality of circulating fibrinogen|abnormality of the common coagulation pathway
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of cation homeostasis	0.06165	0.33708	1	0	1		abnormality of cation homeostasis|abnormality of ion homeostasis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormal thrombosis	1.497	0.43101	1	0	1		abnormal thrombosis|venous thrombosis
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormal hair quantity	0.13107	0.93395	1	0	1		abnormal hair quantity|alopecia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	shortened qt interval	0.14985	0.59679	1	0	1		shortened qt interval|prolonged qt interval
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of refraction	-0.11567	0.051189	1	0	-1		abnormality of refraction|myopia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	cardiac arrest	0.054782	0.63398	1	0	1		cardiac arrest|sudden cardiac death
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	recurrent infections	-0.13943	0.21792	1	0	-1		recurrent infections|recurrent viral infections
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	squamous cell carcinoma	0.055348	0.68515	1	0	1		squamous cell carcinoma|neoplasm of the skin
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	cognitive impairment	-0.16518	0.19843	1	0	-1		cognitive impairment|abnormality of higher mental function
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	sleep disturbance	0.10678	0.75233	1	0	1		sleep disturbance|hypersomnia
+GWASdb SNP-Phenotype Associations - Cleaned	gwasdbphenotype_cleaned	abnormality of immune system physiology	-0.00023372	0.99327	1	0	-1		abnormality of immune system physiology

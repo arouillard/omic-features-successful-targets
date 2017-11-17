@@ -1,0 +1,127 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	head and neck cancer	-0.16708	0.10411	1	0	-1		head and neck cancer|acute myeloid leukemia|hand, foot and mouth disease|diarrhea|colon cancer|myeloid leukemia|intestinal cancer|large intestine cancer|testicular cancer|colorectal cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	inherited blood coagulation disease	0.76968	0.51165	1	0	1		inherited blood coagulation disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	chronic obstructive pulmonary disease	0.1682	0.56835	1	0	1		chronic obstructive pulmonary disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	psychotic disorder	0.050579	0.60264	1	0	1		psychotic disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	vitiligo	0.17627	0.73439	1	0	1		vitiligo
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	vasculitis	0.072845	0.73612	1	0	1		vasculitis
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	hepatitis b	-0.030828	1	1	0	-1		hepatitis b
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	vascular dementia	-0.13915	0.21161	1	0	-1		vascular dementia
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	familial atrial fibrillation	0.20064	0.12231	1	0	1		familial atrial fibrillation
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	epilepsy syndrome	-0.035472	0.86725	1	0	-1		epilepsy syndrome
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	anxiety disorder	-0.092857	0.098989	1	0	-1		anxiety disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	diabetic retinopathy	0.09589	0.58096	1	0	1		diabetic retinopathy
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	anemia	-0.06945	0.3289	1	0	-1		anemia
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	blood coagulation disease	0.47222	0.81715	1	0	1		blood coagulation disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	cerebrovascular disease	1.1462	0.66052	1	0	1		cerebrovascular disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	autosomal genetic disease	0.098336	0.52222	1	0	1		autosomal genetic disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	metabolic syndrome x	0.23173	0.70324	1	0	1		metabolic syndrome x
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	vascular disease	0.40014	0.81809	1	0	1		vascular disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	lung small cell carcinoma	0.065426	0.60167	1	0	1		lung small cell carcinoma
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	cholecystolithiasis	-0.28343	0.01187	1	0	-1		cholecystolithiasis
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	heart conduction disease	0.31188	0.4683	1	0	1		heart conduction disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	brain disease	-0.018347	0.33772	1	0	-1		brain disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	end stage renal failure	0.17305	0.30587	1	0	1		end stage renal failure
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	cognitive disorder	-0.23739	0.30294	1	0	-1		cognitive disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	mental depression	0.13915	0.34639	1	0	1		mental depression
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	schizophrenia	0.019123	0.93605	1	0	1		schizophrenia
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	disease of mental health	-0.027421	0.3189	1	0	-1		disease of mental health
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	female reproductive system disease	-0.22133	0.0090899	1	0	-1		female reproductive system disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	osteoarthritis	-0.22029	0.04459	1	0	-1		osteoarthritis
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	muscular atrophy	0.093483	0.7327	1	0	1		muscular atrophy
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	nervous system cancer	0.034183	0.55155	1	0	1		nervous system cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	polycystic ovary syndrome	0.20149	0.73513	1	0	1		polycystic ovary syndrome
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	cancer	-1.184	0.11095	1	0	-1		cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	hypersensitivity reaction disease	0.031998	0.87976	1	0	1		hypersensitivity reaction disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	heart disease	-0.19768	0.35498	1	0	-1		heart disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	pulmonary embolism	-3.4573	0.051569	1	0	-1		pulmonary embolism
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	personality disorder	-0.04813	0.73321	1	0	-1		personality disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	type 1 diabetes mellitus	0.23851	0.69816	1	0	1		type 1 diabetes mellitus
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	female reproductive organ cancer	0.026578	0.42771	1	0	1		female reproductive organ cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	rheumatoid arthritis	-0.26831	0.30786	1	0	-1		rheumatoid arthritis
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	osteoporosis	-0.092939	0.54962	1	0	-1		osteoporosis
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	sensory system disease	-0.077887	0.52611	1	0	-1		sensory system disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	reproductive system disease	-0.12161	0.02913	1	0	-1		reproductive system disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	gallbladder disease	-0.055145	0.78043	1	0	-1		gallbladder disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	muscular disease	0.067579	0.57371	1	0	1		muscular disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	hematopoietic system disease	-0.22215	0.70784	1	0	-1		hematopoietic system disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	syndrome	0.044331	0.76381	1	0	1		syndrome
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	dyslexia	-0.034255	0.8661	1	0	-1		dyslexia
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	auditory system disease	-0.091589	0.60453	1	0	-1		auditory system disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	corneal disease	0.13645	0.59922	1	0	1		corneal disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	endometriosis	-0.040568	0.86761	1	0	-1		endometriosis
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	retinal vascular disease	0.047945	0.58096	1	0	1		retinal vascular disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	prion disease	-0.24019	0.21172	1	0	-1		prion disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	congestive heart failure	0.67049	0.69867	1	0	1		congestive heart failure
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	urinary system cancer	-0.0041839	1	1	0	-1		urinary system cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	drug dependence	-0.0082243	0.86412	1	0	-1		drug dependence
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	mouth disease	-0.060507	0.1704	1	0	-1		mouth disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	lung adenocarcinoma	0.015972	0.67014	1	0	1		lung adenocarcinoma
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	primary immunodeficiency disease	0.0035781	0.898	1	0	1		primary immunodeficiency disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	psoriasis	0.21287	0.76179	1	0	1		psoriasis
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	long qt syndrome	0.15361	0.60259	1	0	1		long qt syndrome
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	hypertension	0.67076	0.29636	1	0	1		hypertension
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	nicotine dependence	-0.21976	0.18159	1	0	-1		nicotine dependence
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	nervous system disease	-0.039317	0.19374	1	0	-1		nervous system disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	eye disease	0.013975	0.84637	1	0	1		eye disease|eye and adnexa disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	skin cancer	0.18636	0.81953	1	0	1		skin cancer|integumentary system cancer|autosomal dominant disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	lipid storage disease	-1.3986	0.04049	1	0	-1		lipid storage disease|lysosomal storage disease|fatty liver disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	developmental disorder of mental health	-0.063657	0.34039	1	0	-1		developmental disorder of mental health|specific developmental disorder|attention deficit hyperactivity disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	viral infectious disease	-0.016539	0.92826	1	0	-1		viral infectious disease|disease by infectious agent|human immunodeficiency virus infectious disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	intrinsic cardiomyopathy	-0.014705	0.79053	1	0	-1		intrinsic cardiomyopathy|cardiomyopathy|hypertrophic cardiomyopathy
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	obesity	-1.216	0.29986	1	0	-1		obesity
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	integumentary system disease	0.394	0.7005	1	0	1		integumentary system disease|hair disease|skin disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	acute lymphocytic leukemia	-0.082476	0.64637	1	0	-1		acute lymphocytic leukemia|acute leukemia|lymphoblastic leukemia
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	obsessive-compulsive disorder	-0.0026271	0.94902	1	0	-1		obsessive-compulsive disorder|gilles de la tourette syndrome|tic disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	agammaglobulinemia	0.074758	0.73537	1	0	1		agammaglobulinemia|blood protein disease|common variable immunodeficiency
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	endocrine system disease	-0.027503	0.79304	1	0	-1		endocrine system disease|hyperthyroidism|hypothyroidism|thyroid gland disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	biliary tract disease	0.047069	0.59963	1	0	1		biliary tract disease|sclerosing cholangitis|cholangitis|bile duct disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	synucleinopathy	-0.95403	0.051449	1	0	-1		synucleinopathy|parkinson's disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	bone inflammation disease	0.025366	0.86602	1	0	1		bone inflammation disease|connective tissue disease|arthritis|gout
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	intestinal disease	0.01687	0.85995	1	0	1		intestinal disease|inflammatory bowel disease|gastrointestinal system disease|crohn's disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	selective immunoglobulin deficiency disease	-0.0069391	0.91781	1	0	-1		selective immunoglobulin deficiency disease|dysgammaglobulinemia|b cell deficiency|selective ige deficiency disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	congenital hemolytic anemia	-0.20835	0.3289	1	0	-1		congenital hemolytic anemia|normocytic anemia|hemolytic anemia|hemoglobinopathy
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	neurodegenerative disease	-0.10901	0.56907	1	0	-1		neurodegenerative disease|alzheimer's disease|tauopathy|dementia|central nervous system disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	alcohol dependence	-0.066662	0.36954	1	0	-1		alcohol dependence|alcohol abuse|substance abuse|substance-related disorder|substance dependence
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	disease	-0.017465	0.71841	1	0	-1	mean	disease|mean|stdv
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	degeneration of macula and posterior pole	-0.16721	0.11643	1	0	-1		degeneration of macula and posterior pole|macular degeneration|age related macular degeneration|retinal degeneration|retinal disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	lower respiratory tract disease	0.17219	0.49145	1	0	1		lower respiratory tract disease|respiratory system disease|obstructive lung disease|bronchial disease|asthma|lung disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	lymphoma	-0.12489	0.28005	1	0	-1		lymphoma|lymphopenia|leukemia|leukopenia|leukocyte disease|immune system cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	von willebrand's disease	1.5562	0.34724	1	0	1		von willebrand's disease|factor viii deficiency|x-linked disease|vein disease|monogenic disease|genetic disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	artery disease	-0.17797	0.90904	1	0	-1		artery disease|disease of anatomical entity|arteriosclerosis|atherosclerosis|coronary artery disease|lipid metabolism disorder|arteriosclerotic cardiovascular disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	esophageal cancer	-0.030771	0.46986	1	0	-1		esophageal cancer|gastrointestinal system cancer|disease of cellular proliferation|squamous cell carcinoma|carcinoma|cell type cancer|organ system cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	acquired metabolic disease	-0.10651	0.7803	1	0	-1		acquired metabolic disease|disease of metabolism|carbohydrate metabolism disease|nutrition disease|glucose metabolism disease|overnutrition|diabetes mellitus|type 2 diabetes mellitus
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	male reproductive organ cancer	-0.14898	0.11943	1	0	-1		male reproductive organ cancer|reproductive organ cancer|prostate cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	myocardial infarction	-1.9375	0.12653	1	0	-1		myocardial infarction
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	autoimmune disease of gastrointestinal tract	0.08828	0.62856	1	0	1		autoimmune disease of gastrointestinal tract|celiac disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	colitis	0.16592	0.69641	1	0	1		colitis|ulcerative colitis
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	cardiovascular system disease	-1.9057	0.14157	1	0	-1		cardiovascular system disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	inherited metabolic disorder	-0.39901	0.17225	1	0	-1		inherited metabolic disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	mineral metabolism disease	0.16825	0.34344	1	0	1		mineral metabolism disease|iron metabolism disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	mood disorder	-0.080051	0.60294	1	0	-1		mood disorder|bipolar disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	musculoskeletal system disease	-0.022255	0.43137	1	0	-1		musculoskeletal system disease|bone disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	myopia	-0.13423	0.04265	1	0	-1		myopia|refractive error
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	myopathy	-0.15869	0.22084	1	0	-1		myopathy|muscle tissue disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	reading disorder	-0.061167	0.49963	1	0	-1		reading disorder|learning disability
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	hypersensitivity reaction type ii disease	0.028317	0.86868	1	0	1		hypersensitivity reaction type ii disease|hematologic cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	kidney failure	0.13554	0.26094	1	0	1		kidney failure|chronic kidney failure
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	sleep disorder	0.087653	0.79827	1	0	1		sleep disorder|narcolepsy
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	bone resorption disease	-0.041342	0.82936	1	0	-1		bone resorption disease|bone remodeling disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	lung cancer	-0.044132	0.75971	1	0	-1		lung cancer|respiratory system cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	cholesterol ester storage disease	-1.2391	0.21404	1	0	-1		cholesterol ester storage disease|cholesterol embolism
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	gonadal disease	-0.52055	0.11441	1	0	-1		gonadal disease|ovarian disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	orofacial cleft	-0.031475	0.75867	1	0	-1		orofacial cleft|physical disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	hepatobiliary disease	0.0063721	0.85709	1	0	1		hepatobiliary disease|liver disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	nasopharynx carcinoma	0.38561	0.69647	1	0	1		nasopharynx carcinoma|pharynx cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	uterine cancer	0.039833	0.60121	1	0	1		uterine cancer|endometrial cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	lung carcinoma	0.064135	0.36367	1	0	1		lung carcinoma|non-small cell lung carcinoma
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	autism spectrum disorder	-0.029012	0.86744	1	0	-1		autism spectrum disorder|pervasive developmental disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	hypotrichosis	0.12974	0.93652	1	0	1		hypotrichosis|alopecia
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	breast cancer	0.27017	0.98937	1	0	1		breast cancer|thoracic cancer
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	iris disease	0.43809	0.59383	1	0	1		iris disease|uveal disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	agranulocytosis	-0.30591	0.02757	1	0	-1		agranulocytosis|neutropenia
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	amyotrophic lateral sclerosis	-0.25611	0.054559	1	0	-1		amyotrophic lateral sclerosis|motor neuron disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	endogenous depression	-0.061252	0.69239	1	0	-1		endogenous depression|major depressive disorder
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	multiple sclerosis	-0.15622	0.53082	1	0	-1		multiple sclerosis|demyelinating disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	urinary system disease	0.10904	0.61567	1	0	1		urinary system disease|kidney disease
+GWASdb SNP-Disease Associations - Cleaned	gwasdbdisease_cleaned	immune system disease	-0.059801	0.70811	1	0	-1		immune system disease

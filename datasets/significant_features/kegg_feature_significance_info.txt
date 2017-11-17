@@ -1,0 +1,180 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+KEGG Pathways	kegg	Cell adhesion molecules (CAMs)	-0.089922	0.00123	0.42326	0	-1		Cell adhesion molecules (CAMs)
+KEGG Pathways	kegg	Leukocyte transendothelial migration	-0.089922	0.00107	0.42326	0	-1		Leukocyte transendothelial migration
+KEGG Pathways	kegg	Epstein-Barr virus infection	-0.1021	0.00079999	0.42326	0	-1		Epstein-Barr virus infection
+KEGG Pathways	kegg	Drug metabolism - other enzymes	0.016878	0.5837	1	0	1		Drug metabolism - other enzymes
+KEGG Pathways	kegg	Starch and sucrose metabolism	-0.020129	0.58797	1	0	-1		Starch and sucrose metabolism
+KEGG Pathways	kegg	Histidine metabolism	0.012658	0.60795	1	0	1		Histidine metabolism
+KEGG Pathways	kegg	Phospholipase D signaling pathway	0.0094072	1	1	0	1		Phospholipase D signaling pathway
+KEGG Pathways	kegg	Pyrimidine metabolism	-0.024348	0.18977	1	0	-1		Pyrimidine metabolism
+KEGG Pathways	kegg	mTOR signaling pathway	-0.0037352	1	1	0	-1		mTOR signaling pathway
+KEGG Pathways	kegg	Galactose metabolism	0.00048419	1	1	0	1		Galactose metabolism
+KEGG Pathways	kegg	Long-term depression	-0.020129	0.58809	1	0	-1		Long-term depression
+KEGG Pathways	kegg	Allograft rejection	0.0096694	0.53117	1	0	1		Allograft rejection|Type I diabetes mellitus|Graft-versus-host disease|Autoimmune thyroid disease
+KEGG Pathways	kegg	Renin-angiotensin system	0.021097	0.37665	1	0	1		Renin-angiotensin system
+KEGG Pathways	kegg	NF-kappa B signaling pathway	-0.056167	0.10712	1	0	-1		NF-kappa B signaling pathway
+KEGG Pathways	kegg	Osteoclast differentiation	-0.014941	0.74937	1	0	-1		Osteoclast differentiation
+KEGG Pathways	kegg	Herpes simplex infection	-0.014941	0.74687	1	0	-1		Herpes simplex infection
+KEGG Pathways	kegg	Proteoglycans in cancer	-0.010721	0.75878	1	0	-1		Proteoglycans in cancer
+KEGG Pathways	kegg	Steroid hormone biosynthesis	-0.0037352	1	1	0	-1		Steroid hormone biosynthesis
+KEGG Pathways	kegg	Sphingolipid signaling pathway	-0.028083	0.36625	1	0	-1		Sphingolipid signaling pathway
+KEGG Pathways	kegg	Longevity regulating pathway - mammal	0.00048419	1	1	0	1		Longevity regulating pathway - mammal
+KEGG Pathways	kegg	Thyroid hormone synthesis	-0.024348	0.18476	1	0	-1		Thyroid hormone synthesis
+KEGG Pathways	kegg	Pertussis	0.0051878	1	1	0	1		Pertussis
+KEGG Pathways	kegg	Ras signaling pathway	-0.01916	0.74444	1	0	-1		Ras signaling pathway
+KEGG Pathways	kegg	HIF-1 signaling pathway	0.017846	0.74113	1	0	1		HIF-1 signaling pathway
+KEGG Pathways	kegg	Acute myeloid leukemia	0.012658	0.60855	1	0	1		Acute myeloid leukemia
+KEGG Pathways	kegg	AGE-RAGE signaling pathway in diabetic complications	-0.076779	0.02734	1	0	-1		AGE-RAGE signaling pathway in diabetic complications
+KEGG Pathways	kegg	Small cell lung cancer	-0.0037352	1	1	0	-1		Small cell lung cancer
+KEGG Pathways	kegg	Regulation of actin cytoskeleton	-0.051947	0.12579	1	0	-1		Regulation of actin cytoskeleton
+KEGG Pathways	kegg	Rap1 signaling pathway	-0.051463	0.27229	1	0	-1		Rap1 signaling pathway
+KEGG Pathways	kegg	Axon guidance	-0.0079546	1	1	0	-1		Axon guidance
+KEGG Pathways	kegg	Salmonella infection	0.017362	0.69144	1	0	1		Salmonella infection
+KEGG Pathways	kegg	Thyroid hormone signaling pathway	-0.020129	0.58477	1	0	-1		Thyroid hormone signaling pathway
+KEGG Pathways	kegg	Ovarian steroidogenesis	0.008923	1	1	0	1		Ovarian steroidogenesis
+KEGG Pathways	kegg	Tryptophan metabolism	-0.0037352	1	1	0	-1		Tryptophan metabolism
+KEGG Pathways	kegg	Phenylalanine metabolism	0.016878	0.58338	1	0	1		Phenylalanine metabolism
+KEGG Pathways	kegg	Carbon metabolism	-0.028567	0.10814	1	0	-1		Carbon metabolism
+KEGG Pathways	kegg	Glycerolipid metabolism	0.016878	0.58463	1	0	1		Glycerolipid metabolism
+KEGG Pathways	kegg	Choline metabolism in cancer	-0.0037352	1	1	0	-1		Choline metabolism in cancer
+KEGG Pathways	kegg	Oocyte meiosis	0.012658	0.60875	1	0	1		Oocyte meiosis
+KEGG Pathways	kegg	cAMP signaling pathway	0.093795	0.03644	1	0	1		cAMP signaling pathway
+KEGG Pathways	kegg	Insulin secretion	-0.052431	0.074369	1	0	-1		Insulin secretion
+KEGG Pathways	kegg	Complement and coagulation cascades	0.051601	0.1891	1	0	1		Complement and coagulation cascades
+KEGG Pathways	kegg	Intestinal immune network for IgA production	0.008923	1	1	0	1		Intestinal immune network for IgA production
+KEGG Pathways	kegg	Neurotrophin signaling pathway	-0.028567	0.10654	1	0	-1		Neurotrophin signaling pathway
+KEGG Pathways	kegg	cGMP-PKG signaling pathway	0.059556	0.13798	1	0	1		cGMP-PKG signaling pathway
+KEGG Pathways	kegg	Endocrine and other factor-regulated calcium reabsorption	0.0047036	1	1	0	1		Endocrine and other factor-regulated calcium reabsorption
+KEGG Pathways	kegg	Hematopoietic cell lineage	-0.026631	0.58775	1	0	-1		Hematopoietic cell lineage
+KEGG Pathways	kegg	Morphine addiction	-0.011206	0.71543	1	0	-1		Morphine addiction
+KEGG Pathways	kegg	Neuroactive ligand-receptor interaction	0.098153	0.14148	1	0	1		Neuroactive ligand-receptor interaction
+KEGG Pathways	kegg	Oxytocin signaling pathway	0.021581	0.48559	1	0	1		Oxytocin signaling pathway
+KEGG Pathways	kegg	Adrenergic signaling in cardiomyocytes	0.021581	0.48409	1	0	1		Adrenergic signaling in cardiomyocytes
+KEGG Pathways	kegg	Non-alcoholic fatty liver disease (NAFLD)	0.021581	0.48192	1	0	1		Non-alcoholic fatty liver disease (NAFLD)
+KEGG Pathways	kegg	Alzheimer's disease	-0.040257	0.22308	1	0	-1		Alzheimer's disease
+KEGG Pathways	kegg	Parkinson's disease	0.021097	0.37715	1	0	1		Parkinson's disease
+KEGG Pathways	kegg	Alcoholism	0.0051878	1	1	0	1		Alcoholism
+KEGG Pathways	kegg	GABAergic synapse	-0.028083	0.3696	1	0	-1		GABAergic synapse
+KEGG Pathways	kegg	Glycosaminoglycan degradation	0.029536	0.35106	1	0	1		Glycosaminoglycan degradation
+KEGG Pathways	kegg	Jak-STAT signaling pathway	0.018814	0.79457	1	0	1		Jak-STAT signaling pathway
+KEGG Pathways	kegg	Signaling pathways regulating pluripotency of stem cells	0.0047036	1	1	0	1		Signaling pathways regulating pluripotency of stem cells
+KEGG Pathways	kegg	Transcriptional misregulation in cancer	0.042194	0.13152	1	0	1		Transcriptional misregulation in cancer
+KEGG Pathways	kegg	Measles	0.022065	0.54649	1	0	1		Measles
+KEGG Pathways	kegg	Endocytosis	0.038459	0.31423	1	0	1		Endocytosis
+KEGG Pathways	kegg	MicroRNAs in cancer	-0.0069862	1	1	0	-1		MicroRNAs in cancer
+KEGG Pathways	kegg	Metabolic pathways	0.017016	0.84677	1	0	1		Metabolic pathways
+KEGG Pathways	kegg	RIG-I-like receptor signaling pathway	-0.015909	0.60454	1	0	-1		RIG-I-like receptor signaling pathway
+KEGG Pathways	kegg	Lysosome	0.046414	0.12904	1	0	1		Lysosome
+KEGG Pathways	kegg	Hepatitis C	-0.015425	0.70175	1	0	-1		Hepatitis C
+KEGG Pathways	kegg	PI3K-Akt signaling pathway	-0.017223	0.82501	1	0	-1		PI3K-Akt signaling pathway
+KEGG Pathways	kegg	Renal cell carcinoma	-0.0079546	1	1	0	-1		Renal cell carcinoma
+KEGG Pathways	kegg	Vitamin digestion and absorption	0.016878	0.58625	1	0	1		Vitamin digestion and absorption
+KEGG Pathways	kegg	Amyotrophic lateral sclerosis (ALS)	-0.069309	0.01056	1	0	-1		Amyotrophic lateral sclerosis (ALS)
+KEGG Pathways	kegg	Long-term potentiation	-0.036522	0.10178	1	0	-1		Long-term potentiation
+KEGG Pathways	kegg	Bile secretion	0.029536	0.35146	1	0	1		Bile secretion
+KEGG Pathways	kegg	Protein digestion and absorption	-0.020129	0.58742	1	0	-1		Protein digestion and absorption
+KEGG Pathways	kegg	Primary immunodeficiency	-0.0079546	1	1	0	-1		Primary immunodeficiency
+KEGG Pathways	kegg	Chemokine signaling pathway	-0.015909	0.60603	1	0	-1		Chemokine signaling pathway
+KEGG Pathways	kegg	Pancreatic cancer	-0.0037352	1	1	0	-1		Pancreatic cancer
+KEGG Pathways	kegg	Pathways in cancer	0.044615	0.38426	1	0	1		Pathways in cancer
+KEGG Pathways	kegg	ErbB signaling pathway	-0.0079546	1	1	0	-1		ErbB signaling pathway
+KEGG Pathways	kegg	TGF-beta signaling pathway	-0.01169	0.63436	1	0	-1		TGF-beta signaling pathway
+KEGG Pathways	kegg	Gap junction	0.00096839	1	1	0	1		Gap junction
+KEGG Pathways	kegg	Central carbon metabolism in cancer	0.013142	0.69578	1	0	1		Central carbon metabolism in cancer
+KEGG Pathways	kegg	PPAR signaling pathway	0.016878	0.58282	1	0	1		PPAR signaling pathway
+KEGG Pathways	kegg	Arachidonic acid metabolism	0.016878	0.58399	1	0	1		Arachidonic acid metabolism
+KEGG Pathways	kegg	Sphingolipid metabolism	0.012658	0.6111	1	0	1		Sphingolipid metabolism
+KEGG Pathways	kegg	Purine metabolism	0.025801	0.47168	1	0	1		Purine metabolism
+KEGG Pathways	kegg	Tuberculosis	-0.092689	0.02526	1	0	-1		Tuberculosis
+KEGG Pathways	kegg	Melanoma	0.00048419	1	1	0	1		Melanoma
+KEGG Pathways	kegg	African trypanosomiasis	-0.0074704	1	1	0	-1		African trypanosomiasis
+KEGG Pathways	kegg	Chagas disease (American trypanosomiasis)	-0.006502	1	1	0	-1		Chagas disease (American trypanosomiasis)
+KEGG Pathways	kegg	Toll-like receptor signaling pathway	0.013627	0.74426	1	0	1		Toll-like receptor signaling pathway
+KEGG Pathways	kegg	Taste transduction	0.025801	0.47015	1	0	1		Taste transduction
+KEGG Pathways	kegg	Nicotine addiction	-0.048696	0.058069	1	0	-1		Nicotine addiction
+KEGG Pathways	kegg	Amphetamine addiction	0.0051878	1	1	0	1		Amphetamine addiction
+KEGG Pathways	kegg	Vascular smooth muscle contraction	0.0051878	1	1	0	1		Vascular smooth muscle contraction
+KEGG Pathways	kegg	Cardiac muscle contraction	0.016878	0.58507	1	0	1		Cardiac muscle contraction
+KEGG Pathways	kegg	Huntington's disease	-0.040742	0.058009	1	0	-1		Huntington's disease
+KEGG Pathways	kegg	Staphylococcus aureus infection	-0.036522	0.10238	1	0	-1		Staphylococcus aureus infection
+KEGG Pathways	kegg	Viral myocarditis	-0.044961	0.02726	1	0	-1		Viral myocarditis
+KEGG Pathways	kegg	Inflammatory mediator regulation of TRP channels	0.0051878	1	1	0	1		Inflammatory mediator regulation of TRP channels
+KEGG Pathways	kegg	Natural killer cell mediated cytotoxicity	-0.073044	0.01924	1	0	-1		Natural killer cell mediated cytotoxicity
+KEGG Pathways	kegg	Malaria	-0.039773	0.32045	1	0	-1		Malaria
+KEGG Pathways	kegg	Adherens junction	0.00048419	1	1	0	1		Adherens junction
+KEGG Pathways	kegg	Glioma	0.00048419	1	1	0	1		Glioma
+KEGG Pathways	kegg	Melanogenesis	-0.0037352	1	1	0	-1		Melanogenesis
+KEGG Pathways	kegg	Retinol metabolism	-0.028567	0.10802	1	0	-1		Retinol metabolism
+KEGG Pathways	kegg	Arginine and proline metabolism	0.021097	0.37614	1	0	1		Arginine and proline metabolism
+KEGG Pathways	kegg	AMPK signaling pathway	0.033755	0.21137	1	0	1		AMPK signaling pathway
+KEGG Pathways	kegg	Adipocytokine signaling pathway	0.00048419	1	1	0	1		Adipocytokine signaling pathway
+KEGG Pathways	kegg	NOD-like receptor signaling pathway	-0.015909	0.60803	1	0	-1		NOD-like receptor signaling pathway
+KEGG Pathways	kegg	Prolactin signaling pathway	-0.036522	0.10068	1	0	-1		Prolactin signaling pathway
+KEGG Pathways	kegg	Regulation of autophagy	-0.0079546	1	1	0	-1		Regulation of autophagy
+KEGG Pathways	kegg	Progesterone-mediated oocyte maturation	-0.0079546	1	1	0	-1		Progesterone-mediated oocyte maturation
+KEGG Pathways	kegg	mean	-0.004247	0.21909	1	0	-1	mean	mean|stdv
+KEGG Pathways	kegg	Hypertrophic cardiomyopathy (HCM)	-0.00097787	1	1	0	-1		Hypertrophic cardiomyopathy (HCM)|Dilated cardiomyopathy
+KEGG Pathways	kegg	Chemical carcinogenesis	0.0011063	1	1	0	1		Chemical carcinogenesis|Drug metabolism - cytochrome P450
+KEGG Pathways	kegg	Glutamatergic synapse	-0.036522	0.10178	1	0	-1		Glutamatergic synapse
+KEGG Pathways	kegg	Dopaminergic synapse	0.0014526	1	1	0	1		Dopaminergic synapse
+KEGG Pathways	kegg	Prostate cancer	0.033755	0.21619	1	0	1		Prostate cancer
+KEGG Pathways	kegg	Non-small cell lung cancer	-0.0079546	1	1	0	-1		Non-small cell lung cancer
+KEGG Pathways	kegg	Cholinergic synapse	-0.044477	0.088629	1	0	-1		Cholinergic synapse
+KEGG Pathways	kegg	Retrograde endocannabinoid signaling	-0.056651	0.051199	1	0	-1		Retrograde endocannabinoid signaling
+KEGG Pathways	kegg	Cocaine addiction	0.017362	0.69153	1	0	1		Cocaine addiction
+KEGG Pathways	kegg	Circadian entrainment	-0.01169	0.63464	1	0	-1		Circadian entrainment
+KEGG Pathways	kegg	Salivary secretion	-0.003251	1	1	0	-1		Salivary secretion
+KEGG Pathways	kegg	Gastric acid secretion	0.017362	0.69067	1	0	1		Gastric acid secretion
+KEGG Pathways	kegg	Mineral absorption	-0.0037352	1	1	0	-1		Mineral absorption
+KEGG Pathways	kegg	Influenza A	-0.043508	0.23971	1	0	-1		Influenza A
+KEGG Pathways	kegg	Bladder cancer	0.021097	0.37472	1	0	1		Bladder cancer
+KEGG Pathways	kegg	ECM-receptor interaction	-0.036522	0.10253	1	0	-1		ECM-receptor interaction
+KEGG Pathways	kegg	HTLV-I infection	-0.052431	0.074509	1	0	-1		HTLV-I infection
+KEGG Pathways	kegg	Systemic lupus erythematosus	0.00048419	1	1	0	1		Systemic lupus erythematosus
+KEGG Pathways	kegg	Glucagon signaling pathway	-0.020129	0.58643	1	0	-1		Glucagon signaling pathway
+KEGG Pathways	kegg	Hippo signaling pathway	-0.057135	0.01755	1	0	-1		Hippo signaling pathway
+KEGG Pathways	kegg	Type II diabetes mellitus	0.008923	1	1	0	1		Type II diabetes mellitus
+KEGG Pathways	kegg	Serotonergic synapse	0.034724	0.38425	1	0	1		Serotonergic synapse
+KEGG Pathways	kegg	Insulin resistance	-0.023864	0.39614	1	0	-1		Insulin resistance
+KEGG Pathways	kegg	Insulin signaling pathway	-0.024348	0.18659	1	0	-1		Insulin signaling pathway
+KEGG Pathways	kegg	Carbohydrate digestion and absorption	-0.0079546	1	1	0	-1		Carbohydrate digestion and absorption
+KEGG Pathways	kegg	GnRH signaling pathway	-0.015909	0.60581	1	0	-1		GnRH signaling pathway
+KEGG Pathways	kegg	VEGF signaling pathway	-0.020129	0.58541	1	0	-1		VEGF signaling pathway
+KEGG Pathways	kegg	Platelet activation	0.0094072	1	1	0	1		Platelet activation
+KEGG Pathways	kegg	Calcium signaling pathway	0.098983	0.064149	1	0	1		Calcium signaling pathway
+KEGG Pathways	kegg	Regulation of lipolysis in adipocytes	0.017362	0.68873	1	0	1		Regulation of lipolysis in adipocytes
+KEGG Pathways	kegg	Longevity regulating pathway - multiple species	-0.020129	0.58585	1	0	-1		Longevity regulating pathway - multiple species
+KEGG Pathways	kegg	Renin secretion	0.067511	0.04958	1	0	1		Renin secretion
+KEGG Pathways	kegg	Pancreatic secretion	0.021581	0.48582	1	0	1		Pancreatic secretion
+KEGG Pathways	kegg	Aldosterone-regulated sodium reabsorption	0.00048419	1	1	0	1		Aldosterone-regulated sodium reabsorption
+KEGG Pathways	kegg	Epithelial cell signaling in Helicobacter pylori infection	-0.0079546	1	1	0	-1		Epithelial cell signaling in Helicobacter pylori infection
+KEGG Pathways	kegg	Rheumatoid arthritis	-0.027115	0.54462	1	0	-1		Rheumatoid arthritis
+KEGG Pathways	kegg	Prion diseases	-0.0037352	1	1	0	-1		Prion diseases
+KEGG Pathways	kegg	Fc epsilon RI signaling pathway	-0.020129	0.58675	1	0	-1		Fc epsilon RI signaling pathway
+KEGG Pathways	kegg	Cytokine-cytokine receptor interaction	0.0043578	1	1	0	1		Cytokine-cytokine receptor interaction
+KEGG Pathways	kegg	Toxoplasmosis	-0.027599	0.4777	1	0	-1		Toxoplasmosis
+KEGG Pathways	kegg	Arginine biosynthesis	0.012658	0.61017	1	0	1		Arginine biosynthesis
+KEGG Pathways	kegg	FoxO signaling pathway	-0.028083	0.36719	1	0	-1		FoxO signaling pathway
+KEGG Pathways	kegg	Cytosolic DNA-sensing pathway	-0.0037352	1	1	0	-1		Cytosolic DNA-sensing pathway
+KEGG Pathways	kegg	Steroid biosynthesis	-0.0079546	1	1	0	-1		Steroid biosynthesis
+KEGG Pathways	kegg	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	-0.0037352	1	1	0	-1		Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+KEGG Pathways	kegg	T cell receptor signaling pathway	-0.01169	0.63467	1	0	-1		T cell receptor signaling pathway
+KEGG Pathways	kegg	B cell receptor signaling pathway	-0.028567	0.10878	1	0	-1		B cell receptor signaling pathway
+KEGG Pathways	kegg	Antigen processing and presentation	-0.0079546	1	1	0	-1		Antigen processing and presentation
+KEGG Pathways	kegg	Inflammatory bowel disease (IBD)	0.03002	0.46877	1	0	1		Inflammatory bowel disease (IBD)
+KEGG Pathways	kegg	Legionellosis	-0.003251	1	1	0	-1		Legionellosis
+KEGG Pathways	kegg	TNF signaling pathway	-0.048696	0.059219	1	0	-1		TNF signaling pathway
+KEGG Pathways	kegg	Phagosome	-0.024348	0.18727	1	0	-1		Phagosome
+KEGG Pathways	kegg	Leishmaniasis	-0.039773	0.32034	1	0	-1		Leishmaniasis
+KEGG Pathways	kegg	Hepatitis B	-0.015425	0.69807	1	0	-1		Hepatitis B
+KEGG Pathways	kegg	Amoebiasis	-0.02338	0.49566	1	0	-1		Amoebiasis
+KEGG Pathways	kegg	Focal adhesion	-0.056651	0.052149	1	0	-1		Focal adhesion
+KEGG Pathways	kegg	MAPK signaling pathway	-0.043508	0.24037	1	0	-1		MAPK signaling pathway
+KEGG Pathways	kegg	Shigellosis	-0.0037352	1	1	0	-1		Shigellosis
+KEGG Pathways	kegg	Pathogenic Escherichia coli infection	0.012658	0.60933	1	0	1		Pathogenic Escherichia coli infection
+KEGG Pathways	kegg	Apoptosis	-0.044961	0.02947	1	0	-1		Apoptosis
+KEGG Pathways	kegg	Tyrosine metabolism	0.029536	0.35033	1	0	1		Tyrosine metabolism
+KEGG Pathways	kegg	Peroxisome	-0.020129	0.58498	1	0	-1		Peroxisome
+KEGG Pathways	kegg	Fat digestion and absorption	0.016878	0.58424	1	0	1		Fat digestion and absorption
+KEGG Pathways	kegg	Estrogen signaling pathway	0.0047036	1	1	0	1		Estrogen signaling pathway
+KEGG Pathways	kegg	Aldosterone synthesis and secretion	0.0047036	1	1	0	1		Aldosterone synthesis and secretion

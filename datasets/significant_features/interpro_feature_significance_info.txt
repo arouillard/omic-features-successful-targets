@@ -1,0 +1,64 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+InterPro Predicted Protein Domain Annotations	interpro	Nuclear hormone receptor, ligand-binding, core	0.012898	0.74145	1	0	1		Nuclear hormone receptor, ligand-binding, core|Nuclear hormone receptor, ligand-binding|Zinc finger, nuclear hormone receptor-type|Steroid hormone receptor|Zinc finger, NHR/GATA-type
+InterPro Predicted Protein Domain Annotations	interpro	Aldolase-type TIM barrel	0.015504	0.58188	1	0	1		Aldolase-type TIM barrel
+InterPro Predicted Protein Domain Annotations	interpro	Alpha/Beta hydrolase fold	-0.0087892	1	1	0	-1		Alpha/Beta hydrolase fold
+InterPro Predicted Protein Domain Annotations	interpro	Insulin-like growth factor binding protein, N-terminal	0.01938	0.36244	1	0	1		Insulin-like growth factor binding protein, N-terminal
+InterPro Predicted Protein Domain Annotations	interpro	Tumour necrosis factor domain	0.011628	0.60111	1	0	1		Tumour necrosis factor domain
+InterPro Predicted Protein Domain Annotations	interpro	Furin-like repeat	0.011628	0.60059	1	0	1		Furin-like repeat
+InterPro Predicted Protein Domain Annotations	interpro	Tyrosine-protein kinase, receptor class II, conserved site	-0.0063326	1	1	0	-1		Tyrosine-protein kinase, receptor class II, conserved site
+InterPro Predicted Protein Domain Annotations	interpro	Fibronectin type III	-0.0020745	1	1	0	-1		Fibronectin type III
+InterPro Predicted Protein Domain Annotations	interpro	Interleukin-6 receptor alpha, binding	-0.0063326	1	1	0	-1		Interleukin-6 receptor alpha, binding
+InterPro Predicted Protein Domain Annotations	interpro	Cysteine-rich flanking region, C-terminal	-0.0063326	1	1	0	-1		Cysteine-rich flanking region, C-terminal
+InterPro Predicted Protein Domain Annotations	interpro	Glycoprotein hormone receptor family	-0.0063326	1	1	0	-1		Glycoprotein hormone receptor family
+InterPro Predicted Protein Domain Annotations	interpro	Voltage-dependent channel, four helix bundle domain	0.01938	0.36437	1	0	1		Voltage-dependent channel, four helix bundle domain
+InterPro Predicted Protein Domain Annotations	interpro	Fibroblast growth factor receptor family	0.011628	0.60283	1	0	1		Fibroblast growth factor receptor family
+InterPro Predicted Protein Domain Annotations	interpro	Toll/interleukin-1 receptor homology (TIR) domain	0.015504	0.58111	1	0	1		Toll/interleukin-1 receptor homology (TIR) domain
+InterPro Predicted Protein Domain Annotations	interpro	Ion transport domain	0.031008	0.20846	1	0	1		Ion transport domain
+InterPro Predicted Protein Domain Annotations	interpro	Peptidase S1A, coagulation factor VII/IX/X/C/Z	0.015504	0.58037	1	0	1		Peptidase S1A, coagulation factor VII/IX/X/C/Z
+InterPro Predicted Protein Domain Annotations	interpro	Long hematopoietin receptor, soluble alpha chain, conserved site	-0.0024566	1	1	0	-1		Long hematopoietin receptor, soluble alpha chain, conserved site
+InterPro Predicted Protein Domain Annotations	interpro	Prostanoid receptor	0.01938	0.3634	1	0	1		Prostanoid receptor
+InterPro Predicted Protein Domain Annotations	interpro	Muscarinic acetylcholine receptor family	-0.0063326	1	1	0	-1		Muscarinic acetylcholine receptor family
+InterPro Predicted Protein Domain Annotations	interpro	Dopamine receptor family	0.011628	0.60112	1	0	1		Dopamine receptor family
+InterPro Predicted Protein Domain Annotations	interpro	Cytokine, IL-1-like	-0.0063326	1	1	0	-1		Cytokine, IL-1-like
+InterPro Predicted Protein Domain Annotations	interpro	von Willebrand factor, type A	-0.012665	0.61326	1	0	-1		von Willebrand factor, type A
+InterPro Predicted Protein Domain Annotations	interpro	Voltage-dependent calcium channel, alpha-1 subunit	0.011628	0.60148	1	0	1		Voltage-dependent calcium channel, alpha-1 subunit
+InterPro Predicted Protein Domain Annotations	interpro	Adrenoceptor family	0.01938	0.3635	1	0	1		Adrenoceptor family
+InterPro Predicted Protein Domain Annotations	interpro	5-hydroxytryptamine receptor family	0.015504	0.57961	1	0	1		5-hydroxytryptamine receptor family
+InterPro Predicted Protein Domain Annotations	interpro	GPCR, family 3, C-terminal	-0.0063326	1	1	0	-1		GPCR, family 3, C-terminal
+InterPro Predicted Protein Domain Annotations	interpro	Major facilitator superfamily	0.011628	0.59616	1	0	1		Major facilitator superfamily
+InterPro Predicted Protein Domain Annotations	interpro	Major facilitator superfamily domain	0.011628	0.59616	1	0	1		Major facilitator superfamily domain
+InterPro Predicted Protein Domain Annotations	interpro	Sodium:neurotransmitter symporter	0.0014194	1	1	0	1		Sodium:neurotransmitter symporter
+InterPro Predicted Protein Domain Annotations	interpro	Immunoglobulin	-0.0024566	1	1	0	-1		Immunoglobulin
+InterPro Predicted Protein Domain Annotations	interpro	Metallopeptidase, catalytic domain	0.011628	0.60092	1	0	1		Metallopeptidase, catalytic domain
+InterPro Predicted Protein Domain Annotations	interpro	Sushi/SCR/CCP domain	0.015504	0.57867	1	0	1		Sushi/SCR/CCP domain
+InterPro Predicted Protein Domain Annotations	interpro	EF-hand domain pair	0.011628	0.59888	1	0	1		EF-hand domain pair
+InterPro Predicted Protein Domain Annotations	interpro	Neurotransmitter-gated ion-channel, conserved site	-0.032932	0.050369	1	0	-1		Neurotransmitter-gated ion-channel, conserved site|Neurotransmitter-gated ion-channel transmembrane domain|Neurotransmitter-gated ion-channel|Neurotransmitter-gated ion-channel ligand-binding domain|Gamma-aminobutyric acid A receptor/Glycine receptor alpha
+InterPro Predicted Protein Domain Annotations	interpro	Transforming growth factor-beta, C-terminal	-0.021476	0.12194	1	0	-1		Transforming growth factor-beta, C-terminal|Transforming growth factor-beta-related|Transforming growth factor beta, conserved site|Transforming growth factor-beta, N-terminal|Cystine-knot cytokine
+InterPro Predicted Protein Domain Annotations	interpro	3'5'-cyclic nucleotide phosphodiesterase, catalytic domain	0.014555	0.58154	1	0	1		3'5'-cyclic nucleotide phosphodiesterase, catalytic domain|3'5'-cyclic nucleotide phosphodiesterase, conserved site|3'5'-cyclic nucleotide phosphodiesterase|HD/PDEase domain
+InterPro Predicted Protein Domain Annotations	interpro	Peptidase S1	0.03876	0.12476	1	0	1		Peptidase S1|Peptidase S1A, chymotrypsin-type|Trypsin-like cysteine/serine peptidase domain|Peptidase S1, trypsin family, active site
+InterPro Predicted Protein Domain Annotations	interpro	Protein kinase domain	-0.013707	0.55941	1	0	-1		Protein kinase domain|Protein kinase-like domain|Protein kinase, ATP binding site|Serine/threonine/dual specificity protein kinase, catalytic  domain
+InterPro Predicted Protein Domain Annotations	interpro	GPCR, family 2, secretin-like	0.031008	0.20916	1	0	1		GPCR, family 2, secretin-like|GPCR, family 2, secretin-like, conserved site|GPCR, family 2-like|GPCR, family 2, extracellular hormone receptor domain
+InterPro Predicted Protein Domain Annotations	interpro	Alkaline phosphatase-like, alpha/beta/alpha	0.013869	0.58237	1	0	1		Alkaline phosphatase-like, alpha/beta/alpha|Alkaline-phosphatase-like, core domain|Sulfatase|Sulfatase, conserved site
+InterPro Predicted Protein Domain Annotations	interpro	Ionotropic glutamate receptor	-0.0063326	1	1	0	-1		Ionotropic glutamate receptor|Ionotropic glutamate receptor, L-glutamate and glycine-binding domain|Ionotropic glutamate receptor, metazoa
+InterPro Predicted Protein Domain Annotations	interpro	Serpin family	0.015504	0.58203	1	0	1		Serpin family|Serpin domain|Serpin, conserved site
+InterPro Predicted Protein Domain Annotations	interpro	EGF-like calcium-binding domain	0.027132	0.22003	1	0	1		EGF-like calcium-binding domain|EGF-like calcium-binding, conserved site|EGF-type aspartate/asparagine hydroxylation site
+InterPro Predicted Protein Domain Annotations	interpro	C-type lectin-like	-0.021659	0.11874	1	0	-1		C-type lectin-like|C-type lectin fold|C-type lectin
+InterPro Predicted Protein Domain Annotations	interpro	Kringle	0.011536	0.58088	1	0	1		Kringle|Kringle, conserved site|Kringle-like fold
+InterPro Predicted Protein Domain Annotations	interpro	Tyrosine-protein kinase, catalytic domain	0.009119	0.73814	1	0	1		Tyrosine-protein kinase, catalytic domain|Tyrosine-protein kinase, active site|Serine-threonine/tyrosine-protein kinase catalytic domain
+InterPro Predicted Protein Domain Annotations	interpro	Tumour necrosis factor-like domain	0.011628	0.60111	1	0	1		Tumour necrosis factor-like domain
+InterPro Predicted Protein Domain Annotations	interpro	Immunoglobulin-like domain	-0.040674	0.12522	1	0	-1		Immunoglobulin-like domain|Immunoglobulin-like fold|Immunoglobulin subtype
+InterPro Predicted Protein Domain Annotations	interpro	mean	4.0783e-05	0.26653	1	0	1	mean	mean|stdv
+InterPro Predicted Protein Domain Annotations	interpro	PLAT/LH2 domain	0.011628	0.60122	1	0	1		PLAT/LH2 domain|Lipase/lipooxygenase, PLAT/LH2
+InterPro Predicted Protein Domain Annotations	interpro	Haem peroxidase	0.011628	0.59906	1	0	1		Haem peroxidase|Haem peroxidase, animal
+InterPro Predicted Protein Domain Annotations	interpro	Receptor L-domain	0.011628	0.60059	1	0	1		Receptor L-domain|Furin-like cysteine-rich domain
+InterPro Predicted Protein Domain Annotations	interpro	GPCR, rhodopsin-like, 7TM	0.11704	0.02219	1	0	1		GPCR, rhodopsin-like, 7TM|G protein-coupled receptor, rhodopsin-like
+InterPro Predicted Protein Domain Annotations	interpro	Periplasmic binding protein-like I	-0.0049132	1	1	0	-1		Periplasmic binding protein-like I|Extracellular ligand-binding receptor
+InterPro Predicted Protein Domain Annotations	interpro	Four-helical cytokine-like, core	0.0091713	0.7041	1	0	1		Four-helical cytokine-like, core|Four-helical cytokine, core
+InterPro Predicted Protein Domain Annotations	interpro	Cytochrome P450	-0.020417	0.20191	1	0	-1		Cytochrome P450|Cytochrome P450, conserved site
+InterPro Predicted Protein Domain Annotations	interpro	Gamma-carboxyglutamic acid-rich (GLA) domain	0.01938	0.36227	1	0	1		Gamma-carboxyglutamic acid-rich (GLA) domain|Coagulation factor, subgroup, Gla domain
+InterPro Predicted Protein Domain Annotations	interpro	Long hematopoietin receptor, single chain, conserved site	0.011628	0.59855	1	0	1		Long hematopoietin receptor, single chain, conserved site|Growth hormone/erythropoietin receptor, ligand binding
+InterPro Predicted Protein Domain Annotations	interpro	EGF-like, conserved site	0.040259	0.084349	1	0	1		EGF-like, conserved site|Epidermal growth factor-like domain
+InterPro Predicted Protein Domain Annotations	interpro	Glycoside hydrolase superfamily	0.023983	0.20826	1	0	1		Glycoside hydrolase superfamily|Glycoside hydrolase, catalytic domain
+InterPro Predicted Protein Domain Annotations	interpro	Immunoglobulin subtype 2	-0.012311	0.59567	1	0	-1		Immunoglobulin subtype 2|Immunoglobulin I-set
+InterPro Predicted Protein Domain Annotations	interpro	Leucine-rich repeat, typical subtype	0.0051045	0.75788	1	0	1		Leucine-rich repeat, typical subtype|Leucine-rich repeat|Leucine-rich repeat-containing N-terminal
+InterPro Predicted Protein Domain Annotations	interpro	Immunoglobulin V-set domain	-0.038378	0.03391	1	0	-1		Immunoglobulin V-set domain

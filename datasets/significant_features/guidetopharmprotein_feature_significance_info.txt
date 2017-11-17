@@ -1,0 +1,5 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+Guide to Pharmacology Protein Ligands of Receptors	guidetopharmprotein	mean	0.00020807	0.98198	1	0	1	mean	mean|stdv
+Guide to Pharmacology Protein Ligands of Receptors	guidetopharmprotein	CGA	-0.15122	0.29968	1	0	-1		CGA
+Guide to Pharmacology Protein Ligands of Receptors	guidetopharmprotein	GCG	0.073171	1	1	0	1		GCG
+Guide to Pharmacology Protein Ligands of Receptors	guidetopharmprotein	POMC	0.097561	1	1	0	1		POMC

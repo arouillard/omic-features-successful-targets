@@ -1,0 +1,3 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+Virus MINT Protein-Viral Protein Interactions	virusmintppi	mean	-0.0006006	0.99043	1	0	-1	mean	mean|stdv
+Virus MINT Protein-Viral Protein Interactions	virusmintppi	Q9WMX2	-0.041667	1	1	0	-1		Q9WMX2

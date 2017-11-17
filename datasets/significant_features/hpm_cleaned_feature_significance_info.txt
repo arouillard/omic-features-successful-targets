@@ -1,0 +1,3 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+HPM Cell Type and Tissue Protein Expression Profiles - Cleaned	hpm_cleaned	mean	-0.36187	0.10334	0.31002	0	-1	mean	mean|adult ovary|adult testis|adult retina|cd8 cells
+HPM Cell Type and Tissue Protein Expression Profiles - Cleaned	hpm_cleaned	stdv	-0.035067	0.65638	0.98458	0	-1	stdv	stdv

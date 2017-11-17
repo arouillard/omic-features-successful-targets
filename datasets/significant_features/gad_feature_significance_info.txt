@@ -1,0 +1,969 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+GAD Gene-Disease Associations	gad	albuminuria; cardiovascular diseases; diabetes mellitus, type 2; hypertension; kidney diseases	0.012976	0.18356	1	0	1		albuminuria; cardiovascular diseases; diabetes mellitus, type 2; hypertension; kidney diseases|type 2 diabetic nephropathy|nephropathy, diabetic; blood pressure, arterial; proteinuria|hypertrophy, left ventricular; left ventricular hypertrophy; ventricular remodeling|henoch-schoenlein purpura; kidney diseases; nephrotic syndrome; proteinuria; purpura, schoenlein-henoch|heart failure, diastolic|glomerulonephritis, iga; iga glomerulonephritides; proteinuria|gastrointestinal diseases; gastrointestinal hemorrhage; peptic ulcer; peptic ulcer hemorrhage|fibrosis; glomerulonephritis, iga; hepatitis c, chronic; iga glomerulonephritides|fibromuscular dysplasia; hypertension; renal artery obstruction|edema; nephrotic syndrome|dyslipidemias; metabolic syndrome x; obesity; renal hypertension|diabetes mellitus type ii; diabetes mellitus, type 2; hypertension|diabetes mellitus type ii; diabetes mellitus, type 2; diabetic nephropathies; diabetic nephropathy; diabetic neuropathies; disease susceptibility|coronary stenosis; recurrence|coronary disease; coronary heart disease; hyperlipidemias; hyperlipoproteinemia type i|coronary atherosclerosis.|coronary artery thrombosis|chronic renal failure; kidney failure, chronic; uremia; vesico-ureteral reflux; vesicoureteral reflux|chronic renal failure; kidney failure, chronic; nephritis, interstitial|chronic renal failure; hypertension; kidney failure, chronic; lupus erythematosus, systemic; lupus nephritis; nephritis sle; systemic lupus erythematosus|chronic renal failure; death, sudden, cardiac; kidney failure, chronic; long qt syndrome; sudden cardiac death|chronic glomerulonephritis|cardiovascular diseases; carotid artery diseases; cerebrovascular disorders; hypertension|body weight; hypertension; obesity|diabetes mellitus, type 1; hypoglycemia|kidney failure, chronic; vesico-ureteral reflux|aortic stiffness|hypertension, renal; hypertrophy, left ventricular; retinal diseases|hypertension; kidney diseases|arterial disease|cerebral white matter lesions|esophageal varices|hypertension; metabolic syndrome x|polycystic kidney diseases|chronic renal failure; glomerulonephritis, iga; iga glomerulonephritides; kidney failure, chronic|hypertension; kidney failure, chronic|diabetes mellitus; hypertension|hypertension; left ventricular hypertrophy|cysclosporine toxicity|posttransplantation erythrocytosis|carotid intima-media thickness|cardiomyopathies; heart defects, congenital|cardiomyopathy, hypertrophic, familial; hypertrophy, left ventricular|connective tissue diseases; hypertension, pulmonary|diabetes mellitus; diabetic angiopathies; hypertension|altitude sickness; chronic disease|albuminuria; hypertension|angina, unstable; myocardial infarction; syndrome; unstable angina|cardiomyopathy, hypertrophic; hypertrophic cardiomyopathy; hypertrophy, left ventricular; left ventricular hypertrophy|chromosome deletion|otosclerosis
+GAD Gene-Disease Associations	gad	cocaine-related disorders	0.012048	0.59797	1	0	1		cocaine-related disorders
+GAD Gene-Disease Associations	gad	posttraumatic stress disorder	0.012048	0.59797	1	0	1		posttraumatic stress disorder
+GAD Gene-Disease Associations	gad	tardive dyskinesia	0.024096	0.34511	1	0	1		tardive dyskinesia
+GAD Gene-Disease Associations	gad	treatment resistance to typical neuroleptics	0.012048	0.59998	1	0	1		treatment resistance to typical neuroleptics
+GAD Gene-Disease Associations	gad	adhd ;  attention-deficit hyperactivity disorder	0.04732	0.18565	1	0	1		adhd ;  attention-deficit hyperactivity disorder
+GAD Gene-Disease Associations	gad	suicidal behavior	0.012048	0.59829	1	0	1		suicidal behavior
+GAD Gene-Disease Associations	gad	coronary restenosis; postoperative complications	0.012048	0.59869	1	0	1		coronary restenosis; postoperative complications
+GAD Gene-Disease Associations	gad	brain injuries	0.02008	0.36219	1	0	1		brain injuries
+GAD Gene-Disease Associations	gad	gastrointestinal disorders	0.012048	0.59815	1	0	1		gastrointestinal disorders
+GAD Gene-Disease Associations	gad	anorexia nervosa	0.0096036	0.70747	1	0	1		anorexia nervosa
+GAD Gene-Disease Associations	gad	depressive disorder, major	0.00069845	1	1	0	1		depressive disorder, major
+GAD Gene-Disease Associations	gad	major depressive disorder	0.027239	0.53769	1	0	1		major depressive disorder
+GAD Gene-Disease Associations	gad	migraine disorders	0.059368	0.1248	1	0	1		migraine disorders
+GAD Gene-Disease Associations	gad	akathisia, drug-induced	0.012048	0.59783	1	0	1		akathisia, drug-induced
+GAD Gene-Disease Associations	gad	cocaine-related disorders;	0.012048	0.60015	1	0	1		cocaine-related disorders;
+GAD Gene-Disease Associations	gad	epilepsy	0.0015715	1	1	0	1		epilepsy
+GAD Gene-Disease Associations	gad	warfarin response	-0.0024446	1	1	0	-1		warfarin response
+GAD Gene-Disease Associations	gad	heart diseases	0.0015715	1	1	0	1		heart diseases
+GAD Gene-Disease Associations	gad	treatment response in psychotic patients	0.012048	0.59797	1	0	1		treatment response in psychotic patients
+GAD Gene-Disease Associations	gad	pharmacogenetic variation	-0.0064606	1	1	0	-1		pharmacogenetic variation
+GAD Gene-Disease Associations	gad	brain ischemia; myocardial infarction; stroke	0.0055876	1	1	0	1		brain ischemia; myocardial infarction; stroke
+GAD Gene-Disease Associations	gad	pancreatitis, alcoholic; pancreatitis, chronic	-0.0064606	1	1	0	-1		pancreatitis, alcoholic; pancreatitis, chronic
+GAD Gene-Disease Associations	gad	copd	0.02008	0.36248	1	0	1		copd
+GAD Gene-Disease Associations	gad	fatty liver; insulin resistance	0.012048	0.59988	1	0	1		fatty liver; insulin resistance
+GAD Gene-Disease Associations	gad	hemoglobin a, glycosylated	-0.024969	0.11963	1	0	-1		hemoglobin a, glycosylated
+GAD Gene-Disease Associations	gad	macular degeneration, age-related	-0.0064606	1	1	0	-1		macular degeneration, age-related
+GAD Gene-Disease Associations	gad	migraine with aura	0.036145	0.21395	1	0	1		migraine with aura
+GAD Gene-Disease Associations	gad	myeloid leukemia	0.012048	0.59465	1	0	1		myeloid leukemia
+GAD Gene-Disease Associations	gad	financial and psychological risk attitudes	0.044177	0.13121	1	0	1		financial and psychological risk attitudes
+GAD Gene-Disease Associations	gad	heroin addiction	0.012048	0.59817	1	0	1		heroin addiction
+GAD Gene-Disease Associations	gad	bone mineral density (spine)	-0.0064606	1	1	0	-1		bone mineral density (spine)
+GAD Gene-Disease Associations	gad	hypertrophy, left ventricular	0.02008	0.36073	1	0	1		hypertrophy, left ventricular
+GAD Gene-Disease Associations	gad	birth weight	0.025668	0.4681	1	0	1		birth weight
+GAD Gene-Disease Associations	gad	colonic neoplasms	0.0055876	1	1	0	1		colonic neoplasms
+GAD Gene-Disease Associations	gad	other metabolic traits	0.012048	0.59935	1	0	1		other metabolic traits
+GAD Gene-Disease Associations	gad	glucose intolerance	-0.0064606	1	1	0	-1		glucose intolerance
+GAD Gene-Disease Associations	gad	insulin resistance; polycystic ovary syndrome	-0.0064606	1	1	0	-1		insulin resistance; polycystic ovary syndrome
+GAD Gene-Disease Associations	gad	ventricular dysfunction, left	0.012048	0.60194	1	0	1		ventricular dysfunction, left
+GAD Gene-Disease Associations	gad	insulin resistance; metabolic syndrome x	-0.0024446	1	1	0	-1		insulin resistance; metabolic syndrome x
+GAD Gene-Disease Associations	gad	fatty liver	0.012048	0.59734	1	0	1		fatty liver
+GAD Gene-Disease Associations	gad	insulin resistance; polycystic ovarian syndrome; polycystic ovary syndrome	0.016064	0.58294	1	0	1		insulin resistance; polycystic ovarian syndrome; polycystic ovary syndrome
+GAD Gene-Disease Associations	gad	body mass; insulin; obesity; glucose	0.012048	0.59848	1	0	1		body mass; insulin; obesity; glucose
+GAD Gene-Disease Associations	gad	pain	0.024096	0.34621	1	0	1		pain
+GAD Gene-Disease Associations	gad	cardiomyopathy, dilated;	0.016064	0.57988	1	0	1		cardiomyopathy, dilated;
+GAD Gene-Disease Associations	gad	blood pressure; heart rate	0.012048	0.59732	1	0	1		blood pressure; heart rate
+GAD Gene-Disease Associations	gad	body mass	0.01362	0.69086	1	0	1		body mass
+GAD Gene-Disease Associations	gad	obesity, morbid	0.029684	0.31695	1	0	1		obesity, morbid
+GAD Gene-Disease Associations	gad	obesity; weight loss	0.0055876	1	1	0	1		obesity; weight loss
+GAD Gene-Disease Associations	gad	insulin resistance; obesity	0.024096	0.34677	1	0	1		insulin resistance; obesity
+GAD Gene-Disease Associations	gad	sleep apnea, obstructive	0.080321	0.02029	1	0	1		sleep apnea, obstructive
+GAD Gene-Disease Associations	gad	obesity; hypertension	0.012048	0.59778	1	0	1		obesity; hypertension
+GAD Gene-Disease Associations	gad	hellp syndrome	0.012048	0.59843	1	0	1		hellp syndrome
+GAD Gene-Disease Associations	gad	fatigue syndrome, chronic; fatigue syndrome; postviral	0.0055876	1	1	0	1		fatigue syndrome, chronic; fatigue syndrome; postviral
+GAD Gene-Disease Associations	gad	bipolar affective disorder.	0.012048	0.60046	1	0	1		bipolar affective disorder.
+GAD Gene-Disease Associations	gad	personality traits	0.02008	0.36033	1	0	1		personality traits
+GAD Gene-Disease Associations	gad	impulsivity	0.012048	0.59931	1	0	1		impulsivity
+GAD Gene-Disease Associations	gad	low tension glaucoma	0.02008	0.3626	1	0	1		low tension glaucoma
+GAD Gene-Disease Associations	gad	lymphoproliferative disorders; myelodysplastic syndromes	-0.0064606	1	1	0	-1		lymphoproliferative disorders; myelodysplastic syndromes
+GAD Gene-Disease Associations	gad	fatigue; sleep disorders; sleep initiation and maintenance disorders	0.012048	0.59796	1	0	1		fatigue; sleep disorders; sleep initiation and maintenance disorders
+GAD Gene-Disease Associations	gad	gastroparesis	0.012048	0.59973	1	0	1		gastroparesis
+GAD Gene-Disease Associations	gad	graves disease	-0.019382	0.41139	1	0	-1		graves disease
+GAD Gene-Disease Associations	gad	acquired immunodeficiency syndrome; hiv infections	-0.0064606	1	1	0	-1		acquired immunodeficiency syndrome; hiv infections
+GAD Gene-Disease Associations	gad	hiv infections	0.032129	0.21079	1	0	1		hiv infections
+GAD Gene-Disease Associations	gad	typhoid fever	0.012048	0.59891	1	0	1		typhoid fever
+GAD Gene-Disease Associations	gad	multiple sclerosis, relapsing-remitting	0.016064	0.58223	1	0	1		multiple sclerosis, relapsing-remitting
+GAD Gene-Disease Associations	gad	mucocutaneous lymph node syndrome	0.036145	0.21608	1	0	1		mucocutaneous lymph node syndrome
+GAD Gene-Disease Associations	gad	hepatitis c	-0.0017461	1	1	0	-1		hepatitis c
+GAD Gene-Disease Associations	gad	bronchiolitis, viral; respiratory syncytial virus infections	-0.0024446	1	1	0	-1		bronchiolitis, viral; respiratory syncytial virus infections
+GAD Gene-Disease Associations	gad	arthritis, juvenile rheumatoid;	0.012048	0.59759	1	0	1		arthritis, juvenile rheumatoid;
+GAD Gene-Disease Associations	gad	acquired immunodeficiency syndrome	0.016064	0.57838	1	0	1		acquired immunodeficiency syndrome
+GAD Gene-Disease Associations	gad	diabetes mellitus type ii; diabetes mellitus, type 2; diabetic retinopathy	0.0015715	1	1	0	1		diabetes mellitus type ii; diabetes mellitus, type 2; diabetic retinopathy
+GAD Gene-Disease Associations	gad	prenatal exposure delayed effects	0.012048	0.59983	1	0	1		prenatal exposure delayed effects
+GAD Gene-Disease Associations	gad	hepatitis c, chronic	0.0337	0.31461	1	0	1		hepatitis c, chronic
+GAD Gene-Disease Associations	gad	alcoholic liver diseases; liver diseases, alcoholic	0.012048	0.59692	1	0	1		alcoholic liver diseases; liver diseases, alcoholic
+GAD Gene-Disease Associations	gad	neutropenia	0.0096036	0.70784	1	0	1		neutropenia
+GAD Gene-Disease Associations	gad	pancreatic cancer	-0.0064606	1	1	0	-1		pancreatic cancer
+GAD Gene-Disease Associations	gad	hodgkin disease	0.016064	0.57969	1	0	1		hodgkin disease
+GAD Gene-Disease Associations	gad	coronary artery disease; hypercholesterolemia	0.0015715	1	1	0	1		coronary artery disease; hypercholesterolemia
+GAD Gene-Disease Associations	gad	coronary artery disease; hypertension	0.016064	0.58371	1	0	1		coronary artery disease; hypertension
+GAD Gene-Disease Associations	gad	atherosclerosis; hypercholesterolemia	-0.0064606	1	1	0	-1		atherosclerosis; hypercholesterolemia
+GAD Gene-Disease Associations	gad	myocardial infarction ;  metabolic syndrome	-0.0064606	1	1	0	-1		myocardial infarction ;  metabolic syndrome
+GAD Gene-Disease Associations	gad	cholelithiasis	-0.0064606	1	1	0	-1		cholelithiasis
+GAD Gene-Disease Associations	gad	ldl cholesterol	0.0015715	1	1	0	1		ldl cholesterol
+GAD Gene-Disease Associations	gad	hypercholesterolemia	0.021652	0.46892	1	0	1		hypercholesterolemia
+GAD Gene-Disease Associations	gad	cardiovascular disease	0.057796	0.086669	1	0	1		cardiovascular disease
+GAD Gene-Disease Associations	gad	coronary artery disease;	-0.021826	0.49215	1	0	-1		coronary artery disease;
+GAD Gene-Disease Associations	gad	pancreatitis	0.0071591	1	1	0	1		pancreatitis
+GAD Gene-Disease Associations	gad	sjogren's syndrome	0.016064	0.58392	1	0	1		sjogren's syndrome
+GAD Gene-Disease Associations	gad	oral lichen planus	0.012048	0.59903	1	0	1		oral lichen planus
+GAD Gene-Disease Associations	gad	precursor cell lymphoblastic leukemia-lymphoma	0.027239	0.53824	1	0	1		precursor cell lymphoblastic leukemia-lymphoma
+GAD Gene-Disease Associations	gad	body weight	0.0022699	1	1	0	1		body weight
+GAD Gene-Disease Associations	gad	cholesterol	-0.0033176	1	1	0	-1		cholesterol
+GAD Gene-Disease Associations	gad	heart rate	-0.0089052	1	1	0	-1		heart rate
+GAD Gene-Disease Associations	gad	neuroticism	0.012048	0.59719	1	0	1		neuroticism
+GAD Gene-Disease Associations	gad	peripheral arterial disease	0.012048	0.59716	1	0	1		peripheral arterial disease
+GAD Gene-Disease Associations	gad	alzheimer disease	-0.016937	0.58623	1	0	-1		alzheimer disease
+GAD Gene-Disease Associations	gad	asthma; candidiasis; high-altitude illness	0.016064	0.577	1	0	1		asthma; candidiasis; high-altitude illness
+GAD Gene-Disease Associations	gad	sarcoidosis	0.057796	0.088019	1	0	1		sarcoidosis
+GAD Gene-Disease Associations	gad	atherosclerosis; inflammation; retinal vein occlusion	0.0055876	1	1	0	1		atherosclerosis; inflammation; retinal vein occlusion
+GAD Gene-Disease Associations	gad	helicobacter infections; inflammation; precancerous conditions; stomach neoplasms	0.024096	0.34739	1	0	1		helicobacter infections; inflammation; precancerous conditions; stomach neoplasms
+GAD Gene-Disease Associations	gad	cirrhosis; pancreatitis	0.016064	0.58263	1	0	1		cirrhosis; pancreatitis
+GAD Gene-Disease Associations	gad	heart transplant complications	0.0055876	1	1	0	1		heart transplant complications
+GAD Gene-Disease Associations	gad	hepatitis b; recurrence	0.012048	0.59778	1	0	1		hepatitis b; recurrence
+GAD Gene-Disease Associations	gad	uveitis, anterior	-0.012921	0.61395	1	0	-1		uveitis, anterior
+GAD Gene-Disease Associations	gad	multiple system atrophy	0.0096036	0.70424	1	0	1		multiple system atrophy
+GAD Gene-Disease Associations	gad	htlv-1 infection	-0.016937	0.58835	1	0	-1		htlv-1 infection
+GAD Gene-Disease Associations	gad	barrett esophagus; hernia, hiatal; inflammation	0.016064	0.57995	1	0	1		barrett esophagus; hernia, hiatal; inflammation
+GAD Gene-Disease Associations	gad	urolithiasis	0.02008	0.36184	1	0	1		urolithiasis
+GAD Gene-Disease Associations	gad	autoimmune diseases; thyroid diseases	0.012048	0.60077	1	0	1		autoimmune diseases; thyroid diseases
+GAD Gene-Disease Associations	gad	aids dementia complex; hiv infections	0.012048	0.59607	1	0	1		aids dementia complex; hiv infections
+GAD Gene-Disease Associations	gad	keratoconus	-0.0064606	1	1	0	-1		keratoconus
+GAD Gene-Disease Associations	gad	suicide	0.052209	0.078679	1	0	1		suicide
+GAD Gene-Disease Associations	gad	degenerative arthropathy ; osteoarthritis	-0.0089052	1	1	0	-1		degenerative arthropathy ; osteoarthritis
+GAD Gene-Disease Associations	gad	glomerulonephritis, iga	-0.00087306	1	1	0	-1		glomerulonephritis, iga
+GAD Gene-Disease Associations	gad	rheumatoid arthritis	0.013445	0.82191	1	0	1		rheumatoid arthritis
+GAD Gene-Disease Associations	gad	asthma; bronchiolitis, viral; respiratory syncytial virus infections	0.0020953	1	1	0	1		asthma; bronchiolitis, viral; respiratory syncytial virus infections
+GAD Gene-Disease Associations	gad	cystic fibrosis	0.041732	0.20507	1	0	1		cystic fibrosis
+GAD Gene-Disease Associations	gad	bone density	0.02235	0.61723	1	0	1		bone density
+GAD Gene-Disease Associations	gad	metabolic syndrome	-0.044526	0.38444	1	0	-1		metabolic syndrome
+GAD Gene-Disease Associations	gad	bone resorption	0.012048	0.59942	1	0	1		bone resorption
+GAD Gene-Disease Associations	gad	osteoporosis, postmenopausal	0.016763	0.77175	1	0	1		osteoporosis, postmenopausal
+GAD Gene-Disease Associations	gad	diabetes complications;	0.02008	0.3631	1	0	1		diabetes complications;
+GAD Gene-Disease Associations	gad	cardiovascular diseases; fam hyperbetalipoproteinaemia; hyperlipoproteinemia type ii	-0.0064606	1	1	0	-1		cardiovascular diseases; fam hyperbetalipoproteinaemia; hyperlipoproteinemia type ii
+GAD Gene-Disease Associations	gad	lipid levels	-0.0024446	1	1	0	-1		lipid levels
+GAD Gene-Disease Associations	gad	lipid profiles	0.0096036	0.70681	1	0	1		lipid profiles
+GAD Gene-Disease Associations	gad	hypertriglyceridemia	-0.0024446	1	1	0	-1		hypertriglyceridemia
+GAD Gene-Disease Associations	gad	coronary disease; coronary heart disease; inflammation; insulin resistance	0.0337	0.31229	1	0	1		coronary disease; coronary heart disease; inflammation; insulin resistance
+GAD Gene-Disease Associations	gad	carotid artery diseases;	-0.0024446	1	1	0	-1		carotid artery diseases;
+GAD Gene-Disease Associations	gad	angina pectoris; myocardial infarction; obesity; recurrence	0.036145	0.21566	1	0	1		angina pectoris; myocardial infarction; obesity; recurrence
+GAD Gene-Disease Associations	gad	cardiovascular	0.041732	0.20718	1	0	1		cardiovascular
+GAD Gene-Disease Associations	gad	acute coronary syndrome	0.057796	0.087809	1	0	1		acute coronary syndrome
+GAD Gene-Disease Associations	gad	kidney failure	0.024096	0.34603	1	0	1		kidney failure
+GAD Gene-Disease Associations	gad	renal graft function	0.012048	0.5986	1	0	1		renal graft function
+GAD Gene-Disease Associations	gad	brain infarction	0.024096	0.34817	1	0	1		brain infarction
+GAD Gene-Disease Associations	gad	lipoproteins, ldl	0.0015715	1	1	0	1		lipoproteins, ldl
+GAD Gene-Disease Associations	gad	kidney failure, acute	0.012048	0.60057	1	0	1		kidney failure, acute
+GAD Gene-Disease Associations	gad	cicatrization; kidney diseases; vesico-ureteral reflux; vesicoureteral reflux	0.012048	0.5977	1	0	1		cicatrization; kidney diseases; vesico-ureteral reflux; vesicoureteral reflux
+GAD Gene-Disease Associations	gad	polycystic kidney disease	0.02008	0.36341	1	0	1		polycystic kidney disease
+GAD Gene-Disease Associations	gad	essential hypertension	0.028112	0.21974	1	0	1		essential hypertension
+GAD Gene-Disease Associations	gad	hypertension; cardiovascular disease	0.012048	0.59897	1	0	1		hypertension; cardiovascular disease
+GAD Gene-Disease Associations	gad	chronic periodontitis;	0.028112	0.21914	1	0	1		chronic periodontitis;
+GAD Gene-Disease Associations	gad	fetal membranes, premature rupture; premature birth	0.012048	0.59795	1	0	1		fetal membranes, premature rupture; premature birth
+GAD Gene-Disease Associations	gad	heart failure; hypertension	0.012048	0.59795	1	0	1		heart failure; hypertension
+GAD Gene-Disease Associations	gad	hypertrophy, left ventricular; left ventricular hypertrophy	0.02008	0.36385	1	0	1		hypertrophy, left ventricular; left ventricular hypertrophy
+GAD Gene-Disease Associations	gad	infant, premature, diseases	0.016064	0.58325	1	0	1		infant, premature, diseases
+GAD Gene-Disease Associations	gad	lupus nephritis; nephritis sle	0.0055876	1	1	0	1		lupus nephritis; nephritis sle
+GAD Gene-Disease Associations	gad	syncope, vasovagal	0.028112	0.22147	1	0	1		syncope, vasovagal
+GAD Gene-Disease Associations	gad	asthma; lipids; memory impairment	-0.0024446	1	1	0	-1		asthma; lipids; memory impairment
+GAD Gene-Disease Associations	gad	kidney disease	0.024096	0.34831	1	0	1		kidney disease
+GAD Gene-Disease Associations	gad	alzheimer disease; alzheimer's disease; dementia	0.012048	0.60102	1	0	1		alzheimer disease; alzheimer's disease; dementia
+GAD Gene-Disease Associations	gad	breast neoplasms	-0.020953	0.2054	1	0	-1		breast neoplasms
+GAD Gene-Disease Associations	gad	brain ischemia; dementia; myocardial infarction	-0.0024446	1	1	0	-1		brain ischemia; dementia; myocardial infarction
+GAD Gene-Disease Associations	gad	maduromycosis	0.012048	0.59998	1	0	1		maduromycosis
+GAD Gene-Disease Associations	gad	cervical neoplasm; uterine cervical neoplasms	0.016064	0.58044	1	0	1		cervical neoplasm; uterine cervical neoplasms
+GAD Gene-Disease Associations	gad	intrauterine growth	0.012048	0.59944	1	0	1		intrauterine growth
+GAD Gene-Disease Associations	gad	hypospadias	0.0015715	1	1	0	1		hypospadias
+GAD Gene-Disease Associations	gad	stomach neoplasms	0.028811	0.43708	1	0	1		stomach neoplasms
+GAD Gene-Disease Associations	gad	gastric cancer	0.01362	0.69327	1	0	1		gastric cancer
+GAD Gene-Disease Associations	gad	stomach cancer	0.01362	0.69448	1	0	1		stomach cancer
+GAD Gene-Disease Associations	gad	adenoma; colorectal neoplasms	0.021652	0.47146	1	0	1		adenoma; colorectal neoplasms
+GAD Gene-Disease Associations	gad	dna damage	-0.0024446	1	1	0	-1		dna damage
+GAD Gene-Disease Associations	gad	diabetic nephropathies; diabetic nephropathy	-0.0024446	1	1	0	-1		diabetic nephropathies; diabetic nephropathy
+GAD Gene-Disease Associations	gad	skin cancer, non-melanoma	0.012048	0.59757	1	0	1		skin cancer, non-melanoma
+GAD Gene-Disease Associations	gad	delirium	0.012048	0.59797	1	0	1		delirium
+GAD Gene-Disease Associations	gad	emphysema	-0.0064606	1	1	0	-1		emphysema
+GAD Gene-Disease Associations	gad	pulmonary disease, chronic obstructive	0.0038415	1	1	0	1		pulmonary disease, chronic obstructive
+GAD Gene-Disease Associations	gad	alcohol abuse; smoking behavior	0.0055876	1	1	0	1		alcohol abuse; smoking behavior
+GAD Gene-Disease Associations	gad	hearing loss	0.01362	0.69087	1	0	1		hearing loss
+GAD Gene-Disease Associations	gad	rectal neoplasms	-0.0064606	1	1	0	-1		rectal neoplasms
+GAD Gene-Disease Associations	gad	brain cancer	0.012048	0.59646	1	0	1		brain cancer
+GAD Gene-Disease Associations	gad	esophageal cancer	0.039288	0.26781	1	0	1		esophageal cancer
+GAD Gene-Disease Associations	gad	overall effect	0.012048	0.59918	1	0	1		overall effect
+GAD Gene-Disease Associations	gad	alcoholism; liver cirrhosis, alcoholic	0.016064	0.58056	1	0	1		alcoholism; liver cirrhosis, alcoholic
+GAD Gene-Disease Associations	gad	osteonecrosis	-0.024969	0.11794	1	0	-1		osteonecrosis
+GAD Gene-Disease Associations	gad	neoplasms, prostatic; prostatic neoplasms	0.012048	0.59786	1	0	1		neoplasms, prostatic; prostatic neoplasms
+GAD Gene-Disease Associations	gad	gastritis, chronic atrophic; stomach cancer	0.012048	0.5991	1	0	1		gastritis, chronic atrophic; stomach cancer
+GAD Gene-Disease Associations	gad	pancreatic neoplasm; pancreatic neoplasms	0.016064	0.5803	1	0	1		pancreatic neoplasm; pancreatic neoplasms
+GAD Gene-Disease Associations	gad	copd ;  chronic obstructive pulmonary disease	0.017636	0.6919	1	0	1		copd ;  chronic obstructive pulmonary disease
+GAD Gene-Disease Associations	gad	carotid artery stenosis; carotid stenosis	0.012048	0.59804	1	0	1		carotid artery stenosis; carotid stenosis
+GAD Gene-Disease Associations	gad	cardiovascular diseases; coronary artery disease	0.024096	0.34563	1	0	1		cardiovascular diseases; coronary artery disease
+GAD Gene-Disease Associations	gad	hypertension; hypertrophy, left ventricular; left ventricular hypertrophy	0.028112	0.22019	1	0	1		hypertension; hypertrophy, left ventricular; left ventricular hypertrophy
+GAD Gene-Disease Associations	gad	cerebral palsy	0.045748	0.20882	1	0	1		cerebral palsy
+GAD Gene-Disease Associations	gad	hemorrhagic disorders	-0.012921	0.6115	1	0	-1		hemorrhagic disorders
+GAD Gene-Disease Associations	gad	carotid artery stenosis	0.016064	0.57997	1	0	1		carotid artery stenosis
+GAD Gene-Disease Associations	gad	coronary artery disease; coronary stenosis	-0.0064606	1	1	0	-1		coronary artery disease; coronary stenosis
+GAD Gene-Disease Associations	gad	breath tests	-0.024969	0.12151	1	0	-1		breath tests
+GAD Gene-Disease Associations	gad	heart anomalies, congenital	0.016064	0.58319	1	0	1		heart anomalies, congenital
+GAD Gene-Disease Associations	gad	hemorrhage	-0.0024446	1	1	0	-1		hemorrhage
+GAD Gene-Disease Associations	gad	ahg deficiency disease; hemophilia a; hemophilia b; hemorrhage	0.016064	0.58144	1	0	1		ahg deficiency disease; hemophilia a; hemophilia b; hemorrhage
+GAD Gene-Disease Associations	gad	glaucoma	0.02008	0.36243	1	0	1		glaucoma
+GAD Gene-Disease Associations	gad	glaucoma, open-angle	0.003143	1	1	0	1		glaucoma, open-angle
+GAD Gene-Disease Associations	gad	menopause	0.0055876	1	1	0	1		menopause
+GAD Gene-Disease Associations	gad	cardiovascular diseases; thrombosis	-0.0064606	1	1	0	-1		cardiovascular diseases; thrombosis
+GAD Gene-Disease Associations	gad	pregnancy complications	0.016064	0.58053	1	0	1		pregnancy complications
+GAD Gene-Disease Associations	gad	abortion, habitual; infertility, female	-0.033875	0.23113	1	0	-1		abortion, habitual; infertility, female
+GAD Gene-Disease Associations	gad	estradiol; sex hormone binding globulin	-0.0064606	1	1	0	-1		estradiol; sex hormone binding globulin
+GAD Gene-Disease Associations	gad	endometrial cancer	0.0055876	1	1	0	1		endometrial cancer
+GAD Gene-Disease Associations	gad	mammographic density	-0.012921	0.61521	1	0	-1		mammographic density
+GAD Gene-Disease Associations	gad	cadaver; prostatic hyperplasia	-0.0064606	1	1	0	-1		cadaver; prostatic hyperplasia
+GAD Gene-Disease Associations	gad	prostatic hyperplasia	0.0096036	0.70611	1	0	1		prostatic hyperplasia
+GAD Gene-Disease Associations	gad	hypogonadism	0.012048	0.59917	1	0	1		hypogonadism
+GAD Gene-Disease Associations	gad	ovarian failure, premature	0.012048	0.59831	1	0	1		ovarian failure, premature
+GAD Gene-Disease Associations	gad	hip fractures; osteoporosis, postmenopausal	0.012048	0.59919	1	0	1		hip fractures; osteoporosis, postmenopausal
+GAD Gene-Disease Associations	gad	grave`s disease	0.012048	0.59979	1	0	1		grave`s disease
+GAD Gene-Disease Associations	gad	leukemia ;  bone mineral density	0.012048	0.59921	1	0	1		leukemia ;  bone mineral density
+GAD Gene-Disease Associations	gad	hip fractures	-0.012921	0.61391	1	0	-1		hip fractures
+GAD Gene-Disease Associations	gad	hip fractures; osteoporosis	-0.0024446	1	1	0	-1		hip fractures; osteoporosis
+GAD Gene-Disease Associations	gad	breast cancer; prostate cancer	0.031255	0.38278	1	0	1		breast cancer; prostate cancer
+GAD Gene-Disease Associations	gad	hypertension, gestational	0.024096	0.34761	1	0	1		hypertension, gestational
+GAD Gene-Disease Associations	gad	hypertension, pregnancy induced	0.02008	0.36136	1	0	1		hypertension, pregnancy induced
+GAD Gene-Disease Associations	gad	beta-thalassemia	0.016064	0.58141	1	0	1		beta-thalassemia
+GAD Gene-Disease Associations	gad	coronary disease; hyperlipoproteinemia type ii	0.01362	0.69215	1	0	1		coronary disease; hyperlipoproteinemia type ii
+GAD Gene-Disease Associations	gad	atrial fibrillation	0.003143	1	1	0	1		atrial fibrillation
+GAD Gene-Disease Associations	gad	atrial fibrillation;	0.0015715	1	1	0	1		atrial fibrillation;
+GAD Gene-Disease Associations	gad	bipolar affective disorder	0.024096	0.345	1	0	1		bipolar affective disorder
+GAD Gene-Disease Associations	gad	hypertension; blood pressure, arterial	0.012048	0.59728	1	0	1		hypertension; blood pressure, arterial
+GAD Gene-Disease Associations	gad	iga nephropathy	0.016064	0.57899	1	0	1		iga nephropathy
+GAD Gene-Disease Associations	gad	left ventricular hypertrophy	0.036145	0.21324	1	0	1		left ventricular hypertrophy
+GAD Gene-Disease Associations	gad	nephropathy, diabetic	0.028112	0.22103	1	0	1		nephropathy, diabetic
+GAD Gene-Disease Associations	gad	kidney diseases	0.037716	0.21211	1	0	1		kidney diseases
+GAD Gene-Disease Associations	gad	gaucher disease	0.012048	0.59535	1	0	1		gaucher disease
+GAD Gene-Disease Associations	gad	polycystic ovarian syndrome	-0.0024446	1	1	0	-1		polycystic ovarian syndrome
+GAD Gene-Disease Associations	gad	erectile dysfunction	0.016064	0.5792	1	0	1		erectile dysfunction
+GAD Gene-Disease Associations	gad	hemifacial spasm	-0.0064606	1	1	0	-1		hemifacial spasm
+GAD Gene-Disease Associations	gad	albuminuria; diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy	0.012048	0.59954	1	0	1		albuminuria; diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy
+GAD Gene-Disease Associations	gad	diabetic neuropathy	-0.0024446	1	1	0	-1		diabetic neuropathy
+GAD Gene-Disease Associations	gad	giant cell arteritis	0.02008	0.36319	1	0	1		giant cell arteritis
+GAD Gene-Disease Associations	gad	cardiomyopathies	0.012048	0.59977	1	0	1		cardiomyopathies
+GAD Gene-Disease Associations	gad	hypertension; obesity	0.028112	0.22075	1	0	1		hypertension; obesity
+GAD Gene-Disease Associations	gad	carcinoma, non-small-cell lung; lung neoplasms; neoplasm of lung	-0.0064606	1	1	0	-1		carcinoma, non-small-cell lung; lung neoplasms; neoplasm of lung
+GAD Gene-Disease Associations	gad	adenoma; colorectal neoplasms; neoplasm recurrence, local	0.012048	0.59896	1	0	1		adenoma; colorectal neoplasms; neoplasm recurrence, local
+GAD Gene-Disease Associations	gad	birth weight; preterm delivery	0.012048	0.59898	1	0	1		birth weight; preterm delivery
+GAD Gene-Disease Associations	gad	varicose ulcers	-0.0024446	1	1	0	-1		varicose ulcers
+GAD Gene-Disease Associations	gad	thrombophilia	0.012048	0.6006	1	0	1		thrombophilia
+GAD Gene-Disease Associations	gad	infertility, female	0.0055876	1	1	0	1		infertility, female
+GAD Gene-Disease Associations	gad	fetal loss, late	0.02008	0.36074	1	0	1		fetal loss, late
+GAD Gene-Disease Associations	gad	thrombosis, deep vein	0.016064	0.58338	1	0	1		thrombosis, deep vein
+GAD Gene-Disease Associations	gad	thrombosis	0.011175	0.74729	1	0	1		thrombosis
+GAD Gene-Disease Associations	gad	osteonecrosis; precursor cell lymphoblastic leukemia-lymphoma	0.0015715	1	1	0	1		osteonecrosis; precursor cell lymphoblastic leukemia-lymphoma
+GAD Gene-Disease Associations	gad	pulmonary function	0.012048	0.59919	1	0	1		pulmonary function
+GAD Gene-Disease Associations	gad	cardiovascular diseases	0.014144	0.84918	1	0	1		cardiovascular diseases
+GAD Gene-Disease Associations	gad	intracranial aneurysm	0.02008	0.36245	1	0	1		intracranial aneurysm
+GAD Gene-Disease Associations	gad	methamphetamine abuse	0.016064	0.58229	1	0	1		methamphetamine abuse
+GAD Gene-Disease Associations	gad	olanzapine	0.024096	0.34484	1	0	1		olanzapine
+GAD Gene-Disease Associations	gad	bipolar disorder; depression	0.016064	0.57907	1	0	1		bipolar disorder; depression
+GAD Gene-Disease Associations	gad	mood disorder	0.016064	0.58239	1	0	1		mood disorder
+GAD Gene-Disease Associations	gad	diseases in twins	-0.0024446	1	1	0	-1		diseases in twins
+GAD Gene-Disease Associations	gad	anorexia nervosa; bulimia	0.0055876	1	1	0	1		anorexia nervosa; bulimia
+GAD Gene-Disease Associations	gad	migraine	0.061812	0.087879	1	0	1		migraine
+GAD Gene-Disease Associations	gad	marijuana abuse; psychoses, substance-induced	0.040161	0.12607	1	0	1		marijuana abuse; psychoses, substance-induced
+GAD Gene-Disease Associations	gad	bleeding complications	-0.0064606	1	1	0	-1		bleeding complications
+GAD Gene-Disease Associations	gad	atherosclerosis; cardiovascular diseases	0.016064	0.58034	1	0	1		atherosclerosis; cardiovascular diseases
+GAD Gene-Disease Associations	gad	parkinson's disease	0.00052383	1	1	0	1		parkinson's disease
+GAD Gene-Disease Associations	gad	wounds and injuries	0.012048	0.59894	1	0	1		wounds and injuries
+GAD Gene-Disease Associations	gad	alcohol-related disorders	0.016064	0.58121	1	0	1		alcohol-related disorders
+GAD Gene-Disease Associations	gad	alzheimer disease; alzheimer's disease; amnesia	-0.020953	0.20837	1	0	-1		alzheimer disease; alzheimer's disease; amnesia
+GAD Gene-Disease Associations	gad	cholesterol, hdl	0.0071591	1	1	0	1		cholesterol, hdl
+GAD Gene-Disease Associations	gad	fibrinogen	0.02008	0.36058	1	0	1		fibrinogen
+GAD Gene-Disease Associations	gad	hypertension; precursor cell lymphoblastic leukemia-lymphoma	-0.0024446	1	1	0	-1		hypertension; precursor cell lymphoblastic leukemia-lymphoma
+GAD Gene-Disease Associations	gad	restless legs syndrome	0.012048	0.59698	1	0	1		restless legs syndrome
+GAD Gene-Disease Associations	gad	purpura, thrombocytopenic, idiopathic; werlhof's disease	0.032129	0.208	1	0	1		purpura, thrombocytopenic, idiopathic; werlhof's disease
+GAD Gene-Disease Associations	gad	sepsis; systemic infection	0.003143	1	1	0	1		sepsis; systemic infection
+GAD Gene-Disease Associations	gad	fabry disease	0.02008	0.36259	1	0	1		fabry disease
+GAD Gene-Disease Associations	gad	peptic ulcer; stomach neoplasms	0.024096	0.34615	1	0	1		peptic ulcer; stomach neoplasms
+GAD Gene-Disease Associations	gad	aggressive periodontitis;	0.012048	0.59775	1	0	1		aggressive periodontitis;
+GAD Gene-Disease Associations	gad	aggressive periodontitis; alveolar bone loss; chronic periodontitis; periodontal attachment loss; periodontal pocket; periodontitis	0.0096036	0.70633	1	0	1		aggressive periodontitis; alveolar bone loss; chronic periodontitis; periodontal attachment loss; periodontal pocket; periodontitis
+GAD Gene-Disease Associations	gad	lichen planus, oral	0.032129	0.20793	1	0	1		lichen planus, oral
+GAD Gene-Disease Associations	gad	arthritis, rheumatoid; rheumatoid arthritis	0.011001	0.83419	1	0	1		arthritis, rheumatoid; rheumatoid arthritis
+GAD Gene-Disease Associations	gad	long qt syndrome	0.0055876	1	1	0	1		long qt syndrome
+GAD Gene-Disease Associations	gad	lupus erythematosus, systemic	0.0087306	1	1	0	1		lupus erythematosus, systemic
+GAD Gene-Disease Associations	gad	opioid-related disorders	0.012048	0.59826	1	0	1		opioid-related disorders
+GAD Gene-Disease Associations	gad	mental retardation	0.016064	0.57711	1	0	1		mental retardation
+GAD Gene-Disease Associations	gad	metabolism disorders	0.016064	0.58004	1	0	1		metabolism disorders
+GAD Gene-Disease Associations	gad	cardiomyopathy	0.012048	0.59871	1	0	1		cardiomyopathy
+GAD Gene-Disease Associations	gad	spinal dysraphism	0.0096036	0.70314	1	0	1		spinal dysraphism
+GAD Gene-Disease Associations	gad	ischemic stroke	0.016064	0.57869	1	0	1		ischemic stroke
+GAD Gene-Disease Associations	gad	thrombophilia; venous thrombosis	0.012048	0.5974	1	0	1		thrombophilia; venous thrombosis
+GAD Gene-Disease Associations	gad	hypertension; stroke	0.012048	0.59888	1	0	1		hypertension; stroke
+GAD Gene-Disease Associations	gad	thromboembolism, venous	0.024096	0.34498	1	0	1		thromboembolism, venous
+GAD Gene-Disease Associations	gad	hematology indices	-0.0064606	1	1	0	-1		hematology indices
+GAD Gene-Disease Associations	gad	hormone disturbance	-0.029859	0.26328	1	0	-1		hormone disturbance
+GAD Gene-Disease Associations	gad	human spermatogenic defect	-0.020953	0.20475	1	0	-1		human spermatogenic defect
+GAD Gene-Disease Associations	gad	dementia, vascular;	0.0015715	1	1	0	1		dementia, vascular;
+GAD Gene-Disease Associations	gad	cardiovascular disease risk	-0.020953	0.20455	1	0	-1		cardiovascular disease risk
+GAD Gene-Disease Associations	gad	heroin abuse	0.016064	0.57949	1	0	1		heroin abuse
+GAD Gene-Disease Associations	gad	cognitive impairment	0.0015715	1	1	0	1		cognitive impairment
+GAD Gene-Disease Associations	gad	arthritis, reactive; campylobacter infections; salmonella infections	0.016064	0.58159	1	0	1		arthritis, reactive; campylobacter infections; salmonella infections
+GAD Gene-Disease Associations	gad	tuberculosis; tuberculosis, pulmonary	0.0096036	0.70342	1	0	1		tuberculosis; tuberculosis, pulmonary
+GAD Gene-Disease Associations	gad	chronic renal failure; diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy; kidney failure, chronic	-0.012921	0.61237	1	0	-1		chronic renal failure; diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy; kidney failure, chronic
+GAD Gene-Disease Associations	gad	acromegaly	0.012048	0.59983	1	0	1		acromegaly
+GAD Gene-Disease Associations	gad	colonic neoplasms; microsatellite instability	0.01362	0.69374	1	0	1		colonic neoplasms; microsatellite instability
+GAD Gene-Disease Associations	gad	gout	0.028112	0.21847	1	0	1		gout
+GAD Gene-Disease Associations	gad	brain neoplasms; occupational diseases	-0.016937	0.58905	1	0	-1		brain neoplasms; occupational diseases
+GAD Gene-Disease Associations	gad	glioblastoma; glioma	-0.024969	0.11837	1	0	-1		glioblastoma; glioma
+GAD Gene-Disease Associations	gad	cholesterol; cholesterol, ldl	-0.0064606	1	1	0	-1		cholesterol; cholesterol, ldl
+GAD Gene-Disease Associations	gad	diabetic nephropathies	0.012048	0.59997	1	0	1		diabetic nephropathies
+GAD Gene-Disease Associations	gad	waist circumference	0.016064	0.57967	1	0	1		waist circumference
+GAD Gene-Disease Associations	gad	obsessive compulsive disorder	0.01362	0.68916	1	0	1		obsessive compulsive disorder
+GAD Gene-Disease Associations	gad	cellulitis; obesity	-0.019382	0.41339	1	0	-1		cellulitis; obesity
+GAD Gene-Disease Associations	gad	leprosy	0.028112	0.21992	1	0	1		leprosy
+GAD Gene-Disease Associations	gad	liver transplant	0.0015715	1	1	0	1		liver transplant
+GAD Gene-Disease Associations	gad	colitis, ulcerative;	-0.012921	0.61199	1	0	-1		colitis, ulcerative;
+GAD Gene-Disease Associations	gad	endometrial neoplasms	-0.025843	0.47463	1	0	-1		endometrial neoplasms
+GAD Gene-Disease Associations	gad	autism	0.052034	0.28546	1	0	1		autism
+GAD Gene-Disease Associations	gad	several psychiatric disorders	0.061463	0.3141	1	0	1		several psychiatric disorders
+GAD Gene-Disease Associations	gad	psychiatric disorders	0.003143	1	1	0	1		psychiatric disorders
+GAD Gene-Disease Associations	gad	iron	0.0055876	1	1	0	1		iron
+GAD Gene-Disease Associations	gad	smoking	0.043304	0.26518	1	0	1		smoking
+GAD Gene-Disease Associations	gad	crohn disease	-0.0089052	1	1	0	-1		crohn disease
+GAD Gene-Disease Associations	gad	acute coronary syndrome;	0.042431	0.35084	1	0	1		acute coronary syndrome;
+GAD Gene-Disease Associations	gad	cardiovascular diseases;	0.043304	0.26652	1	0	1		cardiovascular diseases;
+GAD Gene-Disease Associations	gad	obesity	0.05832	0.29192	1	0	1		obesity
+GAD Gene-Disease Associations	gad	arteries	-0.016937	0.58719	1	0	-1		arteries
+GAD Gene-Disease Associations	gad	asthma	0.021303	0.72514	1	0	1		asthma
+GAD Gene-Disease Associations	gad	coronary disease; coronary heart disease; myocardial infarction	0.028112	0.21987	1	0	1		coronary disease; coronary heart disease; myocardial infarction
+GAD Gene-Disease Associations	gad	epithelial ovarian cancer	0.052034	0.28439	1	0	1		epithelial ovarian cancer
+GAD Gene-Disease Associations	gad	diabetes, type 1	0.041558	0.40749	1	0	1		diabetes, type 1
+GAD Gene-Disease Associations	gad	heart failure	0.023223	0.53483	1	0	1		heart failure
+GAD Gene-Disease Associations	gad	exercise test	0.012048	0.59941	1	0	1		exercise test
+GAD Gene-Disease Associations	gad	triglycerides	-0.0048891	1	1	0	-1		triglycerides
+GAD Gene-Disease Associations	gad	coronary artery disease	0.073686	0.1764	1	0	1		coronary artery disease
+GAD Gene-Disease Associations	gad	hip	0.028112	0.21829	1	0	1		hip
+GAD Gene-Disease Associations	gad	smoking cessation	-0.03143	0.11732	1	0	-1		smoking cessation
+GAD Gene-Disease Associations	gad	breast cancer	0.068622	0.26897	1	0	1		breast cancer
+GAD Gene-Disease Associations	gad	hematocrit	0.02008	0.36289	1	0	1		hematocrit
+GAD Gene-Disease Associations	gad	hemoglobins	0.0096036	0.70468	1	0	1		hemoglobins
+GAD Gene-Disease Associations	gad	stroke	-0.0026192	1	1	0	-1		stroke
+GAD Gene-Disease Associations	gad	body height	0.0087306	1	1	0	1		body height
+GAD Gene-Disease Associations	gad	ovarian cancer	0.048018	0.28847	1	0	1		ovarian cancer
+GAD Gene-Disease Associations	gad	lipoproteins	0.0015715	1	1	0	1		lipoproteins
+GAD Gene-Disease Associations	gad	myocardial infarction	0.035795	0.59214	1	0	1		myocardial infarction
+GAD Gene-Disease Associations	gad	coronary disease; coronary heart disease	0.028811	0.43806	1	0	1		coronary disease; coronary heart disease
+GAD Gene-Disease Associations	gad	mouth neoplasms	0.016064	0.58033	1	0	1		mouth neoplasms
+GAD Gene-Disease Associations	gad	oral cancer	0.0015715	1	1	0	1		oral cancer
+GAD Gene-Disease Associations	gad	head and neck cancer	0.003143	1	1	0	1		head and neck cancer
+GAD Gene-Disease Associations	gad	head and neck neoplasms; neoplasm recurrence, local; neoplasms, second primary	-0.0048891	1	1	0	-1		head and neck neoplasms; neoplasm recurrence, local; neoplasms, second primary
+GAD Gene-Disease Associations	gad	alcohol dependence	0.0096036	0.7083	1	0	1		alcohol dependence
+GAD Gene-Disease Associations	gad	coronary heart disease	0.076305	0.01781	1	0	1		coronary heart disease
+GAD Gene-Disease Associations	gad	brain ischemia; stroke	-0.019382	0.41245	1	0	-1		brain ischemia; stroke
+GAD Gene-Disease Associations	gad	quantitative traits	0.012048	0.59798	1	0	1		quantitative traits
+GAD Gene-Disease Associations	gad	elite athletes	0.012048	0.60236	1	0	1		elite athletes
+GAD Gene-Disease Associations	gad	myocardial infarct; atherosclerosis, coronary	0.01362	0.69304	1	0	1		myocardial infarct; atherosclerosis, coronary
+GAD Gene-Disease Associations	gad	cardiomyopathy, hypertrophic	0.012048	0.59739	1	0	1		cardiomyopathy, hypertrophic
+GAD Gene-Disease Associations	gad	thrombosis, venous	-0.0064606	1	1	0	-1		thrombosis, venous
+GAD Gene-Disease Associations	gad	venous thromboembolism	-0.012921	0.61198	1	0	-1		venous thromboembolism
+GAD Gene-Disease Associations	gad	fractures, bone	-0.0089052	1	1	0	-1		fractures, bone
+GAD Gene-Disease Associations	gad	asthma; eosinophilia	0.012048	0.59742	1	0	1		asthma; eosinophilia
+GAD Gene-Disease Associations	gad	obesity; type 2 diabetes	0.02008	0.36383	1	0	1		obesity; type 2 diabetes
+GAD Gene-Disease Associations	gad	bmi	0.048193	0.074539	1	0	1		bmi
+GAD Gene-Disease Associations	gad	anxiety	0.02008	0.36343	1	0	1		anxiety
+GAD Gene-Disease Associations	gad	bipolar disorder	0.044002	0.37954	1	0	1		bipolar disorder
+GAD Gene-Disease Associations	gad	platelet count	0.012048	0.59657	1	0	1		platelet count
+GAD Gene-Disease Associations	gad	cholesterol, ldl	0.041732	0.20838	1	0	1		cholesterol, ldl
+GAD Gene-Disease Associations	gad	q fever	0.021652	0.47306	1	0	1		q fever
+GAD Gene-Disease Associations	gad	malaria, plasmodium falciparum	0.016064	0.58028	1	0	1		malaria, plasmodium falciparum
+GAD Gene-Disease Associations	gad	kawasaki disease	0.02008	0.36203	1	0	1		kawasaki disease
+GAD Gene-Disease Associations	gad	chorioamnionitis; fetal membranes, premature rupture; infection of amniotic sac and membranes; obstetric labor, premature; pre-eclampsia; premature birth	0.059892	0.30255	1	0	1		chorioamnionitis; fetal membranes, premature rupture; infection of amniotic sac and membranes; obstetric labor, premature; pre-eclampsia; premature birth
+GAD Gene-Disease Associations	gad	brain neoplasms; glioma	-0.0024446	1	1	0	-1		brain neoplasms; glioma
+GAD Gene-Disease Associations	gad	hepatitis c, chronic; liver cirrhosis	0.012747	0.77528	1	0	1		hepatitis c, chronic; liver cirrhosis
+GAD Gene-Disease Associations	gad	femur head necrosis	0.016064	0.58177	1	0	1		femur head necrosis
+GAD Gene-Disease Associations	gad	longevity	0.0087306	1	1	0	1		longevity
+GAD Gene-Disease Associations	gad	hyperandrogenism; polycystic ovary syndrome	0.016064	0.57985	1	0	1		hyperandrogenism; polycystic ovary syndrome
+GAD Gene-Disease Associations	gad	renal disease, end stage	0.016064	0.58222	1	0	1		renal disease, end stage
+GAD Gene-Disease Associations	gad	substance abuse	0.012048	0.599	1	0	1		substance abuse
+GAD Gene-Disease Associations	gad	tourette syndrome	0.040161	0.12456	1	0	1		tourette syndrome
+GAD Gene-Disease Associations	gad	continuous performance task	0.02008	0.36028	1	0	1		continuous performance task
+GAD Gene-Disease Associations	gad	weight gain	0.016588	0.84092	1	0	1		weight gain
+GAD Gene-Disease Associations	gad	depressive disorder, major; bipolar disorder	0.016064	0.58239	1	0	1		depressive disorder, major; bipolar disorder
+GAD Gene-Disease Associations	gad	migraine; migraine with aura	0.012048	0.59721	1	0	1		migraine; migraine with aura
+GAD Gene-Disease Associations	gad	affective disorder	0.012048	0.5996	1	0	1		affective disorder
+GAD Gene-Disease Associations	gad	obsessive- compulsive disorder	0.012048	0.60008	1	0	1		obsessive- compulsive disorder
+GAD Gene-Disease Associations	gad	major depression	0.012048	0.59692	1	0	1		major depression
+GAD Gene-Disease Associations	gad	hallucinations	0.012048	0.59902	1	0	1		hallucinations
+GAD Gene-Disease Associations	gad	schizophrenia; bipolar disorder	0.012048	0.59922	1	0	1		schizophrenia; bipolar disorder
+GAD Gene-Disease Associations	gad	budd-chiari syndrome	-0.0064606	1	1	0	-1		budd-chiari syndrome
+GAD Gene-Disease Associations	gad	anxiety disorder	0.024096	0.34598	1	0	1		anxiety disorder
+GAD Gene-Disease Associations	gad	cyclosporine	0.02008	0.36033	1	0	1		cyclosporine
+GAD Gene-Disease Associations	gad	genetic diseases, inborn	0.016064	0.57995	1	0	1		genetic diseases, inborn
+GAD Gene-Disease Associations	gad	inflammation; premature birth	-0.0024446	1	1	0	-1		inflammation; premature birth
+GAD Gene-Disease Associations	gad	hypogonadotropic hypogonadism	0.012048	0.59873	1	0	1		hypogonadotropic hypogonadism
+GAD Gene-Disease Associations	gad	guillain-barre syndrome	0.012048	0.60106	1	0	1		guillain-barre syndrome
+GAD Gene-Disease Associations	gad	meningococcal infections; pneumococcal infections	0.012048	0.59775	1	0	1		meningococcal infections; pneumococcal infections
+GAD Gene-Disease Associations	gad	endometriosis	0.01589	0.81118	1	0	1		endometriosis
+GAD Gene-Disease Associations	gad	chronic renal failure; kidney failure, chronic	0.056225	0.0467	1	0	1		chronic renal failure; kidney failure, chronic
+GAD Gene-Disease Associations	gad	rheumatic heart disease	0.024096	0.34538	1	0	1		rheumatic heart disease
+GAD Gene-Disease Associations	gad	gastric carcinoma	0.012048	0.59632	1	0	1		gastric carcinoma
+GAD Gene-Disease Associations	gad	adenocarcinoma	0.02008	0.36172	1	0	1		adenocarcinoma
+GAD Gene-Disease Associations	gad	diabetes mellitus; myocardial infarction	0.024096	0.34755	1	0	1		diabetes mellitus; myocardial infarction
+GAD Gene-Disease Associations	gad	respiratory tract infections	0.02008	0.3607	1	0	1		respiratory tract infections
+GAD Gene-Disease Associations	gad	cystic fibrosis; hypertension, portal; liver cirrhosis; liver diseases	0.012048	0.59802	1	0	1		cystic fibrosis; hypertension, portal; liver cirrhosis; liver diseases
+GAD Gene-Disease Associations	gad	delayed graft function	0.0015715	1	1	0	1		delayed graft function
+GAD Gene-Disease Associations	gad	reward dependence temperament	0.012048	0.59555	1	0	1		reward dependence temperament
+GAD Gene-Disease Associations	gad	insulin resistance	0.049764	0.13562	1	0	1		insulin resistance
+GAD Gene-Disease Associations	gad	ischemia	0.012048	0.59764	1	0	1		ischemia
+GAD Gene-Disease Associations	gad	cirrhosis, alcoholic; alcoholism	0.0015715	1	1	0	1		cirrhosis, alcoholic; alcoholism
+GAD Gene-Disease Associations	gad	coronary stenosis	-0.0024446	1	1	0	-1		coronary stenosis
+GAD Gene-Disease Associations	gad	hypertension, pregnancy-induced; pre-eclampsia	0.012048	0.6026	1	0	1		hypertension, pregnancy-induced; pre-eclampsia
+GAD Gene-Disease Associations	gad	fatigue syndrome, chronic	-0.0024446	1	1	0	-1		fatigue syndrome, chronic
+GAD Gene-Disease Associations	gad	hypertension, pregnancy-induced	0.012048	0.60017	1	0	1		hypertension, pregnancy-induced
+GAD Gene-Disease Associations	gad	albuminuria	0.016064	0.58027	1	0	1		albuminuria
+GAD Gene-Disease Associations	gad	apoplexy; cerebral hemorrhage; cerebral hemorrhages; intracranial hemorrhages; stroke; subarachnoid hemorrhage	0.012048	0.59925	1	0	1		apoplexy; cerebral hemorrhage; cerebral hemorrhages; intracranial hemorrhages; stroke; subarachnoid hemorrhage
+GAD Gene-Disease Associations	gad	elite runners	0.012048	0.59777	1	0	1		elite runners
+GAD Gene-Disease Associations	gad	cerebrovascular disease; sickle cell anemia	0.0096036	0.70571	1	0	1		cerebrovascular disease; sickle cell anemia
+GAD Gene-Disease Associations	gad	vascular disease	0.02008	0.36332	1	0	1		vascular disease
+GAD Gene-Disease Associations	gad	hemolytic-uremic syndrome	0.024096	0.3435	1	0	1		hemolytic-uremic syndrome
+GAD Gene-Disease Associations	gad	diabetes mellitus, type 2;	-0.0064606	1	1	0	-1		diabetes mellitus, type 2;
+GAD Gene-Disease Associations	gad	choroidal neovascularization; macular degeneration	0.028112	0.21852	1	0	1		choroidal neovascularization; macular degeneration
+GAD Gene-Disease Associations	gad	cerebral infarct	0.02008	0.3618	1	0	1		cerebral infarct
+GAD Gene-Disease Associations	gad	prostate carcinoma	-0.0064606	1	1	0	-1		prostate carcinoma
+GAD Gene-Disease Associations	gad	osteoporosis, postmenopausal; estradiol	0.016064	0.58032	1	0	1		osteoporosis, postmenopausal; estradiol
+GAD Gene-Disease Associations	gad	als/amyotrophic lateral sclerosis	-0.0064606	1	1	0	-1		als/amyotrophic lateral sclerosis
+GAD Gene-Disease Associations	gad	diabetes mellitus, type 1; diabetes mellitus, type 2; diabetic angiopathies	-0.024969	0.12178	1	0	-1		diabetes mellitus, type 1; diabetes mellitus, type 2; diabetic angiopathies
+GAD Gene-Disease Associations	gad	diabetes mellitus	-0.029859	0.26241	1	0	-1		diabetes mellitus
+GAD Gene-Disease Associations	gad	hepatitis c; remission, spontaneous	-0.0057622	1	1	0	-1		hepatitis c; remission, spontaneous
+GAD Gene-Disease Associations	gad	diabetes mellitus type ii; diabetes mellitus, type 2	0.021652	0.47152	1	0	1		diabetes mellitus type ii; diabetes mellitus, type 2
+GAD Gene-Disease Associations	gad	diabetes mellitus; diabetes mellitus type ii; diabetes mellitus, type 2	0.021652	0.47489	1	0	1		diabetes mellitus; diabetes mellitus type ii; diabetes mellitus, type 2
+GAD Gene-Disease Associations	gad	idiopathic orthostatic intolerance	0.012048	0.59732	1	0	1		idiopathic orthostatic intolerance
+GAD Gene-Disease Associations	gad	obesity; overweight	0.01362	0.69258	1	0	1		obesity; overweight
+GAD Gene-Disease Associations	gad	diabetes, type 2; obesity	0.016064	0.57912	1	0	1		diabetes, type 2; obesity
+GAD Gene-Disease Associations	gad	aneurysm, ruptured; subarachnoid hemorrhage	0.012048	0.59975	1	0	1		aneurysm, ruptured; subarachnoid hemorrhage
+GAD Gene-Disease Associations	gad	seizures, febrile	0.024096	0.34789	1	0	1		seizures, febrile
+GAD Gene-Disease Associations	gad	kidney cancer	0.02008	0.36363	1	0	1		kidney cancer
+GAD Gene-Disease Associations	gad	lymphocytosis; lymphoproliferative disorders	0.012048	0.5982	1	0	1		lymphocytosis; lymphoproliferative disorders
+GAD Gene-Disease Associations	gad	carcinoma, squamous cell; mouth neoplasms	0.017636	0.6905	1	0	1		carcinoma, squamous cell; mouth neoplasms
+GAD Gene-Disease Associations	gad	carcinoma, basal cell; skin basal cell carcinoma; skin neoplasms	0.012048	0.59551	1	0	1		carcinoma, basal cell; skin basal cell carcinoma; skin neoplasms
+GAD Gene-Disease Associations	gad	chronic obstructive pulmonary disease/copd	0.025668	0.46783	1	0	1		chronic obstructive pulmonary disease/copd
+GAD Gene-Disease Associations	gad	adenocarcinoma; carcinoma, squamous cell; esophageal neoplasms; lymphatic metastasis; neoplasm recurrence, local; oesophageal neoplasm; squamous cell carcinoma	0.016064	0.5776	1	0	1		adenocarcinoma; carcinoma, squamous cell; esophageal neoplasms; lymphatic metastasis; neoplasm recurrence, local; oesophageal neoplasm; squamous cell carcinoma
+GAD Gene-Disease Associations	gad	azoospermia; oligospermia	0.0015715	1	1	0	1		azoospermia; oligospermia
+GAD Gene-Disease Associations	gad	cancer	0.012048	0.59823	1	0	1		cancer
+GAD Gene-Disease Associations	gad	dementia;	-0.0024446	1	1	0	-1		dementia;
+GAD Gene-Disease Associations	gad	hypertension/complications*	0.016064	0.58057	1	0	1		hypertension/complications*
+GAD Gene-Disease Associations	gad	dyslipidemias; hypertriglyceridemia	-0.0064606	1	1	0	-1		dyslipidemias; hypertriglyceridemia
+GAD Gene-Disease Associations	gad	coronary artery disease; myocardial infarction	-0.025843	0.47412	1	0	-1		coronary artery disease; myocardial infarction
+GAD Gene-Disease Associations	gad	myocardial infarction; stroke	0.017636	0.69053	1	0	1		myocardial infarction; stroke
+GAD Gene-Disease Associations	gad	hypertension	0.095163	0.11595	1	0	1		hypertension
+GAD Gene-Disease Associations	gad	adenocarcinoma; stomach neoplasms	0.021652	0.47361	1	0	1		adenocarcinoma; stomach neoplasms
+GAD Gene-Disease Associations	gad	hepatopulmonary syndrome; liver cirrhosis	0.011874	0.81115	1	0	1		hepatopulmonary syndrome; liver cirrhosis
+GAD Gene-Disease Associations	gad	migraine without aura	0.012048	0.59736	1	0	1		migraine without aura
+GAD Gene-Disease Associations	gad	c-reactive protein	0.040161	0.12637	1	0	1		c-reactive protein
+GAD Gene-Disease Associations	gad	memory impairment	0.012048	0.59889	1	0	1		memory impairment
+GAD Gene-Disease Associations	gad	t-pa and pai-1 levels	0.02008	0.3605	1	0	1		t-pa and pai-1 levels
+GAD Gene-Disease Associations	gad	renal insufficiency	0.016064	0.58155	1	0	1		renal insufficiency
+GAD Gene-Disease Associations	gad	glomerulonephritis	0.012048	0.59739	1	0	1		glomerulonephritis
+GAD Gene-Disease Associations	gad	hypertension, renal	0.02008	0.36124	1	0	1		hypertension, renal
+GAD Gene-Disease Associations	gad	calcinosis; coronary artery disease	0.016064	0.57875	1	0	1		calcinosis; coronary artery disease
+GAD Gene-Disease Associations	gad	diabetes mellitus type ii; diabetes mellitus, type 2; diabetic nephropathies; diabetic nephropathy	0.012048	0.60095	1	0	1		diabetes mellitus type ii; diabetes mellitus, type 2; diabetic nephropathies; diabetic nephropathy
+GAD Gene-Disease Associations	gad	cerebrovascular disorders	0.0055876	1	1	0	1		cerebrovascular disorders
+GAD Gene-Disease Associations	gad	vesicoureteral reflux	0.012048	0.60095	1	0	1		vesicoureteral reflux
+GAD Gene-Disease Associations	gad	hyperlipidemias; hypertension	0.01362	0.6916	1	0	1		hyperlipidemias; hypertension
+GAD Gene-Disease Associations	gad	lipoproteins, hdl	-0.0064606	1	1	0	-1		lipoproteins, hdl
+GAD Gene-Disease Associations	gad	oxidative stress	0.02008	0.36182	1	0	1		oxidative stress
+GAD Gene-Disease Associations	gad	rhinitis, allergic, perennial	0.012048	0.60004	1	0	1		rhinitis, allergic, perennial
+GAD Gene-Disease Associations	gad	liver cirrhosis, alcoholic	0.012048	0.59415	1	0	1		liver cirrhosis, alcoholic
+GAD Gene-Disease Associations	gad	malaria, cerebral; malaria, falciparum	-0.020953	0.20884	1	0	-1		malaria, cerebral; malaria, falciparum
+GAD Gene-Disease Associations	gad	graves disease; hashimoto disease	0.012048	0.59677	1	0	1		graves disease; hashimoto disease
+GAD Gene-Disease Associations	gad	rheumatic diseases; rheumatism	-0.0064606	1	1	0	-1		rheumatic diseases; rheumatism
+GAD Gene-Disease Associations	gad	hypertension; insulin resistance	0.016064	0.5818	1	0	1		hypertension; insulin resistance
+GAD Gene-Disease Associations	gad	gastritis; helicobacter infections	0.012048	0.6004	1	0	1		gastritis; helicobacter infections
+GAD Gene-Disease Associations	gad	epilepsy, temporal lobe;	0.012048	0.59935	1	0	1		epilepsy, temporal lobe;
+GAD Gene-Disease Associations	gad	graves ophthalmopathy; thyroid associated opthalmopathies	0.02008	0.36127	1	0	1		graves ophthalmopathy; thyroid associated opthalmopathies
+GAD Gene-Disease Associations	gad	meningococcal disease	0.0015715	1	1	0	1		meningococcal disease
+GAD Gene-Disease Associations	gad	antibiotic-induced cutaneous allergic reactions	0.012048	0.59798	1	0	1		antibiotic-induced cutaneous allergic reactions
+GAD Gene-Disease Associations	gad	lymphoproliferative disorders	-0.012921	0.61564	1	0	-1		lymphoproliferative disorders
+GAD Gene-Disease Associations	gad	behcet's disease	0.0096036	0.70633	1	0	1		behcet's disease
+GAD Gene-Disease Associations	gad	asthma; bronchial hyperreactivity; hypersensitivity, immediate	0.038415	0.35385	1	0	1		asthma; bronchial hyperreactivity; hypersensitivity, immediate
+GAD Gene-Disease Associations	gad	erythema nodosum; sarcoidosis	0.017636	0.6912	1	0	1		erythema nodosum; sarcoidosis
+GAD Gene-Disease Associations	gad	multiple sclerosis	0.055177	0.33287	1	0	1		multiple sclerosis
+GAD Gene-Disease Associations	gad	oral submucous fibrosis	0.016064	0.57933	1	0	1		oral submucous fibrosis
+GAD Gene-Disease Associations	gad	alopecia areata	0.02008	0.36428	1	0	1		alopecia areata
+GAD Gene-Disease Associations	gad	biliary cirrhosis; liver cirrhosis, biliary	0.012048	0.59954	1	0	1		biliary cirrhosis; liver cirrhosis, biliary
+GAD Gene-Disease Associations	gad	hypersensitivity	0.003143	1	1	0	1		hypersensitivity
+GAD Gene-Disease Associations	gad	alopecia areata; autoimmune diseases	0.012048	0.5986	1	0	1		alopecia areata; autoimmune diseases
+GAD Gene-Disease Associations	gad	coeliac disease	0.012048	0.59868	1	0	1		coeliac disease
+GAD Gene-Disease Associations	gad	haemophilia a	0.012048	0.59761	1	0	1		haemophilia a
+GAD Gene-Disease Associations	gad	crohn's disease; ulcerative colitis	-0.027414	0.35163	1	0	-1		crohn's disease; ulcerative colitis
+GAD Gene-Disease Associations	gad	cerebral infarction;	0.012048	0.59657	1	0	1		cerebral infarction;
+GAD Gene-Disease Associations	gad	acquired immunodeficiency syndrome; hiv infections; [x]human immunodeficiency virus disease	0.012048	0.60063	1	0	1		acquired immunodeficiency syndrome; hiv infections; [x]human immunodeficiency virus disease
+GAD Gene-Disease Associations	gad	hiv infection	0.012048	0.59835	1	0	1		hiv infection
+GAD Gene-Disease Associations	gad	helicobacter infections; metaplasia	0.012048	0.60077	1	0	1		helicobacter infections; metaplasia
+GAD Gene-Disease Associations	gad	carcinoma, squamous cell; inflammation; mouth neoplasms; thrombosis	0.012048	0.60234	1	0	1		carcinoma, squamous cell; inflammation; mouth neoplasms; thrombosis
+GAD Gene-Disease Associations	gad	cardiovascular diseases; hypertension	0.012048	0.59758	1	0	1		cardiovascular diseases; hypertension
+GAD Gene-Disease Associations	gad	glomerular filtration rate	-0.0064606	1	1	0	-1		glomerular filtration rate
+GAD Gene-Disease Associations	gad	femur head necrosis;	-0.0064606	1	1	0	-1		femur head necrosis;
+GAD Gene-Disease Associations	gad	diabetic retinopathy	0.024096	0.34877	1	0	1		diabetic retinopathy
+GAD Gene-Disease Associations	gad	brill-symmers disease; lymphoma, follicular; lymphoma, non-hodgkin; lymphoma, non-hodgkin's	0.012048	0.5997	1	0	1		brill-symmers disease; lymphoma, follicular; lymphoma, non-hodgkin; lymphoma, non-hodgkin's
+GAD Gene-Disease Associations	gad	helicobacter infections; peptic ulcer	0.016064	0.57763	1	0	1		helicobacter infections; peptic ulcer
+GAD Gene-Disease Associations	gad	graves' disease	-0.012921	0.61436	1	0	-1		graves' disease
+GAD Gene-Disease Associations	gad	inflammation	0.025668	0.46755	1	0	1		inflammation
+GAD Gene-Disease Associations	gad	aspergillosis; lung diseases, fungal	-0.0064606	1	1	0	-1		aspergillosis; lung diseases, fungal
+GAD Gene-Disease Associations	gad	uveitis	-0.020953	0.2082	1	0	-1		uveitis
+GAD Gene-Disease Associations	gad	bone density; osteoporosis	0.012048	0.59552	1	0	1		bone density; osteoporosis
+GAD Gene-Disease Associations	gad	lipid profile	-0.0064606	1	1	0	-1		lipid profile
+GAD Gene-Disease Associations	gad	tic; combined vocal and multiple motor; tourette syndrome	0.012048	0.60081	1	0	1		tic; combined vocal and multiple motor; tourette syndrome
+GAD Gene-Disease Associations	gad	colonic neoplasms; neoplasm recurrence, local	0.012048	0.60096	1	0	1		colonic neoplasms; neoplasm recurrence, local
+GAD Gene-Disease Associations	gad	pain, postoperative	0.016064	0.58053	1	0	1		pain, postoperative
+GAD Gene-Disease Associations	gad	lymphoma, b-cell; lymphoma, t-cell	0.012048	0.60077	1	0	1		lymphoma, b-cell; lymphoma, t-cell
+GAD Gene-Disease Associations	gad	wegener's granulomatosis	0.02008	0.3632	1	0	1		wegener's granulomatosis
+GAD Gene-Disease Associations	gad	subarachnoid hemorrhage	0.02008	0.36137	1	0	1		subarachnoid hemorrhage
+GAD Gene-Disease Associations	gad	chronic periodontitis	0.0096036	0.70625	1	0	1		chronic periodontitis
+GAD Gene-Disease Associations	gad	cardiovascular disease; periodontal disease	0.032129	0.20965	1	0	1		cardiovascular disease; periodontal disease
+GAD Gene-Disease Associations	gad	h. pylori infection	0.01362	0.69255	1	0	1		h. pylori infection
+GAD Gene-Disease Associations	gad	silicosis	0.016064	0.58001	1	0	1		silicosis
+GAD Gene-Disease Associations	gad	pneumoconiosis	0.028112	0.21842	1	0	1		pneumoconiosis
+GAD Gene-Disease Associations	gad	ankylosing spondylitis	0.032129	0.20732	1	0	1		ankylosing spondylitis
+GAD Gene-Disease Associations	gad	rheumatoid spondylitis; spondylitis, ankylosing	0.0015715	1	1	0	1		rheumatoid spondylitis; spondylitis, ankylosing
+GAD Gene-Disease Associations	gad	chronic ulcerative colitis; colitis, ulcerative	0.040161	0.12615	1	0	1		chronic ulcerative colitis; colitis, ulcerative
+GAD Gene-Disease Associations	gad	knee osteoarthritis	0.02008	0.36364	1	0	1		knee osteoarthritis
+GAD Gene-Disease Associations	gad	osteoarthritis, knee	0.025668	0.46962	1	0	1		osteoarthritis, knee
+GAD Gene-Disease Associations	gad	sudden infant death	0.036145	0.21279	1	0	1		sudden infant death
+GAD Gene-Disease Associations	gad	intervertebral disk displacement	0.0055876	1	1	0	1		intervertebral disk displacement
+GAD Gene-Disease Associations	gad	bone mineral density ;  osteoporosis	0.012048	0.59782	1	0	1		bone mineral density ;  osteoporosis
+GAD Gene-Disease Associations	gad	spinal diseases	0.02008	0.36302	1	0	1		spinal diseases
+GAD Gene-Disease Associations	gad	carcinoma, renal cell; inflammation; kidney neoplasms; neoplasm metastasis	-0.0064606	1	1	0	-1		carcinoma, renal cell; inflammation; kidney neoplasms; neoplasm metastasis
+GAD Gene-Disease Associations	gad	dengue hemorrhagic fever	0.02008	0.36342	1	0	1		dengue hemorrhagic fever
+GAD Gene-Disease Associations	gad	kidney aging	-0.0048891	1	1	0	-1		kidney aging
+GAD Gene-Disease Associations	gad	hyperparathyroidism, secondary	0.034398	0.46867	1	0	1		hyperparathyroidism, secondary
+GAD Gene-Disease Associations	gad	myasthenia gravis	0.016064	0.58055	1	0	1		myasthenia gravis
+GAD Gene-Disease Associations	gad	abortion, habitual	0.025668	0.46862	1	0	1		abortion, habitual
+GAD Gene-Disease Associations	gad	pre-eclampsia	0.077877	0.03667	1	0	1		pre-eclampsia
+GAD Gene-Disease Associations	gad	preeclampsia	0.0337	0.31138	1	0	1		preeclampsia
+GAD Gene-Disease Associations	gad	sarcoidosis, pulmonary	0.028112	0.22262	1	0	1		sarcoidosis, pulmonary
+GAD Gene-Disease Associations	gad	arthritis, juvenile rheumatoid; chronic childhood arthritis	0.028112	0.21945	1	0	1		arthritis, juvenile rheumatoid; chronic childhood arthritis
+GAD Gene-Disease Associations	gad	otitis media; recurrence	0.017636	0.69023	1	0	1		otitis media; recurrence
+GAD Gene-Disease Associations	gad	helicobacter infections	0.036145	0.2138	1	0	1		helicobacter infections
+GAD Gene-Disease Associations	gad	bacteremia;	0.016064	0.57993	1	0	1		bacteremia;
+GAD Gene-Disease Associations	gad	puerperal disorders; sepsis; streptococcal infections; systemic infection	0.032129	0.21079	1	0	1		puerperal disorders; sepsis; streptococcal infections; systemic infection
+GAD Gene-Disease Associations	gad	prosthesis failure	0.016064	0.58337	1	0	1		prosthesis failure
+GAD Gene-Disease Associations	gad	sepsis	0.017636	0.69176	1	0	1		sepsis
+GAD Gene-Disease Associations	gad	periodontitis	0.096386	0.0075399	1	0	1		periodontitis
+GAD Gene-Disease Associations	gad	tuberculosis, pulmonary	0.049764	0.13456	1	0	1		tuberculosis, pulmonary
+GAD Gene-Disease Associations	gad	malaria	0.015191	0.74163	1	0	1		malaria
+GAD Gene-Disease Associations	gad	malaria, falciparum	0.0096036	0.70714	1	0	1		malaria, falciparum
+GAD Gene-Disease Associations	gad	focal segmental glomsclerosis; glomerulosclerosis, focal segmental	0.016064	0.58224	1	0	1		focal segmental glomsclerosis; glomerulosclerosis, focal segmental
+GAD Gene-Disease Associations	gad	hodgkin disease; inflammation	0.036145	0.21534	1	0	1		hodgkin disease; inflammation
+GAD Gene-Disease Associations	gad	thryoiditis, subacute granulomatous	0.012048	0.59632	1	0	1		thryoiditis, subacute granulomatous
+GAD Gene-Disease Associations	gad	paediatric renal allograft	0.01362	0.69169	1	0	1		paediatric renal allograft
+GAD Gene-Disease Associations	gad	arthritis; osteoarthritis	0.012048	0.59717	1	0	1		arthritis; osteoarthritis
+GAD Gene-Disease Associations	gad	gastric disease	0.02008	0.36175	1	0	1		gastric disease
+GAD Gene-Disease Associations	gad	rubella vaccination	0.02008	0.36016	1	0	1		rubella vaccination
+GAD Gene-Disease Associations	gad	irritable bowel syndrome	0.037716	0.21045	1	0	1		irritable bowel syndrome
+GAD Gene-Disease Associations	gad	atopy	0.029684	0.31669	1	0	1		atopy
+GAD Gene-Disease Associations	gad	arthritis, rheumatoid	-0.0097782	0.7573	1	0	-1		arthritis, rheumatoid
+GAD Gene-Disease Associations	gad	asthma;	0.01589	0.81015	1	0	1		asthma;
+GAD Gene-Disease Associations	gad	neoplasms	0.028811	0.43725	1	0	1		neoplasms
+GAD Gene-Disease Associations	gad	inflammatory bowel disease, nos; inflammatory bowel diseases	0.028112	0.21587	1	0	1		inflammatory bowel disease, nos; inflammatory bowel diseases
+GAD Gene-Disease Associations	gad	colitis, ulcerative	0.032129	0.20847	1	0	1		colitis, ulcerative
+GAD Gene-Disease Associations	gad	ulcerative colitis	0.021652	0.47121	1	0	1		ulcerative colitis
+GAD Gene-Disease Associations	gad	asthma; bronchial hyperreactivity	0.012048	0.59942	1	0	1		asthma; bronchial hyperreactivity
+GAD Gene-Disease Associations	gad	postoperative complications	0.012048	0.59942	1	0	1		postoperative complications
+GAD Gene-Disease Associations	gad	atherosclerosis; obesity	-0.024969	0.12237	1	0	-1		atherosclerosis; obesity
+GAD Gene-Disease Associations	gad	apoplexy; myocardial infarction; stroke	0.012048	0.59604	1	0	1		apoplexy; myocardial infarction; stroke
+GAD Gene-Disease Associations	gad	carcinoma, hepatocellular; hepatitis c, chronic; lcc - liver cell carcinoma; liver neoplasms	0.016064	0.57972	1	0	1		carcinoma, hepatocellular; hepatitis c, chronic; lcc - liver cell carcinoma; liver neoplasms
+GAD Gene-Disease Associations	gad	hypothyroidism	0.0015715	1	1	0	1		hypothyroidism
+GAD Gene-Disease Associations	gad	retinopathy, diabetic	0.0071591	1	1	0	1		retinopathy, diabetic
+GAD Gene-Disease Associations	gad	retinopathy of prematurity	0.024096	0.34477	1	0	1		retinopathy of prematurity
+GAD Gene-Disease Associations	gad	pulmonary fibrosis	0.024096	0.3452	1	0	1		pulmonary fibrosis
+GAD Gene-Disease Associations	gad	crohn disease; crohn's disease	0.0055876	1	1	0	1		crohn disease; crohn's disease
+GAD Gene-Disease Associations	gad	lung diseases	0.021652	0.47492	1	0	1		lung diseases
+GAD Gene-Disease Associations	gad	benzene toxicity	-0.0064606	1	1	0	-1		benzene toxicity
+GAD Gene-Disease Associations	gad	cystic fibrosis; pseudomonas infections	0.012048	0.59825	1	0	1		cystic fibrosis; pseudomonas infections
+GAD Gene-Disease Associations	gad	hepatitis b, chronic; liver cirrhosis	0.016064	0.58088	1	0	1		hepatitis b, chronic; liver cirrhosis
+GAD Gene-Disease Associations	gad	pancreatitis, chronic	0.0071591	1	1	0	1		pancreatitis, chronic
+GAD Gene-Disease Associations	gad	carcinoma, hepatocellular; lcc - liver cell carcinoma; liver neoplasms	0.0096036	0.70488	1	0	1		carcinoma, hepatocellular; lcc - liver cell carcinoma; liver neoplasms
+GAD Gene-Disease Associations	gad	carcinoma, squamous cell; mouth neoplasms; squamous cell carcinoma	0.024096	0.34623	1	0	1		carcinoma, squamous cell; mouth neoplasms; squamous cell carcinoma
+GAD Gene-Disease Associations	gad	non-hodgkin's lymphoma	0.0055876	1	1	0	1		non-hodgkin's lymphoma
+GAD Gene-Disease Associations	gad	preterm delivery	0.028112	0.22064	1	0	1		preterm delivery
+GAD Gene-Disease Associations	gad	carcinoma, hepatocellular; liver neoplasms	0.016064	0.5815	1	0	1		carcinoma, hepatocellular; liver neoplasms
+GAD Gene-Disease Associations	gad	alpha 1-antitrypsin deficiency; lung neoplasms; neoplasm of lung ; pulmonary disease, chronic obstructive	0.02008	0.36438	1	0	1		alpha 1-antitrypsin deficiency; lung neoplasms; neoplasm of lung ; pulmonary disease, chronic obstructive
+GAD Gene-Disease Associations	gad	esophageal neoplasms; head and neck neoplasms; laryngeal neoplasms; mouth neoplasms; pharyngeal neoplasms	0.0096036	0.70784	1	0	1		esophageal neoplasms; head and neck neoplasms; laryngeal neoplasms; mouth neoplasms; pharyngeal neoplasms
+GAD Gene-Disease Associations	gad	carcinoma, hepatocellular; hepatitis b, chronic; lcc - liver cell carcinoma; liver neoplasms	0.012048	0.59971	1	0	1		carcinoma, hepatocellular; hepatitis b, chronic; lcc - liver cell carcinoma; liver neoplasms
+GAD Gene-Disease Associations	gad	lung function	0.01362	0.69156	1	0	1		lung function
+GAD Gene-Disease Associations	gad	colitis, ulcerative; crohn disease;	0.016064	0.58094	1	0	1		colitis, ulcerative; crohn disease;
+GAD Gene-Disease Associations	gad	crohn disease;	0.028112	0.22034	1	0	1		crohn disease;
+GAD Gene-Disease Associations	gad	chronic ulcerative colitis; colitis, ulcerative; crohn disease; crohn's disease; inflammatory bowel disease, nos; inflammatory bowel diseases	0.0055876	1	1	0	1		chronic ulcerative colitis; colitis, ulcerative; crohn disease; crohn's disease; inflammatory bowel disease, nos; inflammatory bowel diseases
+GAD Gene-Disease Associations	gad	lymphoma, non-hodgkin	-0.041383	0.43449	1	0	-1		lymphoma, non-hodgkin
+GAD Gene-Disease Associations	gad	leukemia, lymphocytic, chronic, b-cell	0.006286	1	1	0	1		leukemia, lymphocytic, chronic, b-cell
+GAD Gene-Disease Associations	gad	multiple myeloma	-0.00017461	1	1	0	-1		multiple myeloma
+GAD Gene-Disease Associations	gad	cervical cancer	0.044177	0.1313	1	0	1		cervical cancer
+GAD Gene-Disease Associations	gad	lymphoma	0.011175	0.74533	1	0	1		lymphoma
+GAD Gene-Disease Associations	gad	drug hypersensitivity	0.0015715	1	1	0	1		drug hypersensitivity
+GAD Gene-Disease Associations	gad	dental implants	0.012048	0.59593	1	0	1		dental implants
+GAD Gene-Disease Associations	gad	myopia	-0.012921	0.61531	1	0	-1		myopia
+GAD Gene-Disease Associations	gad	pain, postoperative; radius fractures; reflex sympathetic dystrophy	0.032129	0.2069	1	0	1		pain, postoperative; radius fractures; reflex sympathetic dystrophy
+GAD Gene-Disease Associations	gad	diabetes mellitus, insulin-dependent; diabetes mellitus, type 1	0.0337	0.3138	1	0	1		diabetes mellitus, insulin-dependent; diabetes mellitus, type 1
+GAD Gene-Disease Associations	gad	hepatitis b, chronic	0.037716	0.21287	1	0	1		hepatitis b, chronic
+GAD Gene-Disease Associations	gad	hiv infections; [x]human immunodeficiency virus disease	-0.023398	0.37617	1	0	-1		hiv infections; [x]human immunodeficiency virus disease
+GAD Gene-Disease Associations	gad	pregnancy loss	0.024795	0.58774	1	0	1		pregnancy loss
+GAD Gene-Disease Associations	gad	behcet syndrome	0.0071591	1	1	0	1		behcet syndrome
+GAD Gene-Disease Associations	gad	psoriasis	0.045748	0.20907	1	0	1		psoriasis
+GAD Gene-Disease Associations	gad	graft vs host disease	-0.037891	0.10856	1	0	-1		graft vs host disease
+GAD Gene-Disease Associations	gad	sclerosis, systemic	-0.0064606	1	1	0	-1		sclerosis, systemic
+GAD Gene-Disease Associations	gad	chagas cardiomyopathy; chagas disease	0.012048	0.60311	1	0	1		chagas cardiomyopathy; chagas disease
+GAD Gene-Disease Associations	gad	urticaria	-0.0024446	1	1	0	-1		urticaria
+GAD Gene-Disease Associations	gad	cholangitis, sclerosing	-0.0024446	1	1	0	-1		cholangitis, sclerosing
+GAD Gene-Disease Associations	gad	behcet syndrome;	0.017636	0.68806	1	0	1		behcet syndrome;
+GAD Gene-Disease Associations	gad	kidney transplantation	0.012048	0.59708	1	0	1		kidney transplantation
+GAD Gene-Disease Associations	gad	celiac disease;	0.028112	0.21849	1	0	1		celiac disease;
+GAD Gene-Disease Associations	gad	type 1 diabetes	0.012048	0.5986	1	0	1		type 1 diabetes
+GAD Gene-Disease Associations	gad	cirrhosis	-0.03143	0.11966	1	0	-1		cirrhosis
+GAD Gene-Disease Associations	gad	respiratory syncytial virus infections	0.024096	0.34519	1	0	1		respiratory syncytial virus infections
+GAD Gene-Disease Associations	gad	malaria, cerebral	0.0096036	0.70642	1	0	1		malaria, cerebral
+GAD Gene-Disease Associations	gad	lipids	-0.0024446	1	1	0	-1		lipids
+GAD Gene-Disease Associations	gad	pterygium	0.016064	0.57819	1	0	1		pterygium
+GAD Gene-Disease Associations	gad	lymphocytes	0.012048	0.6023	1	0	1		lymphocytes
+GAD Gene-Disease Associations	gad	liver cirrhosis, biliary	-0.0064606	1	1	0	-1		liver cirrhosis, biliary
+GAD Gene-Disease Associations	gad	cardiovascular diseases; coronary disease; myocardial infarction; stroke	0.00048115	1	1	0	1		cardiovascular diseases; coronary disease; myocardial infarction; stroke|fluvastatin induced cholesterol changes|hyperlipoproteinemia type ii
+GAD Gene-Disease Associations	gad	connective tissue diseases; fetal diseases; inflammation; musculoskeletal diseases; pregnancy complications, hematologic; premature birth; skin diseases	0.046218	0.26878	1	0	1		connective tissue diseases; fetal diseases; inflammation; musculoskeletal diseases; pregnancy complications, hematologic; premature birth; skin diseases|infection; inflammation; premature birth|premature birth
+GAD Gene-Disease Associations	gad	shyness	0.0090277	0.73027	1	0	1		shyness|depression, postpartum;|cognitive function
+GAD Gene-Disease Associations	gad	heart failure; myocardial infarction	0.014735	0.47557	1	0	1		heart failure; myocardial infarction|coronary disease; myocardial ischemia|heart failure; myocardial ischemia
+GAD Gene-Disease Associations	gad	autoimmune diseases; gastritis	0.018121	0.21791	1	0	1		autoimmune diseases; gastritis|leptospirosis; swamp fever|uveomeningoencephalitic syndrome
+GAD Gene-Disease Associations	gad	renal function	0.012048	0.60196	1	0	1		renal function
+GAD Gene-Disease Associations	gad	chronic obstructive pulmonary disease	0.020537	0.70009	1	0	1		chronic obstructive pulmonary disease|bladder cancer|lung cancer
+GAD Gene-Disease Associations	gad	juvenile endogenous attack-like psychoses	0.014946	0.58379	1	0	1		juvenile endogenous attack-like psychoses|psychoses, substance-induced|cocaine abuse
+GAD Gene-Disease Associations	gad	carcinoma, hepatocellular; diabetes complications; diabetes mellitus; inflammation; liver neoplasms	0.014249	0.58048	1	0	1		carcinoma, hepatocellular; diabetes complications; diabetes mellitus; inflammation; liver neoplasms|hodgkin disease; lymphoma; lymphoma, non-hodgkin
+GAD Gene-Disease Associations	gad	fetal death	0.016064	0.58187	1	0	1		fetal death
+GAD Gene-Disease Associations	gad	biliary cirrhosis; hepatitis, autoimmune; liver cirrhosis, biliary	0.012048	0.59986	1	0	1		biliary cirrhosis; hepatitis, autoimmune; liver cirrhosis, biliary
+GAD Gene-Disease Associations	gad	cough	0.012048	0.59935	1	0	1		cough
+GAD Gene-Disease Associations	gad	panic disorder; migraine	0.012048	0.59776	1	0	1		panic disorder; migraine|temperament traits|gambling behaviour
+GAD Gene-Disease Associations	gad	nausea	0.016778	0.30774	1	0	1		nausea|eating disorders|substance withdrawal syndrome
+GAD Gene-Disease Associations	gad	asthma; eczema; allergic disease	0.015403	0.42913	1	0	1		asthma; eczema; allergic disease|graft rejection, liver
+GAD Gene-Disease Associations	gad	bone density; fractures	0.001807	1	1	0	1		bone density; fractures|fractures, spontaneous; osteoporosis, postmenopausal|femoral neck fractures; fractures, stress
+GAD Gene-Disease Associations	gad	atrial fibrillation; hypertension	0.02008	0.36027	1	0	1		atrial fibrillation; hypertension
+GAD Gene-Disease Associations	gad	startle reflex	0.012508	0.49522	1	0	1		startle reflex|bulimia|fibromyalgia
+GAD Gene-Disease Associations	gad	alcoholism; heroin dependence	0.012048	0.59704	1	0	1		alcoholism; heroin dependence
+GAD Gene-Disease Associations	gad	mean	0.002204	0.02768	1	0	1	mean	mean|stdv
+GAD Gene-Disease Associations	gad	atherosclerosis; brain ischemia; carotid stenosis; thrombosis	-0.00051685	1	1	0	-1		atherosclerosis; brain ischemia; carotid stenosis; thrombosis|brain ischemia; stroke; vascular diseases
+GAD Gene-Disease Associations	gad	spinal ossification	0.016064	0.57993	1	0	1		spinal ossification|spondylosis, lumbar
+GAD Gene-Disease Associations	gad	metamphetamine dependence	0.012048	0.60254	1	0	1		metamphetamine dependence|alcoholism; renal disease, end stage
+GAD Gene-Disease Associations	gad	impulse control disorder	0.012048	0.59746	1	0	1		impulse control disorder|schizophrenia; tardive dyskinesia
+GAD Gene-Disease Associations	gad	hypertension; myocardial ischemia	0.0015715	1	1	0	1		hypertension; myocardial ischemia
+GAD Gene-Disease Associations	gad	suntan	-0.0064606	1	1	0	-1		suntan|tanning
+GAD Gene-Disease Associations	gad	liver diseases, alcoholic	0.016064	0.58088	1	0	1		liver diseases, alcoholic
+GAD Gene-Disease Associations	gad	aortic aneurysm, abdominal;	-0.0042679	0.83702	1	0	-1		aortic aneurysm, abdominal;|hyperhomocysteinemia
+GAD Gene-Disease Associations	gad	anemia, sickle cell; beta thalassemia; beta-thalassemia; blood coagulation disorders, inherited; sickle cell anemia; vascular diseases	0.019709	0.29888	1	0	1		anemia, sickle cell; beta thalassemia; beta-thalassemia; blood coagulation disorders, inherited; sickle cell anemia; vascular diseases|aspirin resistance|recurrent pregnancy loss
+GAD Gene-Disease Associations	gad	cystic fibrosis;	0.028112	0.21897	1	0	1		cystic fibrosis;
+GAD Gene-Disease Associations	gad	critical illness; multiple organ failure; systemic inflam response synd; systemic inflammatory response syndrome	0.012971	0.47227	1	0	1		critical illness; multiple organ failure; systemic inflam response synd; systemic inflammatory response syndrome|dermatitis, allergic contact; dermatitis, atopic; eczema allergic|diabetes mellitus type ii; diabetes mellitus, type 2; diabetic nephropathies; diabetic nephropathy; inflammation|aneurysm, ruptured; aortic aneurysm, abdominal|infection; kidney failure, acute|aortic aneurysm, abdominal; inflammation; postoperative complications|asthma; lipids; c-reactive protein; obesity; glucose; leptin; atopy|aortic aneurysm, abdominal; aortic rupture|inflammation; inflammatory bowel disease, nos; inflammatory bowel diseases|osteolysis|coal workers pneumoconiosis|erythema|pneumoconiosis; silicosis|apoplexy; atherosclerosis; inflammation; stroke|inflammation; neoplasms|apoplexy; brain ischemia; encephalitis; stroke|stomach cancer; gastritis|duodenal ulcer; gastrointestinal diseases; helicobacter infections; stomach neoplasms; stomach ulcer; stomach; ulcer|bacterial vaginosis; vaginosis, bacterial|chronic periodontitis; periodontitis|dementia; inflammation|asphyxia neonatorum; brain ischemia; hypoxia-ischemia, brain|glossitis, benign migratory|critical illness;|duodenal ulcer; gastritis; helicobacter infections; stomach neoplasms|bone diseases, metabolic; osteoporosis, postmenopausal|dental plaque; gingivitis|burns; multiple organ failure; shock|gastroenteritis|aids dementia complex; aids related dementia complex|precancerous conditions; stomach neoplasms|carcinoma; helicobacter infections; stomach neoplasms|gastroesophageal reflux; helicobacter infections|thinness|obstetric labor, premature|bleeding after cardiac surgery
+GAD Gene-Disease Associations	gad	allograft dysfunction, renal	0.01423	0.26327	1	0	1		allograft dysfunction, renal|alveolitis, extrinsic allergic; bird fancier's lung; extrinsic allergic alveolitis|autoimmune diseases; pelvic pain; prostatitis; syndrome|alphavirus infections; infectious mononucleosis; q fever|common cold;|common cold; otitis media; picornaviridae infections|leukemia, acute myeloid; longevity; myelodysplasia|allograft outcome|bronchiolitis obliterans syndrome|cell-surface b7 expression; cytokine production|chlamydia infections; infertility, female|graft-vs-host disease|hepatitis b; hepatitis c; reperfusion injury|kidney graft survival|parvovirus|angina pectoris; coronary artery disease; inflammation; myocardial infarction|renal allograft outcome|kidney; failure; renal insufficiency|clonorchiasis; fibrosis|lung transplant complications|g6pd deficiency|heart valve diseases; rheumatic heart disease|eclampsia; pre-eclampsia|brucellosis;|hepatitis c; recurrence|kidney disease; vascular disease|disease models, animal; fever; seizures, febrile|acute rejection|fatty liver; hepatitis c, chronic; insulin resistance|glomerulonephritis, iga; kidney failure, chronic
+GAD Gene-Disease Associations	gad	atrial fibrillation; inflammation	0.013297	0.37083	1	0	1		atrial fibrillation; inflammation|cachexia; esophageal neoplasms; stomach neoplasms|cytokine production|dermatitis, atopic; dermatitis, irritant; dermatitis, occupational; hand dermatoses|multiple organ failure; multiple trauma; sepsis; systemic infection|hepatitis c, chronic; viremia
+GAD Gene-Disease Associations	gad	desensitization in solid organ transplant recipients	0.029017	0.13414	1	0	1		desensitization in solid organ transplant recipients|interstitial lung diseases|scleroderma, systemic; skin ulcer; systemic scleroderma|osteolysis; prosthesis failure|pemphigus vulgaris|disc disease, intervertebral|arthritis; asthma; diabetes, type 1; pemphigus; il-1ri|renal transplantation, rejection after|graft-versus-host disease; longevity; spondyloarthropathies; aphthous stomatitis|infection; postoperative complications|arthritis; diabetes, type 1; pregnancy loss, recurrent; juvenile arthritis; pemphigus; il-1ri|common variable immunodeficiency|hepatitis c; longevity|graves ophthalmopathy|hiv; tuberculosis; cleft lip with cleft palate; cleft lip without cleft palate|juvenile arthritis
+GAD Gene-Disease Associations	gad	parvovirus b19 infection	0.013829	0.41108	1	0	1		parvovirus b19 infection|epstein-barr virus infections; lymphoproliferative disorders|liver transplantation, immunosuppression after|pulmonary disease, chronic obstructive; pulmonary emphysema
+GAD Gene-Disease Associations	gad	arthritis, juvenile rheumatoid; arthritis, rheumatoid; chronic childhood arthritis; periodontitis; rheumatoid arthritis	0.013075	0.49191	1	0	1		arthritis, juvenile rheumatoid; arthritis, rheumatoid; chronic childhood arthritis; periodontitis; rheumatoid arthritis|hemorrhagic fever with renal syndrome; pleural effusion|gastritis, atrophic; stomach neoplasms|helicobacter infections; purpura, thrombocytopenic, idiopathic
+GAD Gene-Disease Associations	gad	glomerulonephritis, iga; iga glomerulonephritides; recurrence	0.028112	0.22031	1	0	1		glomerulonephritis, iga; iga glomerulonephritides; recurrence
+GAD Gene-Disease Associations	gad	appendicitis	0.014993	0.39892	1	0	1		appendicitis|burns; shock, septic|burns; infection; wounds and injuries|burns; sepsis; systemic infection|bacteremia; gram-negative bacterial infections|periodontal disease|acute pancreatitis
+GAD Gene-Disease Associations	gad	cervical intraepithelial neoplasia; papillomavirus infections; uterine cervical neoplasms	0.016064	0.5811	1	0	1		cervical intraepithelial neoplasia; papillomavirus infections; uterine cervical neoplasms
+GAD Gene-Disease Associations	gad	fat mass	0.012048	0.59935	1	0	1		fat mass|lung diseases, obstructive; scleroderma, systemic; systemic scleroderma|occupational diseases; osteoarthritis
+GAD Gene-Disease Associations	gad	allergies; common cold	0.0015715	1	1	0	1		allergies; common cold
+GAD Gene-Disease Associations	gad	periodontal diseases	0.013743	0.49647	1	0	1		periodontal diseases|vulvar cancer
+GAD Gene-Disease Associations	gad	brain ischemia; inflammation; stroke	0.027688	0.37443	1	0	1		brain ischemia; inflammation; stroke|chlamydia infections; inflammation; trachoma|coronary artery disease; inflammation
+GAD Gene-Disease Associations	gad	brain ischemia; intracranial arterial diseases; stroke	0.0096	0.43413	1	0	1		brain ischemia; intracranial arterial diseases; stroke|thrombotic diseases|pregnancy complications, hematologic; premature birth; thrombophilia|apoplexy; ischemic attack, transient; stroke; transient ischemic attack|thromboembolism; venous thrombosis|abruptio placentae; thrombophilia|vertebral artery dissection
+GAD Gene-Disease Associations	gad	androgen levels	-0.0094315	0.58064	1	0	-1		androgen levels|colon cancer; rectal cancer|cardiomyopathy, hypertrophic; hypertrophy, left ventricular|cryptorchidism; hypospadias|ovarian failure, premature; pof - premature ovarian failure|biliary calculi; biliary tract neoplasm; biliary tract neoplasms; gallstones
+GAD Gene-Disease Associations	gad	carcinoma, squamous cell; esophageal neoplasms; lymphatic metastasis; thoracic neoplasms	0.034304	0.14033	1	0	1		carcinoma, squamous cell; esophageal neoplasms; lymphatic metastasis; thoracic neoplasms|esophageal neoplasms; hyperglycemia; oesophageal neoplasm
+GAD Gene-Disease Associations	gad	cardiovascular diseases; myocardial ischemia	0.012972	0.58207	1	0	1		cardiovascular diseases; myocardial ischemia|cardiomyopathy; heart failure|heart rate, resting|fibromyalgia; syndrome|blood pressure, arterial; heart rate; adrenaline; coronary flow velocity; ecg; noradrenaline
+GAD Gene-Disease Associations	gad	preterm labour	0.012048	0.59632	1	0	1		preterm labour
+GAD Gene-Disease Associations	gad	stomatitis, aphthous	0.016064	0.42755	1	0	1		stomatitis, aphthous|chagas cardiomyopathy
+GAD Gene-Disease Associations	gad	endotoxemia	0.016064	0.58497	1	0	1		endotoxemia
+GAD Gene-Disease Associations	gad	carotid plaque	0.012048	0.6006	1	0	1		carotid plaque
+GAD Gene-Disease Associations	gad	atrophy; peptic ulcer	0.016064	0.58159	1	0	1		atrophy; peptic ulcer
+GAD Gene-Disease Associations	gad	frontal brain electrical asymmetry	0.012959	0.49584	1	0	1		frontal brain electrical asymmetry|negative affective facial stimuli|alcoholism; substance withdrawal syndrome|suicide ;  mood disorders
+GAD Gene-Disease Associations	gad	virus diseases	0.012048	0.59745	1	0	1		virus diseases|aspergillosis;|hiv-1 viral load|bronchiolitis obliterans
+GAD Gene-Disease Associations	gad	antipsychotic-induced adverse reactions	0.0132	0.49192	1	0	1		antipsychotic-induced adverse reactions|alzheimer's disease; anxiety disorder; depression; psychoses; aggressive behavior|puerperal disorders
+GAD Gene-Disease Associations	gad	inflammatory response, trauma induced	0.012048	0.60115	1	0	1		inflammatory response, trauma induced
+GAD Gene-Disease Associations	gad	allograft rejection, heart	0.018057	0.4078	1	0	1		allograft rejection, heart|aggressive periodontitis; periodontitis, juvenile
+GAD Gene-Disease Associations	gad	arterial stiffness	0.016064	0.58087	1	0	1		arterial stiffness
+GAD Gene-Disease Associations	gad	leukemia, myelogenous, chronic, bcr-abl positive; neovascularization, pathologic	0.019831	0.31091	1	0	1		leukemia, myelogenous, chronic, bcr-abl positive; neovascularization, pathologic|leukemia, myelogenous, chronic, bcr-abl positive
+GAD Gene-Disease Associations	gad	gastritis, atrophic; helicobacter infections	0.016064	0.57929	1	0	1		gastritis, atrophic; helicobacter infections
+GAD Gene-Disease Associations	gad	diabetes mellitus, type 2	-0.0033176	1	1	0	-1		diabetes mellitus, type 2
+GAD Gene-Disease Associations	gad	neutrophils	-0.0064606	1	1	0	-1		neutrophils
+GAD Gene-Disease Associations	gad	tunica media	-0.0064606	1	1	0	-1		tunica media
+GAD Gene-Disease Associations	gad	pemphigus	0.032129	0.20785	1	0	1		pemphigus
+GAD Gene-Disease Associations	gad	colorectal cancer	0.10983	0.04586	1	0	1		colorectal cancer
+GAD Gene-Disease Associations	gad	prostate cancer	0.08975	0.093849	1	0	1		prostate cancer
+GAD Gene-Disease Associations	gad	colorectal neoplasms	-0.012921	0.61331	1	0	-1		colorectal neoplasms
+GAD Gene-Disease Associations	gad	renal allograft rejection	-0.012921	0.61405	1	0	-1		renal allograft rejection
+GAD Gene-Disease Associations	gad	leukemia	-0.00087306	1	1	0	-1		leukemia
+GAD Gene-Disease Associations	gad	coronary aneurysm; mucocutaneous lymph node syndrome	0.012048	0.6013	1	0	1		coronary aneurysm; mucocutaneous lymph node syndrome
+GAD Gene-Disease Associations	gad	liver cancer	0.02008	0.36123	1	0	1		liver cancer
+GAD Gene-Disease Associations	gad	drug-related genes	0.0096036	0.70503	1	0	1		drug-related genes
+GAD Gene-Disease Associations	gad	amyotrophic lateral sclerosis	-0.0089052	1	1	0	-1		amyotrophic lateral sclerosis
+GAD Gene-Disease Associations	gad	alcohol	0.0022699	1	1	0	1		alcohol
+GAD Gene-Disease Associations	gad	hyperlipidemias	0.003143	1	1	0	1		hyperlipidemias
+GAD Gene-Disease Associations	gad	dementia	-0.0017461	1	1	0	-1		dementia
+GAD Gene-Disease Associations	gad	metabolic syndrome x	0.045748	0.20995	1	0	1		metabolic syndrome x
+GAD Gene-Disease Associations	gad	blood pressure, arterial	0.031255	0.38092	1	0	1		blood pressure, arterial
+GAD Gene-Disease Associations	gad	amyotrophic lateral sclerosis;	0.0087306	1	1	0	1		amyotrophic lateral sclerosis;
+GAD Gene-Disease Associations	gad	type 2 diabetes	0.040684	0.4501	1	0	1		type 2 diabetes
+GAD Gene-Disease Associations	gad	brain ischemia	0.02008	0.3608	1	0	1		brain ischemia
+GAD Gene-Disease Associations	gad	cleft lip; cleft palate	-0.033875	0.23392	1	0	-1		cleft lip; cleft palate
+GAD Gene-Disease Associations	gad	osteoporosis	0.051336	0.18117	1	0	1		osteoporosis
+GAD Gene-Disease Associations	gad	type 2 diabetes; reduced prostate cancer risk	0.012048	0.59655	1	0	1		type 2 diabetes; reduced prostate cancer risk
+GAD Gene-Disease Associations	gad	waist-hip ratio	0.012048	0.59849	1	0	1		waist-hip ratio
+GAD Gene-Disease Associations	gad	fatigue; fatigue syndrome, chronic	0.028112	0.219	1	0	1		fatigue; fatigue syndrome, chronic
+GAD Gene-Disease Associations	gad	narcolepsy	-0.0041907	1	1	0	-1		narcolepsy
+GAD Gene-Disease Associations	gad	bone mineral density	0.010826	0.86463	1	0	1		bone mineral density
+GAD Gene-Disease Associations	gad	pancreatic neoplasms	0.017636	0.68638	1	0	1		pancreatic neoplasms
+GAD Gene-Disease Associations	gad	respiratory function tests	0.032129	0.20792	1	0	1		respiratory function tests
+GAD Gene-Disease Associations	gad	psychophysiologic disorders	-0.0019927	1	1	0	-1		psychophysiologic disorders|musculoskeletal pain
+GAD Gene-Disease Associations	gad	esophageal neoplasms; oesophageal neoplasm; stomach neoplasms	0.012048	0.59717	1	0	1		esophageal neoplasms; oesophageal neoplasm; stomach neoplasms
+GAD Gene-Disease Associations	gad	sudden cardiac arrest risk	0.02008	0.36043	1	0	1		sudden cardiac arrest risk
+GAD Gene-Disease Associations	gad	calcium homeostasis and peripheral bone density	0.012048	0.5989	1	0	1		calcium homeostasis and peripheral bone density|hyperparathyroidism
+GAD Gene-Disease Associations	gad	obesity; vascular diseases	0.016064	0.58087	1	0	1		obesity; vascular diseases
+GAD Gene-Disease Associations	gad	hemorrhagic fever with renal syndrome	0.012048	0.59632	1	0	1		hemorrhagic fever with renal syndrome
+GAD Gene-Disease Associations	gad	pulmonary embolism; pulmonary embolisms; venous thrombosis	0.02008	0.36095	1	0	1		pulmonary embolism; pulmonary embolisms; venous thrombosis
+GAD Gene-Disease Associations	gad	hiv infections; lipodystrophy	0.024096	0.34644	1	0	1		hiv infections; lipodystrophy
+GAD Gene-Disease Associations	gad	hepatitis c; pregnancy complications, infectious	0.012048	0.59895	1	0	1		hepatitis c; pregnancy complications, infectious
+GAD Gene-Disease Associations	gad	adenocarcinoma; helicobacter infections; stomach neoplasms	0.016064	0.57882	1	0	1		adenocarcinoma; helicobacter infections; stomach neoplasms
+GAD Gene-Disease Associations	gad	alcoholism; recurrence	0.02008	0.36132	1	0	1		alcoholism; recurrence
+GAD Gene-Disease Associations	gad	gastritis, atrophic; helicobacter infections; metaplasia; peptic ulcer	0.02008	0.36292	1	0	1		gastritis, atrophic; helicobacter infections; metaplasia; peptic ulcer
+GAD Gene-Disease Associations	gad	restenosis	0.026246	0.45736	1	0	1		restenosis|recurrence; venous thromboembolism
+GAD Gene-Disease Associations	gad	substance withdrawal syndrome; tobacco use disorder	0.014369	0.58121	1	0	1		substance withdrawal syndrome; tobacco use disorder|musical aptitude
+GAD Gene-Disease Associations	gad	hot flashes	-0.018626	0.20475	1	0	-1		hot flashes|testicular germ cell tumor
+GAD Gene-Disease Associations	gad	ahg deficiency disease; hemophilia a	0.014391	0.58185	1	0	1		ahg deficiency disease; hemophilia a|hemophilia a
+GAD Gene-Disease Associations	gad	1-carbon metabolism	-0.0064606	1	1	0	-1		1-carbon metabolism|heart defects, congenital; spinal dysraphism
+GAD Gene-Disease Associations	gad	intima-media thickness	0.0096036	0.6852	1	0	1		intima-media thickness|myocardial infarct; cholesterol, hdl; triglycerides; atherosclerosis, coronary; macular degeneration; colorectal cancer
+GAD Gene-Disease Associations	gad	respiratory syncytial virus	0.024096	0.34829	1	0	1		respiratory syncytial virus
+GAD Gene-Disease Associations	gad	duodenal ulcer; stomach neoplasms; stomach ulcer	0.012048	0.59619	1	0	1		duodenal ulcer; stomach neoplasms; stomach ulcer|berylliosis; respiratory hypersensitivity
+GAD Gene-Disease Associations	gad	male-to-female transsexualism	-0.024969	0.11985	1	0	-1		male-to-female transsexualism
+GAD Gene-Disease Associations	gad	obsessive-compulsive disorder	-0.0024446	1	1	0	-1		obsessive-compulsive disorder
+GAD Gene-Disease Associations	gad	height	-0.0048891	1	1	0	-1		height
+GAD Gene-Disease Associations	gad	alzheimer's disease	-0.046796	0.48709	1	0	-1		alzheimer's disease
+GAD Gene-Disease Associations	gad	arthritis, rheumatoid;	-0.020255	0.55817	1	0	-1		arthritis, rheumatoid;
+GAD Gene-Disease Associations	gad	macular degeneration	-0.030732	0.39906	1	0	-1		macular degeneration
+GAD Gene-Disease Associations	gad	celiac disease	-0.0017461	1	1	0	-1		celiac disease
+GAD Gene-Disease Associations	gad	parkinson disease	-0.035446	0.071609	1	0	-1		parkinson disease
+GAD Gene-Disease Associations	gad	carcinoma, renal cell; kidney neoplasms; renal cell carcinoma	0.028112	0.22067	1	0	1		carcinoma, renal cell; kidney neoplasms; renal cell carcinoma
+GAD Gene-Disease Associations	gad	carcinoma, renal cell; kidney neoplasms	0.012048	0.59919	1	0	1		carcinoma, renal cell; kidney neoplasms
+GAD Gene-Disease Associations	gad	pancreatitis, alcoholic	0.012048	0.60144	1	0	1		pancreatitis, alcoholic
+GAD Gene-Disease Associations	gad	duodenal ulcer; helicobacter infections	0.024096	0.34623	1	0	1		duodenal ulcer; helicobacter infections
+GAD Gene-Disease Associations	gad	bacterial infection	0.016064	0.58254	1	0	1		bacterial infection
+GAD Gene-Disease Associations	gad	tuberculosis	0.045748	0.21269	1	0	1		tuberculosis
+GAD Gene-Disease Associations	gad	autoimmune hepatitis	0.012048	0.59842	1	0	1		autoimmune hepatitis
+GAD Gene-Disease Associations	gad	albuminuria; diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy; diabetic retinopathy	0.012048	0.59909	1	0	1		albuminuria; diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy; diabetic retinopathy
+GAD Gene-Disease Associations	gad	vesico-ureteral reflux; vesicoureteral reflux	0.012048	0.60004	1	0	1		vesico-ureteral reflux; vesicoureteral reflux
+GAD Gene-Disease Associations	gad	biliary tract neoplasms; inflammation	0.036145	0.21448	1	0	1		biliary tract neoplasms; inflammation
+GAD Gene-Disease Associations	gad	communicable diseases; severe acute respiratory syndrome	0.0055876	1	1	0	1		communicable diseases; severe acute respiratory syndrome
+GAD Gene-Disease Associations	gad	graft vs host disease; hematologic neoplasms; neoplasm recurrence, local	0.036145	0.21448	1	0	1		graft vs host disease; hematologic neoplasms; neoplasm recurrence, local
+GAD Gene-Disease Associations	gad	preterm birth	0.016064	0.5822	1	0	1		preterm birth
+GAD Gene-Disease Associations	gad	brucellosis	0.028112	0.2216	1	0	1		brucellosis
+GAD Gene-Disease Associations	gad	graft versus host disease	0.032129	0.2097	1	0	1		graft versus host disease
+GAD Gene-Disease Associations	gad	malaria, falciparum; parasitemia	0.024096	0.3456	1	0	1		malaria, falciparum; parasitemia
+GAD Gene-Disease Associations	gad	measles; mumps; rubella	0.0096036	0.70523	1	0	1		measles; mumps; rubella
+GAD Gene-Disease Associations	gad	allergic rhinitis	0.028112	0.22003	1	0	1		allergic rhinitis
+GAD Gene-Disease Associations	gad	rhabdomyolysis	0.012048	0.59977	1	0	1		rhabdomyolysis
+GAD Gene-Disease Associations	gad	primary open-angle glaucoma	0.012048	0.59824	1	0	1		primary open-angle glaucoma
+GAD Gene-Disease Associations	gad	duodenal ulcer	0.02008	0.35999	1	0	1		duodenal ulcer
+GAD Gene-Disease Associations	gad	nephrolithiasis	-0.0024446	1	1	0	-1		nephrolithiasis
+GAD Gene-Disease Associations	gad	nasal polyps; rhinitis; sinusitis	0.012048	0.59767	1	0	1		nasal polyps; rhinitis; sinusitis
+GAD Gene-Disease Associations	gad	coronary restenosis; coronary stenosis	0.024096	0.3473	1	0	1		coronary restenosis; coronary stenosis
+GAD Gene-Disease Associations	gad	inflammation; myocardial infarction	0.024096	0.34619	1	0	1		inflammation; myocardial infarction
+GAD Gene-Disease Associations	gad	hypertension, pulmonary; pulmonary disease, chronic obstructive	0.012048	0.59979	1	0	1		hypertension, pulmonary; pulmonary disease, chronic obstructive
+GAD Gene-Disease Associations	gad	hemophilia	0.012048	0.60078	1	0	1		hemophilia
+GAD Gene-Disease Associations	gad	hashimoto disease	0.02008	0.36171	1	0	1		hashimoto disease
+GAD Gene-Disease Associations	gad	dermatitis, atopic; eczema allergic	0.016064	0.58088	1	0	1		dermatitis, atopic; eczema allergic
+GAD Gene-Disease Associations	gad	arthritis, juvenile	-0.012921	0.6124	1	0	-1		arthritis, juvenile
+GAD Gene-Disease Associations	gad	helicobacter infections; stomach neoplasms	0.015191	0.74239	1	0	1		helicobacter infections; stomach neoplasms
+GAD Gene-Disease Associations	gad	pneumonia	0.012048	0.59893	1	0	1		pneumonia
+GAD Gene-Disease Associations	gad	arthritis, psoriatic; psoriatic arthropathy	0.032129	0.21014	1	0	1		arthritis, psoriatic; psoriatic arthropathy
+GAD Gene-Disease Associations	gad	citalopram	0.016064	0.57966	1	0	1		citalopram
+GAD Gene-Disease Associations	gad	amyotrophic lateral sclerosis; anoxia;	0.012048	0.5967	1	0	1		amyotrophic lateral sclerosis; anoxia;
+GAD Gene-Disease Associations	gad	cystic fibrosis; urogenital abnormalities	0.012048	0.59861	1	0	1		cystic fibrosis; urogenital abnormalities
+GAD Gene-Disease Associations	gad	nasal polyposis	0.012048	0.59952	1	0	1		nasal polyposis
+GAD Gene-Disease Associations	gad	leukemia, lymphoid	-0.0064606	1	1	0	-1		leukemia, lymphoid
+GAD Gene-Disease Associations	gad	cognitive ability	0.028112	0.21849	1	0	1		cognitive ability
+GAD Gene-Disease Associations	gad	sids/sudden infant death syndrome	-0.0064606	1	1	0	-1		sids/sudden infant death syndrome
+GAD Gene-Disease Associations	gad	azoospermia	0.016064	0.57991	1	0	1		azoospermia
+GAD Gene-Disease Associations	gad	death, sudden, cardiac; sudden cardiac death	0.012048	0.59638	1	0	1		death, sudden, cardiac; sudden cardiac death
+GAD Gene-Disease Associations	gad	qt interval	0.012048	0.59984	1	0	1		qt interval
+GAD Gene-Disease Associations	gad	heart diseases; inflammation; myocardial infarction	0.016064	0.5829	1	0	1		heart diseases; inflammation; myocardial infarction
+GAD Gene-Disease Associations	gad	glucose	-0.020953	0.20751	1	0	-1		glucose
+GAD Gene-Disease Associations	gad	lupus	0.021652	0.47209	1	0	1		lupus
+GAD Gene-Disease Associations	gad	blood pressure	0.04732	0.1862	1	0	1		blood pressure
+GAD Gene-Disease Associations	gad	lipoproteins, vldl	-0.0024446	1	1	0	-1		lipoproteins, vldl
+GAD Gene-Disease Associations	gad	carcinoma, basal cell; carcinoma, squamous cell; melanoma; skin neoplasms	0.024096	0.34683	1	0	1		carcinoma, basal cell; carcinoma, squamous cell; melanoma; skin neoplasms
+GAD Gene-Disease Associations	gad	nephropathy, iga	0.0096036	0.70568	1	0	1		nephropathy, iga
+GAD Gene-Disease Associations	gad	pregnancy loss, recurrent	0.049764	0.13573	1	0	1		pregnancy loss, recurrent
+GAD Gene-Disease Associations	gad	albuminuria; inflammation; kidney diseases	0.025668	0.46753	1	0	1		albuminuria; inflammation; kidney diseases
+GAD Gene-Disease Associations	gad	glomerulonephritis, iga; iga glomerulonephritides	0.024096	0.34767	1	0	1		glomerulonephritis, iga; iga glomerulonephritides
+GAD Gene-Disease Associations	gad	graft-versus-host disease	0.019207	0.54577	1	0	1		graft-versus-host disease
+GAD Gene-Disease Associations	gad	kidney transplant	0.025668	0.46897	1	0	1		kidney transplant
+GAD Gene-Disease Associations	gad	arthritis	-0.034748	0.39069	1	0	-1		arthritis
+GAD Gene-Disease Associations	gad	graves disease; graves' disease	0.021652	0.47275	1	0	1		graves disease; graves' disease
+GAD Gene-Disease Associations	gad	lymphoma, large b-cell, diffuse	0.016763	0.76987	1	0	1		lymphoma, large b-cell, diffuse
+GAD Gene-Disease Associations	gad	hepatitis b	0.029684	0.32006	1	0	1		hepatitis b
+GAD Gene-Disease Associations	gad	body mass index	0.032129	0.20848	1	0	1		body mass index
+GAD Gene-Disease Associations	gad	nephrotic syndrome	0.028112	0.22031	1	0	1		nephrotic syndrome
+GAD Gene-Disease Associations	gad	mood disorders	0.037716	0.2124	1	0	1		mood disorders
+GAD Gene-Disease Associations	gad	urinary calculi	0.016064	0.581	1	0	1		urinary calculi
+GAD Gene-Disease Associations	gad	rhinitis, allergic, seasonal	0.012048	0.5969	1	0	1		rhinitis, allergic, seasonal
+GAD Gene-Disease Associations	gad	sarcoidosis; tuberculosis	0.012048	0.59833	1	0	1		sarcoidosis; tuberculosis
+GAD Gene-Disease Associations	gad	rhinitis; sinusitis	-0.0064606	1	1	0	-1		rhinitis; sinusitis
+GAD Gene-Disease Associations	gad	carotid artery diseases	0.0096036	0.70655	1	0	1		carotid artery diseases
+GAD Gene-Disease Associations	gad	diabetes mellitus, type 1	0.032129	0.2091	1	0	1		diabetes mellitus, type 1
+GAD Gene-Disease Associations	gad	vitiligo	0.031255	0.3827	1	0	1		vitiligo
+GAD Gene-Disease Associations	gad	respiratory distress syndrome, adult	-0.016937	0.58899	1	0	-1		respiratory distress syndrome, adult
+GAD Gene-Disease Associations	gad	dermatitis and eczema	0.012048	0.59693	1	0	1		dermatitis and eczema
+GAD Gene-Disease Associations	gad	chronic ulcerative colitis; colitis, ulcerative; crohn disease; crohn's disease	0.025668	0.46552	1	0	1		chronic ulcerative colitis; colitis, ulcerative; crohn disease; crohn's disease
+GAD Gene-Disease Associations	gad	colitis, ulcerative; crohn disease	0.02008	0.35849	1	0	1		colitis, ulcerative; crohn disease
+GAD Gene-Disease Associations	gad	inflammatory bowel disease	-0.00017461	1	1	0	-1		inflammatory bowel disease
+GAD Gene-Disease Associations	gad	crohn disease; crohn's disease; inflammatory bowel disease, nos; inflammatory bowel diseases	0.0055876	1	1	0	1		crohn disease; crohn's disease; inflammatory bowel disease, nos; inflammatory bowel diseases
+GAD Gene-Disease Associations	gad	hepatocellular carcinoma	0.016064	0.57915	1	0	1		hepatocellular carcinoma
+GAD Gene-Disease Associations	gad	crohn's disease	-0.019382	0.41431	1	0	-1		crohn's disease
+GAD Gene-Disease Associations	gad	hepatopulmonary syndrome	-0.0064606	1	1	0	-1		hepatopulmonary syndrome
+GAD Gene-Disease Associations	gad	alzheimer's disease; parkinson's disease	-0.0024446	1	1	0	-1		alzheimer's disease; parkinson's disease
+GAD Gene-Disease Associations	gad	diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy	0.016064	0.58204	1	0	1		diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy
+GAD Gene-Disease Associations	gad	abdominal aortic aneurysm	-0.012921	0.61127	1	0	-1		abdominal aortic aneurysm
+GAD Gene-Disease Associations	gad	endometriosis;	-0.0064606	1	1	0	-1		endometriosis;
+GAD Gene-Disease Associations	gad	aortic aneurysm, abdominal	0.024096	0.34811	1	0	1		aortic aneurysm, abdominal
+GAD Gene-Disease Associations	gad	endometriosis; uterine diseases	0.0015715	1	1	0	1		endometriosis; uterine diseases
+GAD Gene-Disease Associations	gad	acute coronary syndrome; inflammation	-0.0048891	1	1	0	-1		acute coronary syndrome; inflammation
+GAD Gene-Disease Associations	gad	peripheral vascular diseases	-0.024271	0.54417	1	0	-1		peripheral vascular diseases
+GAD Gene-Disease Associations	gad	coronary disease;	0.016064	0.5809	1	0	1		coronary disease;
+GAD Gene-Disease Associations	gad	familial mediterranean fever	-0.0064606	1	1	0	-1		familial mediterranean fever
+GAD Gene-Disease Associations	gad	birth weight; retinopathy of prematurity	0.012048	0.59834	1	0	1		birth weight; retinopathy of prematurity
+GAD Gene-Disease Associations	gad	ache, low back; acute disease; low back pain; pain; sciatica	0.028112	0.21983	1	0	1		ache, low back; acute disease; low back pain; pain; sciatica
+GAD Gene-Disease Associations	gad	hiv	0.0078575	1	1	0	1		hiv
+GAD Gene-Disease Associations	gad	severe acute respiratory syndrome	-0.020953	0.20657	1	0	-1		severe acute respiratory syndrome
+GAD Gene-Disease Associations	gad	systemic sclerosis	0.0015715	1	1	0	1		systemic sclerosis
+GAD Gene-Disease Associations	gad	arthritis, psoriatic; psoriasis; psoriatic arthropathy	0.016064	0.58014	1	0	1		arthritis, psoriatic; psoriasis; psoriatic arthropathy
+GAD Gene-Disease Associations	gad	osteoarthritis	-0.0033176	1	1	0	-1		osteoarthritis
+GAD Gene-Disease Associations	gad	abortion, spontaneous	0.015191	0.74293	1	0	1		abortion, spontaneous
+GAD Gene-Disease Associations	gad	lupus erythematosus	0.015191	0.74053	1	0	1		lupus erythematosus
+GAD Gene-Disease Associations	gad	lupus erythematosus, systemic; systemic lupus erythematosus	-0.010651	0.80089	1	0	-1		lupus erythematosus, systemic; systemic lupus erythematosus
+GAD Gene-Disease Associations	gad	systemic lupus erythematosus	0.039288	0.2688	1	0	1		systemic lupus erythematosus
+GAD Gene-Disease Associations	gad	lymphoma, non-hodgkin; lymphoma, non-hodgkin's	0.01362	0.6925	1	0	1		lymphoma, non-hodgkin; lymphoma, non-hodgkin's
+GAD Gene-Disease Associations	gad	nasopharyngeal neoplasms	0.028112	0.21838	1	0	1		nasopharyngeal neoplasms
+GAD Gene-Disease Associations	gad	melanoma	0.023223	0.54033	1	0	1		melanoma
+GAD Gene-Disease Associations	gad	melanoma; skin neoplasms	0.017636	0.69201	1	0	1		melanoma; skin neoplasms
+GAD Gene-Disease Associations	gad	normal variation	0.17496	0.00184	1	0	1		normal variation
+GAD Gene-Disease Associations	gad	pharmacogenetic studies	0.068972	0.1099	1	0	1		pharmacogenetic studies
+GAD Gene-Disease Associations	gad	bronchopulmonary dysplasia;	0.012048	0.59638	1	0	1		bronchopulmonary dysplasia;
+GAD Gene-Disease Associations	gad	natural menopause; obesity; pof - premature ovarian failure; polycystic ovarian syndrome; polycystic ovary syndrome; primary ovarian insufficiency; puberty, delayed; puberty, precocious; thrombophilia; tobacco use disorder	0.016064	0.57826	1	0	1		natural menopause; obesity; pof - premature ovarian failure; polycystic ovarian syndrome; polycystic ovary syndrome; primary ovarian insufficiency; puberty, delayed; puberty, precocious; thrombophilia; tobacco use disorder
+GAD Gene-Disease Associations	gad	idiopathic pulmonary fibrosis	0.032129	0.20724	1	0	1		idiopathic pulmonary fibrosis
+GAD Gene-Disease Associations	gad	dawson's inclusion body encephalitis; subacute sclerosing panencephalitis	0.016064	0.57633	1	0	1		dawson's inclusion body encephalitis; subacute sclerosing panencephalitis
+GAD Gene-Disease Associations	gad	respiratory syncytial virus bronchiolitis	0.02008	0.36267	1	0	1		respiratory syncytial virus bronchiolitis
+GAD Gene-Disease Associations	gad	spondylitis, ankylosing	0.0055876	1	1	0	1		spondylitis, ankylosing
+GAD Gene-Disease Associations	gad	neuroblastoma	0.0055876	1	1	0	1		neuroblastoma
+GAD Gene-Disease Associations	gad	graft vs host disease; hematologic neoplasms	-0.0064606	1	1	0	-1		graft vs host disease; hematologic neoplasms
+GAD Gene-Disease Associations	gad	cirrhosis, biliary primary	0.016064	0.58285	1	0	1		cirrhosis, biliary primary
+GAD Gene-Disease Associations	gad	rubella vaccine	0.02008	0.35817	1	0	1		rubella vaccine
+GAD Gene-Disease Associations	gad	bone marrow transplantation	-0.0064606	1	1	0	-1		bone marrow transplantation
+GAD Gene-Disease Associations	gad	hemochromatosis	0.012048	0.59638	1	0	1		hemochromatosis
+GAD Gene-Disease Associations	gad	kidney transplant complications	0.044177	0.13004	1	0	1		kidney transplant complications
+GAD Gene-Disease Associations	gad	scleroderma, systemic	-0.0048891	1	1	0	-1		scleroderma, systemic
+GAD Gene-Disease Associations	gad	scleroderma, systemic; systemic scleroderma	0.016064	0.58105	1	0	1		scleroderma, systemic; systemic scleroderma
+GAD Gene-Disease Associations	gad	panic disorder	0.037716	0.21049	1	0	1		panic disorder
+GAD Gene-Disease Associations	gad	epilepsy, temporal lobe	0.024096	0.34711	1	0	1		epilepsy, temporal lobe
+GAD Gene-Disease Associations	gad	major psychiatric disorders	0.012048	0.59497	1	0	1		major psychiatric disorders
+GAD Gene-Disease Associations	gad	dyspepsia	0.016064	0.5813	1	0	1		dyspepsia
+GAD Gene-Disease Associations	gad	altitude sickness; pulmonary edema	0.016064	0.58181	1	0	1		altitude sickness; pulmonary edema
+GAD Gene-Disease Associations	gad	glaucoma; glaucoma, primary open-angle	0.024096	0.34613	1	0	1		glaucoma; glaucoma, primary open-angle
+GAD Gene-Disease Associations	gad	hypertension induced by pregnancy; hypertension, pregnancy-induced	0.02008	0.36421	1	0	1		hypertension induced by pregnancy; hypertension, pregnancy-induced
+GAD Gene-Disease Associations	gad	elite atheletes	0.012048	0.60054	1	0	1		elite atheletes
+GAD Gene-Disease Associations	gad	hypertension; myocardial infarction	0.032129	0.20831	1	0	1		hypertension; myocardial infarction
+GAD Gene-Disease Associations	gad	meningococcal infections	0.040161	0.12563	1	0	1		meningococcal infections
+GAD Gene-Disease Associations	gad	altitude sickness	0.016064	0.58123	1	0	1		altitude sickness
+GAD Gene-Disease Associations	gad	brain ischemia; carotid stenosis	0.016064	0.58032	1	0	1		brain ischemia; carotid stenosis
+GAD Gene-Disease Associations	gad	diabetes mellitus, type 2; hypertension	0.012048	0.59732	1	0	1		diabetes mellitus, type 2; hypertension
+GAD Gene-Disease Associations	gad	diabetes mellitus, type 1; diabetes mellitus, type 2; diabetic retinopathy	0.01362	0.69059	1	0	1		diabetes mellitus, type 1; diabetes mellitus, type 2; diabetic retinopathy
+GAD Gene-Disease Associations	gad	nephropathy in other diseases	0.017636	0.69113	1	0	1		nephropathy in other diseases
+GAD Gene-Disease Associations	gad	endurance performance	0.028112	0.21686	1	0	1		endurance performance
+GAD Gene-Disease Associations	gad	metabolic syndrome x; obesity	-0.0024446	1	1	0	-1		metabolic syndrome x; obesity
+GAD Gene-Disease Associations	gad	cardiomyopathy, dilated; dcm - dilated cardiomyopathy	0.032129	0.20843	1	0	1		cardiomyopathy, dilated; dcm - dilated cardiomyopathy
+GAD Gene-Disease Associations	gad	neural tube defects	-0.035446	0.070869	1	0	-1		neural tube defects
+GAD Gene-Disease Associations	gad	congenital heart defects; heart defects, congenital	-0.016937	0.58903	1	0	-1		congenital heart defects; heart defects, congenital
+GAD Gene-Disease Associations	gad	homocysteine	-0.0064606	1	1	0	-1		homocysteine
+GAD Gene-Disease Associations	gad	bone necrosis; osteonecrosis	0.012048	0.59725	1	0	1		bone necrosis; osteonecrosis
+GAD Gene-Disease Associations	gad	thromboembolism; thrombophilia; venous thrombosis	0.016064	0.58223	1	0	1		thromboembolism; thrombophilia; venous thrombosis
+GAD Gene-Disease Associations	gad	cardiovascular risk	0.024096	0.34813	1	0	1		cardiovascular risk
+GAD Gene-Disease Associations	gad	aneurysm, ruptured; intracranial aneurysm; stroke; subarachnoid hemorrhage	0.012048	0.60054	1	0	1		aneurysm, ruptured; intracranial aneurysm; stroke; subarachnoid hemorrhage
+GAD Gene-Disease Associations	gad	apoplexy; myocardial ischemia; stroke	0.036145	0.21539	1	0	1		apoplexy; myocardial ischemia; stroke
+GAD Gene-Disease Associations	gad	atherosclerosis; thrombosis	0.024096	0.34949	1	0	1		atherosclerosis; thrombosis
+GAD Gene-Disease Associations	gad	stroke, ischemic	-0.013794	0.74754	1	0	-1		stroke, ischemic
+GAD Gene-Disease Associations	gad	coronary disease; hypertension	0.017636	0.69141	1	0	1		coronary disease; hypertension
+GAD Gene-Disease Associations	gad	cerebral infarction	0.040161	0.12693	1	0	1		cerebral infarction
+GAD Gene-Disease Associations	gad	apoplexy; brain ischemia; stroke	-0.0033176	1	1	0	-1		apoplexy; brain ischemia; stroke
+GAD Gene-Disease Associations	gad	nephropathy	0.017636	0.69256	1	0	1		nephropathy
+GAD Gene-Disease Associations	gad	cardiovascular diseases; inflammation	0.024096	0.35007	1	0	1		cardiovascular diseases; inflammation
+GAD Gene-Disease Associations	gad	lipoprotein	-0.0024446	1	1	0	-1		lipoprotein
+GAD Gene-Disease Associations	gad	alcohol abuse	0.0337	0.31044	1	0	1		alcohol abuse
+GAD Gene-Disease Associations	gad	carcinoma, squamous cell; esophageal neoplasms	0.012048	0.59769	1	0	1		carcinoma, squamous cell; esophageal neoplasms
+GAD Gene-Disease Associations	gad	cutaneous squamous cell carcinoma	0.016064	0.57646	1	0	1		cutaneous squamous cell carcinoma
+GAD Gene-Disease Associations	gad	infertility, male	0.0071591	1	1	0	1		infertility, male
+GAD Gene-Disease Associations	gad	breast neoplasms; mammary neoplasms	0.021652	0.47087	1	0	1		breast neoplasms; mammary neoplasms
+GAD Gene-Disease Associations	gad	dementia, vascular	-0.0064606	1	1	0	-1		dementia, vascular
+GAD Gene-Disease Associations	gad	diabetic nephropathy	0.02008	0.36546	1	0	1		diabetic nephropathy
+GAD Gene-Disease Associations	gad	hdl cholesterol	0.0015715	1	1	0	1		hdl cholesterol
+GAD Gene-Disease Associations	gad	dyslipidemias	0.016064	0.58068	1	0	1		dyslipidemias
+GAD Gene-Disease Associations	gad	hyperlipidemia	0.02008	0.3634	1	0	1		hyperlipidemia
+GAD Gene-Disease Associations	gad	heart disease, ischemic	-0.0048891	1	1	0	-1		heart disease, ischemic
+GAD Gene-Disease Associations	gad	myocardial ischemia	0.017636	0.68999	1	0	1		myocardial ischemia
+GAD Gene-Disease Associations	gad	lipid metabolism	0.0055876	1	1	0	1		lipid metabolism
+GAD Gene-Disease Associations	gad	myocardial infarct	-0.014667	0.79637	1	0	-1		myocardial infarct
+GAD Gene-Disease Associations	gad	atherosclerosis, coronary	0.011001	0.83467	1	0	1		atherosclerosis, coronary
+GAD Gene-Disease Associations	gad	kidney failure, chronic	0.023049	0.68147	1	0	1		kidney failure, chronic
+GAD Gene-Disease Associations	gad	apoplexy; stroke	0.041732	0.20728	1	0	1		apoplexy; stroke
+GAD Gene-Disease Associations	gad	heart disease	0.0337	0.3139	1	0	1		heart disease
+GAD Gene-Disease Associations	gad	atherosclerosis	0.028462	0.62296	1	0	1		atherosclerosis
+GAD Gene-Disease Associations	gad	diabetes, type 2	0.063908	0.30229	1	0	1		diabetes, type 2
+GAD Gene-Disease Associations	gad	coronary disease	-0.0090798	1	1	0	-1		coronary disease
+GAD Gene-Disease Associations	gad	adiposity and abdominal obesity	0.012048	0.5992	1	0	1		adiposity and abdominal obesity
+GAD Gene-Disease Associations	gad	insulin; lipoproteins	0.012048	0.59584	1	0	1		insulin; lipoproteins
+GAD Gene-Disease Associations	gad	lipoproteins and hdl	-0.0064606	1	1	0	-1		lipoproteins and hdl
+GAD Gene-Disease Associations	gad	dyslipidemias; hiv infections; [x]human immunodeficiency virus disease	0.0015715	1	1	0	1		dyslipidemias; hiv infections; [x]human immunodeficiency virus disease
+GAD Gene-Disease Associations	gad	cardiovascular diseases; diabetes mellitus type ii; diabetes mellitus, type 2	0.012048	0.59968	1	0	1		cardiovascular diseases; diabetes mellitus type ii; diabetes mellitus, type 2
+GAD Gene-Disease Associations	gad	carotid atherosclerosis	-0.0089052	1	1	0	-1		carotid atherosclerosis
+GAD Gene-Disease Associations	gad	atherosclerosis; myocardial infarction	-0.0024446	1	1	0	-1		atherosclerosis; myocardial infarction
+GAD Gene-Disease Associations	gad	schizophrenia	0.026716	0.75968	1	0	1		schizophrenia
+GAD Gene-Disease Associations	gad	perioperative genomic profiles	0.028112	0.21978	1	0	1		perioperative genomic profiles
+GAD Gene-Disease Associations	gad	venous thrombosis	0.015191	0.74159	1	0	1		venous thrombosis
+GAD Gene-Disease Associations	gad	hyperuicemia	0.012048	0.59953	1	0	1		hyperuicemia
+GAD Gene-Disease Associations	gad	diabetes mellitus type ii; diabetes mellitus, type 2; insulin resistance	0.024096	0.34503	1	0	1		diabetes mellitus type ii; diabetes mellitus, type 2; insulin resistance
+GAD Gene-Disease Associations	gad	insulin	0.003143	1	1	0	1		insulin
+GAD Gene-Disease Associations	gad	healthy oldest-old	0.016064	0.57995	1	0	1		healthy oldest-old
+GAD Gene-Disease Associations	gad	adiposity	0.032129	0.20701	1	0	1		adiposity
+GAD Gene-Disease Associations	gad	coronary restenosis	0.02008	0.36061	1	0	1		coronary restenosis
+GAD Gene-Disease Associations	gad	body weight; obesity	0.024096	0.34499	1	0	1		body weight; obesity
+GAD Gene-Disease Associations	gad	obesity; asthma	0.02008	0.36113	1	0	1		obesity; asthma
+GAD Gene-Disease Associations	gad	response to antidepressants	0.012048	0.59759	1	0	1		response to antidepressants
+GAD Gene-Disease Associations	gad	stress	0.012048	0.5962	1	0	1		stress
+GAD Gene-Disease Associations	gad	depression	0.062511	0.18395	1	0	1		depression
+GAD Gene-Disease Associations	gad	schizophrenia ;  bipolar disorder	0.028112	0.21923	1	0	1		schizophrenia ;  bipolar disorder
+GAD Gene-Disease Associations	gad	hiv-associated lipodystrophy syndrome	0.016064	0.58128	1	0	1		hiv-associated lipodystrophy syndrome
+GAD Gene-Disease Associations	gad	methamphetamine use	0.012048	0.59887	1	0	1		methamphetamine use
+GAD Gene-Disease Associations	gad	substance-related disorders	0.036145	0.21326	1	0	1		substance-related disorders
+GAD Gene-Disease Associations	gad	adhd	0.0337	0.31171	1	0	1		adhd
+GAD Gene-Disease Associations	gad	adhd ;  attention deficit hyperactivity disorder	0.040161	0.12589	1	0	1		adhd ;  attention deficit hyperactivity disorder
+GAD Gene-Disease Associations	gad	attention deficit hyperactivity disorder	0.028112	0.21814	1	0	1		attention deficit hyperactivity disorder
+GAD Gene-Disease Associations	gad	psychosis	0.02008	0.36208	1	0	1		psychosis
+GAD Gene-Disease Associations	gad	personality	0.049764	0.13462	1	0	1		personality
+GAD Gene-Disease Associations	gad	smoking behavior	0.0337	0.31212	1	0	1		smoking behavior
+GAD Gene-Disease Associations	gad	alcoholism;	0.012048	0.59863	1	0	1		alcoholism;
+GAD Gene-Disease Associations	gad	dyskinesia, drug-induced	0.02008	0.36188	1	0	1		dyskinesia, drug-induced
+GAD Gene-Disease Associations	gad	alcoholism	0.036668	0.56387	1	0	1		alcoholism
+GAD Gene-Disease Associations	gad	personality disorders	0.032129	0.20651	1	0	1		personality disorders
+GAD Gene-Disease Associations	gad	schizophrenia; psychoses; aggressive behavior; verbal fluency	0.012048	0.60037	1	0	1		schizophrenia; psychoses; aggressive behavior; verbal fluency
+GAD Gene-Disease Associations	gad	heroin dependence	0.040161	0.12441	1	0	1		heroin dependence
+GAD Gene-Disease Associations	gad	bronchial hyperreactivity; wounds and injuries	0.012048	0.59919	1	0	1		bronchial hyperreactivity; wounds and injuries
+GAD Gene-Disease Associations	gad	insulin resistance; metabolic diseases	0.012048	0.59692	1	0	1		insulin resistance; metabolic diseases
+GAD Gene-Disease Associations	gad	weight loss	0.02008	0.36047	1	0	1		weight loss
+GAD Gene-Disease Associations	gad	coronary atherosclerosis	0.012048	0.60009	1	0	1		coronary atherosclerosis
+GAD Gene-Disease Associations	gad	atherosclerosis, generalized	-0.0064606	1	1	0	-1		atherosclerosis, generalized
+GAD Gene-Disease Associations	gad	apoplexy; hypertension; myocardial infarction; stroke	0.012048	0.60111	1	0	1		apoplexy; hypertension; myocardial infarction; stroke
+GAD Gene-Disease Associations	gad	heart diseases; hypercholesterolemia; hypertension	-0.0064606	1	1	0	-1		heart diseases; hypercholesterolemia; hypertension
+GAD Gene-Disease Associations	gad	aging	-0.0073337	1	1	0	-1		aging
+GAD Gene-Disease Associations	gad	polycystic ovarian syndrome; polycystic ovary syndrome	0.019207	0.54514	1	0	1		polycystic ovarian syndrome; polycystic ovary syndrome
+GAD Gene-Disease Associations	gad	polycystic ovary syndrome	0.015191	0.73927	1	0	1		polycystic ovary syndrome
+GAD Gene-Disease Associations	gad	leiomyoma; uterine neoplasms	0.021652	0.4722	1	0	1		leiomyoma; uterine neoplasms
+GAD Gene-Disease Associations	gad	endometriosis; leiomyoma; uterine neoplasms	0.012048	0.59965	1	0	1		endometriosis; leiomyoma; uterine neoplasms
+GAD Gene-Disease Associations	gad	kidney stone disease	0.012048	0.59888	1	0	1		kidney stone disease
+GAD Gene-Disease Associations	gad	fractures, bone; osteoporosis; osteoporosis, postmenopausal	-0.0064606	1	1	0	-1		fractures, bone; osteoporosis; osteoporosis, postmenopausal
+GAD Gene-Disease Associations	gad	bone mass	-0.0089052	1	1	0	-1		bone mass
+GAD Gene-Disease Associations	gad	fractures, bone; osteoporosis, postmenopausal	0.012048	0.59991	1	0	1		fractures, bone; osteoporosis, postmenopausal
+GAD Gene-Disease Associations	gad	fractures, bone; osteoporosis	0.0055876	1	1	0	1		fractures, bone; osteoporosis
+GAD Gene-Disease Associations	gad	extracellular magnesium concentration	0.012048	0.60084	1	0	1		extracellular magnesium concentration
+GAD Gene-Disease Associations	gad	age at natural menopause	-0.020953	0.2049	1	0	-1		age at natural menopause
+GAD Gene-Disease Associations	gad	uterine prolapse	-0.0064606	1	1	0	-1		uterine prolapse
+GAD Gene-Disease Associations	gad	premenstrual syndrome	0.012048	0.59926	1	0	1		premenstrual syndrome
+GAD Gene-Disease Associations	gad	bone mineral density (hip)	-0.0064606	1	1	0	-1		bone mineral density (hip)
+GAD Gene-Disease Associations	gad	bone loss	0.012048	0.59771	1	0	1		bone loss
+GAD Gene-Disease Associations	gad	kidney calculi	0.012048	0.59839	1	0	1		kidney calculi
+GAD Gene-Disease Associations	gad	prostate cancer   ;  breast cancer	0.012048	0.59763	1	0	1		prostate cancer   ;  breast cancer
+GAD Gene-Disease Associations	gad	thyroid diseases	-0.024969	0.11974	1	0	-1		thyroid diseases
+GAD Gene-Disease Associations	gad	diabetes, type 2; liver disease	0.029684	0.31538	1	0	1		diabetes, type 2; liver disease
+GAD Gene-Disease Associations	gad	myocardial infarction; myocardial ischemia	0.012048	0.59896	1	0	1		myocardial infarction; myocardial ischemia
+GAD Gene-Disease Associations	gad	scoliosis	0.0015715	1	1	0	1		scoliosis
+GAD Gene-Disease Associations	gad	biliary calculi; gallstones	0.012048	0.59918	1	0	1		biliary calculi; gallstones
+GAD Gene-Disease Associations	gad	cerebral palsy;	0.003143	1	1	0	1		cerebral palsy;
+GAD Gene-Disease Associations	gad	tobacco use disorder	-0.019906	0.75217	1	0	-1		tobacco use disorder

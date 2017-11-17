@@ -1,0 +1,29 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	mean	-0.0034474	0.9525	1	0	-1	mean	mean
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	JWE-035_PC-3	0.066917	0.080729	1	0	1		JWE-035_PC-3
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	HG-6-64-01_A-375	-0.1967	0.11989	1	0	-1		HG-6-64-01_A-375
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD-12_HeLa	0.06485	0.55651	1	0	1		XMD-12_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD16-144_PC-3	-0.1214	0.080729	1	0	-1		XMD16-144_PC-3
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	NPK76-II-72-1_HeLa	-0.0013	1	1	0	-1		NPK76-II-72-1_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	NPK76-II-72-1_PC-3	0.12585	0.6064	1	0	1		NPK76-II-72-1_PC-3
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD8-85_HeLa	0.1415	0.12591	1	0	1		XMD8-85_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD16-144_HeLa	-0.09555	0.39394	1	0	-1		XMD16-144_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD11-50_HeLa	-0.06535	0.19814	1	0	-1		XMD11-50_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD-12_PC-3	-0.0911	0.2789	1	0	-1		XMD-12_PC-3
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	BX795_NGP	-0.3882	0.23032	1	0	-1		BX795_NGP
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	Torin1_HeLa	0.18095	0.79221	1	0	1		Torin1_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD8-92_PC-3	0.0176	0.72294	1	0	1		XMD8-92_PC-3
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD11-50_PC-3	0.01435	0.56596	1	0	1		XMD11-50_PC-3
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD8-85_PC-3	0.12667	0.20547	1	0	1		XMD8-85_PC-3
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	NVP-BHG712_PC-3	-0.27019	0.04827	1	0	-1		NVP-BHG712_PC-3
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD8-92_HeLa	0.14235	0.12591	1	0	1		XMD8-92_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD11-85h_HeLa	0.012	0.91948	1	0	1		XMD11-85h_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	QL-X-138_BCWM.1	0.3884	0.03979	1	0	1		QL-X-138_BCWM.1
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	CH5424802_HeLa	-0.034233	0.80112	1	0	-1		CH5424802_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	Torin2_HeLa	0.20967	0.58508	1	0	1		Torin2_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	JWE-035_HeLa	-0.035	0.28496	1	0	-1		JWE-035_HeLa
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	OTSSP167_MDA-MB-468	-0.22805	0.44198	1	0	-1		OTSSP167_MDA-MB-468
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	DCC-2036_Ramos (RA 1)	-0.1358	0.31044	1	0	-1		DCC-2036_Ramos (RA 1)
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	stdv	0.0095522	0.87126	1	0	1	stdv	stdv
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	Ibrutinib_Ramos (RA 1)	0.073725	0.84938	1	0	1		Ibrutinib_Ramos (RA 1)
+Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	kinativ_cleaned	XMD11-85h_PC-3	0.0084166	0.88178	1	0	1		XMD11-85h_PC-3

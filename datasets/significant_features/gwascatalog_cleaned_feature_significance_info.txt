@@ -1,0 +1,29 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	mean	0.010446	0.54771	1	0	1	mean	mean|stdv
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	QT interval	0.31514	0.47206	1	0	1		QT interval
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Inflammatory bowel disease	-0.078931	1	1	0	-1		Inflammatory bowel disease
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Metabolite levels	0.96527	0.57002	1	0	1		Metabolite levels
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Lipid metabolism phenotypes	-2.2243	0.23851	1	0	-1		Lipid metabolism phenotypes
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Metabolic traits	0.4531	0.58076	1	0	1		Metabolic traits
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	HDL cholesterol	-2.15	0.23851	1	0	-1		HDL cholesterol
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Tanning	0.60269	0.81726	1	0	1		Tanning
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Multiple sclerosis	-0.45306	0.13868	1	0	-1		Multiple sclerosis
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Type 1 diabetes autoantibodies	0.62887	0.67814	1	0	1		Type 1 diabetes autoantibodies
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Fibrinogen	0.45818	0.6808	1	0	1		Fibrinogen
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	End-stage coagulation	2.5644	0.67863	1	0	1		End-stage coagulation
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Urate levels	0.37963	0.58246	1	0	1		Urate levels
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Serum metabolite levels	0.63391	0.57953	1	0	1		Serum metabolite levels
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Pulmonary function	0.30467	0.57962	1	0	1		Pulmonary function
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Type 2 diabetes	-0.026981	1	1	0	-1		Type 2 diabetes
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Ulcerative colitis	-0.16517	0.72048	1	0	-1		Ulcerative colitis
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Bipolar disorder and schizophrenia	-0.0907	0.72063	1	0	-1		Bipolar disorder and schizophrenia
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Lipid traits	-0.019158	1	1	0	-1		Lipid traits
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Triglycerides	0.33204	0.86129	1	0	1		Triglycerides
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Coronary heart disease	0.075374	0.78548	1	0	1		Coronary heart disease
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Rheumatoid arthritis	0.52028	0.5382	1	0	1		Rheumatoid arthritis
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Blood metabolite levels	1.9634	0.64981	1	0	1		Blood metabolite levels
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	IgG glycosylation	0.16021	0.58021	1	0	1		IgG glycosylation
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Obesity-related traits	0.395	0.25884	1	0	1		Obesity-related traits
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Cholesterol, total	2.3646	0.64838	1	0	1		Cholesterol, total|LDL cholesterol
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Breast cancer	1.4849	0.95819	1	0	1		Breast cancer
+GWAS Catalog SNP-Phenotype Associations - Cleaned	gwascatalog_cleaned	Height	0.12932	0.88998	1	0	1		Height

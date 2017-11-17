@@ -1,0 +1,50 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	mean	-0.00087507	0.96394	1	0	-1	mean	mean|stdv
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Waist Circumference	0.1071	0.59465	1	0	1		Waist Circumference
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Blood Pressure	0.38807	0.32785	1	0	1		Blood Pressure
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Respiratory Function Tests	0.72989	0.27011	1	0	1		Respiratory Function Tests
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Neutrophils	-0.35625	0.21728	1	0	-1		Neutrophils
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Tunica Media	-0.053229	1	1	0	-1		Tunica Media
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Alcoholism	0.16525	0.54871	1	0	1		Alcoholism
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Asthma	0.065511	0.75158	1	0	1		Asthma
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Lipoproteins, HDL	-0.40692	0.86604	1	0	-1		Lipoproteins, HDL
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Echocardiography	-0.24558	0.092099	1	0	-1		Echocardiography
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Hemoglobins	0.14134	0.5346	1	0	1		Hemoglobins
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Bipolar Disorder	0.18354	0.52132	1	0	1		Bipolar Disorder
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Myocardial Infarction	-0.082769	0.5244	1	0	-1		Myocardial Infarction
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Triglycerides	0.57574	0.60767	1	0	1		Triglycerides
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Waist-Hip Ratio	0.16018	0.73094	1	0	1		Waist-Hip Ratio
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Hematocrit	0.22448	0.37776	1	0	1		Hematocrit
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Fibrinogen	0.50014	0.51518	1	0	1		Fibrinogen
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Multiple Sclerosis	-0.1959	0.72727	1	0	-1		Multiple Sclerosis
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Heart Rate	-0.12605	0.5631	1	0	-1		Heart Rate
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Glomerular Filtration Rate	-0.03354	1	1	0	-1		Glomerular Filtration Rate
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Iron	0.049321	0.80807	1	0	1		Iron
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Lymphocytes	0.11085	0.59671	1	0	1		Lymphocytes
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Neuroblastoma	0.0078381	1	1	0	1		Neuroblastoma
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Body Mass Index	0.2296	0.34215	1	0	1		Body Mass Index
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Diabetes Mellitus, Type 2	-0.070005	1	1	0	-1		Diabetes Mellitus, Type 2
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Alzheimer Disease	-0.22318	0.51765	1	0	-1		Alzheimer Disease
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Cholesterol	1.4439	0.55119	1	0	1		Cholesterol|Cholesterol, LDL
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Body Height	-0.032321	0.90458	1	0	-1		Body Height
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Cholesterol, HDL	-2.031	0.195	1	0	-1		Cholesterol, HDL
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Glucose	-0.67845	0.04672	1	0	-1		Glucose
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Body Weight	0.21547	0.54858	1	0	1		Body Weight
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Arthritis, Rheumatoid	-0.0034682	1	1	0	-1		Arthritis, Rheumatoid
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Lipoproteins, VLDL	-0.060966	0.68311	1	0	-1		Lipoproteins, VLDL
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Exercise Test	0.13608	0.5965	1	0	1		Exercise Test
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Parkinson Disease	-0.40018	0.01768	1	0	-1		Parkinson Disease
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Coronary Artery Disease	0.078808	0.89355	1	0	1		Coronary Artery Disease
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Lipoproteins, LDL	0.06458	0.8349	1	0	1		Lipoproteins, LDL
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Arteries	-0.13808	0.56092	1	0	-1		Arteries
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Hip	0.3609	0.26663	1	0	1		Hip
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Hemoglobin A, Glycosylated	-0.7256	0.04668	1	0	-1		Hemoglobin A, Glycosylated
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Elbow	-0.26909	0.04623	1	0	-1		Elbow
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Stroke	-0.17879	0.3592	1	0	-1		Stroke
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Suntan	0.32666	0.83038	1	0	1		Suntan
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Psoriasis	0.48908	0.73092	1	0	1		Psoriasis
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	C-Reactive Protein	0.78587	0.44251	1	0	1		C-Reactive Protein
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Metabolic Syndrome X	-0.1599	0.86604	1	0	-1		Metabolic Syndrome X
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Insulin	-0.049562	0.78607	1	0	-1		Insulin
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Amyotrophic Lateral Sclerosis	-0.03638	0.67953	1	0	-1		Amyotrophic Lateral Sclerosis
+dbGAP Gene-Trait Associations - Cleaned	dbgap_cleaned	Diabetes Mellitus, Type 1	0.53044	0.69631	1	0	1		Diabetes Mellitus, Type 1

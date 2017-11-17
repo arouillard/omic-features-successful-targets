@@ -1,0 +1,10 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+DEPOD Substrates of Phosphatases	depod	PPP1CB	0.17846	0.51685	1	0	1		PPP1CB|PPP1CC|PPP1CA
+DEPOD Substrates of Phosphatases	depod	mean	-7.4872e-08	0.95315	1	0	-1	mean	mean|stdv
+DEPOD Substrates of Phosphatases	depod	PPP2CB	-0.25641	0.22247	1	0	-1		PPP2CB|PPP2CA
+DEPOD Substrates of Phosphatases	depod	DUSP22	-0.012821	1	1	0	-1		DUSP22
+DEPOD Substrates of Phosphatases	depod	DUSP3	0.14103	0.62918	1	0	1		DUSP3
+DEPOD Substrates of Phosphatases	depod	PTPN2	0.23077	0.51294	1	0	1		PTPN2
+DEPOD Substrates of Phosphatases	depod	PTPN1	0.53846	0.04317	1	0	1		PTPN1
+DEPOD Substrates of Phosphatases	depod	PTPN6	0.064103	1	1	0	1		PTPN6
+DEPOD Substrates of Phosphatases	depod	ACP1	0.23077	0.51294	1	0	1		ACP1

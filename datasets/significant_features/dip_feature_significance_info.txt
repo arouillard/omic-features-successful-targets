@@ -1,0 +1,25 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+DIP Protein-Protein Interactions	dip	CALM1	0.026549	0.61919	1	0	1		CALM1|CALM2|CALM3
+DIP Protein-Protein Interactions	dip	SRC	0.035398	0.5891	1	0	1		SRC
+DIP Protein-Protein Interactions	dip	TGFBR1	-0.019338	1	1	0	-1		TGFBR1
+DIP Protein-Protein Interactions	dip	NCOA2	0.035398	0.58716	1	0	1		NCOA2
+DIP Protein-Protein Interactions	dip	APP	-0.010488	1	1	0	-1		APP
+DIP Protein-Protein Interactions	dip	UBE3A	0.044248	0.58183	1	0	1		UBE3A
+DIP Protein-Protein Interactions	dip	RXRA	0.035398	0.59008	1	0	1		RXRA
+DIP Protein-Protein Interactions	dip	ARRB1	0.026549	0.61669	1	0	1		ARRB1
+DIP Protein-Protein Interactions	dip	NCOA1	0.026549	0.61922	1	0	1		NCOA1
+DIP Protein-Protein Interactions	dip	KDR	-0.019338	1	1	0	-1		KDR
+DIP Protein-Protein Interactions	dip	PIK3R1	0.026549	0.61868	1	0	1		PIK3R1
+DIP Protein-Protein Interactions	dip	SHC1	0.026549	0.61836	1	0	1		SHC1
+DIP Protein-Protein Interactions	dip	ESR1	-0.019338	1	1	0	-1		ESR1
+DIP Protein-Protein Interactions	dip	HSP90AA1	-0.010488	1	1	0	-1		HSP90AA1
+DIP Protein-Protein Interactions	dip	CAV1	0.053097	0.35517	1	0	1		CAV1
+DIP Protein-Protein Interactions	dip	PLCG1	-0.010488	1	1	0	-1		PLCG1
+DIP Protein-Protein Interactions	dip	GRB2	0.035398	0.59113	1	0	1		GRB2
+DIP Protein-Protein Interactions	dip	FLNA	0.035398	0.59011	1	0	1		FLNA
+DIP Protein-Protein Interactions	dip	FGF1	0.026549	0.61818	1	0	1		FGF1|FGF2
+DIP Protein-Protein Interactions	dip	mean	-0.00065601	0.23321	1	0	-1	mean	mean|stdv
+DIP Protein-Protein Interactions	dip	RYR1	0.052614	0.23679	1	0	1		RYR1|FKBP1A|ARRB2
+DIP Protein-Protein Interactions	dip	PIAS1	-0.019338	1	1	0	-1		PIAS1|PIAS3|ZBTB17
+DIP Protein-Protein Interactions	dip	IFNAR2	-0.019338	1	1	0	-1		IFNAR2
+DIP Protein-Protein Interactions	dip	RPS27A	0.070796	0.21674	1	0	1		RPS27A

@@ -1,0 +1,68 @@
+abbreviation	candidate_features	candidate_genes	feature_normalization	name	negative_examples	original_features	original_genes	path	positive_examples	unknown_examples
+biogpshuman_cleaned	86	16383	z-score	BioGPS Human Cell Type and Tissue Gene Expression Profiles - Cleaned	70	84	16383	datasets/candidate_features/biogpshuman_cleaned.txt.gz	250	16063
+biogpsmouse_cleaned	76	15443	z-score	BioGPS Mouse Cell Type and Tissue Gene Expression Profiles - Cleaned	69	74	15443	datasets/candidate_features/biogpsmouse_cleaned.txt.gz	244	15130
+biogrid	1191	15270	none	BioGRID Protein-Protein Interactions	67	15270	15270	datasets/candidate_features/biogrid.txt.gz	239	14964
+brainatlasadulthuman_cleaned	416	17979	z-score	Allen Brain Atlas Adult Human Brain Tissue Gene Expression Profiles - Cleaned	67	414	17979	datasets/candidate_features/brainatlasadulthuman_cleaned.txt.gz	220	17692
+brainatlasadultmouse_cleaned	2234	14248	z-score	Allen Brain Atlas Adult Mouse Brain Tissue Gene Expression Profiles - Cleaned	63	2232	14248	datasets/candidate_features/brainatlasadultmouse_cleaned.txt.gz	224	13961
+clinvar	3	2458	none	ClinVar SNP-Phenotype Associations	23	3291	2458	datasets/candidate_features/clinvar.txt.gz	120	2315
+cmap	5066	12148	none	CMAP Signatures of Differentially Expressed Genes for Small Molecules	67	6100	12148	datasets/candidate_features/cmap.txt.gz	233	11848
+ctdchemical	2222	11125	none	CTD Gene-Chemical Interactions	71	9516	11125	datasets/candidate_features/ctdchemical.txt.gz	250	10804
+ctddisease_cleaned	2926	21582	none	CTD Gene-Disease Associations - Cleaned	72	6325	21582	datasets/candidate_features/ctddisease_cleaned.txt.gz	259	21251
+dbgap_cleaned	51	5668	none	dbGAP Gene-Trait Associations - Cleaned	32	510	5668	datasets/candidate_features/dbgap_cleaned.txt.gz	115	5521
+depod	13	293	none	DEPOD Substrates of Phosphatases	6	112	293	datasets/candidate_features/depod.txt.gz	13	274
+dip	32	2709	none	DIP Protein-Protein Interactions	27	2709	2709	datasets/candidate_features/dip.txt.gz	113	2569
+encodehm	432	22382	none	ENCODE Histone Modification Site Profiles	72	435	22382	datasets/candidate_features/encodehm.txt.gz	258	22052
+encodetf	1591	22845	none	ENCODE Transcription Factor Binding Site Profiles	72	1679	22845	datasets/candidate_features/encodetf.txt.gz	258	22515
+epigenomicsdnamethylation_cleaned	26	13835	z-score	Roadmap Epigenomics Cell and Tissue DNA Methylation Profiles - Cleaned	51	24	13835	datasets/candidate_features/epigenomicsdnamethylation_cleaned.txt.gz	176	13608
+epigenomicshm	295	21032	none	Roadmap Epigenomics Histone Modification Site Profiles	69	383	21032	datasets/candidate_features/epigenomicshm.txt.gz	244	20719
+epigenomicsmrna_cleaned	59	12824	z-score	Roadmap Epigenomics Cell and Tissue Gene Expression Profiles - Cleaned	43	57	12824	datasets/candidate_features/epigenomicsmrna_cleaned.txt.gz	121	12660
+gad	1189	10705	none	GAD Gene-Disease Associations	69	12778	10705	datasets/candidate_features/gad.txt.gz	249	10387
+gadhighlevel_cleaned	19	8016	none	GAD High Level Gene-Disease Associations - Cleaned	69	18	8016	datasets/candidate_features/gadhighlevel_cleaned.txt.gz	245	7702
+genesigdb	1363	19723	none	GeneSigDB Published Gene Signatures	72	3515	19723	datasets/candidate_features/genesigdb.txt.gz	259	19392
+gobp	2435	15717	none	GO Biological Process Annotations	70	13212	15717	datasets/candidate_features/gobp.txt.gz	258	15389
+gocc	207	16757	none	GO Cellular Component Annotations	70	1547	16757	datasets/candidate_features/gocc.txt.gz	258	16429
+gomf	366	15777	none	GO Molecular Function Annotations	70	4162	15777	datasets/candidate_features/gomf.txt.gz	257	15450
+gtexeqtl	2	7898	none	GTEx eQTL	29	7815	7898	datasets/candidate_features/gtexeqtl.txt.gz	78	7791
+gtextissue_cleaned	31	26005	z-score	GTEx Tissue Gene Expression Profiles - Cleaned	72	29	26005	datasets/candidate_features/gtextissue_cleaned.txt.gz	256	25677
+guidetopharmchemical	189	899	none	Guide to Pharmacology Chemical Ligands of Receptors	32	4894	899	datasets/candidate_features/guidetopharmchemical.txt.gz	177	690
+guidetopharmprotein	5	187	none	Guide to Pharmacology Protein Ligands of Receptors	5	211	187	datasets/candidate_features/guidetopharmprotein.txt.gz	41	141
+gwascatalog_cleaned	30	4356	none	GWAS Catalog SNP-Phenotype Associations - Cleaned	30	1007	4356	datasets/candidate_features/gwascatalog_cleaned.txt.gz	97	4229
+gwasdbdisease_cleaned	252	11805	none	GWASdb SNP-Disease Associations - Cleaned	54	585	11805	datasets/candidate_features/gwasdbdisease_cleaned.txt.gz	199	11552
+gwasdbphenotype_cleaned	397	12488	none	GWASdb SNP-Phenotype Associations - Cleaned	57	822	12488	datasets/candidate_features/gwasdbphenotype_cleaned.txt.gz	204	12227
+hpacelllines_cleaned	45	15868	z-score	HPA Cell Line Gene Expression Profiles - Cleaned	63	43	15868	datasets/candidate_features/hpacelllines_cleaned.txt.gz	196	15609
+hpatissuesmrna_cleaned	33	17496	z-score	HPA Tissue Gene Expression Profiles - Cleaned	69	31	17496	datasets/candidate_features/hpatissuesmrna_cleaned.txt.gz	245	17182
+hpatissuesprotein_cleaned	46	15788	z-score	HPA Tissue Protein Expression Profiles - Cleaned	60	44	15788	datasets/candidate_features/hpatissuesprotein_cleaned.txt.gz	206	15522
+hpm_cleaned	6	7274	z-score	HPM Cell Type and Tissue Protein Expression Profiles - Cleaned	30	4	7274	datasets/candidate_features/hpm_cleaned.txt.gz	64	7180
+hpo	1185	3158	none	HPO Gene-Disease Associations	30	6842	3158	datasets/candidate_features/hpo.txt.gz	141	2987
+hugenavigator	1241	12055	none	HuGE Navigator Gene-Phenotype Associations	71	2753	12055	datasets/candidate_features/hugenavigator.txt.gz	251	11733
+humancyc	11	932	none	HumanCyc Pathways	9	286	932	datasets/candidate_features/humancyc.txt.gz	32	891
+intact	422	12303	none	IntAct Biomolecular Interactions	61	12303	12303	datasets/candidate_features/intact.txt.gz	208	12034
+interpro	119	18002	none	InterPro Predicted Protein Domain Annotations	71	11015	18002	datasets/candidate_features/interpro.txt.gz	258	17673
+jasparpwm	80	21547	none	JASPAR Predicted Transcription Factor Targets	72	111	21547	datasets/candidate_features/jasparpwm.txt.gz	258	21217
+jensencompartmentcurated_cleaned	228	16738	none	COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	72	1463	16738	datasets/candidate_features/jensencompartmentcurated_cleaned.txt.gz	258	16408
+jensencompartmentexpts_cleaned	37	6495	none	COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	24	59	6495	datasets/candidate_features/jensencompartmentexpts_cleaned.txt.gz	49	6422
+jensencompartmenttextmining_cleaned	877	14375	none	COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	72	2081	14375	datasets/candidate_features/jensencompartmenttextmining_cleaned.txt.gz	258	14045
+jensendiseasecurated	93	2252	none	DISEASES Curated Gene-Disease Assocation Evidence Scores	21	770	2252	datasets/candidate_features/jensendiseasecurated.txt.gz	94	2137
+jensendiseaseexpts_cleaned	106	4055	none	DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	30	350	4055	datasets/candidate_features/jensendiseaseexpts_cleaned.txt.gz	101	3924
+jensendiseasetextmining_cleaned	2559	15309	none	DISEASES Text-mining Gene-Disease Assocation Evidence Scores - Cleaned	72	4628	15309	datasets/candidate_features/jensendiseasetextmining_cleaned.txt.gz	258	14979
+jensentissuecurated	242	16216	none	TISSUES Curated Tissue Protein Expression Evidence Scores	70	643	16216	datasets/candidate_features/jensentissuecurated.txt.gz	247	15899
+jensentissueexpts_cleaned	244	17922	none	TISSUES Experimental Tissue Protein Expression Evidence Scores - Cleaned	70	243	17922	datasets/candidate_features/jensentissueexpts_cleaned.txt.gz	246	17606
+jensentissuetextmining_cleaned	2974	16184	none	TISSUES Text-mining Tissue Protein Expression Evidence Scores - Cleaned	72	4187	16184	datasets/candidate_features/jensentissuetextmining_cleaned.txt.gz	258	15854
+kegg	185	7016	none	KEGG Pathways	61	301	7016	datasets/candidate_features/kegg.txt.gz	237	6718
+kinativ_cleaned	28	232	none	Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	4	26	232	datasets/candidate_features/kinativ_cleaned.txt.gz	5	223
+kinomescan_cleaned	75	287	z-score	KinomeScan Kinase Inhibitor Targets - Cleaned	2	73	287	datasets/candidate_features/kinomescan_cleaned.txt.gz	8	277
+locate	49	9639	none	LOCATE Curated Protein Localization Annotations	62	78	9639	datasets/candidate_features/locate.txt.gz	207	9370
+locatepredicted	22	19747	none	LOCATE Predicted Protein Localization Annotations	72	24	19747	datasets/candidate_features/locatepredicted.txt.gz	253	19422
+mgimpo	2433	7798	none	MPO Gene-Phenotype Associations	62	8579	7798	datasets/candidate_features/mgimpo.txt.gz	237	7499
+mirtarbase	93	12086	none	MiRTarBase microRNA Targets	53	596	12086	datasets/candidate_features/mirtarbase.txt.gz	165	11868
+msigdbcomp	135	4869	none	MSigDB Cancer Gene Co-expression Modules	32	356	4869	datasets/candidate_features/msigdbcomp.txt.gz	103	4734
+nursa	1182	9785	none	NURSA Protein Complexes	34	1796	9785	datasets/candidate_features/nursa.txt.gz	107	9644
+omim	5	4553	none	OMIM Gene-Disease Associations	37	6175	4553	datasets/candidate_features/omim.txt.gz	172	4344
+panther	40	1962	none	PANTHER Pathways	31	145	1962	datasets/candidate_features/panther.txt.gz	107	1824
+proteomicsdb_cleaned	55	2776	z-score	ProteomicsDB Cell Type and Tissue Protein Expression Profiles - Cleaned	14	53	2776	datasets/candidate_features/proteomicsdb_cleaned.txt.gz	14	2748
+reactome	289	9005	none	Reactome Pathways	67	1812	9005	datasets/candidate_features/reactome.txt.gz	242	8696
+targetscan_cleaned	1020	14923	none	TargetScan Predicted Conserved microRNA Targets - Cleaned	60	1537	14923	datasets/candidate_features/targetscan_cleaned.txt.gz	223	14640
+targetscannonconserved_cleaned	1534	18210	none	TargetScan Predicted Nonconserved microRNA Targets - Cleaned	71	1539	18210	datasets/candidate_features/targetscannonconserved_cleaned.txt.gz	253	17886
+virusmint	5	706	none	Virus MINT Protein-Virus Interactions	8	68	706	datasets/candidate_features/virusmint.txt.gz	9	689
+virusmintppi	3	706	none	Virus MINT Protein-Viral Protein Interactions	8	185	706	datasets/candidate_features/virusmintppi.txt.gz	9	689
+wikipathways	140	4958	none	Wikipathways Pathways	54	299	4958	datasets/candidate_features/wikipathways.txt.gz	209	4695

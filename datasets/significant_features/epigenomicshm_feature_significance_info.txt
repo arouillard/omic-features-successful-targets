@@ -1,0 +1,245 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	mean	-0.0018813	0.85232	1	0	-1	mean	mean|stdv|H3K4me3_H1|H3K4me3_iPS DF 19.11|H3K4me3_Brain Hippocampus Middle|H3K4me3_H9|H3K4me3_iPS DF 6.9|H3K4me3_Brain Cingulate Gyrus|H3K4me3_Brain Inferior Temporal Lobe|H3K4me3_H1 Derived Mesenchymal Stem Cells|H3K4me3_Neurosphere Cultured Cells Cortex Derived|H3K4me3_Brain Anterior Caudate|H3K4me3_Mobilized CD34 Primary Cells|H3K4me3_Brain Substantia Nigra|H3K4me3_Brain Mid Frontal Lobe|H3K4me3_Colonic Mucosa|H3K4me3_CD8 Naive Primary Cells|H3K4me3_IMR90|H3K4me3_Breast Myoepithelial Cells|H3K4me3_Adipose Derived Mesenchymal Stem Cell Cultured Cells|H3K4me3_H1 BMP4 Derived Trophoblast Cultured Cells|H3K4me3_Colon Smooth Muscle|H3K4me3_Stomach Smooth Muscle|H3K4me3_Mesenchymal Stem Cell Derived Adipocyte Cultured Cells|H3K4me3_Neurosphere Cultured Cells Ganglionic Eminence Derived|H3K4me3_Fetal Brain|H3K4me3_Penis Foreskin Keratinocyte Primary Cells|H3K4me3_Brain Germinal Matrix|H3K4me3_CD19 Primary Cells|H3K27ac_IMR90|H3K4me3_CD4+ CD25- CD45RA+ Naive Primary Cells|H3K9ac_H1|H3K4me2_H1|H3K4me3_CD3 Primary Cells|H3K4me3_CD4+ CD25+ CD127- Treg Primary Cells|H3K4me3_H1 Derived Neuronal Progenitor Cultured Cells|H3K4me3_H1 BMP4 Derived Mesendoderm Cultured Cells|H3K4me3_CD4+ CD25- Th Primary Cells|H3K4me3_CD4 Memory Primary Cells|H3K4me3_Adult Kidney|H3K4me3_Duodenum Mucosa|H3K4me2_H9|H3K9ac_IMR90|H3K4me3_CD4 Naive Primary Cells|H3K4me3_CD8 Memory Primary Cells|H3K4me3_Adipose Nuclei|H3K27ac_Brain Hippocampus Middle|H3K4me3_CD34 Cultured Cells|H3K9ac_Muscle Satellite Cultured Cells|H3K4me3_Breast vHMEC|H3K4me1_Mobilized CD34 Primary Cells|H3K4me2_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Fetal Heart	-0.0043953	1	1	0	-1		H3K27me3_Fetal Heart
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_H1 Derived Mesenchymal Stem Cells	0.005999	1	1	0	1		H3K9me3_H1 Derived Mesenchymal Stem Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K36me3_H1	0.0019007	1	1	0	1		H3K36me3_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me2_Muscle Satellite Cultured Cells	0.012711	0.8598	1	0	1		H3K4me2_Muscle Satellite Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4ac_IMR90	-0.015384	0.81144	1	0	-1		H3K4ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K56ac_IMR90	-0.089451	0.0096799	1	0	-1		H3K56ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Brain Inferior Temporal Lobe	0.054288	0.33293	1	0	1		H3K4me1_Brain Inferior Temporal Lobe
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Neurosphere Cultured Cells Ganglionic Eminence Derived	0.06599	0.24832	1	0	1		H3K4me1_Neurosphere Cultured Cells Ganglionic Eminence Derived
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Adult Liver	0.046092	0.42881	1	0	1		H3K4me1_Adult Liver
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Skeletal Muscle	0.04039	0.35222	1	0	1		H3K4me1_Skeletal Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Duodenum Mucosa	-0.0036826	1	1	0	-1		H3K4me1_Duodenum Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Brain Anterior Caudate	-0.0046923	1	1	0	-1		H3K9ac_Brain Anterior Caudate
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD4+ CD25- CD45RO+ Memory Primary Cells	0.026491	0.46418	1	0	1		H3K27me3_CD4+ CD25- CD45RO+ Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Brain Cingulate Gyrus	-0.042469	0.3833	1	0	-1		H3K9ac_Brain Cingulate Gyrus
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD4+ CD25- CD45RA+ Naive Primary Cells	-0.0030886	1	1	0	-1		H3K4me1_CD4+ CD25- CD45RA+ Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Penis Foreskin Fibroblast Primary Cells	0.021502	0.68276	1	0	1		H3K4me1_Penis Foreskin Fibroblast Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K91ac_H9	-0.0090877	1	1	0	-1		H4K91ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Peripheral Blood Mononuclear Primary Cells	-0.037776	0.24524	1	0	-1		H3K4me1_Peripheral Blood Mononuclear Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD4+ CD25int CD127+ Tmem Primary Cells	0.017997	0.77251	1	0	1		H3K4me1_CD4+ CD25int CD127+ Tmem Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK20ac_IMR90	0.005999	1	1	0	1		H2BK20ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Adipose Derived Mesenchymal Stem Cell Cultured Cells	0.055179	0.13937	1	0	1		H3K27me3_Adipose Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Mesenchymal Stem Cell Derived Adipocyte Cultured Cells	-0.041875	0.22331	1	0	-1		H3K27me3_Mesenchymal Stem Cell Derived Adipocyte Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Brain Anterior Caudate	-0.025481	0.5851	1	0	-1		H3K27me3_Brain Anterior Caudate
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Brain Cingulate Gyrus	0.028392	0.38841	1	0	1		H3K27me3_Brain Cingulate Gyrus
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Colon Smooth Muscle	0.042884	0.20347	1	0	1		H3K27me3_Colon Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD34 Primary Cells	0.036588	0.38115	1	0	1		H3K27me3_CD34 Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD8 Memory Primary Cells	-0.0049893	1	1	0	-1		H3K4me1_CD8 Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Duodenum Smooth Muscle	-0.019185	0.55803	1	0	-1		H3K27me3_Duodenum Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	-0.0043953	1	1	0	-1		H3K27me3_Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	0.011998	0.74381	1	0	1		H3K27me3_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Breast vHMEC	0.022096	0.58033	1	0	1		H3K27me3_Breast vHMEC
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Skeletal Muscle	0.015799	0.79249	1	0	1		H3K27me3_Skeletal Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Brain Inferior Temporal Lobe	-0.01479	0.69875	1	0	-1		H3K27me3_Brain Inferior Temporal Lobe
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Brain Mid Frontal Lobe	0.040984	0.12455	1	0	1		H3K27me3_Brain Mid Frontal Lobe
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD3 Primary Cells	-0.038073	0.33377	1	0	-1		H3K27me3_CD3 Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Rectal Mucosa	0.03249	0.3797	1	0	1		H3K27me3_Rectal Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_H9	0.054585	0.28811	1	0	1		H3K27me3_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_iPS-20b	0.073474	0.084959	1	0	1		H3K27me3_iPS-20b
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD8 Memory Primary Cells	-0.00089095	1	1	0	-1		H3K27me3_CD8 Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD4+ CD25- CD45RA+ Naive Primary Cells	0.046983	0.13661	1	0	1		H3K27me3_CD4+ CD25- CD45RA+ Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD4+ CD25int CD127+ Tmem Primary Cells	-0.010691	0.71351	1	0	-1		H3K27me3_CD4+ CD25int CD127+ Tmem Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Treg Primary Cells	-0.016987	0.74236	1	0	-1		H3K27me3_Treg Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Breast Myoepithelial Cells	-0.016987	0.74174	1	0	-1		H3K27me3_Breast Myoepithelial Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Neurosphere Cultured Cells Ganglionic Eminence Derived	0.018294	0.68961	1	0	1		H3K27me3_Neurosphere Cultured Cells Ganglionic Eminence Derived
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD4 Naive Primary Cells	-0.006296	1	1	0	-1		H3K27me3_CD4 Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Adult Liver	0.0078997	1	1	0	1		H3K27me3_Adult Liver
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_Adipose Derived Mesenchymal Stem Cell Cultured Cells	0.012295	0.59863	1	0	1		H3K9me3_Adipose Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_CD34 Cultured Cells	0.016393	0.57944	1	0	1		H3K9me3_CD34 Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_Mobilized CD34 Primary Cells	0.02459	0.34632	1	0	1		H3K9me3_Mobilized CD34 Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_IMR90	0.036885	0.21268	1	0	1		H3K9me3_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_Rectal Smooth Muscle	0.0019007	1	1	0	1		H3K9me3_Rectal Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K20me1_H1	-0.025184	0.47267	1	0	-1		H4K20me1_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Rectal Smooth Muscle	-0.012176	0.85922	1	0	-1		H3K4me3_Rectal Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_H1 BMP4 Derived Trophoblast Cultured Cells	-0.098242	0.03066	1	0	-1		H3K27ac_H1 BMP4 Derived Trophoblast Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Brain Germinal Matrix	0.054585	0.28631	1	0	1		H3K4me1_Brain Germinal Matrix
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_iPS DF 19.11	0.040687	0.26688	1	0	1		H3K9me3_iPS DF 19.11
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_H9	0.04229	0.38048	1	0	1		H3K4me1_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_iPS DF 6.9	0.069078	0.13231	1	0	1		H3K27me3_iPS DF 6.9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K20me1_H9	-0.018888	0.41947	1	0	-1		H4K20me1_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD8 Naive Primary Cells	0.0048111	1	1	0	1		H3K27me3_CD8 Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_Colonic Mucosa	0.005999	1	1	0	1		H3K9me3_Colonic Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_H1 Derived Mesenchymal Stem Cells	-0.080839	0.19433	1	0	-1		H3K4me1_H1 Derived Mesenchymal Stem Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2AK5ac_H1	-0.096044	0.02334	1	0	-1		H2AK5ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Breast Myoepithelial Cells	0.02661	0.74545	1	0	1		H3K9ac_Breast Myoepithelial Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Skeletal Muscle	-0.022274	0.70767	1	0	-1		H3K4me3_Skeletal Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Stomach Mucosa	-0.032668	0.57638	1	0	-1		H3K4me3_Stomach Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Colonic Mucosa	-0.0014849	1	1	0	-1		H3K9ac_Colonic Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Brain Substantia Nigra	0.0092065	1	1	0	1		H3K4me1_Brain Substantia Nigra
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Fetal Lung	0.055595	0.41064	1	0	1		H3K4me1_Fetal Lung
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me2_H1 BMP4 Derived Trophoblast Cultured Cells	0.024709	0.73975	1	0	1		H3K4me2_H1 BMP4 Derived Trophoblast Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_Mobilized CD34 Primary Cells	-0.088144	0.071119	1	0	-1		H3K27ac_Mobilized CD34 Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_CD8 Naive Primary Cells	-0.02168	0.64841	1	0	-1		H3K27ac_CD8 Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_Duodenum Smooth Muscle	-0.031777	0.44446	1	0	-1		H3K27ac_Duodenum Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Rectal Smooth Muscle	-0.013483	0.82518	1	0	-1		H3K9ac_Rectal Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Breast Myoepithelial Cells	0.076681	0.158	1	0	1		H3K4me1_Breast Myoepithelial Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells	0.021502	0.68096	1	0	1		H3K4me3_CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_H9	-0.06985	0.19638	1	0	-1		H3K9ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	-0.0036826	1	1	0	-1		H3K4me3_Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Treg Primary Cells	-0.033975	0.47475	1	0	-1		H3K4me3_Treg Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Stomach Smooth Muscle	0.047992	0.35112	1	0	1		H3K9ac_Stomach Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_H1 Derived Neuronal Progenitor Cultured Cells	-0.027679	0.61879	1	0	-1		H3K27ac_H1 Derived Neuronal Progenitor Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K5ac_IMR90	-0.058862	0.17119	1	0	-1		H4K5ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	-0.017581	0.8214	1	0	-1		H3K9ac_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_CD4 Memory Primary Cells	-0.026075	0.67879	1	0	-1		H3K27ac_CD4 Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Adult Liver	0.068484	0.20792	1	0	1		H3K4me3_Adult Liver
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells	-0.038073	0.33462	1	0	-1		H3K27ac_CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K56ac_H1	-0.07775	0.10305	1	0	-1		H3K56ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_Brain Mid Frontal Lobe	-0.056664	0.14932	1	0	-1		H3K27ac_Brain Mid Frontal Lobe
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD4 Memory Primary Cells	0.0013067	1	1	0	1		H3K27me3_CD4 Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_iPS-15b	0.067177	0.1066	1	0	1		H3K27me3_iPS-15b
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_H1 BMP4 Derived Mesendoderm Cultured Cells	0.0092065	1	1	0	1		H3K27me3_H1 BMP4 Derived Mesendoderm Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_H1	-0.023283	0.54482	1	0	-1		H3K9me3_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_CD4 Naive Primary Cells	-0.007484	1	1	0	-1		H3K27ac_CD4 Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K18ac_H9	-0.0080779	1	1	0	-1		H3K18ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K91ac_IMR90	-0.0030886	1	1	0	-1		H4K91ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Muscle Satellite Cultured Cells	-0.0099786	0.85621	1	0	-1		H3K4me1_Muscle Satellite Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Brain Hippocampus Middle	-0.014374	0.86351	1	0	-1		H3K4me1_Brain Hippocampus Middle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_Brain Anterior Caudate	-0.015384	0.81301	1	0	-1		H3K27ac_Brain Anterior Caudate
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Brain Inferior Temporal Lobe	0.038192	0.38394	1	0	1		H3K9ac_Brain Inferior Temporal Lobe
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Brain Substantia Nigra	-0.0052863	1	1	0	-1		H3K9ac_Brain Substantia Nigra
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_H1 BMP4 Derived Trophoblast Cultured Cells	-0.11333	0.03173	1	0	-1		H3K4me1_H1 BMP4 Derived Trophoblast Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK120ac_IMR90	-0.025184	0.47239	1	0	-1		H2BK120ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Brain Hippocampus Middle	0.055179	0.1396	1	0	1		H3K27me3_Brain Hippocampus Middle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Stomach Mucosa	0.0177	0.80856	1	0	1		H3K27me3_Stomach Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_H1 BMP4 Derived Trophoblast Cultured Cells	0.011404	0.82384	1	0	1		H3K27me3_H1 BMP4 Derived Trophoblast Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_CD4+ CD25- CD45RA+ Naive Primary Cells	0.0035044	1	1	0	1		H3K27ac_CD4+ CD25- CD45RA+ Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK5ac_H1	-0.036469	0.54845	1	0	-1		H2BK5ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K14ac_H9	-0.030173	0.52987	1	0	-1		H3K14ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K18ac_H1	-0.019066	0.75423	1	0	-1		H3K18ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Colon Smooth Muscle	-0.0027916	1	1	0	-1		H3K9ac_Colon Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Brain Anterior Caudate	0.019601	0.66858	1	0	1		H3K4me1_Brain Anterior Caudate
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Stomach Smooth Muscle	0.020908	0.7249	1	0	1		H3K4me1_Stomach Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD4+ CD25- CD45RO+ Memory Primary Cells	-0.056664	0.1485	1	0	-1		H3K4me1_CD4+ CD25- CD45RO+ Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_CD8 Naive Primary Cells	-0.037776	0.24806	1	0	-1		H3K9ac_CD8 Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK120ac_H1	-0.060763	0.13784	1	0	-1		H2BK120ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K79me1_H1	-0.0046923	1	1	0	-1		H3K79me1_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K36me3_H9	-0.0087907	1	1	0	-1		H3K36me3_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2AK5ac_H9	-0.00029698	1	1	0	-1		H2AK5ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me1_IMR90	-0.0043953	1	1	0	-1		H3K9me1_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K79me2_H9	0.012295	0.59849	1	0	1		H3K79me2_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K23ac_H1	-0.066465	0.01709	1	0	-1		H3K23ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK15ac_IMR90	-0.041875	0.22615	1	0	-1		H2BK15ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K23ac_IMR90	0.0035044	1	1	0	1		H3K23ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Colon Smooth Muscle	0.0035044	1	1	0	1		H3K4me1_Colon Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Fetal Brain	0.11137	0.067619	1	0	1		H3K4me1_Fetal Brain
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_Brain Inferior Temporal Lobe	-0.015087	0.77661	1	0	-1		H3K27ac_Brain Inferior Temporal Lobe
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Brain Hippocampus Middle	0.040093	0.4088	1	0	1		H3K9ac_Brain Hippocampus Middle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Adipose Nuclei	0.10246	0.00415	1	0	1		H3K9ac_Adipose Nuclei
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K5ac_H9	-0.058862	0.17181	1	0	-1		H4K5ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K8ac_H9	-0.032074	0.50419	1	0	-1		H4K8ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4ac_H1	0.048883	0.18298	1	0	1		H3K4ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K23ac_H9	-0.035579	0.31981	1	0	-1		H3K23ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K79me1_H9	-0.015087	0.77615	1	0	-1		H3K79me1_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2AK5ac_IMR90	-0.029579	0.40413	1	0	-1		H2AK5ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Penis Foreskin Keratinocyte Primary Cells	-0.030767	0.59525	1	0	-1		H3K9ac_Penis Foreskin Keratinocyte Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK15ac_H1	-0.046567	0.27934	1	0	-1		H2BK15ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Neurosphere Cultured Cells Cortex Derived	0.036885	0.21438	1	0	1		H3K27me3_Neurosphere Cultured Cells Cortex Derived
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	0.012295	0.59427	1	0	1		H3K9me3_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Mesenchymal Stem Cell Derived Adipocyte Cultured Cells	0.037598	0.46952	1	0	1		H3K9ac_Mesenchymal Stem Cell Derived Adipocyte Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_CD4+ CD25- CD45RO+ Memory Primary Cells	0.0095034	0.81379	1	0	1		H3K27ac_CD4+ CD25- CD45RO+ Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK120ac_H9	-0.015978	0.84652	1	0	-1		H2BK120ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K5ac_H1	-0.0058803	1	1	0	-1		H4K5ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K14ac_IMR90	0.011701	0.79429	1	0	1		H3K14ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Fetal Lung	-0.007187	1	1	0	-1		H3K9ac_Fetal Lung
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	-0.044369	0.35328	1	0	-1		H3K4me1_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Adult Kidney	0.015206	0.83916	1	0	1		H3K4me1_Adult Kidney
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Brain Cingulate Gyrus	-0.0055833	1	1	0	-1		H3K4me1_Brain Cingulate Gyrus
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Brain Mid Frontal Lobe	0.035994	0.52337	1	0	1		H3K4me1_Brain Mid Frontal Lobe
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Penis Foreskin Keratinocyte Primary Cells	0.026491	0.4653	1	0	1		H3K27me3_Penis Foreskin Keratinocyte Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Rectal Mucosa	-0.0093847	0.82844	1	0	-1		H3K9ac_Rectal Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_H1 BMP4 Derived Mesendoderm Cultured Cells	-0.029876	0.48144	1	0	-1		H3K27ac_H1 BMP4 Derived Mesendoderm Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Penis Foreskin Fibroblast Primary Cells	0.0048111	1	1	0	1		H3K4me3_Penis Foreskin Fibroblast Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K8ac_IMR90	0.021205	0.70579	1	0	1		H4K8ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me2_H1 BMP4 Derived Mesendoderm Cultured Cells	0.050903	0.44646	1	0	1		H3K4me2_H1 BMP4 Derived Mesendoderm Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	-0.0020789	1	1	0	-1		H3K4me3_Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Duodenum Smooth Muscle	-0.024174	0.69836	1	0	-1		H3K4me3_Duodenum Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_CD4+ CD25int CD127+ Tmem Primary Cells	-0.011879	0.84966	1	0	-1		H3K4me3_CD4+ CD25int CD127+ Tmem Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Duodenum Mucosa	-0.088738	0.12025	1	0	-1		H3K9ac_Duodenum Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_CD4+ CD25int CD127+ Tmem Primary Cells	0.028095	0.47522	1	0	1		H3K27ac_CD4+ CD25int CD127+ Tmem Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Peripheral Blood Mononuclear Primary Cells	-0.080245	0.14474	1	0	-1		H3K9ac_Peripheral Blood Mononuclear Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_Pancreatic Islets	0.0026134	1	1	0	1		H3K4me3_Pancreatic Islets
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_H9	-0.050368	0.19973	1	0	-1		H3K27ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_H1 Derived Mesenchymal Stem Cells	-0.040271	0.36197	1	0	-1		H3K27ac_H1 Derived Mesenchymal Stem Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K18ac_IMR90	-0.040271	0.3645	1	0	-1		H3K18ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Mesenchymal Stem Cell Derived Adipocyte Cultured Cells	0.013305	0.83382	1	0	1		H3K4me1_Mesenchymal Stem Cell Derived Adipocyte Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD8 Naive Primary Cells	-0.036469	0.54463	1	0	-1		H3K4me1_CD8 Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Mobilized CD34 Primary Cells	0.096876	0.10102	1	0	1		H3K27me3_Mobilized CD34 Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Colonic Mucosa	0.00011879	1	1	0	1		H3K4me1_Colonic Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K23me2_H9	-0.036766	0.57591	1	0	-1		H3K23me2_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Penis Foreskin Keratinocyte Primary Cells	-0.0083749	1	1	0	-1		H3K4me1_Penis Foreskin Keratinocyte Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Stomach Mucosa	0.046389	0.38036	1	0	1		H3K9ac_Stomach Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_H1	0.057496	0.33821	1	0	1		H3K4me1_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4ac_H9	-0.077156	0.03328	1	0	-1		H3K4ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Brain Germinal Matrix	0.034688	0.31021	1	0	1		H3K27me3_Brain Germinal Matrix
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_H1	0.0077215	1	1	0	1		H3K27me3_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Adipose Derived Mesenchymal Stem Cell Cultured Cells	-0.016275	0.85914	1	0	-1		H3K9ac_Adipose Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Pancreatic Islets	0.086778	0.1257	1	0	1		H3K9ac_Pancreatic Islets
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_CD8 Memory Primary Cells	-0.027976	0.5164	1	0	-1		H3K27ac_CD8 Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD34 Cultured Cells	0.031896	0.52524	1	0	1		H3K4me1_CD34 Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Stomach Mucosa	-0.013483	0.82625	1	0	-1		H3K4me1_Stomach Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	0.046389	0.38231	1	0	1		H3K9ac_Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Adult Kidney	0.025897	0.64202	1	0	1		H3K9ac_Adult Kidney
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_Brain Cingulate Gyrus	-0.029579	0.40316	1	0	-1		H3K27ac_Brain Cingulate Gyrus
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Pancreatic Islets	0.021799	0.64456	1	0	1		H3K27me3_Pancreatic Islets
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_Brain Mid Frontal Lobe	-0.006296	1	1	0	-1		H3K9me3_Brain Mid Frontal Lobe
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_Adult Liver	0.012295	0.59552	1	0	1		H3K9me3_Adult Liver
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_Breast Myoepithelial Cells	0.012295	0.59479	1	0	1		H3K9me3_Breast Myoepithelial Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_H9	-0.006296	1	1	0	-1		H3K9me3_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9me3_iPS DF 6.9	-0.020789	0.21324	1	0	-1		H3K9me3_iPS DF 6.9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K36me3_H1 Derived Mesenchymal Stem Cells	0.0019007	1	1	0	1		H3K36me3_H1 Derived Mesenchymal Stem Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me3_CD4+ CD25- CD45RO+ Memory Primary Cells	-0.013483	0.82553	1	0	-1		H3K4me3_CD4+ CD25- CD45RO+ Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_iPS DF 19.11	0.0070088	1	1	0	1		H3K27ac_iPS DF 19.11
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Adult Liver	-0.035876	0.43384	1	0	-1		H3K9ac_Adult Liver
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Adipose Derived Mesenchymal Stem Cell Cultured Cells	-0.053457	0.36899	1	0	-1		H3K4me1_Adipose Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells	0.021502	0.67887	1	0	1		H3K4me1_Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Neurosphere Cultured Cells Cortex Derived	0.059694	0.32711	1	0	1		H3K4me1_Neurosphere Cultured Cells Cortex Derived
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD4 Naive Primary Cells	-0.007187	1	1	0	-1		H3K4me1_CD4 Naive Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD4+ CD25+ CD127- Treg Primary Cells	-0.10014	0.01863	1	0	-1		H3K4me1_CD4+ CD25+ CD127- Treg Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_H1 BMP4 Derived Mesendoderm Cultured Cells	0.0089095	1	1	0	1		H3K4me1_H1 BMP4 Derived Mesendoderm Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_iPS DF 19.11	-0.0058803	1	1	0	-1		H3K4me1_iPS DF 19.11
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_IMR90	-0.0042766	1	1	0	-1		H3K4me1_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK12ac_H1	-0.071454	0.13737	1	0	-1		H2BK12ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H4K91ac_H1	-0.09444	0.053449	1	0	-1		H4K91ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK12ac_H9	0.021799	0.64335	1	0	1		H2BK12ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK20ac_H9	-0.023283	0.54624	1	0	-1		H2BK20ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Adipose Nuclei	-0.010691	0.71384	1	0	-1		H3K4me1_Adipose Nuclei
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Duodenum Smooth Muscle	-0.0024947	1	1	0	-1		H3K4me1_Duodenum Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K79me1_IMR90	-0.021086	0.49359	1	0	-1		H3K79me1_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Pancreatic Islets	0.0038014	1	1	0	1		H3K4me1_Pancreatic Islets
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K36me3_iPS DF 19.11	-0.038073	0.33413	1	0	-1		H3K36me3_iPS DF 19.11
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD4+ CD25+ CD127- Treg Primary Cells	-0.029282	0.26809	1	0	-1		H3K27me3_CD4+ CD25+ CD127- Treg Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K23me2_H1	0.076087	0.20065	1	0	1		H3K23me2_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_CD4+ CD25- Th Primary Cells	0.038786	0.20659	1	0	1		H3K27me3_CD4+ CD25- Th Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Fetal Brain	0.0010097	1	1	0	1		H3K27me3_Fetal Brain
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K9ac_Brain Mid Frontal Lobe	-0.056961	0.20201	1	0	-1		H3K9ac_Brain Mid Frontal Lobe
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD4 Memory Primary Cells	-0.079948	0.11345	1	0	-1		H3K4me1_CD4 Memory Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells	-0.017284	0.79461	1	0	-1		H3K4me1_CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_CD4+ CD25- Th Primary Cells	-0.11333	0.03192	1	0	-1		H3K4me1_CD4+ CD25- Th Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_Breast vHMEC	0.054585	0.28544	1	0	1		H3K4me1_Breast vHMEC
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K4me1_iPS DF 6.9	-0.090639	0.10588	1	0	-1		H3K4me1_iPS DF 6.9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K56ac_H9	-0.096044	0.02311	1	0	-1		H3K56ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K14ac_H1	-0.029579	0.40326	1	0	-1		H3K14ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_iPS DF 6.9	0.036885	0.21863	1	0	1		H3K27ac_iPS DF 6.9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK5ac_H9	-0.062366	0.02727	1	0	-1		H2BK5ac_H9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K36me3_H1 BMP4 Derived Trophoblast Cultured Cells	-0.007187	1	1	0	-1		H3K36me3_H1 BMP4 Derived Trophoblast Cultured Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K36me3_iPS DF 6.9	-0.026075	0.67956	1	0	-1		H3K36me3_iPS DF 6.9
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK12ac_IMR90	-0.027382	0.53868	1	0	-1		H2BK12ac_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H2BK20ac_H1	-0.031777	0.44084	1	0	-1		H2BK20ac_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K79me2_H1	-0.022986	0.38337	1	0	-1		H3K79me2_H1
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K79me2_IMR90	-0.027085	0.3554	1	0	-1		H3K79me2_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_H1 Derived Mesenchymal Stem Cells	0.030589	0.31712	1	0	1		H3K27me3_H1 Derived Mesenchymal Stem Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_IMR90	0.0177	0.80863	1	0	1		H3K27me3_IMR90
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Penis Foreskin Fibroblast Primary Cells	0.0013067	1	1	0	1		H3K27me3_Penis Foreskin Fibroblast Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Adipose Nuclei	-0.037776	0.24294	1	0	-1		H3K27me3_Adipose Nuclei
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Stomach Smooth Muscle	-0.018888	0.41544	1	0	-1		H3K27me3_Stomach Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Brain Substantia Nigra	0.030292	0.43051	1	0	1		H3K27me3_Brain Substantia Nigra
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Colonic Mucosa	0.047992	0.35369	1	0	1		H3K27me3_Colonic Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Rectal Smooth Muscle	-0.013186	0.79941	1	0	-1		H3K27me3_Rectal Smooth Muscle
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Duodenum Mucosa	-0.017284	0.79245	1	0	-1		H3K27me3_Duodenum Mucosa
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Peripheral Blood Mononuclear Primary Cells	0.081967	0.02093	1	0	1		H3K27me3_Peripheral Blood Mononuclear Primary Cells
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_iPS DF 19.11	0.034094	0.4966	1	0	1		H3K27me3_iPS DF 19.11
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27me3_Fetal Lung	-0.048171	0.16541	1	0	-1		H3K27me3_Fetal Lung
+Roadmap Epigenomics Histone Modification Site Profiles	epigenomicshm	H3K27ac_H1	-0.098836	0.068519	1	0	-1		H3K27ac_H1

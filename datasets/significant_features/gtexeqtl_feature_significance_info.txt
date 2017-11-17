@@ -1,0 +1,2 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+GTEx eQTL	gtexeqtl	mean	7.3308e-06	0.32792	0.32792	0	1	mean	mean|stdv

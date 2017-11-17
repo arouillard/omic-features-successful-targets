@@ -1,0 +1,16 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	normalvariation	0.71464	0.0094899	0.47235	0	1		normalvariation
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	mean	3.3068	0.02017	0.50196	0	1	mean	mean|stdv|reproduction
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	immune	7.2451	0.11842	0.84202	0	1		immune|infection
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	renal	6.2027	0.096159	0.84202	0	1		renal|cardiovascular
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	other	3.258	0.092919	0.84202	0	1		other
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	metabolic	6.8053	0.11553	0.84202	0	1		metabolic
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	hematological	0.84951	0.092289	0.84202	0	1		hematological
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	cancer	6.6966	0.17284	0.88715	0	1		cancer
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	psych	7.3776	0.15337	0.88715	0	1		psych
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	vision	0.41319	0.17824	0.88715	0	1		vision
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	chemdependency	2.0741	0.20571	0.9308	0	1		chemdependency
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	developmental	0.29601	0.30209	1	0	1		developmental
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	aging	0.26667	0.25008	1	0	1		aging
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	pharmacogenomic	0.23526	0.81511	1	0	1		pharmacogenomic
+GAD High Level Gene-Disease Associations - Cleaned	gadhighlevel_cleaned	neurological	0.64916	0.68354	1	0	1		neurological

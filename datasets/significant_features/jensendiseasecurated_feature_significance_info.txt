@@ -1,0 +1,48 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	eye and adnexa disease	-0.052843	0.20716	1	0	-1		eye and adnexa disease|eye disease|globe disease|retinal disease|retinal degeneration|sensory system disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	hematopoietic system disease	0.1094	0.14792	1	0	1		hematopoietic system disease|immune system disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	epilepsy syndrome	0.0079279	0.99658	1	0	1		epilepsy syndrome|brain disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	endocrine system disease	-0.010132	1	1	0	-1		endocrine system disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	bone development disease	-0.0050659	1	1	0	-1		bone development disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	chromosomal disease	0.042553	0.59681	1	0	1		chromosomal disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	amyloidosis	-0.0846	0.085349	1	0	-1		amyloidosis
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	type 1 diabetes mellitus	0.042553	0.59537	1	0	1		type 1 diabetes mellitus
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	lipid metabolism disorder	0.042553	0.59385	1	0	1		lipid metabolism disorder
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	peripheral vascular disease	-0.015704	1	1	0	-1		peripheral vascular disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	lysosomal storage disease	0.083033	0.20349	1	0	1		lysosomal storage disease|lipid storage disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	klinefelter's syndrome	0.031915	0.63074	1	0	1		klinefelter's syndrome
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	carbohydrate metabolic disorder	-0.0846	0.084029	1	0	-1		carbohydrate metabolic disorder
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	organ system cancer	0.042553	0.59536	1	0	1		organ system cancer
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	primary immunodeficiency disease	-0.015704	1	1	0	-1		primary immunodeficiency disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	autosomal dominant disease	-0.02077	1	1	0	-1		autosomal dominant disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	motor neuron disease	-0.0846	0.085249	1	0	-1		motor neuron disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	electroclinical syndrome	-0.026342	1	1	0	-1		electroclinical syndrome
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	thyroid gland disease	-0.015704	1	1	0	-1		thyroid gland disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	sphingolipidosis	0.042553	0.59311	1	0	1		sphingolipidosis
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	cerebral degeneration	-0.026342	1	1	0	-1		cerebral degeneration
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	mucopolysaccharidosis	0.06383	0.36343	1	0	1		mucopolysaccharidosis
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	neuropathy	-0.015704	1	1	0	-1		neuropathy
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	osteosclerosis	0.036636	0.59133	1	0	1		osteosclerosis|bone remodeling disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	disease of metabolism	0.017948	0.86441	1	0	1		disease of metabolism|inherited metabolic disorder
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	developmental disorder of mental health	-0.0033795	1	1	0	-1		developmental disorder of mental health|specific developmental disorder|intellectual disability|disease of mental health
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	muscle tissue disease	0.0075064	0.87592	1	0	1		muscle tissue disease|myopathy|muscular disease|musculoskeletal system disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	autosomal genetic disease	0.04163	0.56207	1	0	1		autosomal genetic disease|monogenic disease|genetic disease|autosomal recessive disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	cardiomyopathy	0.022878	0.6286	1	0	1		cardiomyopathy|heart disease|cardiovascular system disease|intrinsic cardiomyopathy
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	disease of anatomical entity	-0.00063816	0.71663	1	0	-1	mean	disease of anatomical entity|mean|stdv|nervous system disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	nutrition disease	-0.015704	1	1	0	-1		nutrition disease|obesity|overnutrition
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	autoimmune disease of endocrine system	-0.026342	1	1	0	-1		autoimmune disease of endocrine system|graves' disease|hyperthyroidism
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	carbohydrate metabolism disease	0.037487	0.69336	1	0	1		carbohydrate metabolism disease|glucose metabolism disease|diabetes mellitus
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	arthritis	0.016211	1	1	0	1		arthritis|rheumatoid arthritis|bone inflammation disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	abetalipoproteinemia	0.031915	0.63081	1	0	1		abetalipoproteinemia|hypolipoproteinemia
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	synostosis	0.042553	0.59308	1	0	1		synostosis|craniosynostosis|dysostosis
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	blood coagulation disease	0.055179	0.34842	1	0	1		blood coagulation disease|inherited blood coagulation disease|thrombophilia
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	adolescence-adult electroclinical syndrome	-0.026342	1	1	0	-1		adolescence-adult electroclinical syndrome|juvenile myoclonic epilepsy
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	sex differentiation disease	-0.015704	1	1	0	-1		sex differentiation disease|pseudohermaphroditism
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	disease of cellular proliferation	0.058764	0.48067	1	0	1		disease of cellular proliferation|cancer
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	hypersensitivity reaction type ii disease	0.0055724	1	1	0	1		hypersensitivity reaction type ii disease|hypersensitivity reaction disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	connective tissue disease	0.059296	0.53005	1	0	1		connective tissue disease|bone disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	artery disease	-0.074818	0.087169	1	0	-1		artery disease|vascular disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	reproductive system disease	0.0055724	1	1	0	1		reproductive system disease|gonadal disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	dilated cardiomyopathy	0.031915	0.62632	1	0	1		dilated cardiomyopathy
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	central nervous system disease	-0.17012	0.02208	1	0	-1		central nervous system disease|neurodegenerative disease
+DISEASES Curated Gene-Disease Assocation Evidence Scores	jensendiseasecurated	acquired metabolic disease	-0.084093	0.46	1	0	-1		acquired metabolic disease

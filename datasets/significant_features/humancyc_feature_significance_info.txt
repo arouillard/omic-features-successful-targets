@@ -1,0 +1,9 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+HumanCyc Pathways	humancyc	purine nucleotides degradation	-0.036644	0.78053	1	0	-1		purine nucleotides degradation|adenosine nucleotides degradation|urate biosynthesis/inosine 5'-phosphate degradation
+HumanCyc Pathways	humancyc	mean	-0.0036786	0.18641	1	0	-1	mean	mean|stdv
+HumanCyc Pathways	humancyc	superpathway of purine nucleotide salvage	-0.048611	1	1	0	-1		superpathway of purine nucleotide salvage
+HumanCyc Pathways	humancyc	noradrenaline and adrenaline degradation	0.09375	0.57703	1	0	1		noradrenaline and adrenaline degradation
+HumanCyc Pathways	humancyc	dermatan sulfate degradation (metazoa)	0.125	0.55842	1	0	1		dermatan sulfate degradation (metazoa)
+HumanCyc Pathways	humancyc	dopamine degradation	0.09375	0.57703	1	0	1		dopamine degradation
+HumanCyc Pathways	humancyc	C20 prostanoid biosynthesis	0.09375	0.5803	1	0	1		C20 prostanoid biosynthesis
+HumanCyc Pathways	humancyc	chondroitin sulfate degradation (metazoa)	0.125	0.558	1	0	1		chondroitin sulfate degradation (metazoa)

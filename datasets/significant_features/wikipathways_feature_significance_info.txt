@@ -1,0 +1,138 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+Wikipathways Pathways	wikipathways	mean	-0.00037664	0.88713	1	0	-1	mean	mean|stdv
+Wikipathways Pathways	wikipathways	Oxidation by Cytochrome P450	-0.032252	0.10634	1	0	-1		Oxidation by Cytochrome P450
+Wikipathways Pathways	wikipathways	Type II diabetes mellitus	0.014354	0.60694	1	0	1		Type II diabetes mellitus
+Wikipathways Pathways	wikipathways	Composition of Lipid Particles	-0.0089491	1	1	0	-1		Composition of Lipid Particles
+Wikipathways Pathways	wikipathways	Biogenic Amine Synthesis	0.00062024	1	1	0	1		Biogenic Amine Synthesis
+Wikipathways Pathways	wikipathways	Monoamine Transport	0.034113	0.46718	1	0	1		Monoamine Transport
+Wikipathways Pathways	wikipathways	Nicotine Activity on Dopaminergic Neurons	0.019139	0.58534	1	0	1		Nicotine Activity on Dopaminergic Neurons
+Wikipathways Pathways	wikipathways	Dopaminergic Neurogenesis	0.00062024	1	1	0	1		Dopaminergic Neurogenesis
+Wikipathways Pathways	wikipathways	Interleukin-11 Signaling Pathway	-0.0089491	1	1	0	-1		Interleukin-11 Signaling Pathway
+Wikipathways Pathways	wikipathways	Mesodermal Commitment Pathway	-0.0089491	1	1	0	-1		Mesodermal Commitment Pathway
+Wikipathways Pathways	wikipathways	Integrated Breast Cancer Pathway	0.019759	0.69052	1	0	1		Integrated Breast Cancer Pathway
+Wikipathways Pathways	wikipathways	Hematopoietic Stem Cell Differentiation	0.033493	0.3498	1	0	1		Hematopoietic Stem Cell Differentiation
+Wikipathways Pathways	wikipathways	Hypothetical Network for Drug Addiction	-0.013114	0.63728	1	0	-1		Hypothetical Network for Drug Addiction
+Wikipathways Pathways	wikipathways	Secretion of Hydrochloric Acid in Parietal Cells	0.023923	0.37474	1	0	1		Secretion of Hydrochloric Acid in Parietal Cells
+Wikipathways Pathways	wikipathways	GPCRs, Class B Secretin-like	0.019759	0.69173	1	0	1		GPCRs, Class B Secretin-like
+Wikipathways Pathways	wikipathways	Metapathway biotransformation	-0.022683	0.58758	1	0	-1		Metapathway biotransformation
+Wikipathways Pathways	wikipathways	Aryl Hydrocarbon Receptor	0.033493	0.35333	1	0	1		Aryl Hydrocarbon Receptor
+Wikipathways Pathways	wikipathways	Selenium Micronutrient Network	-0.025607	0.55515	1	0	-1		Selenium Micronutrient Network
+Wikipathways Pathways	wikipathways	Trans-sulfuration and one carbon metabolism	-0.0089491	1	1	0	-1		Trans-sulfuration and one carbon metabolism
+Wikipathways Pathways	wikipathways	Nuclear Receptors in Lipid Metabolism and Toxicity	0.014974	0.70012	1	0	1		Nuclear Receptors in Lipid Metabolism and Toxicity
+Wikipathways Pathways	wikipathways	Ovarian Infertility Genes	-0.013114	0.63576	1	0	-1		Ovarian Infertility Genes
+Wikipathways Pathways	wikipathways	TNF alpha Signaling Pathway	-0.045986	0.061079	1	0	-1		TNF alpha Signaling Pathway
+Wikipathways Pathways	wikipathways	Osteoblast Signaling	0.019139	0.58202	1	0	1		Osteoblast Signaling
+Wikipathways Pathways	wikipathways	EGF/EGFR Signaling Pathway	-0.017898	0.60755	1	0	-1		EGF/EGFR Signaling Pathway
+Wikipathways Pathways	wikipathways	Signaling Pathways in Glioblastoma	0.0054049	1	1	0	1		Signaling Pathways in Glioblastoma
+Wikipathways Pathways	wikipathways	Apoptosis-related network due to altered Notch3 in ovarian cancer	-0.045986	0.060519	1	0	-1		Apoptosis-related network due to altered Notch3 in ovarian cancer
+Wikipathways Pathways	wikipathways	TGF-beta Signaling Pathway	-0.041201	0.10159	1	0	-1		TGF-beta Signaling Pathway
+Wikipathways Pathways	wikipathways	TGF-beta Receptor Signaling	0.019139	0.58454	1	0	1		TGF-beta Receptor Signaling
+Wikipathways Pathways	wikipathways	IL-6 signaling pathway	0.014354	0.60696	1	0	1		IL-6 signaling pathway
+Wikipathways Pathways	wikipathways	TSLP Signaling Pathway	0.0054049	1	1	0	1		TSLP Signaling Pathway
+Wikipathways Pathways	wikipathways	TCR Signaling Pathway	-0.0083289	1	1	0	-1		TCR Signaling Pathway
+Wikipathways Pathways	wikipathways	Effects of Nitric Oxide	0.014354	0.60666	1	0	1		Effects of Nitric Oxide
+Wikipathways Pathways	wikipathways	Prostaglandin Synthesis and Regulation	0.024544	0.48139	1	0	1		Prostaglandin Synthesis and Regulation
+Wikipathways Pathways	wikipathways	Monoamine GPCRs	0.062821	0.13552	1	0	1		Monoamine GPCRs
+Wikipathways Pathways	wikipathways	GPCRs, Class C Metabotropic glutamate, pheromone	-0.0089491	1	1	0	-1		GPCRs, Class C Metabotropic glutamate, pheromone
+Wikipathways Pathways	wikipathways	Complement and Coagulation Cascades	0.08134	0.054639	1	0	1		Complement and Coagulation Cascades
+Wikipathways Pathways	wikipathways	Arrhythmogenic Right Ventricular Cardiomyopathy	-0.0041645	1	1	0	-1		Arrhythmogenic Right Ventricular Cardiomyopathy
+Wikipathways Pathways	wikipathways	Small Ligand GPCRs	0.033493	0.3518	1	0	1		Small Ligand GPCRs
+Wikipathways Pathways	wikipathways	SREBP signalling	0.00062024	1	1	0	1		SREBP signalling
+Wikipathways Pathways	wikipathways	Ectoderm Differentiation	-0.0089491	1	1	0	-1		Ectoderm Differentiation
+Wikipathways Pathways	wikipathways	Endoderm Differentiation	-0.027468	0.18798	1	0	-1		Endoderm Differentiation
+Wikipathways Pathways	wikipathways	GPCRs, Other	0.07177	0.04565	1	0	1		GPCRs, Other
+Wikipathways Pathways	wikipathways	Nucleotide Metabolism	0.014354	0.60687	1	0	1		Nucleotide Metabolism
+Wikipathways Pathways	wikipathways	Primary Focal Segmental Glomerulosclerosis FSGS	0.019139	0.5858	1	0	1		Primary Focal Segmental Glomerulosclerosis FSGS
+Wikipathways Pathways	wikipathways	Type II interferon signaling (IFNG)	0.0054049	1	1	0	1		Type II interferon signaling (IFNG)
+Wikipathways Pathways	wikipathways	Overview of nanoparticle effects	-0.013114	0.63645	1	0	-1		Overview of nanoparticle effects
+Wikipathways Pathways	wikipathways	TSH signaling pathway	-0.027468	0.18998	1	0	-1		TSH signaling pathway
+Wikipathways Pathways	wikipathways	Blood Clotting Cascade	0.047847	0.12758	1	0	1		Blood Clotting Cascade
+Wikipathways Pathways	wikipathways	Regulation of Actin Cytoskeleton	-0.002924	1	1	0	-1		Regulation of Actin Cytoskeleton
+Wikipathways Pathways	wikipathways	Nanoparticle-mediated activation of receptor signaling	-0.032252	0.10842	1	0	-1		Nanoparticle-mediated activation of receptor signaling
+Wikipathways Pathways	wikipathways	Kit receptor signaling pathway	-0.027468	0.18899	1	0	-1		Kit receptor signaling pathway
+Wikipathways Pathways	wikipathways	Wnt Signaling Pathway Netpath	-0.0089491	1	1	0	-1		Wnt Signaling Pathway Netpath
+Wikipathways Pathways	wikipathways	Leptin signaling pathway	0.014974	0.6996	1	0	1		Leptin signaling pathway
+Wikipathways Pathways	wikipathways	Rac1/Pak1/p38/MMP-2 pathway	-0.027468	0.1885	1	0	-1		Rac1/Pak1/p38/MMP-2 pathway
+Wikipathways Pathways	wikipathways	Extracellular vesicle-mediated signaling in recipient cells	-0.0041645	1	1	0	-1		Extracellular vesicle-mediated signaling in recipient cells
+Wikipathways Pathways	wikipathways	Inflammatory Response Pathway	-0.017898	0.60647	1	0	-1		Inflammatory Response Pathway
+Wikipathways Pathways	wikipathways	Structural Pathway of Interleukin 1 (IL-1)	-0.0089491	1	1	0	-1		Structural Pathway of Interleukin 1 (IL-1)
+Wikipathways Pathways	wikipathways	AGE/RAGE pathway	-0.026847	0.39729	1	0	-1		AGE/RAGE pathway
+Wikipathways Pathways	wikipathways	DNA Damage Response (only ATM dependent)	-0.0041645	1	1	0	-1		DNA Damage Response (only ATM dependent)
+Wikipathways Pathways	wikipathways	Matrix Metalloproteinases	-0.0041645	1	1	0	-1		Matrix Metalloproteinases
+Wikipathways Pathways	wikipathways	Tryptophan metabolism	-0.041201	0.10321	1	0	-1		Tryptophan metabolism
+Wikipathways Pathways	wikipathways	One Carbon Metabolism	-0.0041645	1	1	0	-1		One Carbon Metabolism
+Wikipathways Pathways	wikipathways	Eicosanoid Synthesis	0.00062024	1	1	0	1		Eicosanoid Synthesis
+Wikipathways Pathways	wikipathways	Calcium Regulation in the Cardiac Cell	0.01081	1	1	0	1		Calcium Regulation in the Cardiac Cell
+Wikipathways Pathways	wikipathways	BDNF signaling pathway	-0.022063	0.69558	1	0	-1		BDNF signaling pathway
+Wikipathways Pathways	wikipathways	Retinoblastoma (RB) in Cancer	0.00062024	1	1	0	1		Retinoblastoma (RB) in Cancer
+Wikipathways Pathways	wikipathways	Melatonin metabolism and effects	0.014354	0.60749	1	0	1		Melatonin metabolism and effects
+Wikipathways Pathways	wikipathways	Myometrial Relaxation and Contraction Pathways	-0.0035442	1	1	0	-1		Myometrial Relaxation and Contraction Pathways
+Wikipathways Pathways	wikipathways	Differentiation Pathway	0.014974	0.69842	1	0	1		Differentiation Pathway
+Wikipathways Pathways	wikipathways	NOTCH1 regulation of human endothelial cell calcification	0.019139	0.58159	1	0	1		NOTCH1 regulation of human endothelial cell calcification
+Wikipathways Pathways	wikipathways	Pathogenic Escherichia coli infection	0.014354	0.61039	1	0	1		Pathogenic Escherichia coli infection
+Wikipathways Pathways	wikipathways	Parkinsons Disease Pathway	-0.0089491	1	1	0	-1		Parkinsons Disease Pathway
+Wikipathways Pathways	wikipathways	Nucleotide GPCRs	-0.0041645	1	1	0	-1		Nucleotide GPCRs
+Wikipathways Pathways	wikipathways	Differentiation of white and brown adipocyte	-0.0089491	1	1	0	-1		Differentiation of white and brown adipocyte
+Wikipathways Pathways	wikipathways	Vitamin A and Carotenoid Metabolism	-0.017898	0.60705	1	0	-1		Vitamin A and Carotenoid Metabolism
+Wikipathways Pathways	wikipathways	SREBF and miR33 in cholesterol and lipid homeostasis	0.014354	0.6093	1	0	1		SREBF and miR33 in cholesterol and lipid homeostasis
+Wikipathways Pathways	wikipathways	AMPK Signaling	0.023923	0.37311	1	0	1		AMPK Signaling
+Wikipathways Pathways	wikipathways	Dopamine metabolism	0.0054049	1	1	0	1		Dopamine metabolism
+Wikipathways Pathways	wikipathways	Serotonin Transporter Activity	0.019139	0.58228	1	0	1		Serotonin Transporter Activity
+Wikipathways Pathways	wikipathways	Circadian rythm related genes	0.049087	0.26684	1	0	1		Circadian rythm related genes
+Wikipathways Pathways	wikipathways	Mecp2 and Associated Rett Syndrome	0.019139	0.5833	1	0	1		Mecp2 and Associated Rett Syndrome
+Wikipathways Pathways	wikipathways	IL1 and megakaryotyces in obesity	-0.031632	0.3658	1	0	-1		IL1 and megakaryotyces in obesity
+Wikipathways Pathways	wikipathways	TWEAK Signaling Pathway	-0.027468	0.18927	1	0	-1		TWEAK Signaling Pathway
+Wikipathways Pathways	wikipathways	Focal Adhesion	-0.082403	0.01955	1	0	-1		Focal Adhesion
+Wikipathways Pathways	wikipathways	Amyotrophic lateral sclerosis (ALS)	-0.064505	0.01778	1	0	-1		Amyotrophic lateral sclerosis (ALS)
+Wikipathways Pathways	wikipathways	MAPK Signaling Pathway	-0.040581	0.24582	1	0	-1		MAPK Signaling Pathway
+Wikipathways Pathways	wikipathways	IL-2 Signaling Pathway	-0.0089491	1	1	0	-1		IL-2 Signaling Pathway
+Wikipathways Pathways	wikipathways	IL-3 Signaling Pathway	-0.027468	0.1904	1	0	-1		IL-3 Signaling Pathway
+Wikipathways Pathways	wikipathways	B Cell Receptor Signaling Pathway	-0.050771	0.02866	1	0	-1		B Cell Receptor Signaling Pathway
+Wikipathways Pathways	wikipathways	Neural Crest Differentiation	-0.017898	0.60537	1	0	-1		Neural Crest Differentiation
+Wikipathways Pathways	wikipathways	Apoptosis	-0.0089491	1	1	0	-1		Apoptosis
+Wikipathways Pathways	wikipathways	Spinal Cord Injury	0.016835	0.79144	1	0	1		Spinal Cord Injury
+Wikipathways Pathways	wikipathways	G Protein Signaling Pathways	-0.0089491	1	1	0	-1		G Protein Signaling Pathways
+Wikipathways Pathways	wikipathways	Senescence and Autophagy in Cancer	0.020379	0.74093	1	0	1		Senescence and Autophagy in Cancer
+Wikipathways Pathways	wikipathways	Oxidative Stress	-0.05972	0.03437	1	0	-1		Oxidative Stress
+Wikipathways Pathways	wikipathways	Adipogenesis	0.01081	1	1	0	1		Adipogenesis
+Wikipathways Pathways	wikipathways	Synaptic Vesicle Pathway	0.014354	0.60709	1	0	1		Synaptic Vesicle Pathway
+Wikipathways Pathways	wikipathways	NRF2 pathway	-0.017278	0.70008	1	0	-1		NRF2 pathway
+Wikipathways Pathways	wikipathways	Folate Metabolism	-0.010926	0.8269	1	0	-1		Folate Metabolism|Vitamin B12 Metabolism
+Wikipathways Pathways	wikipathways	Regulation of toll-like receptor signaling pathway	0.008173	0.8265	1	0	1		Regulation of toll-like receptor signaling pathway|Toll-like Receptor Signaling Pathway
+Wikipathways Pathways	wikipathways	Bladder Cancer	0.023923	0.37394	1	0	1		Bladder Cancer
+Wikipathways Pathways	wikipathways	MicroRNAs in cardiomyocyte hypertrophy	-0.0035442	1	1	0	-1		MicroRNAs in cardiomyocyte hypertrophy
+Wikipathways Pathways	wikipathways	Hair Follicle Development: Induction (Part 1 of 3)	0.014354	0.60985	1	0	1		Hair Follicle Development: Induction (Part 1 of 3)
+Wikipathways Pathways	wikipathways	Wnt Signaling Pathway and Pluripotency	-0.0089491	1	1	0	-1		Wnt Signaling Pathway and Pluripotency
+Wikipathways Pathways	wikipathways	Endochondral Ossification	-0.002924	1	1	0	-1		Endochondral Ossification
+Wikipathways Pathways	wikipathways	Cardiac Hypertrophic Response	-0.017898	0.60592	1	0	-1		Cardiac Hypertrophic Response
+Wikipathways Pathways	wikipathways	Physiological and Pathological Hypertrophy  of the Heart	-0.032252	0.10852	1	0	-1		Physiological and Pathological Hypertrophy  of the Heart
+Wikipathways Pathways	wikipathways	Integrated Pancreatic Cancer Pathway	-0.057859	0.26883	1	0	-1		Integrated Pancreatic Cancer Pathway
+Wikipathways Pathways	wikipathways	Cytokines and Inflammatory Response	0.024544	0.47691	1	0	1		Cytokines and Inflammatory Response
+Wikipathways Pathways	wikipathways	Allograft Rejection	0.066986	0.081769	1	0	1		Allograft Rejection
+Wikipathways Pathways	wikipathways	Alzheimers Disease	-0.045366	0.2208	1	0	-1		Alzheimers Disease
+Wikipathways Pathways	wikipathways	Endothelin Pathways	0.028708	0.34852	1	0	1		Endothelin Pathways
+Wikipathways Pathways	wikipathways	FSH signaling pathway	-0.027468	0.18633	1	0	-1		FSH signaling pathway
+Wikipathways Pathways	wikipathways	Corticotropin-releasing hormone	-0.050151	0.090549	1	0	-1		Corticotropin-releasing hormone
+Wikipathways Pathways	wikipathways	Peptide GPCRs	0.053872	0.26261	1	0	1		Peptide GPCRs
+Wikipathways Pathways	wikipathways	ACE Inhibitor Pathway	0.038278	0.21174	1	0	1		ACE Inhibitor Pathway
+Wikipathways Pathways	wikipathways	Copper homeostasis	-0.055556	0.0084199	1	0	-1		Copper homeostasis
+Wikipathways Pathways	wikipathways	Aryl Hydrocarbon Receptor Pathway	0.038278	0.21107	1	0	1		Aryl Hydrocarbon Receptor Pathway
+Wikipathways Pathways	wikipathways	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis	0.019139	0.58839	1	0	1		Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis
+Wikipathways Pathways	wikipathways	Drug Induction of Bile Acid Pathway	0.014354	0.60891	1	0	1		Drug Induction of Bile Acid Pathway
+Wikipathways Pathways	wikipathways	Transcription factor regulation in adipogenesis	0.023923	0.37359	1	0	1		Transcription factor regulation in adipogenesis
+Wikipathways Pathways	wikipathways	IL-5 Signaling Pathway	-0.0089491	1	1	0	-1		IL-5 Signaling Pathway
+Wikipathways Pathways	wikipathways	Oncostatin M Signaling Pathway	-0.041201	0.10348	1	0	-1		Oncostatin M Signaling Pathway
+Wikipathways Pathways	wikipathways	Interferon type I signaling pathways	-0.0041645	1	1	0	-1		Interferon type I signaling pathways
+Wikipathways Pathways	wikipathways	Androgen receptor signaling pathway	0.014354	0.60881	1	0	1		Androgen receptor signaling pathway
+Wikipathways Pathways	wikipathways	Insulin Signaling	-0.022683	0.58776	1	0	-1		Insulin Signaling
+Wikipathways Pathways	wikipathways	Integrin-mediated Cell Adhesion	-0.050771	0.02828	1	0	-1		Integrin-mediated Cell Adhesion
+Wikipathways Pathways	wikipathways	Cardiac Progenitor Differentiation	0.00062024	1	1	0	1		Cardiac Progenitor Differentiation
+Wikipathways Pathways	wikipathways	RANKL/RANK Signaling Pathway	-0.041201	0.10531	1	0	-1		RANKL/RANK Signaling Pathway
+Wikipathways Pathways	wikipathways	Angiogenesis	-0.0041645	1	1	0	-1		Angiogenesis
+Wikipathways Pathways	wikipathways	Hypertrophy Model	0.014354	0.60582	1	0	1		Hypertrophy Model
+Wikipathways Pathways	wikipathways	SIDS Susceptibility Pathways	-0.029151	0.62093	1	0	-1		SIDS Susceptibility Pathways
+Wikipathways Pathways	wikipathways	TOR Signaling	0.014354	0.6085	1	0	1		TOR Signaling
+Wikipathways Pathways	wikipathways	Statin Pathway	-0.013114	0.6348	1	0	-1		Statin Pathway
+Wikipathways Pathways	wikipathways	Nuclear Receptors	0.0060252	1	1	0	1		Nuclear Receptors
+Wikipathways Pathways	wikipathways	IL-1 signaling pathway	-0.027468	0.18875	1	0	-1		IL-1 signaling pathway
+Wikipathways Pathways	wikipathways	GPCRs, Class A Rhodopsin-like	0.15559	0.01132	1	0	1		GPCRs, Class A Rhodopsin-like

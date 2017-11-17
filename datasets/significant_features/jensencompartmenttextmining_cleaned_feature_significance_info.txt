@@ -1,0 +1,546 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpha3-beta1 complex	-0.24612	0.00028	0.97942	0	-1		integrin alpha3-beta1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpha4-beta1 complex	-0.22601	0.00090999	0.97942	0	-1		integrin alpha4-beta1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ige b cell receptor complex	-0.11631	0.00204	0.97942	0	-1		ige b cell receptor complex|ige immunoglobulin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	plastid part	-0.19222	0.00061999	0.97942	0	-1		plastid part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpha4-beta7 complex	-0.15198	0.00209	0.97942	0	-1		integrin alpha4-beta7 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alphal-beta2 complex	-0.14736	0.00193	0.97942	0	-1		integrin alphal-beta2 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chloroplast part	-0.14965	0.00201	0.97942	0	-1		chloroplast part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytoneme	-0.095542	0.002	0.97942	0	-1		cytoneme
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mean	-0.0051182	0.55364	1	0	-1	mean	mean|cellular_component|cell part|cell|stdv|intracellular part|organelle|intracellular organelle|intracellular|macromolecular complex|organelle part|intracellular organelle part|protein complex|cytoplasm|membrane|membrane-bounded organelle|intracellular membrane-bounded organelle|non-membrane-bounded organelle|intracellular non-membrane-bounded organelle|nucleus|cytoplasmic part|membrane part|cell periphery|cytoskeleton|cytoskeletal part|plasma membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	hyaluranon cable	0.0075281	1	1	0	1		hyaluranon cable
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	plasma membrane-derived chromatophore	0.0034519	0.94941	1	0	1		plasma membrane-derived chromatophore
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	secondary cell wall	0.023678	0.7321	1	0	1		secondary cell wall
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dendritic branch point	0.0001573	1	1	0	1		dendritic branch point
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ciliary pocket	-0.025213	0.25531	1	0	-1		ciliary pocket
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	kinetoplast	-0.090118	0.02968	1	0	-1		kinetoplast
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	autolysosome	0.024814	0.73349	1	0	1		autolysosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nlrp3 inflammasome complex	-0.025931	0.69858	1	0	-1		nlrp3 inflammasome complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	capsomere	-0.0050977	0.85404	1	0	-1		capsomere
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear envelope	-0.011224	0.87489	1	0	-1		nuclear envelope
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ciliary membrane	0.016338	0.72547	1	0	1		ciliary membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	phosphatidylinositol 3-kinase complex, class iii	0.0098088	0.86685	1	0	1		phosphatidylinositol 3-kinase complex, class iii
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	tricarboxylic acid cycle enzyme complex	-0.02663	0.12719	1	0	-1		tricarboxylic acid cycle enzyme complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitosome	-0.041702	0.2188	1	0	-1		mitosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	annulate lamellae	0.014973	0.59812	1	0	1		annulate lamellae
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitochondrial respiratory chain complex iii	-0.017846	0.86566	1	0	-1		mitochondrial respiratory chain complex iii
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ripoptosome	-0.018766	0.73308	1	0	-1		ripoptosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	bcl-2 family protein complex	-0.024076	0.060619	1	0	-1		bcl-2 family protein complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nadph oxidase complex	-0.0068443	0.88912	1	0	-1		nadph oxidase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytochrome b6f complex	-0.045652	0.03436	1	0	-1		cytochrome b6f complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	biofilm matrix	0.00082752	1	1	0	1		biofilm matrix
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	terminal loop	-0.0016195	1	1	0	-1		terminal loop
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	rough endoplasmic reticulum	0.050986	0.51631	1	0	1		rough endoplasmic reticulum
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	root hair	0.02755	0.73142	1	0	1		root hair
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	unconventional myosin complex	-0.020348	0.3887	1	0	-1		unconventional myosin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	troponin complex	-0.028232	0.25375	1	0	-1		troponin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	phosphatidylinositol 3-kinase complex	0.015019	0.69486	1	0	1		phosphatidylinositol 3-kinase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear inner membrane	-0.017296	0.25421	1	0	-1		nuclear inner membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	membrane stack	0.017074	0.597	1	0	1		membrane stack
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	iridosome	0.035969	0.45136	1	0	1		iridosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	osmiophilic body	0.014496	0.59749	1	0	1		osmiophilic body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alphad-beta2 complex	-0.047456	0.084559	1	0	-1		integrin alphad-beta2 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sorting endosome	0.018097	0.59777	1	0	1		sorting endosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	capsule	-0.004906	0.98619	1	0	-1		capsule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	granular vesicle	0.034023	0.37514	1	0	1		granular vesicle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	climbing fiber	0.013482	0.73893	1	0	1		climbing fiber
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	paraspeckles	0.020364	0.52485	1	0	1		paraspeckles
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	late endosome membrane	0.027562	0.59574	1	0	1		late endosome membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	transforming growth factor beta activated kinase 1 complex	-0.022122	0.51991	1	0	-1		transforming growth factor beta activated kinase 1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ikappab kinase complex	-0.023019	0.69813	1	0	-1		ikappab kinase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	interferon regulatory factor complex	0.012935	0.85156	1	0	1		interferon regulatory factor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mediator complex	0.023917	0.50302	1	0	1		mediator complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	viral integration complex	-0.062262	0.03403	1	0	-1		viral integration complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	y chromosome	-0.0016302	0.91744	1	0	-1		y chromosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear lamina	-0.023592	0.12256	1	0	-1		nuclear lamina
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pronucleus	0.0069264	0.78917	1	0	1		pronucleus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glycine-gated chloride channel complex	-0.0025694	0.91666	1	0	-1		glycine-gated chloride channel complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	smooth muscle contractile fiber	-4.6512e-05	1	1	0	-1		smooth muscle contractile fiber
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	somatic spine	-0.013442	0.68632	1	0	-1		somatic spine
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	rhoptry	-0.063324	0.054869	1	0	-1		rhoptry
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	interleukin-4 receptor complex	0.023004	0.59583	1	0	1		interleukin-4 receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	meprin a complex	0.024601	0.49063	1	0	1		meprin a complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	polyketide synthase complex	-0.031049	0.26991	1	0	-1		polyketide synthase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	periplasmic flagellum	-0.046699	0.10984	1	0	-1		periplasmic flagellum
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	shc-grb2-sos complex	-0.0093708	0.83621	1	0	-1		shc-grb2-sos complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	aryl hydrocarbon receptor complex	0.022845	0.73031	1	0	1		aryl hydrocarbon receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	insulin-responsive compartment	0.017228	0.58932	1	0	1		insulin-responsive compartment
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	tetraspanin-enriched microdomain	-0.071892	0.02018	1	0	-1		tetraspanin-enriched microdomain
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	follicle-stimulating hormone complex	-0.011234	1	1	0	-1		follicle-stimulating hormone complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	smooth endoplasmic reticulum lumen	0.026601	0.59534	1	0	1		smooth endoplasmic reticulum lumen
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	checkpoint clamp complex	0.043946	0.28044	1	0	1		checkpoint clamp complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alphaiib-beta3 complex	-0.032704	0.52668	1	0	-1		integrin alphaiib-beta3 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpha6-beta4 complex	-0.010892	0.67101	1	0	-1		integrin alpha6-beta4 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	lamina reticularis	-0.032313	0.14938	1	0	-1		lamina reticularis
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	polytene chromosome	-0.0022907	0.86552	1	0	-1		polytene chromosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	origin recognition complex	-0.033464	0.083519	1	0	-1		origin recognition complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	rave complex	0.0031709	0.89662	1	0	1		rave complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	microtubule organizing center attachment site	0.050851	0.27026	1	0	1		microtubule organizing center attachment site
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitotic checkpoint complex	0.033636	0.52285	1	0	1		mitotic checkpoint complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	anchored component of plasma membrane	0.021422	0.55191	1	0	1		anchored component of plasma membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	microneme	-0.015391	0.8116	1	0	-1		microneme
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	interleukin-6 receptor complex	0.0071505	0.95639	1	0	1		interleukin-6 receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	photoreceptor inner segment	-0.00029134	1	1	0	-1		photoreceptor inner segment
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glutamyl-trna(gln) amidotransferase complex	0.029182	0.43263	1	0	1		glutamyl-trna(gln) amidotransferase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	transforming growth factor beta1-type ii receptor complex	0.0018382	1	1	0	1		transforming growth factor beta1-type ii receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	apolipoprotein b mrna editing enzyme complex	-0.035949	0.40549	1	0	-1		apolipoprotein b mrna editing enzyme complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	tubulobulbar complex	-0.0022351	0.87025	1	0	-1		tubulobulbar complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	aster	0.022004	0.49265	1	0	1		aster
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	central vacuole	-0.0074283	0.8642	1	0	-1		central vacuole
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	xanthophore	0.056016	0.35007	1	0	1		xanthophore
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pilus	-0.12068	0.11381	1	0	-1		pilus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	hydrogenosome	-0.078969	0.04766	1	0	-1		hydrogenosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glyoxysome	-0.042625	0.22461	1	0	-1		glyoxysome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	respiratory chain complex iii	-0.029724	0.51918	1	0	-1		respiratory chain complex iii
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytochrome complex	-0.016027	0.16052	1	0	-1		cytochrome complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	succinate dehydrogenase complex	0.0031079	0.78962	1	0	1		succinate dehydrogenase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	death-inducing signaling complex	-0.051668	0.12605	1	0	-1		death-inducing signaling complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	light-harvesting complex	-0.068486	0.11359	1	0	-1		light-harvesting complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	thylakoid light-harvesting complex	-0.095083	0.04651	1	0	-1		thylakoid light-harvesting complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	bleb	-0.097485	0.02633	1	0	-1		bleb
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glial cell projection	-0.0052676	0.91839	1	0	-1		glial cell projection
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chaperonin-containing t-complex	-0.046276	0.2188	1	0	-1		chaperonin-containing t-complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	apoplast	-0.054804	0.090749	1	0	-1		apoplast
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	euchromatin	-0.0025507	0.86622	1	0	-1		euchromatin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	axon hillock	0.048017	0.255	1	0	1		axon hillock
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	swi/snf complex	0.018775	0.73037	1	0	1		swi/snf complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	z chromosome	0.0024622	0.93399	1	0	1		z chromosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	microfibril	-0.018845	0.69342	1	0	-1		microfibril
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alphax-beta2 complex	-0.0061528	1	1	0	-1		integrin alphax-beta2 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	tumor necrosis factor receptor superfamily complex	-0.10069	0.16029	1	0	-1		tumor necrosis factor receptor superfamily complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	heavy chain immunoglobulin complex	-0.030344	0.15082	1	0	-1		heavy chain immunoglobulin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	igg b cell receptor complex	-0.014725	0.72481	1	0	-1		igg b cell receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	virion membrane	-0.029635	0.1206	1	0	-1		virion membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	retrotransposon nucleocapsid	-0.051271	0.33932	1	0	-1		retrotransposon nucleocapsid
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	endoplasmic reticulum-golgi intermediate compartment	0.001864	1	1	0	1		endoplasmic reticulum-golgi intermediate compartment
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	intermediate-density lipoprotein particle	-0.0058039	0.94216	1	0	-1		intermediate-density lipoprotein particle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chylomicron remnant	0.018594	0.78933	1	0	1		chylomicron remnant
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	perinuclear region of cytoplasm	0.018506	0.66907	1	0	1		perinuclear region of cytoplasm
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	neurosecretory vesicle	0.020566	0.55347	1	0	1		neurosecretory vesicle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	parallel fiber	-0.020843	0.65891	1	0	-1		parallel fiber
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	c-fiber	0.14752	0.15043	1	0	1		c-fiber
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	varicosity	-0.01772	0.73112	1	0	-1		varicosity
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pericellular basket	-0.019933	0.86699	1	0	-1		pericellular basket
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	presynaptic membrane	0.024612	0.56526	1	0	1		presynaptic membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	intercalated disc	0.010929	0.9548	1	0	1		intercalated disc
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	u1 snrnp	-0.008625	0.86599	1	0	-1		u1 snrnp
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	interchromatin granule	0.029938	0.43126	1	0	1		interchromatin granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	rits complex	-0.012828	0.86638	1	0	-1		rits complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear heterochromatin	0.0027904	0.88519	1	0	1		nuclear heterochromatin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	eukaryotic translation initiation factor 2 complex	-0.0074173	0.86752	1	0	-1		eukaryotic translation initiation factor 2 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	eukaryotic translation initiation factor 2b complex	0.026516	0.49327	1	0	1		eukaryotic translation initiation factor 2b complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	tsc1-tsc2 complex	-0.017393	0.80084	1	0	-1		tsc1-tsc2 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	lipopolysaccharide receptor complex	-0.02576	0.53359	1	0	-1		lipopolysaccharide receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	interleukin-1 receptor complex	0.030698	0.73024	1	0	1		interleukin-1 receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	enhanceosome	0.0051928	0.83396	1	0	1		enhanceosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	protein acetyltransferase complex	0.004355	0.69358	1	0	1		protein acetyltransferase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	extrachromosomal dna	0.0029383	1	1	0	1		extrachromosomal dna
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	large latent transforming growth factor-beta complex	0.0026182	1	1	0	1		large latent transforming growth factor-beta complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpha1-beta1 complex	-0.030476	0.37281	1	0	-1		integrin alpha1-beta1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	symbiosome	0.016942	0.5991	1	0	1		symbiosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear envelope lumen	0.019477	0.55159	1	0	1		nuclear envelope lumen
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	excitatory synapse	-0.067507	0.33688	1	0	-1		excitatory synapse
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	zymogen granule	0.051442	0.37818	1	0	1		zymogen granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	preribosome	-0.010033	0.086009	1	0	-1		preribosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	histone locus body	-0.00099806	0.8959	1	0	-1		histone locus body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrator complex	0.0041773	0.86473	1	0	1		integrator complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pcg protein complex	0.0048753	0.82936	1	0	1		pcg protein complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	intracellular immature spore	-0.0078999	0.89552	1	0	-1		intracellular immature spore
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	horsetail-astral microtubule array	0.024093	0.73243	1	0	1		horsetail-astral microtubule array
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nodal receptor complex	0.02038	0.7314	1	0	1		nodal receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	acrosomal vesicle	-0.05788	0.14361	1	0	-1		acrosomal vesicle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitochondrial respiratory chain complex i	-0.0020921	1	1	0	-1		mitochondrial respiratory chain complex i
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dendrite cytoplasm	-0.005282	0.86642	1	0	-1		dendrite cytoplasm
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	costamere	0.0058459	0.86573	1	0	1		costamere
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cornified envelope	0.031314	0.33433	1	0	1		cornified envelope
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	perinuclear endoplasmic reticulum	0.017279	0.73228	1	0	1		perinuclear endoplasmic reticulum
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	starch grain	-0.1043	0.0099499	1	0	-1		starch grain
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	platelet alpha granule	0.054242	0.38666	1	0	1		platelet alpha granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	organelle subcompartment	-0.079165	0.061939	1	0	-1		organelle subcompartment
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	viral nucleocapsid	-0.0627	0.17337	1	0	-1		viral nucleocapsid
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pinosome	0.023748	0.52538	1	0	1		pinosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	food vacuole	0.013569	0.75938	1	0	1		food vacuole
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	vacuolar lumen	0.017795	0.73033	1	0	1		vacuolar lumen
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cis-golgi network	0.030477	0.42736	1	0	1		cis-golgi network
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	crystalloid	0.030049	0.48204	1	0	1		crystalloid
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	axon collateral	-0.038585	0.45107	1	0	-1		axon collateral
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	basolateral plasma membrane	0.075016	0.13684	1	0	1		basolateral plasma membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	plasma membrane region	0.038999	0.055019	1	0	1		plasma membrane region
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	spliceosomal complex	-0.034978	0.061589	1	0	-1		spliceosomal complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	rna cap binding complex	0.014875	0.59935	1	0	1		rna cap binding complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	smooth endoplasmic reticulum membrane	-0.01401	0.73131	1	0	-1		smooth endoplasmic reticulum membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	i-kappab/nf-kappab complex	-0.0021873	0.95551	1	0	-1		i-kappab/nf-kappab complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	er membrane protein complex	0.033039	0.45317	1	0	1		er membrane protein complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	astrocyte projection	-0.014183	0.68742	1	0	-1		astrocyte projection
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	spindle pole body	-0.031418	0.082689	1	0	-1		spindle pole body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	spindle pole	-0.021384	0.39613	1	0	-1		spindle pole
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	fibrinogen complex	0.091054	0.6214	1	0	1		fibrinogen complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	heterochromatin	-0.019416	0.63141	1	0	-1		heterochromatin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sperm part	-0.026825	0.03256	1	0	-1		sperm part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	t-tubule	0.072763	0.23186	1	0	1		t-tubule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dendritic shaft	-0.088419	0.04875	1	0	-1		dendritic shaft
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear body	-0.025113	0.63495	1	0	-1		nuclear body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pericentric heterochromatin	0.01596	0.52088	1	0	1		pericentric heterochromatin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	condensed chromosome	-0.033519	0.36816	1	0	-1		condensed chromosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dna repair complex	-0.0072633	0.054649	1	0	-1		dna repair complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	autophagic vacuole	-0.088771	0.15555	1	0	-1		autophagic vacuole
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sarcolemma	0.036311	0.69636	1	0	1		sarcolemma
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	fibril	-0.12624	0.23841	1	0	-1		fibril
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	muscle tendon junction	-0.021917	0.68517	1	0	-1		muscle tendon junction
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	high-density lipoprotein particle	-0.084271	0.3176	1	0	-1		high-density lipoprotein particle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	phagocytic cup	-0.073968	0.02735	1	0	-1		phagocytic cup
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nucleolar part	-0.038734	0.074019	1	0	-1		nucleolar part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	gamma-secretase complex	-0.14581	0.03495	1	0	-1		gamma-secretase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	signal recognition particle receptor complex	-0.016071	0.69881	1	0	-1		signal recognition particle receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	activin receptor complex	-0.023117	0.57849	1	0	-1		activin receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pyruvate dehydrogenase complex	-0.06631	0.12248	1	0	-1		pyruvate dehydrogenase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	giant axon	0.025853	0.55008	1	0	1		giant axon
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	collagen type v trimer	-0.030568	0.46599	1	0	-1		collagen type v trimer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	interleukin-27 complex	-0.043042	0.26506	1	0	-1		interleukin-27 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dense core granule	0.057703	0.29386	1	0	1		dense core granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	neuromuscular junction	-0.034115	0.69357	1	0	-1		neuromuscular junction
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	small nuclear ribonucleoprotein complex	-0.040606	0.0481	1	0	-1		small nuclear ribonucleoprotein complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitochondrial crista	0.003239	0.97101	1	0	1		mitochondrial crista
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitochondrial permeability transition pore complex	-0.07672	0.04023	1	0	-1		mitochondrial permeability transition pore complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	microspike	-0.047607	0.04621	1	0	-1		microspike
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpha2-beta1 complex	-0.045879	0.34602	1	0	-1		integrin alpha2-beta1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	baf-type complex	0.0031292	0.73037	1	0	1		baf-type complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	transcriptionally active chromatin	-0.0078256	0.78864	1	0	-1		transcriptionally active chromatin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	granular component	-0.02014	0.25425	1	0	-1		granular component
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dense fibrillar component	-0.054828	0.083939	1	0	-1		dense fibrillar component
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	rnai effector complex	-0.0010345	0.91741	1	0	-1		rnai effector complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cul2-ring ubiquitin ligase complex	0.015306	0.59737	1	0	1		cul2-ring ubiquitin ligase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	w chromosome	-0.011805	0.75955	1	0	-1		w chromosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	rad51c-xrcc3 complex	0.015225	0.59608	1	0	1		rad51c-xrcc3 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	interleukin-2 receptor complex	0.017258	0.89592	1	0	1		interleukin-2 receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glial filament	-0.0181	0.49758	1	0	-1		glial filament
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	acetyl-coa carboxylase complex	-0.079687	0.01012	1	0	-1		acetyl-coa carboxylase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	xrcc2-rad51d complex	0.017598	0.63743	1	0	1		xrcc2-rad51d complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	exon-exon junction complex	0.019151	0.59569	1	0	1		exon-exon junction complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear outer membrane	-0.05375	0.062669	1	0	-1		nuclear outer membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	vesicle lumen	-0.0011017	1	1	0	-1		vesicle lumen
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytoplasmic microtubule	-0.00027463	0.97075	1	0	-1		cytoplasmic microtubule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nucleolar preribosome	-0.050163	0.086009	1	0	-1		nucleolar preribosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	microvillus	0.085525	0.34654	1	0	1		microvillus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mucus layer	0.04501	0.22374	1	0	1		mucus layer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cortical lewy body	0.0029935	1	1	0	1		cortical lewy body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	lewy body	-0.029153	0.48832	1	0	-1		lewy body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	organelle envelope lumen	-0.0069802	0.87824	1	0	-1		organelle envelope lumen
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nascent polypeptide-associated complex	-0.14526	0.12967	1	0	-1		nascent polypeptide-associated complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	orthogonal array	-0.018949	0.47177	1	0	-1		orthogonal array
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpha7-beta1 complex	-0.016798	0.86559	1	0	-1		integrin alpha7-beta1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytosolic proteasome complex	-0.00018443	1	1	0	-1		cytosolic proteasome complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	acidocalcisome	-0.032069	0.44926	1	0	-1		acidocalcisome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	lateral loop	0.0041253	0.78832	1	0	1		lateral loop
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sodium channel complex	-0.0043947	0.86519	1	0	-1		sodium channel complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	atp-sensitive potassium channel complex	0.033708	0.60134	1	0	1		atp-sensitive potassium channel complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	desmosome	0.0062813	0.86542	1	0	1		desmosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	collagen type ix trimer	-0.018927	0.51913	1	0	-1		collagen type ix trimer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	platelet dense granule	0.024794	0.41465	1	0	1		platelet dense granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	micronucleus	-0.0023776	1	1	0	-1		micronucleus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nexin complex	0.0024079	0.89544	1	0	1		nexin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	tertiary granule	0.012634	0.67264	1	0	1		tertiary granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chiasma	0.018972	0.6322	1	0	1		chiasma
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	fhf complex	-0.012703	0.81762	1	0	-1		fhf complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	growth hormone receptor complex	0.033124	0.59918	1	0	1		growth hormone receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	host	-0.039152	0.04738	1	0	-1		host
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	photoreceptor outer segment membrane	0.031093	0.55278	1	0	1		photoreceptor outer segment membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glycine cleavage complex	-0.031829	0.42779	1	0	-1		glycine cleavage complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	organelle membrane contact site	-0.016548	0.60247	1	0	-1		organelle membrane contact site
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	grb2-sos complex	0.034078	0.44743	1	0	1		grb2-sos complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mast cell granule	-0.020008	0.5476	1	0	-1		mast cell granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	type vi protein secretion system complex	0.019368	0.60135	1	0	1		type vi protein secretion system complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dna replication termination region	-0.023748	0.52191	1	0	-1		dna replication termination region
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cvt complex	0.028267	0.57798	1	0	1		cvt complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	type iii protein secretion system complex	-0.012166	0.8043	1	0	-1		type iii protein secretion system complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	basilar dendrite	0.0057587	0.89476	1	0	1		basilar dendrite
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	recycling endosome	0.03973	0.40584	1	0	1		recycling endosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	beta-catenin destruction complex	0.0038424	0.78924	1	0	1		beta-catenin destruction complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	inner membrane complex	-0.016982	0.54001	1	0	-1		inner membrane complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	respiratory chain complex i	-0.0070488	1	1	0	-1		respiratory chain complex i
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	apoptotic body	-0.14724	0.0178	1	0	-1		apoptotic body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dendrite terminus	-0.022522	0.062829	1	0	-1		dendrite terminus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	endoplasmic reticulum	0.10321	0.48023	1	0	1		endoplasmic reticulum
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	endoplasmic reticulum lumen	0.0010003	1	1	0	1		endoplasmic reticulum lumen
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	node of ranvier	0.021403	0.58	1	0	1		node of ranvier
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	anchoring collagen complex	-0.02785	0.46142	1	0	-1		anchoring collagen complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alphav-beta6 complex	-0.013154	0.93178	1	0	-1		integrin alphav-beta6 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	interstitial matrix	0.0087206	0.88741	1	0	1		interstitial matrix
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	spine apparatus	-0.016275	0.52895	1	0	-1		spine apparatus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	fc-gamma receptor i complex	-0.052573	0.083629	1	0	-1		fc-gamma receptor i complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpham-beta2 complex	-0.11765	0.00376	1	0	-1		integrin alpham-beta2 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pre-t cell receptor complex	-0.072361	0.099239	1	0	-1		pre-t cell receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glial cytoplasmic inclusion	-0.012072	0.79044	1	0	-1		glial cytoplasmic inclusion
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glycogen granule	-0.042711	0.59699	1	0	-1		glycogen granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	calcineurin complex	0.026636	0.73453	1	0	1		calcineurin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	complement component c1 complex	0.0098375	0.62601	1	0	1		complement component c1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	proteasome accessory complex	0.054764	0.72511	1	0	1		proteasome accessory complex|proteasome regulatory particle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	phosphatase complex	0.014299	0.59185	1	0	1		phosphatase complex|protein serine/threonine phosphatase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	uropod	-0.14146	0.00281	1	0	-1		uropod|cell trailing edge
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	apical complex	0.21752	0.13775	1	0	1		apical complex|apical part of cell
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	yolk granule	-0.039686	0.2263	1	0	-1		yolk granule|yolk
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	other organism cell membrane	-0.022255	0.58719	1	0	-1		other organism cell membrane|other organism cell
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	germ plasm	-0.016732	0.4187	1	0	-1		germ plasm|pole plasm
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	peroxisome	0.11028	0.36945	1	0	1		peroxisome|microbody
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	igd b cell receptor complex	-0.054109	0.076019	1	0	-1		igd b cell receptor complex|igd immunoglobulin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	endothelial microparticle	-0.039127	0.46257	1	0	-1		endothelial microparticle|blood microparticle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sub-surface cisterna	0.02036	0.73048	1	0	1		sub-surface cisterna|hypolemmal cisterna
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	slit diaphragm	0.039283	0.3482	1	0	1		slit diaphragm|filtration diaphragm
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	type i terminal bouton	0.023601	0.55268	1	0	1		type i terminal bouton|subsynaptic reticulum
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	arbuscule	-0.016797	0.86506	1	0	-1		arbuscule|haustorium
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear chromosome	-0.080149	0.04945	1	0	-1		nuclear chromosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glucosidase complex	0.037868	0.73053	1	0	1		glucosidase complex|sucrase-isomaltase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear pre-replicative complex	0.030007	0.45684	1	0	1		nuclear pre-replicative complex|pre-replicative complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	late endosome	0.0020078	0.97471	1	0	1		late endosome|endosome|multivesicular body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chylomicron	0.1294	0.19691	1	0	1		chylomicron
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytosol	0.12743	0.48927	1	0	1		cytosol
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	interleukin-12 complex	-0.070033	0.45265	1	0	-1		interleukin-12 complex|interleukin-35 complex|interleukin-23 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	primary cilium	0.045696	0.17095	1	0	1		primary cilium|nonmotile primary cilium
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ribosomal subunit	-0.0040076	0.91076	1	0	-1		ribosomal subunit|cytosolic ribosome|large ribosomal subunit
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell leading edge	-0.045578	0.33357	1	0	-1		cell leading edge|ruffle|lamellipodium
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	motile cilium	0.012202	0.78498	1	0	1		motile cilium|cilium|ciliary part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	intrinsic component of membrane	-0.081018	0.56613	1	0	-1		intrinsic component of membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	serine protease inhibitor complex	0.049011	0.25119	1	0	1		serine protease inhibitor complex|protease inhibitor complex|protein c inhibitor-thrombin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	phagocytic vesicle	-0.093997	0.12272	1	0	-1		phagocytic vesicle|phagolysosome|endocytic vesicle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	extracellular non-membrane-bounded organelle	-0.0028556	0.91953	1	0	-1		extracellular non-membrane-bounded organelle|cellulosome|extracellular organelle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	bacterial-type flagellum part	-0.025028	0.22664	1	0	-1		bacterial-type flagellum part|bacterial-type flagellum|bacterial-type flagellum filament
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	micropyle	-0.011822	0.72902	1	0	-1		micropyle|chorion
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	fibrillar collagen trimer	-0.074025	0.47994	1	0	-1		fibrillar collagen trimer|collagen type i trimer|collagen type ii trimer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	commitment complex	-0.048239	0.055679	1	0	-1		commitment complex|u2-type spliceosomal complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	activin complex	0.02421	0.6255	1	0	1		activin complex|activin ab complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	a band	-0.032294	0.39763	1	0	-1		a band|m band
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	iswi-type complex	-0.029529	0.41493	1	0	-1		iswi-type complex|chrac
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	calcium channel complex	0.023491	0.52433	1	0	1		calcium channel complex|voltage-gated calcium channel complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	short-chain collagen trimer	-0.013322	0.82309	1	0	-1		short-chain collagen trimer|collagen type x trimer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	histone methyltransferase complex	0.0015751	0.62195	1	0	1		histone methyltransferase complex|methyltransferase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cullin-ring ubiquitin ligase complex	-0.0177	0.52022	1	0	-1		cullin-ring ubiquitin ligase complex|ubiquitin ligase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	transferase complex	-0.0027546	0.16463	1	0	-1		transferase complex|catalytic complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	phosphatidylinositol 3-kinase complex, class i	-0.0045406	0.8544	1	0	-1		phosphatidylinositol 3-kinase complex, class i|phosphatidylinositol 3-kinase complex, class ia
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dynein complex	-0.019203	0.25297	1	0	-1		dynein complex|microtubule associated complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chloroplast	-0.22035	0.00272	1	0	-1		chloroplast|plastid
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	protein complex involved in cell adhesion	-0.14366	0.01238	1	0	-1		protein complex involved in cell adhesion|integrin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	presynaptic active zone	-0.037799	0.34649	1	0	-1		presynaptic active zone|presynaptic cytoskeletal matrix assembled at active zones
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	basal part of cell	0.021544	0.58064	1	0	1		basal part of cell|basal plasma membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	virus tail	0.023377	0.4355	1	0	1		virus tail|virus tail, baseplate
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ferritin complex	0.061246	0.22157	1	0	1		ferritin complex|extracellular ferritin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitochondrial ribosome	0.015824	0.5529	1	0	1		mitochondrial ribosome|organellar ribosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	viral genome	-0.043146	0.60595	1	0	-1		viral genome|provirus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	external encapsulating structure	-0.18487	0.096539	1	0	-1		external encapsulating structure|cell wall
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	protein storage vacuole	0.0024908	0.94328	1	0	1		protein storage vacuole|storage vacuole
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	growth cone	-0.073894	0.076639	1	0	-1		growth cone|site of polarized growth
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	centrosome	-0.017096	0.52615	1	0	-1		centrosome|microtubule organizing center
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	organelle outer membrane	-0.0051415	0.95511	1	0	-1		organelle outer membrane|mitochondrial outer membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	transforming growth factor beta receptor homodimeric complex	0.0036863	0.82292	1	0	1		transforming growth factor beta receptor homodimeric complex|transforming growth factor beta type i receptor homodimeric complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sarcoplasmic reticulum	0.096875	0.27843	1	0	1		sarcoplasmic reticulum|sarcoplasm
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	endosome membrane	0.043744	0.31503	1	0	1		endosome membrane|endosomal part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytoplasmic chromatin	-0.025861	0.21744	1	0	-1		cytoplasmic chromatin|cytoplasmic nucleosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	igg immunoglobulin complex	-0.17378	0.22983	1	0	-1		igg immunoglobulin complex|immunoglobulin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pigment granule	0.057036	0.35797	1	0	1		pigment granule|melanosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	viral membrane	-0.088791	0.21438	1	0	-1		viral membrane|viral envelope
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	insulin-like growth factor binding protein complex	0.024972	0.65976	1	0	1		insulin-like growth factor binding protein complex|growth factor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chloroplast stroma	-0.042813	0.063269	1	0	-1		chloroplast stroma|plastid stroma
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	axoneme part	-0.019667	0.12714	1	0	-1		axoneme part|axoneme
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell wall part	-0.0040651	0.92779	1	0	-1		cell wall part|external encapsulating structure part|plant-type cell wall
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	azurophil granule	0.0044638	0.94373	1	0	1		azurophil granule|primary lysosome|specific granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sheet-forming collagen trimer	-0.068491	0.25461	1	0	-1		sheet-forming collagen trimer|network-forming collagen trimer|collagen type iv trimer|basement membrane collagen trimer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dna bending complex	-0.05123	0.1719	1	0	-1		dna bending complex|nucleosome|protein-dna complex|dna packaging complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	copi-coated vesicle membrane	0.014779	0.59707	1	0	1		copi-coated vesicle membrane|copi vesicle coat|copi-coated vesicle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	intrinsic component of organelle membrane	-0.010663	0.75953	1	0	-1		intrinsic component of organelle membrane|integral component of endoplasmic reticulum membrane|intrinsic component of endoplasmic reticulum membrane|integral component of organelle membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	extraorganismal space	-0.046486	0.10129	1	0	-1		extraorganismal space|other organism membrane|other organism|other organism part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	host intracellular part	-0.038326	0.7032	1	0	-1		host intracellular part|host cell nuclear part|viral replication complex|host cell part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	extracellular membrane-bounded organelle	-0.13987	0.01063	1	0	-1		extracellular membrane-bounded organelle|extracellular vesicle|extracellular vesicular exosome|exosome (rnase complex)
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	actin cytoskeleton	-0.12459	0.21433	1	0	-1		actin cytoskeleton|actin filament|filamentous actin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell-cell junction	-0.029012	0.73962	1	0	-1		cell-cell junction|occluding junction|tight junction|apical junction complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell projection	0.063063	0.72742	1	0	1		cell projection
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cortical cytoskeleton	0.0010883	0.98514	1	0	1		cortical cytoskeleton|cortical actin cytoskeleton|cell cortex part|cell cortex|spectrin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dendritic spine	-0.11324	0.14117	1	0	-1		dendritic spine|neuron spine|dendrite|dendritic spine head|postsynaptic density
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	membrane coat	-0.032309	0.48843	1	0	-1		membrane coat|clathrin coat|coated membrane|clathrin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	membrane-bounded vesicle	0.19306	0.1558	1	0	1		membrane-bounded vesicle|cytoplasmic membrane-bounded vesicle|cytoplasmic vesicle|vesicle|secretory granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell division site part	0.062915	0.40697	1	0	1		cell division site part|cell division site|contractile ring|actomyosin contractile ring
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	endocytic vesicle membrane	-0.059943	0.056029	1	0	-1		endocytic vesicle membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear replication fork	-0.086416	0.03521	1	0	-1		nuclear replication fork|nuclear replisome|dna replication factor a complex|replisome|replication fork|nuclear chromosome part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	plasma lipoprotein particle	0.045292	0.77858	1	0	1		plasma lipoprotein particle|protein-lipid complex|low-density lipoprotein particle|triglyceride-rich lipoprotein particle|very-low-density lipoprotein particle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	adherens junction	-0.11242	0.27983	1	0	-1		adherens junction|anchoring junction|cell-substrate adherens junction|focal adhesion|cell-substrate junction|cell junction
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	contractile fiber part	-0.0076025	0.89129	1	0	-1		contractile fiber part|sarcomere|myofibril|contractile fiber|i band|z disc
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	photosynthetic membrane	-0.11063	0.03931	1	0	-1		photosynthetic membrane|thylakoid part|thylakoid|photosystem|photosystem ii|thylakoid membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	microbody part	-0.044313	0.21653	1	0	-1		microbody part|peroxisomal part|microbody membrane|peroxisomal membrane|microbody lumen|peroxisomal matrix
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear lumen	-0.026386	0.7646	1	0	-1		nuclear lumen|intracellular organelle lumen|organelle lumen|membrane-enclosed lumen|nucleoplasm|nuclear part|nucleoplasm part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integral component of membrane	0.094298	0.52177	1	0	1		integral component of membrane|integral component of plasma membrane|spanning component of membrane|spanning component of plasma membrane|intrinsic component of plasma membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytoplasmic side of plasma membrane	0.10074	0.098299	1	0	1		cytoplasmic side of plasma membrane|cytoplasmic side of membrane|heterotrimeric g-protein complex|extrinsic component of cytoplasmic side of plasma membrane|side of membrane|extrinsic component of plasma membrane|extrinsic component of membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	coated vesicle membrane	-0.027746	0.39178	1	0	-1		coated vesicle membrane|golgi-associated vesicle membrane|golgi-associated vesicle|cytoplasmic vesicle membrane|vesicle membrane|cytoplasmic vesicle part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	extracellular region	0.16201	0.42651	1	0	1		extracellular region|extracellular matrix part|proteinaceous extracellular matrix|extracellular region part|extracellular matrix|collagen trimer|extracellular space
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	axon part	0.11441	0.3529	1	0	1		axon part|neuron projection|neuron part|axon|cell body|cell projection part|neuron projection terminus|axon terminus|neurofilament|neurofilament cytoskeleton
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitochondrial membrane	-0.19142	0.097349	1	0	-1		mitochondrial membrane|mitochondrial envelope|organelle envelope|mitochondrial part|envelope|mitochondrial inner membrane|organelle inner membrane|mitochondrion|organelle membrane|mitochondrial membrane part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	clathrin vesicle coat	-0.036479	0.11999	1	0	-1		clathrin vesicle coat|clathrin adaptor complex|clathrin-coated vesicle membrane|trans-golgi network transport vesicle membrane|clathrin coat of trans-golgi network vesicle|ap-1 adaptor complex|trans-golgi network transport vesicle|transport vesicle membrane|clathrin-coated endocytic vesicle|clathrin-coated endocytic vesicle membrane|clathrin coat of endocytic vesicle|clathrin coat of coated pit|ap-2 adaptor complex|vesicle coat|ap-type membrane coat adaptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitochondrial matrix	-0.10341	0.14872	1	0	-1		mitochondrial matrix|mitochondrial nucleoid|mitochondrial chromosome|cytoplasmic chromosome|nucleoid
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	t cell receptor complex	-0.13097	0.03803	1	0	-1		t cell receptor complex|alpha-beta t cell receptor complex|gamma-delta t cell receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	endoplasmic reticulum membrane	-0.022608	0.67042	1	0	-1		endoplasmic reticulum membrane|nuclear outer membrane-endoplasmic reticulum membrane network|endoplasmic reticulum part|membrane region
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	plastid membrane	-0.061974	0.01055	1	0	-1		plastid membrane|chloroplast envelope|chloroplast membrane|plastid envelope
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	histone acetyltransferase complex	0.0010602	0.78854	1	0	1		histone acetyltransferase complex|acetyltransferase complex|saga-type complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mhc protein complex	-0.11964	0.16809	1	0	-1		mhc protein complex|mhc class ii protein complex|mhc class i protein complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ribonucleoprotein granule	0.020253	0.44553	1	0	1		ribonucleoprotein granule|cytoplasmic ribonucleoprotein granule|cytoplasmic mrna processing body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	plastid-encoded plastid rna polymerase complex	-0.017224	0.55601	1	0	-1		plastid-encoded plastid rna polymerase complex|plastid-encoded plastid rna polymerase complex b|plastid-encoded plastid rna polymerase complex a
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	vacuolar membrane	-0.0044441	0.93931	1	0	-1		vacuolar membrane|vacuolar part|lysosomal membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	caveola	0.0070461	0.93254	1	0	1		caveola|plasma membrane raft|membrane raft
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	inhibin complex	0.032663	0.58997	1	0	1		inhibin complex|inhibin a complex|inhibin b complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	virion part	-0.063681	0.49836	1	0	-1		virion part|virion|viral capsid
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	neuronal cell body	0.01248	0.90056	1	0	1		neuronal cell body|perikaryon
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	subrhabdomeral cisterna	-0.010192	0.74301	1	0	-1		subrhabdomeral cisterna|smooth endoplasmic reticulum part|rhabdomere
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	brush border membrane	0.23237	0.01827	1	0	1		brush border membrane|brush border|cell projection membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	tor complex	0.066125	0.28246	1	0	1		tor complex|torc1 complex|torc2 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	igm immunoglobulin complex	-0.10453	0.073199	1	0	-1		igm immunoglobulin complex|igm b cell receptor complex|b cell receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	intermediate filament	0.0022874	0.98714	1	0	1		intermediate filament|intermediate filament cytoskeleton|type iii intermediate filament
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chromosomal part	-0.14279	0.23953	1	0	-1		chromosomal part|chromosome|chromatin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	actin filament bundle	-0.098803	0.19307	1	0	-1		actin filament bundle|stress fiber|actomyosin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	neuron projection membrane	0.029378	0.53137	1	0	1		neuron projection membrane|axolemma|leading edge membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	female germ cell nucleus	-0.035546	0.51647	1	0	-1		female germ cell nucleus|germinal vesicle|germ cell nucleus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	bounding membrane of organelle	-0.00278	0.66198	1	0	-1		bounding membrane of organelle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	basement membrane	-0.056957	0.70184	1	0	-1		basement membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	plasma membrane part	-0.14831	0.38703	1	0	-1		plasma membrane part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	synapse	0.012565	0.93898	1	0	1		synapse
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	golgi apparatus part	-0.0087359	0.8514	1	0	-1		golgi apparatus part|golgi membrane|golgi apparatus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	microtubule cytoskeleton	-0.045928	0.58916	1	0	-1		microtubule cytoskeleton|spindle|microtubule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	laminin complex	-0.0061936	0.91445	1	0	-1		laminin complex|basal lamina|laminin-5 complex|laminin-1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ion channel complex	0.11472	0.04196	1	0	1		ion channel complex|transmembrane transporter complex|transporter complex|chloride channel complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	synaptic vesicle	0.070062	0.43933	1	0	1		synaptic vesicle|clathrin-coated vesicle|coated vesicle|synapse part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	g-protein coupled receptor complex	0.028179	0.50491	1	0	1		g-protein coupled receptor complex|g-protein coupled receptor dimeric complex|g-protein coupled receptor heterodimeric complex|g-protein coupled receptor homodimeric complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear dna-directed rna polymerase complex	-0.011881	0.68373	1	0	-1		nuclear dna-directed rna polymerase complex|dna-directed rna polymerase ii, holoenzyme|dna-directed rna polymerase complex|rna polymerase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	proton-transporting two-sector atpase complex	0.021001	0.58046	1	0	1		proton-transporting two-sector atpase complex|proton-transporting atp synthase complex, catalytic core f(1)|proton-transporting two-sector atpase complex, catalytic domain|proton-transporting atp synthase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	lytic vacuole	0.22619	0.17133	1	0	1		lytic vacuole|lysosome|vacuole
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	myosin complex	-0.036428	0.65399	1	0	-1		myosin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	iga immunoglobulin complex	-0.019468	0.62527	1	0	-1		iga immunoglobulin complex|iga b cell receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	escrt complex	0.0033545	0.89217	1	0	1		escrt complex|escrt iii complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cop9 signalosome	-0.051796	0.095339	1	0	-1		cop9 signalosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	autosome	-0.04305	0.28678	1	0	-1		autosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear chromatin	-0.082658	0.02434	1	0	-1		nuclear chromatin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nonhomologous end joining complex	-0.06319	0.054279	1	0	-1		nonhomologous end joining complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	anchored component of membrane	-0.027134	0.66959	1	0	-1		anchored component of membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	transforming growth factor beta type ii receptor homodimeric complex	0.0094199	0.89543	1	0	1		transforming growth factor beta type ii receptor homodimeric complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	microtubule organizing center part	0.0072565	1	1	0	1		microtubule organizing center part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	protein-carbohydrate complex	-0.0051857	0.86532	1	0	-1		protein-carbohydrate complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	secretory granule membrane	0.067517	0.10865	1	0	1		secretory granule membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pick body	-0.034606	0.04648	1	0	-1		pick body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glycosome	-0.038553	0.34379	1	0	-1		glycosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	respiratory chain complex iv	0.0065547	0.86464	1	0	1		respiratory chain complex iv
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	thylakoid lumen	-0.039462	0.062519	1	0	-1		thylakoid lumen
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	proteasome activator complex	0.030825	0.6031	1	0	1		proteasome activator complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	polysome	-0.012629	0.81451	1	0	-1		polysome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	tubulin complex	0.00044315	0.89515	1	0	1		tubulin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	platelet alpha granule membrane	0.069058	0.27488	1	0	1		platelet alpha granule membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	lamina lucida	-0.022949	0.73102	1	0	-1		lamina lucida
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	hemidesmosome	-0.036989	0.37565	1	0	-1		hemidesmosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alphav-beta5 complex	0.0028643	0.93546	1	0	1		integrin alphav-beta5 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alphav-beta3 complex	-0.033349	0.53636	1	0	-1		integrin alphav-beta3 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	collagen type iii trimer	0.020234	0.74344	1	0	1		collagen type iii trimer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	immunological synapse	-0.1575	0.01628	1	0	-1		immunological synapse
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	coated pit	-0.0109	0.85631	1	0	-1		coated pit
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell body fiber	0.02245	0.73097	1	0	1		cell body fiber
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	inhibitory synapse	0.038645	0.46095	1	0	1		inhibitory synapse
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	apical dendrite	-0.059206	0.20592	1	0	-1		apical dendrite
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	terminal bouton	-0.031543	0.6736	1	0	-1		terminal bouton
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	invadopodium	-0.014729	0.70605	1	0	-1		invadopodium
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pseudopodium	-0.10766	0.0168	1	0	-1		pseudopodium
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	myosin filament	-0.0272	0.25479	1	0	-1		myosin filament
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	calyx of held	-0.00089922	1	1	0	-1		calyx of held
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	other organism presynaptic membrane	-0.0023459	0.89651	1	0	-1		other organism presynaptic membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell surface	0.0039829	0.98356	1	0	1		cell surface
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	gap junction	0.074791	0.17319	1	0	1		gap junction
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cation channel complex	0.017338	0.50995	1	0	1		cation channel complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	smooth endoplasmic reticulum	-0.0048844	0.93214	1	0	-1		smooth endoplasmic reticulum
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	epidermal lamellar body	0.020116	0.73244	1	0	1		epidermal lamellar body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell envelope	-0.070758	0.04542	1	0	-1		cell envelope
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	facit collagen trimer	-0.032146	0.095369	1	0	-1		facit collagen trimer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	collagen type vi trimer	-0.015668	0.67859	1	0	-1		collagen type vi trimer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	collagen type vii trimer	-0.031549	0.091839	1	0	-1		collagen type vii trimer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	lamina densa	-0.012077	1	1	0	-1		lamina densa
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpha6-beta1 complex	-0.052449	0.054589	1	0	-1		integrin alpha6-beta1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	elastic fiber	0.022252	0.72791	1	0	1		elastic fiber
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dense body	0.0027435	0.94194	1	0	1		dense body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alphae-beta7 complex	-0.11646	0.0081999	1	0	-1		integrin alphae-beta7 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytolytic granule	-0.068861	0.02647	1	0	-1		cytolytic granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	receptor complex	-0.23345	0.1478	1	0	-1		receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	phagocytic vesicle membrane	-0.029036	0.13379	1	0	-1		phagocytic vesicle membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	tubular endosome	0.018341	0.73149	1	0	1		tubular endosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	golgi stack	0.023124	0.55171	1	0	1		golgi stack
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	glycocalyx	0.079326	0.15348	1	0	1		glycocalyx
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	s-layer	-0.052364	0.052589	1	0	-1		s-layer
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	periplasmic space	-0.060065	0.3366	1	0	-1		periplasmic space
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dendritic branch	-0.044054	0.1242	1	0	-1		dendritic branch
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	transport vesicle	0.064359	0.26134	1	0	1		transport vesicle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	synaptic vesicle membrane	0.004469	0.78933	1	0	1		synaptic vesicle membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chromaffin granule	0.016873	0.75882	1	0	1		chromaffin granule
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dendritic tree	-0.034255	0.3358	1	0	-1		dendritic tree
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	synaptic cleft	0.12434	0.15718	1	0	1		synaptic cleft
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	microvillus membrane	0.081705	0.28018	1	0	1		microvillus membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	subapical complex	0.063667	0.18015	1	0	1		subapical complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	podosome	-0.032977	0.12086	1	0	-1		podosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	early endosome	0.008874	0.88133	1	0	1		early endosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nucleolus organizer region	-0.032973	0.11794	1	0	-1		nucleolus organizer region|nucleolar chromatin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sex chromatin	0.018306	0.5956	1	0	1		sex chromatin
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	transcriptional repressor complex	0.036625	0.34317	1	0	1		transcriptional repressor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	photosystem i	-0.02518	0.63243	1	0	-1		photosystem i
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	rod spherule	-0.011004	0.60347	1	0	-1		rod spherule|cone cell pedicle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitotic spindle	-0.0072813	0.79088	1	0	-1		mitotic spindle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sex chromosome	0.058143	0.3627	1	0	1		sex chromosome|x chromosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nf-kappab p50/p65 complex	0.0050726	0.92236	1	0	1		nf-kappab p50/p65 complex|nf-kappab complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear transcriptional repressor complex	0.0050137	0.76102	1	0	1		nuclear transcriptional repressor complex|histone deacetylase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	synaptic membrane	0.014036	0.85614	1	0	1		synaptic membrane|postsynaptic membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	rough endoplasmic reticulum membrane	-0.02589	0.37942	1	0	-1		rough endoplasmic reticulum membrane|translocon complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	axon initial segment	0.0076191	0.87654	1	0	1		axon initial segment|main axon
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	serine/threonine protein kinase complex	-0.0043343	0.61931	1	0	-1		serine/threonine protein kinase complex|protein kinase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	asymmetric synapse	-0.028618	0.60655	1	0	-1		asymmetric synapse|symmetric synapse
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	secondary lysosome	-0.0039281	0.9398	1	0	-1		secondary lysosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	plant-type vacuole	-0.0096302	0.75737	1	0	-1		plant-type vacuole|plant-type vacuole membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell tip	0.011282	0.75862	1	0	1		cell tip|cell pole
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	condensed nuclear chromosome	0.018574	0.57787	1	0	1		condensed nuclear chromosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	egg coat	-0.033597	0.04683	1	0	-1		egg coat|vitelline envelope
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	plasmodesma	0.010114	0.79306	1	0	1		plasmodesma|symplast
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	chromosome, centromeric region	-0.00011877	0.99577	1	0	-1		chromosome, centromeric region|chromosomal region
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	golgi cisterna	-0.0063637	0.86626	1	0	-1		golgi cisterna|golgi trans cisterna
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	hemoglobin complex	0.13554	0.23143	1	0	1		hemoglobin complex|cytosolic part
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sieve plate	-0.014852	0.71102	1	0	-1		sieve plate|sieve area
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cytoskeletal calyx	-0.031616	0.14984	1	0	-1		cytoskeletal calyx|perinuclear theca
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	compact myelin	0.019684	0.70682	1	0	1		compact myelin|myelin sheath
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	photoreceptor outer segment	0.051411	0.31072	1	0	1		photoreceptor outer segment
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitochondrial respiratory chain	-0.031844	0.63485	1	0	-1		mitochondrial respiratory chain|respiratory chain
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ruffle membrane	-0.0099671	0.68213	1	0	-1		ruffle membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	signal recognition particle, endoplasmic reticulum targeting	0.032698	0.48346	1	0	1		signal recognition particle, endoplasmic reticulum targeting|signal recognition particle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear periphery	0.011783	0.82545	1	0	1		nuclear periphery|nuclear matrix
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	spherical high-density lipoprotein particle	-0.034856	0.21838	1	0	-1		spherical high-density lipoprotein particle|discoidal high-density lipoprotein particle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	fc receptor complex	-0.055447	0.083429	1	0	-1		fc receptor complex|fc-epsilon receptor i complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	ribosome	-0.10856	0.22712	1	0	-1		ribosome|ribonucleoprotein complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	translation initiation complex	-0.0049092	1	1	0	-1		translation initiation complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	mitochondrial inner membrane peptidase complex	-0.077979	0.3519	1	0	-1		mitochondrial inner membrane peptidase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	integrin alpha5-beta1 complex	-0.056951	0.38213	1	0	-1		integrin alpha5-beta1 complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	dna recombinase mediator complex	0.01654	0.30094	1	0	1		dna recombinase mediator complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear membrane	-0.034021	0.52813	1	0	-1		nuclear membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pore complex	-0.037223	0.62143	1	0	-1		pore complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	type iv secretion system complex	0.0036576	0.97072	1	0	1		type iv secretion system complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell projection cytoplasm	0.0020391	1	1	0	1		cell projection cytoplasm
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	outer membrane	-0.17051	0.065879	1	0	-1		outer membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nadh dehydrogenase complex	-0.097441	0.12202	1	0	-1		nadh dehydrogenase complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	sarcoplasmic reticulum membrane	-0.0096786	0.93317	1	0	-1		sarcoplasmic reticulum membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	membrane attack complex	0.016577	0.83899	1	0	1		membrane attack complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	lamellar body	0.045741	0.30967	1	0	1		lamellar body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	immunoglobulin complex, circulating	-0.050421	0.20231	1	0	-1		immunoglobulin complex, circulating
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	endolysosome	0.037269	0.52285	1	0	1		endolysosome
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	trans-golgi network	-0.027164	0.65252	1	0	-1		trans-golgi network
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	lipid particle	0.020319	0.81821	1	0	1		lipid particle
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	swi/snf superfamily-type complex	-0.0015406	0.94818	1	0	-1		swi/snf superfamily-type complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	contact site	-0.073371	0.086109	1	0	-1		contact site
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nucleolus	-0.052499	0.42236	1	0	-1		nucleolus
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	pml body	-0.019015	0.70829	1	0	-1		pml body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	nuclear speck	0.0036444	0.89632	1	0	1		nuclear speck
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	bmp receptor complex	-0.051468	0.48415	1	0	-1		bmp receptor complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	proteasome core complex	-0.062025	0.04945	1	0	-1		proteasome core complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	endomembrane system	-0.016387	0.86632	1	0	-1		endomembrane system
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	germ tube	-0.077279	0.01922	1	0	-1		germ tube
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	apical plasma membrane	0.13789	0.04112	1	0	1		apical plasma membrane
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	catenin complex	-0.0015966	0.9223	1	0	-1		catenin complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	filopodium	0.0017077	0.97522	1	0	1		filopodium
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	proteasome complex	-0.012621	0.93658	1	0	-1		proteasome complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	smad protein complex	-0.068755	0.25699	1	0	-1		smad protein complex
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	inclusion body	-0.068642	0.37178	1	0	-1		inclusion body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	weibel-palade body	0.052714	0.51639	1	0	1		weibel-palade body
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	cell-cell contact zone	-0.22797	0.0068199	1	0	-1		cell-cell contact zone
+COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	jensencompartmenttextmining_cleaned	oxidoreductase complex	-0.015552	0.04007	1	0	-1		oxidoreductase complex

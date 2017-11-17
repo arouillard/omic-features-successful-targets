@@ -1,0 +1,10 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+LOCATE Predicted Protein Localization Annotations	locatepredicted	intracellular organelle	-0.015719	0.46202	1	0	-1	mean	intracellular organelle|organelle|intracellular membrane-bounded organelle|membrane-bounded organelle|mean|stdv|intracellular part|cell part|cytoplasmic part|nucleus
+LOCATE Predicted Protein Localization Annotations	locatepredicted	lysosome	0.015261	0.85337	1	0	1		lysosome|lytic vacuole|vacuole
+LOCATE Predicted Protein Localization Annotations	locatepredicted	microbody	-0.018061	0.56147	1	0	-1		microbody|peroxisome
+LOCATE Predicted Protein Localization Annotations	locatepredicted	membrane	0.043643	0.5924	1	0	1		membrane|plasma membrane
+LOCATE Predicted Protein Localization Annotations	locatepredicted	extracellular region	-0.0088933	1	1	0	-1		extracellular region
+LOCATE Predicted Protein Localization Annotations	locatepredicted	endoplasmic reticulum	0.017402	0.831	1	0	1		endoplasmic reticulum
+LOCATE Predicted Protein Localization Annotations	locatepredicted	mitochondrion	-0.030138	0.50741	1	0	-1		mitochondrion
+LOCATE Predicted Protein Localization Annotations	locatepredicted	golgi apparatus	0.0056544	1	1	0	1		golgi apparatus
+LOCATE Predicted Protein Localization Annotations	locatepredicted	cytoplasm	-0.052152	0.35346	1	0	-1		cytoplasm

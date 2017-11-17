@@ -1,0 +1,2 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+HPA Cell Line Gene Expression Profiles - Cleaned	hpacelllines_cleaned	mean	-0.19007	0.097129	0.097129	0	-1	mean	mean|u251mg|hek293|a431|pc3|a549|hela|k562|an3ca|mcf7|skmel30|hl60|thp1|t47d|km3|molt4|u2197|u937|skbr3|nb4|rh30|u26684|hel|u266|wm115|caco2|hacat|rpmi8226|u138mg|ntera2|u698|bewo|hepg2|hmc1|bj|efo21|capan2|shsy5y|rt4|sclc21h|u87|nes|stdv|daudi|karpas707

@@ -1,0 +1,161 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+Reactome Pathways	reactome	Integrin cell surface interactions	-0.08542	0.00053999	0.24432	0	-1		Integrin cell surface interactions
+Reactome Pathways	reactome	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	-0.074627	0.00032	0.24432	0	-1		Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+Reactome Pathways	reactome	FRS-mediated FGFR2 signaling	-0.00092274	0.50056	1	0	-1	mean	FRS-mediated FGFR2 signaling|FRS-mediated FGFR4 signaling|FRS-mediated FGFR3 signaling|FRS-mediated FGFR1 signaling|GRB2 events in EGFR signaling|SHC1 events in EGFR signaling|SHC1 events in ERBB4 signaling|SOS-mediated signalling|RAF/MAP kinase cascade|ARMS-mediated activation|Frs2-mediated activation|Interleukin receptor SHC signaling|Signalling to p38 via RIT and RIN|MAPK1/MAPK3 signaling|Prolonged ERK activation events|Signaling by Leptin|VEGFR2 mediated cell proliferation|Interleukin-2 signaling|Signalling to RAS|Interleukin-3, 5 and GM-CSF signaling|Signalling to ERKs|Signaling by SCF-KIT|Signaling by ERBB4|Downstream signaling of activated FGFR2|Downstream signaling of activated FGFR4|Downstream signaling of activated FGFR3|Signaling by FGFR4|Downstream signaling of activated FGFR1|Signaling by FGFR3|Signaling by FGFR1|Downstream signal transduction|IRS-mediated signalling|Insulin receptor signalling cascade|DAP12 signaling|NCAM signaling for neurite out-growth|Signaling by EGFR|DAP12 interactions|Signaling by FGFR2|Signaling by PDGF|Signaling by FGFR|NGF signalling via TRKA from the plasma membrane|Fc epsilon receptor (FCERI) signaling|IRS-related events triggered by IGF1R|Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)|IGF1R signaling cascade|MAPK family signaling cascades|FCERI mediated MAPK activation|VEGFA-VEGFR2 Pathway|Signaling by VEGF|Signaling by Insulin receptor|mean|Signalling by NGF|Signaling by Interleukins|Gastrin-CREB signalling pathway via PKC and MAPK
+Reactome Pathways	reactome	GPVI-mediated activation cascade	-0.013322	0.61383	1	0	-1		GPVI-mediated activation cascade
+Reactome Pathways	reactome	TNFs bind their physiological receptors	-0.0066609	1	1	0	-1		TNFs bind their physiological receptors
+Reactome Pathways	reactome	Activation of NMDA receptor upon glutamate binding and postsynaptic events	-0.0066609	1	1	0	-1		Activation of NMDA receptor upon glutamate binding and postsynaptic events
+Reactome Pathways	reactome	Unblocking of NMDA receptor, glutamate binding and activation	-0.0066609	1	1	0	-1		Unblocking of NMDA receptor, glutamate binding and activation
+Reactome Pathways	reactome	SALM protein interactions at the synapse	-0.0066609	1	1	0	-1		SALM protein interactions at the synapse
+Reactome Pathways	reactome	Potassium Channels	-0.017454	0.59176	1	0	-1		Potassium Channels
+Reactome Pathways	reactome	FCERI mediated Ca+2 mobilization	-0.0066609	1	1	0	-1		FCERI mediated Ca+2 mobilization
+Reactome Pathways	reactome	Amyloid fiber formation	-0.021586	0.20553	1	0	-1		Amyloid fiber formation
+Reactome Pathways	reactome	Ligand-gated ion channel transport	-0.0066609	1	1	0	-1		Ligand-gated ion channel transport
+Reactome Pathways	reactome	Glucose metabolism	-0.025719	0.11911	1	0	-1		Glucose metabolism
+Reactome Pathways	reactome	Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	0.016529	0.57981	1	0	1		Synthesis of Prostaglandins (PG) and Thromboxanes (TX)
+Reactome Pathways	reactome	Degradation of the extracellular matrix	-0.0050574	1	1	0	-1		Degradation of the extracellular matrix
+Reactome Pathways	reactome	CS/DS degradation	0.020661	0.36178	1	0	1		CS/DS degradation
+Reactome Pathways	reactome	Post-translational protein modification	0.011472	0.74493	1	0	1		Post-translational protein modification
+Reactome Pathways	reactome	Nuclear signaling by ERBB4	0.012397	0.60108	1	0	1		Nuclear signaling by ERBB4
+Reactome Pathways	reactome	Dopamine receptors	0.012397	0.59898	1	0	1		Dopamine receptors
+Reactome Pathways	reactome	Nucleotide-like (purinergic) receptors	0.016529	0.58093	1	0	1		Nucleotide-like (purinergic) receptors
+Reactome Pathways	reactome	Early Phase of HIV Life Cycle	-0.0025287	1	1	0	-1		Early Phase of HIV Life Cycle
+Reactome Pathways	reactome	Costimulation by the CD28 family	-0.0066609	1	1	0	-1		Costimulation by the CD28 family
+Reactome Pathways	reactome	Signal transduction by L1	-0.0066609	1	1	0	-1		Signal transduction by L1
+Reactome Pathways	reactome	Regulation of TP53 Activity	-0.025719	0.11936	1	0	-1		Regulation of TP53 Activity
+Reactome Pathways	reactome	Cellular Senescence	-0.0066609	1	1	0	-1		Cellular Senescence
+Reactome Pathways	reactome	Basigin interactions	-0.0066609	1	1	0	-1		Basigin interactions
+Reactome Pathways	reactome	Cell surface interactions at the vascular wall	-0.060627	0.04123	1	0	-1		Cell surface interactions at the vascular wall
+Reactome Pathways	reactome	Surfactant metabolism	0.016529	0.58149	1	0	1		Surfactant metabolism
+Reactome Pathways	reactome	Histamine receptors	0.012397	0.59708	1	0	1		Histamine receptors
+Reactome Pathways	reactome	Purine catabolism	-0.025719	0.12019	1	0	-1		Purine catabolism
+Reactome Pathways	reactome	Metabolism of Angiotensinogen to Angiotensins	0.016529	0.58256	1	0	1		Metabolism of Angiotensinogen to Angiotensins
+Reactome Pathways	reactome	Synthesis, secretion, and deacylation of Ghrelin	-0.0066609	1	1	0	-1		Synthesis, secretion, and deacylation of Ghrelin
+Reactome Pathways	reactome	Arachidonic acid metabolism	0.0057358	1	1	0	1		Arachidonic acid metabolism
+Reactome Pathways	reactome	Chylomicron-mediated lipid transport	0.012397	0.59899	1	0	1		Chylomicron-mediated lipid transport
+Reactome Pathways	reactome	Signaling by TGF-beta Receptor Complex	-0.0066609	1	1	0	-1		Signaling by TGF-beta Receptor Complex
+Reactome Pathways	reactome	Extrinsic Pathway of Fibrin Clot Formation	0.012397	0.59856	1	0	1		Extrinsic Pathway of Fibrin Clot Formation
+Reactome Pathways	reactome	Platelet activation, signaling and aggregation	-0.070741	0.096279	1	0	-1		Platelet activation, signaling and aggregation
+Reactome Pathways	reactome	Purine metabolism	-0.017454	0.59	1	0	-1		Purine metabolism
+Reactome Pathways	reactome	Muscarinic acetylcholine receptors	-0.0066609	1	1	0	-1		Muscarinic acetylcholine receptors
+Reactome Pathways	reactome	Ca2+ activated K+ channels	-0.025719	0.12126	1	0	-1		Ca2+ activated K+ channels
+Reactome Pathways	reactome	Signal amplification	-0.0066609	1	1	0	-1		Signal amplification
+Reactome Pathways	reactome	G alpha (12/13) signalling events	0.012397	0.59908	1	0	1		G alpha (12/13) signalling events
+Reactome Pathways	reactome	Lipid digestion, mobilization, and transport	-0.0050574	1	1	0	-1		Lipid digestion, mobilization, and transport
+Reactome Pathways	reactome	G alpha (s) signalling events	0.089984	0.03617	1	0	1		G alpha (s) signalling events
+Reactome Pathways	reactome	Interferon gamma signaling	0.0016036	1	1	0	1		Interferon gamma signaling
+Reactome Pathways	reactome	Transcriptional Regulation by TP53	-0.025719	0.11936	1	0	-1		Transcriptional Regulation by TP53
+Reactome Pathways	reactome	Metabolism of lipids and lipoproteins	0.013754	0.82498	1	0	1		Metabolism of lipids and lipoproteins
+Reactome Pathways	reactome	Metabolism of nucleotides	-0.028247	0.35417	1	0	-1		Metabolism of nucleotides
+Reactome Pathways	reactome	Platelet homeostasis	0.0032071	1	1	0	1		Platelet homeostasis
+Reactome Pathways	reactome	Diseases of signal transduction	0.026397	0.46716	1	0	1		Diseases of signal transduction
+Reactome Pathways	reactome	PI3K Cascade	0.0057358	1	1	0	1		PI3K Cascade
+Reactome Pathways	reactome	Ion channel transport	0.022265	0.47153	1	0	1		Ion channel transport
+Reactome Pathways	reactome	Interferon Signaling	-0.00092513	1	1	0	-1		Interferon Signaling
+Reactome Pathways	reactome	Generic Transcription Pathway	-0.02504	0.54345	1	0	-1		Generic Transcription Pathway
+Reactome Pathways	reactome	Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds	-0.0050574	1	1	0	-1		Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds
+Reactome Pathways	reactome	Adaptive Immune System	-0.093006	0.0087899	1	0	-1		Adaptive Immune System
+Reactome Pathways	reactome	Interferon alpha/beta signaling	-0.0025287	1	1	0	-1		Interferon alpha/beta signaling
+Reactome Pathways	reactome	Opioid Signalling	0.012397	0.59954	1	0	1		Opioid Signalling
+Reactome Pathways	reactome	Regulation of IFNA signaling	-0.0025287	1	1	0	-1		Regulation of IFNA signaling
+Reactome Pathways	reactome	Phase 0 - rapid depolarisation	0.016529	0.5818	1	0	1		Phase 0 - rapid depolarisation
+Reactome Pathways	reactome	Heparan sulfate/heparin (HS-GAG) metabolism	0.012397	0.59885	1	0	1		Heparan sulfate/heparin (HS-GAG) metabolism
+Reactome Pathways	reactome	Neurotransmitter Release Cycle	-0.0025287	1	1	0	-1		Neurotransmitter Release Cycle
+Reactome Pathways	reactome	Neurotransmitter Clearance In The Synaptic Cleft	0.016529	0.58006	1	0	1		Neurotransmitter Clearance In The Synaptic Cleft
+Reactome Pathways	reactome	Disorders of transmembrane transporters	-0.0066609	1	1	0	-1		Disorders of transmembrane transporters
+Reactome Pathways	reactome	Diseases of metabolism	0.012397	0.59951	1	0	1		Diseases of metabolism
+Reactome Pathways	reactome	Activation of Matrix Metalloproteinases	0.020661	0.3632	1	0	1		Activation of Matrix Metalloproteinases
+Reactome Pathways	reactome	Cargo concentration in the ER	0.012397	0.59884	1	0	1		Cargo concentration in the ER
+Reactome Pathways	reactome	Adrenoceptors	0.020661	0.36206	1	0	1		Adrenoceptors
+Reactome Pathways	reactome	EPH-Ephrin signaling	-0.0025287	1	1	0	-1		EPH-Ephrin signaling
+Reactome Pathways	reactome	Glucagon-type ligand receptors	0.024793	0.34784	1	0	1		Glucagon-type ligand receptors
+Reactome Pathways	reactome	Signaling by FGFR in disease	-0.0025287	1	1	0	-1		Signaling by FGFR in disease
+Reactome Pathways	reactome	Nuclear Receptor transcription pathway	0.015604	0.7429	1	0	1		Nuclear Receptor transcription pathway
+Reactome Pathways	reactome	G alpha (q) signalling events	0.04934	0.28865	1	0	1		G alpha (q) signalling events
+Reactome Pathways	reactome	Transcriptional regulation of white adipocyte differentiation	0.020661	0.36174	1	0	1		Transcriptional regulation of white adipocyte differentiation
+Reactome Pathways	reactome	Visual phototransduction	-0.013322	0.61477	1	0	-1		Visual phototransduction
+Reactome Pathways	reactome	Extracellular matrix organization	-0.10793	0.00397	1	0	-1		Extracellular matrix organization
+Reactome Pathways	reactome	Glycosaminoglycan metabolism	0.028926	0.21873	1	0	1		Glycosaminoglycan metabolism
+Reactome Pathways	reactome	Interleukin-1 signaling	0.012397	0.5977	1	0	1		Interleukin-1 signaling
+Reactome Pathways	reactome	Interleukin-6 family signaling	-0.0025287	1	1	0	-1		Interleukin-6 family signaling
+Reactome Pathways	reactome	TNFR2 non-canonical NF-kB pathway	-0.0025287	1	1	0	-1		TNFR2 non-canonical NF-kB pathway
+Reactome Pathways	reactome	GABA receptor activation	-0.0066609	1	1	0	-1		GABA receptor activation
+Reactome Pathways	reactome	Vesicle-mediated transport	-0.00037879	1	1	0	-1		Vesicle-mediated transport|Membrane Trafficking
+Reactome Pathways	reactome	Retinoid metabolism and transport	0.011394	0.57969	1	0	1		Retinoid metabolism and transport|Metabolism of fat-soluble vitamins
+Reactome Pathways	reactome	G1/S Transition	-0.004695	1	1	0	-1		G1/S Transition|Mitotic G1-G1/S phases
+Reactome Pathways	reactome	Cell Cycle, Mitotic	-0.028247	0.35279	1	0	-1		Cell Cycle, Mitotic|Cell Cycle
+Reactome Pathways	reactome	Metabolism of steroid hormones	-0.004703	1	1	0	-1		Metabolism of steroid hormones|Steroid hormones
+Reactome Pathways	reactome	CLEC7A (Dectin-1) signaling	-0.025719	0.1199	1	0	-1		CLEC7A (Dectin-1) signaling|C-type lectin receptors (CLRs)
+Reactome Pathways	reactome	Activation of gene expression by SREBF (SREBP)	-0.0066609	1	1	0	-1		Activation of gene expression by SREBF (SREBP)|Regulation of cholesterol biosynthesis by SREBP (SREBF)
+Reactome Pathways	reactome	Incretin synthesis, secretion, and inactivation	-0.0066609	1	1	0	-1		Incretin synthesis, secretion, and inactivation|Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)
+Reactome Pathways	reactome	Elastic fibre formation	-0.021586	0.20703	1	0	-1		Elastic fibre formation|Molecules associated with elastic fibres
+Reactome Pathways	reactome	Integration of energy metabolism	0.007966	0.9161	1	0	1		Integration of energy metabolism|Regulation of insulin secretion
+Reactome Pathways	reactome	Nitric oxide stimulates guanylate cyclase	0.0060744	0.84561	1	0	1		Nitric oxide stimulates guanylate cyclase|cGMP effects
+Reactome Pathways	reactome	Hyaluronan uptake and degradation	0.016529	0.57756	1	0	1		Hyaluronan uptake and degradation|Hyaluronan metabolism
+Reactome Pathways	reactome	RHO GTPase Effectors	0.0097437	0.5802	1	0	1		RHO GTPase Effectors|Signaling by Rho GTPases
+Reactome Pathways	reactome	Muscle contraction	0.037572	0.16297	1	0	1		Muscle contraction|Cardiac conduction
+Reactome Pathways	reactome	Phase 1 - Functionalization of compounds	-0.018843	0.45515	1	0	-1		Phase 1 - Functionalization of compounds|Cytochrome P450 - arranged by substrate type
+Reactome Pathways	reactome	BMAL1:CLOCK,NPAS2 activates circadian gene expression	0.012397	0.59868	1	0	1		BMAL1:CLOCK,NPAS2 activates circadian gene expression|Circadian Clock
+Reactome Pathways	reactome	Integrin alphaIIb beta3 signaling	-0.020007	0.12317	1	0	-1		Integrin alphaIIb beta3 signaling|Platelet Aggregation (Plug Formation)
+Reactome Pathways	reactome	Metabolism of water-soluble vitamins and cofactors	0.013116	0.57385	1	0	1		Metabolism of water-soluble vitamins and cofactors|Metabolism of vitamins and cofactors
+Reactome Pathways	reactome	G beta:gamma signalling through PI3Kgamma	0.0016036	1	1	0	1		G beta:gamma signalling through PI3Kgamma|G-protein beta:gamma signalling
+Reactome Pathways	reactome	Platelet degranulation	-0.059738	0.054349	1	0	-1		Platelet degranulation|Response to elevated platelet cytosolic Ca2+
+Reactome Pathways	reactome	PI-3K cascade:FGFR1	0.014238	0.68119	1	0	1		PI-3K cascade:FGFR1|PI-3K cascade:FGFR3|PI3K events in ERBB4 signaling|PIP3 activates AKT signaling|PI-3K cascade:FGFR4|PI-3K cascade:FGFR2|GAB1 signalosome|PI3K/AKT activation|Negative regulation of the PI3K/AKT network|PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling|Role of LAT2/NTAL/LAB on calcium mobilization|PI3K/AKT Signaling in Cancer|Downstream signaling events of B Cell Receptor (BCR)|Signaling by the B Cell Receptor (BCR)
+Reactome Pathways	reactome	Toll Like Receptor 2 (TLR2) Cascade	-0.025621	0.04397	1	0	-1		Toll Like Receptor 2 (TLR2) Cascade|Toll Like Receptor TLR6:TLR2 Cascade|Toll Like Receptor TLR1:TLR2 Cascade|MyD88:Mal cascade initiated on plasma membrane|Activated TLR4 signalling|TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation|Toll Like Receptor 7/8 (TLR7/8) Cascade|MyD88 dependent cascade initiated on endosome|Toll Like Receptor 9 (TLR9) Cascade|Toll Like Receptor 4 (TLR4) Cascade|TRIF-mediated TLR3/TLR4 signaling|Toll Like Receptor 3 (TLR3) Cascade|MyD88-independent TLR3/TLR4 cascade|Toll-Like Receptors Cascades
+Reactome Pathways	reactome	Gamma-carboxylation, transport, and amino-terminal cleavage of proteins	0.020661	0.36406	1	0	1		Gamma-carboxylation, transport, and amino-terminal cleavage of proteins|Gamma-carboxylation of protein precursors|Removal of aminoterminal propeptides from gamma-carboxylated proteins|Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus
+Reactome Pathways	reactome	Constitutive Signaling by Aberrant PI3K in Cancer	0.009868	0.70491	1	0	1		Constitutive Signaling by Aberrant PI3K in Cancer
+Reactome Pathways	reactome	ER to Golgi Anterograde Transport	0.012397	0.59884	1	0	1		ER to Golgi Anterograde Transport|Transport to the Golgi and subsequent modification|Asparagine N-linked glycosylation|COPII (Coat Protein 2) Mediated Vesicle Transport
+Reactome Pathways	reactome	Phospholipase C-mediated cascade; FGFR2	-0.0066609	0.68653	1	0	-1		Phospholipase C-mediated cascade; FGFR2|Phospholipase C-mediated cascade: FGFR1|Phospholipase C-mediated cascade; FGFR3
+Reactome Pathways	reactome	Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)	0.0057358	1	1	0	1		Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)|PPARA activates gene expression|Fatty acid, triacylglycerol, and ketone body metabolism
+Reactome Pathways	reactome	SUMOylation	-0.025719	0.11937	1	0	-1		SUMOylation|SUMO E3 ligases SUMOylate target proteins
+Reactome Pathways	reactome	Transmission across Chemical Synapses	-0.037438	0.18966	1	0	-1		Transmission across Chemical Synapses|Neuronal System|Neurotransmitter Receptor Binding And Downstream Transmission In The  Postsynaptic Cell
+Reactome Pathways	reactome	Signaling by GPCR	0.12387	0.04146	1	0	1		Signaling by GPCR|GPCR downstream signaling|Signal Transduction
+Reactome Pathways	reactome	HIV Infection	0.0025342	0.99926	1	0	1		HIV Infection|HIV Life Cycle|Infectious disease
+Reactome Pathways	reactome	Axon guidance	-0.00066055	0.94078	1	0	-1		Axon guidance|Developmental Biology
+Reactome Pathways	reactome	Formation of Fibrin Clot (Clotting Cascade)	0.03211	0.21818	1	0	1		Formation of Fibrin Clot (Clotting Cascade)|Common Pathway of Fibrin Clot Formation|Intrinsic Pathway of Fibrin Clot Formation
+Reactome Pathways	reactome	stdv	-0.0022625	0.67099	1	0	-1	stdv	stdv
+Reactome Pathways	reactome	Diseases associated with the TLR signaling cascade	0.012397	0.59863	1	0	1		Diseases associated with the TLR signaling cascade|Diseases of Immune System
+Reactome Pathways	reactome	Apoptosis	-0.0025287	1	1	0	-1		Apoptosis|Programmed Cell Death
+Reactome Pathways	reactome	Class A/1 (Rhodopsin-like receptors)	0.1019	0.02946	1	0	1		Class A/1 (Rhodopsin-like receptors)|GPCR ligand binding|Peptide ligand-binding receptors
+Reactome Pathways	reactome	Amine compound SLC transporters	0.0016036	1	1	0	1		Amine compound SLC transporters|Na+/Cl- dependent neurotransmitter transporters
+Reactome Pathways	reactome	Cytokine Signaling in Immune system	-0.0087579	1	1	0	-1		Cytokine Signaling in Immune system
+Reactome Pathways	reactome	Eicosanoid ligand-binding receptors	-0.00034624	1	1	0	-1		Eicosanoid ligand-binding receptors|Prostanoid ligand receptors
+Reactome Pathways	reactome	Class B/2 (Secretin family receptors)	0.026397	0.46723	1	0	1		Class B/2 (Secretin family receptors)
+Reactome Pathways	reactome	RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways	-0.025719	0.11897	1	0	-1		RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways
+Reactome Pathways	reactome	Metabolism of amino acids and derivatives	0.033058	0.20778	1	0	1		Metabolism of amino acids and derivatives
+Reactome Pathways	reactome	Dopamine clearance from the synaptic cleft	0.012397	0.59916	1	0	1		Dopamine clearance from the synaptic cleft
+Reactome Pathways	reactome	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	0.012397	0.60118	1	0	1		Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+Reactome Pathways	reactome	Peptide hormone metabolism	-0.00092513	1	1	0	-1		Peptide hormone metabolism
+Reactome Pathways	reactome	Hormone ligand-binding receptors	0.0016036	1	1	0	1		Hormone ligand-binding receptors
+Reactome Pathways	reactome	Gamma carboxylation, hypusine formation and arylsulfatase activation	0.024793	0.34953	1	0	1		Gamma carboxylation, hypusine formation and arylsulfatase activation
+Reactome Pathways	reactome	Synthesis of Lipoxins (LX)	-0.0066609	1	1	0	-1		Synthesis of Lipoxins (LX)
+Reactome Pathways	reactome	EPHB-mediated forward signaling	-0.0066609	1	1	0	-1		EPHB-mediated forward signaling
+Reactome Pathways	reactome	L1CAM interactions	0.0016036	1	1	0	1		L1CAM interactions
+Reactome Pathways	reactome	Dissolution of Fibrin Clot	0.012397	0.59894	1	0	1		Dissolution of Fibrin Clot
+Reactome Pathways	reactome	Binding and entry of HIV virion	-0.0025287	1	1	0	-1		Binding and entry of HIV virion
+Reactome Pathways	reactome	Serotonin receptors	0.020661	0.36049	1	0	1		Serotonin receptors
+Reactome Pathways	reactome	G alpha (i) signalling events	0.037869	0.43008	1	0	1		G alpha (i) signalling events
+Reactome Pathways	reactome	Class C/3 (Metabotropic glutamate/pheromone receptors)	-0.0066609	1	1	0	-1		Class C/3 (Metabotropic glutamate/pheromone receptors)
+Reactome Pathways	reactome	Non-integrin membrane-ECM interactions	0.012397	0.59748	1	0	1		Non-integrin membrane-ECM interactions
+Reactome Pathways	reactome	HS-GAG degradation	0.012397	0.59885	1	0	1		HS-GAG degradation
+Reactome Pathways	reactome	Chondroitin sulfate/dermatan sulfate metabolism	0.020661	0.36178	1	0	1		Chondroitin sulfate/dermatan sulfate metabolism
+Reactome Pathways	reactome	Collagen degradation	0.012397	0.59782	1	0	1		Collagen degradation
+Reactome Pathways	reactome	Lipoprotein metabolism	-0.018625	0.39624	1	0	-1		Lipoprotein metabolism|HDL-mediated lipid transport
+Reactome Pathways	reactome	Glycosphingolipid metabolism	0.020661	0.35907	1	0	1		Glycosphingolipid metabolism|Sphingolipid metabolism
+Reactome Pathways	reactome	Innate Immune System	-0.083889	0.069709	1	0	-1		Innate Immune System|Immune System
+Reactome Pathways	reactome	E2F mediated regulation of DNA replication	-0.0066609	1	1	0	-1		E2F mediated regulation of DNA replication|G1/S-Specific Transcription
+Reactome Pathways	reactome	Gene Expression	-0.016776	0.77436	1	0	-1		Gene Expression
+Reactome Pathways	reactome	SLC-mediated transmembrane transport	-0.01585	0.69654	1	0	-1		SLC-mediated transmembrane transport
+Reactome Pathways	reactome	Metabolism	-0.0099297	0.87224	1	0	-1		Metabolism
+Reactome Pathways	reactome	Metabolism of proteins	-0.022758	0.66694	1	0	-1		Metabolism of proteins
+Reactome Pathways	reactome	Organelle biogenesis and maintenance	-0.0066609	1	1	0	-1		Organelle biogenesis and maintenance
+Reactome Pathways	reactome	Hemostasis	-0.092574	0.10729	1	0	-1		Hemostasis
+Reactome Pathways	reactome	Biological oxidations	-0.01585	0.69524	1	0	-1		Biological oxidations
+Reactome Pathways	reactome	Disease	0.054397	0.22329	1	0	1		Disease
+Reactome Pathways	reactome	Cellular responses to stress	-0.028247	0.35242	1	0	-1		Cellular responses to stress
+Reactome Pathways	reactome	Stimuli-sensing channels	0.020661	0.36394	1	0	1		Stimuli-sensing channels
+Reactome Pathways	reactome	Amine ligand-binding receptors	0.059455	0.085969	1	0	1		Amine ligand-binding receptors
+Reactome Pathways	reactome	Chemokine receptors bind chemokines	-0.0025287	1	1	0	-1		Chemokine receptors bind chemokines
+Reactome Pathways	reactome	Signaling by Retinoic Acid	-0.021586	0.20699	1	0	-1		Signaling by Retinoic Acid
+Reactome Pathways	reactome	Transmembrane transport of small molecules	-0.0002467	1	1	0	-1		Transmembrane transport of small molecules
+Reactome Pathways	reactome	Metabolism of carbohydrates	0.00067843	1	1	0	1		Metabolism of carbohydrates

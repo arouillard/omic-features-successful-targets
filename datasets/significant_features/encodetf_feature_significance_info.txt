@@ -1,0 +1,698 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+ENCODE Transcription Factor Binding Site Profiles	encodetf	mean	-0.046905	0.01721	1	0	-1	mean	mean|stdv|CTCF_GM12878_hg19_5|YY1_GM12878_hg19_1|ZNF143_GM12878_hg19_1|MAZ_GM12878_hg19_1|ELF1_GM12878_hg19_2|SMC3_HeLa-S3_hg19_1|CREB1_A549_hg19_1|MAX_GM12878_hg19_1|POLR2AphosphoS5_endothelial cell of umbilical vein_hg19_2|TAF1_ECC-1_hg19_1|STAT1_GM12878_hg19_1|CHD2_HeLa-S3_hg19_1|MAX_A549_hg19_1|RFX5_HeLa-S3_hg19_1|TAF1_SK-N-SH_hg19_2|YY1_GM12892_hg19_1|HCFC1_K562_hg19_1|MXI1_GM12878_hg19_1|YY1_HepG2_hg19_1|CHD2_GM12878_hg19_1|POLR2A_GM15510_hg19_1|POLR2A_A549_hg19_3|MAZ_HeLa-S3_hg19_1|MAX_A549_hg19_2|MAX_SK-N-SH_hg19_1|CTCF_choroid plexus epithelial cell_hg19_1|MAX_HeLa-S3_hg19_1|MXI1_HeLa-S3_hg19_1|YY1_K562_hg19_1|SIN3A_GM12878_hg19_1|POLR2AphosphoS5_HCT116_hg19_1|POLR2A_ECC-1_hg19_1|POLR2A_A549_hg19_4|RCOR1_HeLa-S3_hg19_1|SIN3A_Panc1_hg19_1|POLR2A_GM18951_hg19_1|POLR2A_A549_hg19_1|POLR2AphosphoS5_HCT116_hg19_2|TBP_K562_hg19_1|POLR2A_A549_hg19_2|ELF1_K562_hg19_1|SIN3A_SK-N-SH_hg19_2|PML_GM12878_hg19_2|CTCF_K562_hg19_7|POLR2A_ECC-1_hg19_2|TAF1_K562_hg19_1|POLR2A_endothelial cell of umbilical vein_hg19_2|TAF1_GM12878_hg19_2|MAX_MCF-7_hg19_1|MAX_K562_hg19_1|MYC_K562_hg19_2|MXI1_HepG2_hg19_1|POLR2AphosphoS5_SK-N-SH_hg19_1|MAX_HepG2_hg19_3|RUNX3_GM12878_hg19_2|MAX_ECC-1_hg19_2|MAZ_K562_hg19_1|TAF1_K562_hg19_2|ELK1_HeLa-S3_hg19_1|YY1_HCT116_hg19_2|YY1_K562_hg19_4|POLR2A_GM19193_hg19_1|MYC_K562_hg19_3|MXI1_K562_hg19_1|POLR2A_HeLa-S3_hg19_2|POLR2A_Raji_hg19_1|CCNT2_K562_hg19_1|HMGN3_K562_hg19_1|TCF12_A549_hg19_2|MAZ_HepG2_hg19_1|ELF1_GM12878_hg19_1|MAX_K562_hg19_3|TBL1XR1_K562_hg19_1|RCOR1_HepG2_hg19_1|MAX_K562_hg19_2|POLR2A_GM19099_hg19_1|MTA3_GM12878_hg19_2|RUNX3_GM12878_hg19_1|POLR2A_GM12878_hg19_2|ZMIZ1_K562_hg19_1|CHD2_K562_hg19_1|POLR2A_endothelial cell of umbilical vein_hg19_1|TAF1_H1-hESC_hg19_1|POLR2A_HepG2_hg19_1|POLR2A_NB4_hg19_1|MYC_MCF 10A_hg19_2|GTF2F1_HeLa-S3_hg19_1|TCF12_ECC-1_hg19_1|POLR2A_K562_hg19_1|E2F6_K562_hg19_2|TBP_HepG2_hg19_1|YY1_GM12878_hg19_2|POLR2AphosphoS5_Panc1_hg19_2|POLR2A_HepG2_hg19_5|POLR2AphosphoS5_K562_hg19_2|POLR2A_GM18505_hg19_1|POLR2A_K562_hg19_6|TBP_H1-hESC_hg19_1|E2F4_MCF 10A_hg19_1|GTF2F1_K562_hg19_1|POLR2A_GM12878_hg19_1|POLR2A_MCF-7_hg19_3|POLR2AphosphoS5_HepG2_hg19_1|JUND_K562_hg19_1|CHD2_HepG2_hg19_1|POLR2A_K562_hg19_2|POLR2AphosphoS5_SK-N-SH_hg19_2|SIN3A_H1-hESC_hg19_3|BHLHE40_GM12878_hg19_1|MAX_ECC-1_hg19_1|YY1_GM12891_hg19_2|STAT5A_GM12878_hg19_2|CTCF_fibroblast of upper leg skin_hg19_1|POLR2A_H54_hg19_1|POLR2A_GM12892_hg19_3|TBL1XR1_K562_hg19_2|SP1_A549_hg19_1|MYC_NB4_hg19_1|MYC_MCF-7_hg19_2|TAF1_H1-hESC_hg19_2|WRNIP1_GM12878_hg19_1|PHF8_K562_hg19_1|POLR2A_HepG2_hg19_4|POLR2AphosphoS5_U-87 MG_hg19_2|PHF8_H1-hESC_hg19_1|ZNF143_HeLa-S3_hg19_1|BHLHE40_K562_hg19_1|POLR2A_HGPS cell_hg19_1|POLR2AphosphoS5_HL-60_hg19_2|POLR2A_HEK293_hg19_1|MYC_MCF-7_hg19_4|ELK1_GM12878_hg19_1|ZNF143_K562_hg19_1|POLR2A_HeLa-S3_hg19_3|POLR2A_HepG2_hg19_2|POLR2A_GM12878_hg19_3|EP300_K562_hg19_2|TBL1XR1_GM12878_hg19_1|RFX5_HepG2_hg19_1|POLR2A_GM12892_hg19_1|POLR2A_endothelial cell of umbilical vein_hg19_3|TAF1_PFSK-1_hg19_2|POLR2A_HeLa-S3_hg19_1|POLR2A_A549_hg19_5|RCOR1_K562_hg19_1|RCOR1_GM12878_hg19_1|TBP_HeLa-S3_hg19_1|POLR2AphosphoS5_U-87 MG_hg19_1|RCOR1_K562_hg19_2|KDM4A_H1-hESC_hg19_1|H2AFZ_GM12878_hg19_1|POLR2AphosphoS5_endothelial cell of umbilical vein_hg19_1|ZKSCAN1_HeLa-S3_hg19_1|GTF2F1_H1-hESC_hg19_1|POLR2AphosphoS2_HeLa-S3_hg19_1|POLR2A_GM12878_hg19_4|TAF1_HeLa-S3_hg19_2|SP1_A549_hg19_2|CTCF_spleen_hg19_1|ELF1_K562_hg19_2|UBTF_K562_hg19_2|POLR2A_MCF-7_hg19_2|TAF1_HepG2_hg19_2|MAX_NB4_hg19_1|PML_K562_hg19_2|POLR2AphosphoS5_PFSK-1_hg19_1|POLR2A_MCF-7_hg19_1|H2AFZ_T-cell acute lymphoblastic leukemia_hg19_1|SIN3A_HepG2_hg19_2|MAX_SK-N-SH_hg19_2|SAP30_H1-hESC_hg19_1|POLR2A_GM18526_hg19_1|BRCA1_HeLa-S3_hg19_1|CHD1_GM12878_hg19_1|POLR2AphosphoS5_SK-N-MC_hg19_1|POLR2A_H1-hESC_hg19_2|POLR2A_GM12891_hg19_2|POLR2AphosphoS5_neural cell_hg19_1|CBX3_K562_hg19_2|EP300_HepG2_hg19_3|SIN3A_K562_hg19_2|CTCF_B cell_hg19_1|POLR2AphosphoS5_HepG2_hg19_2|POLR2A_K562_hg19_3|POLR2AphosphoS2_GM12878_hg19_1|POLR2AphosphoS5_GM12892_hg19_1|POLR2AphosphoS5_Panc1_hg19_1|POLR2A_GM12892_hg19_2|MYC_MCF 10A_hg19_1|H2AFZ_B cell_hg19_1|POLR2A_GM12891_hg19_1|SP1_GM12878_hg19_2|YY1_SK-N-SH_hg19_2|POLR2A_MCF 10A_hg19_1|EBF1_GM12878_hg19_3|MYC_K562_hg19_1|POLR2AphosphoS5_H1-hESC_hg19_1|POLR2A_erythroblast_hg19_1|TAF1_A549_hg19_1|POLR2AphosphoS5_GM12878_hg19_2|POLR2AphosphoS5_GM12891_hg19_1|JUND_A549_hg19_2|YY1_SK-N-SH_hg19_1|POLR2A_K562_hg19_7|POLR2AphosphoS5_neural cell_hg19_2|POLR2AphosphoS5_GM12892_hg19_2|POLR2AphosphoS5_H1-hESC_hg19_2|CHD2_H1-hESC_hg19_1|POLR2A_HepG2_hg19_3|POLR2AphosphoS5_GM12891_hg19_2|POLR2A_HeLa-S3_hg19_4|NRF1_GM12878_hg19_1|MXI1_H1-hESC_hg19_1|H2AFZ_astrocyte_hg19_1|MYC_HepG2_hg19_1|CEBPD_HepG2_hg19_1|HDAC2_H1-hESC_hg19_1|TBP_GM12878_hg19_1|MYBL2_HepG2_hg19_1|YY1_A549_hg19_1|MAFK_HeLa-S3_hg19_1|H2AFZ_mammary epithelial cell_hg19_1|POLR2AphosphoS5_PFSK-1_hg19_2|POLR2AphosphoS5_K562_hg19_1|PML_GM12878_hg19_1|H2AFZ_myotube_hg19_1|POLR2A_IMR-90_hg19_1|H2AFZ_skeletal muscle myoblast_hg19_1|IRF1_K562_hg19_1|ZNF384_K562_hg19_1|MYC_endothelial cell of umbilical vein_hg19_1|POLR2A_K562_hg19_5|UBTF_K562_hg19_1|REST_neural cell_hg19_1|H2AFZ_HeLa-S3_hg19_1|H2AFZ_endothelial cell of umbilical vein_hg19_1|H2AFZ_A549_hg19_2|POLR2A_GM12891_hg19_3|POLR2A_H1-hESC_hg19_1|POLR2AphosphoS5_GM12878_hg19_1|POLR2A_MCF 10A_hg19_2|TCF12_GM12878_hg19_1|BCLAF1_GM12878_hg19_1|ZBTB7A_K562_hg19_2|H2AFZ_fibroblast of dermis_hg19_1|PAX5_GM12892_hg19_2|ZC3H11A_K562_hg19_1|H2AFZ_osteoblast_hg19_1|MAX_A549_hg19_3|TEAD4_K562_hg19_2|YY1_ECC-1_hg19_2|ELF1_HepG2_hg19_2|H2AFZ_A549_hg19_1|GABPA_K562_hg19_2|HCFC1_HeLa-S3_hg19_1|POLR2AphosphoS5_SK-N-MC_hg19_2|ELK1_K562_hg19_1|TAF1_HepG2_hg19_1|ETS1_K562_hg19_2|CEBPB_HeLa-S3_hg19_1|IRF1_K562_hg19_3|H2AFZ_keratinocyte_hg19_1|TCF7L2_HeLa-S3_hg19_1|ZNF143_H1-hESC_hg19_1|JUND_H1-hESC_hg19_3|POLR2A_GM10847_hg19_1|REST_A549_hg19_2|RBBP5_K562_hg19_1|SAP30_K562_hg19_1|CTCF_SK-N-SH_hg19_3|H2AFZ_fibroblast of lung_hg19_1|CTCF_SK-N-SH_hg19_4|H2AFZ_K562_hg19_1|H2AFZ_CD14-positive monocyte_hg19_1|ARID3A_HepG2_hg19_1|POU2F2_GM12878_hg19_2|H2AFZ_HepG2_hg19_1|MYC_H1-hESC_hg19_2|RFX5_GM12878_hg19_1|RBBP5_H1-hESC_hg19_1|PAX5_GM12878_hg19_1|POLR2A_embryonic fibroblast_mm9_1|NFIC_GM12878_hg19_1|FOXP2_PFSK-1_hg19_1|MAX_H1-hESC_hg19_2|POLR2A_myocyte_mm9_1|EGR1_K562_hg19_1|MAX_H1-hESC_hg19_1|POLR2A_MEL cell line_mm9_1|ELF1_HepG2_hg19_1|HDAC1_K562_hg19_1|SIN3A_H1-hESC_hg19_1|POLR2A_H1-hESC_hg19_3|MAFK_K562_hg19_1|NFIC_HepG2_hg19_1|ELF1_MCF-7_hg19_1|SIN3A_MCF-7_hg19_1|TAF1_GM12892_hg19_1|POLR2A_small intestine_mm9_1|NELFE_CH12.LX_mm9_1|IRF1_K562_hg19_2|HA-E2F1_MCF-7_hg19_1|POLR2A_CH12.LX_mm9_1|POLR2A_testis_mm9_1|SIN3A_CH12.LX_mm9_1|MXI1_CH12.LX_mm9_1|E2F6_K562_hg19_3|ETS1_A549_hg19_1|POLR2AphosphoS2_K562_hg19_1|SP4_H1-hESC_hg19_2|ELF1_A549_hg19_2|eGFP-JUND_K562_hg19_1|POLR2A_limb_mm9_1|EP300_GM12878_hg19_5|FOXM1_GM12878_hg19_2|ATF2_GM12878_hg19_1|KDM5B_K562_hg19_1|CHD1_H1-hESC_hg19_1|CHD1_K562_hg19_1|POLR2A_heart_mm9_1|POLR2A_brain_mm9_1|FOXM1_GM12878_hg19_1|MYBL2_HepG2_hg19_2|POLR2A_olfactory bulb_mm9_1|TAF1_PFSK-1_hg19_1|CREB1_HepG2_hg19_1|POLR2A_thymus_mm9_1|TAF1_neural cell_hg19_2|TAF1_SK-N-SH_hg19_1|CTCF_mammary epithelial cell_hg19_2|HCFC1_CH12.LX_mm9_1|CTCF_T-cell acute lymphoblastic leukemia_hg19_1|POLR2AphosphoS2_myocyte_mm9_1|EGR1_K562_hg19_2|CTCF_brain microvascular endothelial cell_hg19_1|BRCA1_HepG2_hg19_1|SIN3A_A549_hg19_1|TAF1_GM12891_hg19_1|POLR2A_HCT116_hg19_1|POU2F2_GM12891_hg19_1|CTCF_K562_hg19_1|H2AFZ_H1-hESC_hg19_1|EZH2_H1-hESC_hg19_1|POLR2A_MEL cell line_mm9_3|NR2F2_K562_hg19_2|YY1_ECC-1_hg19_1|TCF3_GM12878_hg19_1|HDAC2_K562_hg19_1|HDAC2_HepG2_hg19_1|MAZ_IMR-90_hg19_1|FOS_MCF 10A_hg19_1|CTCF_fibroblast of lung_hg19_1|USF2_HeLa-S3_hg19_1|TAF1_ECC-1_hg19_2|REST_A549_hg19_1|TCF7L2_Panc1_hg19_1|MXI1_IMR-90_hg19_1|eGFP-JUNB_K562_hg19_1|CTCF_GM12871_hg19_2|POLR2AphosphoS5_HL-60_hg19_1|CREB1_GM12878_hg19_1|POLR2A_K562_hg19_8|E2F6_A549_hg19_1|USF2_GM12878_hg19_1|CTCF_endothelial cell of umbilical vein_hg19_3|YY1_H1-hESC_hg19_1|TBP_MEL cell line_mm9_1|ZEB1_GM12878_hg19_2|MAX_MCF-7_hg19_2|GABPA_A549_hg19_1|CTCF_BJ_hg19_1|CTCF_bronchial epithelial cell_hg19_2|POLR2A_bone marrow macrophage_mm9_1|CTCF_bronchial epithelial cell_hg19_1|MAX_H1-hESC_hg19_3|TAL1_K562_hg19_1|EP300_GM12878_hg19_4|CREB1_H1-hESC_hg19_1|CTCF_fibroblast of upper leg skin_hg19_2|CTCF_MCF-7_hg19_4|PML_MCF-7_hg19_2|REST_HepG2_hg19_4|POLR2A_K562_hg19_9|BACH1_H1-hESC_hg19_1|PAX5_GM12878_hg19_4|CUX1_K562_hg19_1|STAT3_MCF 10A_hg19_3|STAT3_MCF 10A_hg19_2|CTCF_endothelial cell of umbilical vein_hg19_1|H3K27me3_HepG2_hg19_1|CTCF_fibroblast of gingiva_hg19_1|EGR1_GM12878_hg19_2|MXI1_SK-N-SH_hg19_1|GTF2B_K562_hg19_1|ARID3A_K562_hg19_1|CTCF_IMR-90_hg19_1|CTCF_GM12878_hg19_2|CTCF_osteoblast_hg19_1|FOS_MCF 10A_hg19_3|CTCF_astrocyte of the spinal cord_hg19_1|CTCF_retinal pigment epithelial cell_hg19_2|CTCF_cardiac muscle cell_hg19_2|CTCF_foreskin fibroblast_hg19_1|CTCF_retinal pigment epithelial cell_hg19_1|CTCF_brain microvascular endothelial cell_hg19_2|TAF1_GM12891_hg19_2|CTCF_epithelial cell of proximal tubule_hg19_1|CTCF_fibroblast of pedal digit skin_hg19_1|CTCF_GM12869_hg19_1|CTCF_fibroblast of villous mesenchyme_hg19_2|CTCF_mammary epithelial cell_hg19_3|TAF7_H1-hESC_hg19_2|CTCF_fibroblast of pulmonary artery_hg19_1|CTCF_fibroblast of gingiva_hg19_2|CTCF_fibroblast of lung_hg19_2|CTCF_A549_hg19_2|CTCF_fibroblast of mammary gland_hg19_2|CTCF_astrocyte of the cerebellum_hg19_2|CTCF_GM12873_hg19_1|CTCF_GM12874_hg19_2|CTCF_GM12871_hg19_1|CTCF_GM12878_hg19_4|CTCF_fibroblast of lung_hg19_3|CTCF_GM12870_hg19_1|CTCF_fibroblast of lung_hg19_6|CTCF_MCF-7_hg19_5|CTCF_A549_hg19_7|CTCF_BJ_hg19_2|CTCF_GM12875_hg19_1|CTCF_GM12868_hg19_1|CTCF_foreskin fibroblast_hg19_2|CTCF_kidney epithelial cell_hg19_1|CTCF_kidney epithelial cell_hg19_2|CTCF_skeletal muscle myoblast_hg19_1|CTCF_fibroblast of lung_hg19_5|CTCF_fibroblast of pulmonary artery_hg19_2|CTCF_fibroblast of lung_hg19_4|CTCF_fibroblast of skin of abdomen_hg19_1|CTCF_GM12865_hg19_2|CTCF_GM12866_hg19_1|CTCF_fibroblast of the aortic adventitia_hg19_2|CTCF_A549_hg19_9|CTCF_GM06990_hg19_2|CTCF_HEK293_hg19_1|CTCF_GM06990_hg19_1|CTCF_GM12864_hg19_2|CTCF_K562_hg19_5|CTCF_GM19239_hg19_1|POLR2AphosphoS2_HepG2_hg19_1|CTCF_cardiac fibroblast_hg19_1|CTCF_choroid plexus epithelial cell_hg19_2|CTCF_epithelial cell of esophagus_hg19_1|CTCF_endothelial cell of umbilical vein_hg19_4|CTCF_HepG2_hg19_5|CTCF_HepG2_hg19_6|CTCF_pancreas_hg19_1|CTCF_fibroblast of the aortic adventitia_hg19_1|CTCF_GM12867_hg19_1|CTCF_GM12873_hg19_3|CTCF_keratinocyte_hg19_3|CTCF_GM12873_hg19_2|CTCF_HepG2_hg19_1|MAX_CH12.LX_mm9_1|CTCF_GM12864_hg19_1|CTCF_GM12872_hg19_1|CTCF_fibroblast of skin of abdomen_hg19_2|CTCF_foreskin fibroblast_hg19_3|CTCF_BE2C_hg19_1|CTCF_A549_hg19_1|CTCF_GM12892_hg19_1|CTCF_GM12872_hg19_3|CTCF_GM12878_hg19_1|CTCF_keratinocyte_hg19_2|CHD1_H1-hESC_hg19_2|CTCF_GM10266_hg19_1|CTCF_keratinocyte_hg19_1|CTCF_GM12874_hg19_1|CTCF_HeLa-S3_hg19_4|CTCF_HeLa-S3_hg19_2|ZNF263_HEK293_hg19_1|CTCF_Caco-2_hg19_2|CTCF_MCF-7_hg19_8|CTCF_GM12865_hg19_1|NELFE_MEL cell line_mm9_1|CTCF_WERI-Rb-1_hg19_1|CTCF_GM19238_hg19_1|CTCF_Caco-2_hg19_1|CTCF_GM19240_hg19_1|CTCF_fibroblast of dermis_hg19_1|CTCF_GM12875_hg19_2|TAF1_GM12878_hg19_1|CTCF_H1-hESC_hg19_1|CTCF_GM12891_hg19_1|CTCF_skin fibroblast_hg19_1|CTCF_CD14-positive monocyte_hg19_1|POU2F2_GM12878_hg19_1|CTCF_myotube_hg19_1|TCF7L2_HCT116_hg19_1|CTCF_MCF-7_hg19_7|CTCF_MCF-7_hg19_3|CTCF_K562_hg19_2|HDAC6_K562_hg19_1|CTCF_kidney_hg19_1|RELA_GM15510_hg19_1|CTCF_HeLa-S3_hg19_1|MAX_HepG2_hg19_1|KAT2A_CH12.LX_mm9_1|CHD7_H1-hESC_hg19_1|GABPA_MCF-7_hg19_1|CTCF_lung_hg19_1|KDM5A_H1-hESC_hg19_1|FOS_MCF 10A_hg19_4|EP300_GM12878_hg19_3|TBP_CH12.LX_mm9_1|E2F6_K562_hg19_1|POLR2A_lung_mm9_1|ETS1_K562_hg19_1|HCFC1_ES-E14_mm9_1|FOXA1_T47D_hg19_2|SMC3_GM12878_hg19_1|FOXP2_SK-N-MC_hg19_2|CREB1_A549_hg19_2|USF2_H1-hESC_hg19_1|SETDB1_K562_hg19_1|PML_K562_hg19_1|JUND_H1-hESC_hg19_2|ELF1_MCF-7_hg19_2|STAT5A_GM12878_hg19_1|RELA_GM19099_hg19_1|CEBPB_K562_hg19_3|RAD21_SK-N-SH_hg19_1|EP300_H1-hESC_hg19_1|HCFC1_MEL cell line_mm9_1|MTA3_GM12878_hg19_1|YY1_H1-hESC_hg19_2|RAD21_H1-hESC_hg19_3|PAX5_GM12878_hg19_2|BCL3_A549_hg19_2|NFATC1_GM12878_hg19_2|SMARCB1_HeLa-S3_hg19_1|POU2F2_GM12891_hg19_2|HDAC2_K562_hg19_2|SP1_H1-hESC_hg19_1|SMC3_K562_hg19_1|E2F4_K562_hg19_1|REST_SK-N-SH_hg19_3|EBF1_GM12878_hg19_2|CTCF_thymus_mm9_1|RAD21_K562_hg19_2|BRCA1_GM12878_hg19_1|SIN3A_MEL cell line_mm9_1|RAD21_IMR-90_hg19_1|POU2F2_GM12878_hg19_3|KDM1A_K562_hg19_1|ELK4_HeLa-S3_hg19_1|TAF1_neural cell_hg19_1|REST_K562_hg19_2|EP300_heart_mm9_1|POLR2A_kidney_mm9_1|MAZ_CH12.LX_mm9_1|MAX_HepG2_hg19_2|FOS_MCF 10A_hg19_2|POLR2A_liver_mm9_1|MXI1_MEL cell line_mm9_1|RFX5_K562_hg19_1|BHLHE40_HepG2_hg19_3|TCF3_GM12878_hg19_2|YY1_SK-N-SH_hg19_4|CTCF_MEL cell line_mm9_1|SIN3A_PFSK-1_hg19_2|TCF12_ECC-1_hg19_2|USF1_A549_hg19_6|TEAD4_K562_hg19_1|NFYA_HeLa-S3_hg19_1|ZNF384_GM12878_hg19_1|RAD21_HepG2_hg19_3|FOSL2_A549_hg19_2|TRIM28_K562_hg19_1|STAT3_MCF 10A_hg19_1|CREB1_H1-hESC_hg19_2|NFIC_ECC-1_hg19_2|NFYB_GM12878_hg19_1|RAD21_HeLa-S3_hg19_1|REST_HL-60_hg19_1|MAFK_HepG2_hg19_2|CEBPB_HepG2_hg19_3|TRIM28_U2OS_hg19_1|MYC_GM12878_hg19_1|USF1_SK-N-SH_hg19_1|USF1_SK-N-SH_hg19_2|MYC_MCF-7_hg19_3|MYC_MCF-7_hg19_1|MAFK_HepG2_hg19_1|EZH2_T-cell acute lymphoblastic leukemia_hg19_1|TRIM28_HEK293_hg19_1|CEBPB_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOS_HeLa-S3_hg19_1	0.00323	1	1	0	1		FOS_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOS_endothelial cell of umbilical vein_hg19_1	-0.0077519	1	1	0	-1		FOS_endothelial cell of umbilical vein_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_megakaryocyte_mm9_2	-0.07009	0.01598	1	0	-1		GATA1_megakaryocyte_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_G1E-ER4_mm9_2	0.015504	0.5804	1	0	1		GATA2_G1E-ER4_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_Caco-2_hg19_1	0.0096899	0.82498	1	0	1		H3K27me3_Caco-2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_G1E_mm9_3	0.072674	0.16963	1	0	1		H3K27me3_G1E_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_GM06990_hg19_1	-0.003553	1	1	0	-1		H3K27me3_GM06990_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_K562_hg19_2	0.001615	1	1	0	1		H3K27me3_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_MEL cell line_mm9_3	0.041667	0.46873	1	0	1		H3K27me3_MEL cell line_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_GM06990_hg19_2	0.0093669	0.70086	1	0	1		H3K36me3_GM06990_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_bronchial epithelial cell_hg19_1	0.020995	0.47091	1	0	1		H3K36me3_bronchial epithelial cell_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_cardiac mesoderm_hg19_4	-0.046189	0.066459	1	0	-1		H3K36me3_cardiac mesoderm_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_myotube_hg19_1	0.027132	0.2203	1	0	1		H3K36me3_myotube_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_osteoblast_hg19_1	-0.030039	0.12011	1	0	-1		H3K36me3_osteoblast_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_small intestine_mm9_1	0.014858	0.74133	1	0	1		H3K36me3_small intestine_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_GM12878_hg19_1	-0.030039	0.12138	1	0	-1		JUND_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	KAT2A_GM12878_hg19_1	-0.076227	0.01548	1	0	-1		KAT2A_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_astrocyte_hg19_1	0.015504	0.88902	1	0	1		EZH2_astrocyte_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_GM12878_hg19_1	-0.054587	0.081329	1	0	-1		EP300_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_A549_hg19_1	-0.021964	0.64671	1	0	-1		EP300_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EGR1_H1-hESC_hg19_2	0.025517	0.72578	1	0	1		EGR1_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF2_CH12.LX_mm9_1	-0.058786	0.2607	1	0	-1		USF2_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF2_MEL cell line_mm9_2	0.014858	0.74086	1	0	1		USF2_MEL cell line_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZNF274_K562_hg19_1	0.017119	0.68844	1	0	1		ZNF274_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZZZ3_HeLa-S3_hg19_1	-0.006137	1	1	0	-1		ZZZ3_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	eGFP-HDAC8_K562_hg19_1	-0.092054	0.052589	1	0	-1		eGFP-HDAC8_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF3_K562_hg19_3	0.023256	0.34847	1	0	1		ATF3_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BATF_GM12878_hg19_1	0.004845	1	1	0	1		BATF_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BCL11A_GM12878_hg19_2	-0.043605	0.35115	1	0	-1		BCL11A_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAX_endothelial cell of umbilical vein_hg19_1	-0.070736	0.062329	1	0	-1		MAX_endothelial cell of umbilical vein_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BHLHE40_MEL cell line_mm9_1	0.010659	0.84964	1	0	1		BHLHE40_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_HepG2_hg19_1	-0.089147	0.02811	1	0	-1		CEBPB_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_MCF-7_hg19_1	-0.06363	0.12692	1	0	-1		CEBPB_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPD_K562_hg19_2	-0.066214	0.02541	1	0	-1		CEBPD_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CHD1_IMR-90_hg19_1	-0.049742	0.26213	1	0	-1		CHD1_IMR-90_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CREBBP_K562_hg19_1	0.014858	0.74175	1	0	1		CREBBP_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_testis_mm9_1	-0.080749	0.16293	1	0	-1		CTCF_testis_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CUX1_GM12878_hg19_1	-0.17119	0.00237	1	0	-1		CUX1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EGR1_GM12878_hg19_3	0.024871	0.46526	1	0	1		EGR1_GM12878_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BRCA1_H1-hESC_hg19_1	0.013243	0.86663	1	0	1		BRCA1_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MEF2A_GM12878_hg19_2	-0.030685	0.33344	1	0	-1		MEF2A_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MEF2A_K562_hg19_2	0.001615	1	1	0	1		MEF2A_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NANOG_H1-hESC_hg19_1	0.023256	0.34975	1	0	1		NANOG_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ETS1_CH12.LX_mm9_1	-0.11854	0.04648	1	0	-1		ETS1_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_SH-SY5Y_hg19_1	0.006137	1	1	0	1		GATA2_SH-SY5Y_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_endothelial cell of umbilical vein_hg19_1	-0.096899	0.01838	1	0	-1		GATA2_endothelial cell of umbilical vein_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_K562_hg19_4	0.16699	0.01254	1	0	1		H3K27me3_K562_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_MEL cell line_mm9_2	-0.0074289	1	1	0	-1		H3K27me3_MEL cell line_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_keratinocyte_hg19_2	0.084948	0.10517	1	0	1		H3K27me3_keratinocyte_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_BJ_hg19_2	0.017119	0.68961	1	0	1		H3K36me3_BJ_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_T-cell acute lymphoblastic leukemia_hg19_1	-0.026809	0.35482	1	0	-1		H3K36me3_T-cell acute lymphoblastic leukemia_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_SK-N-SH_hg19_5	0.013243	0.69182	1	0	1		EP300_SK-N-SH_hg19_5
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_cardiac mesoderm_hg19_5	-0.014535	0.69585	1	0	-1		H3K36me3_cardiac mesoderm_hg19_5
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_spleen_mm9_1	-0.054587	0.082079	1	0	-1		H3K36me3_spleen_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HDAC6_H1-hESC_hg19_1	0.001292	1	1	0	1		HDAC6_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	IRF4_GM12878_hg19_1	-0.072028	0.11077	1	0	-1		IRF4_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUN_HeLa-S3_hg19_1	0.015504	0.58028	1	0	1		JUN_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	KAT2A_HeLa-S3_hg19_1	-0.016796	0.74248	1	0	-1		KAT2A_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	KDM5B_H1-hESC_hg19_1	-0.025517	0.71722	1	0	-1		KDM5B_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAX_K562_hg19_4	-0.016796	0.74219	1	0	-1		MAX_K562_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYOG_myocyte_mm9_3	0.028747	0.31589	1	0	1		MYOG_myocyte_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_skeletal muscle myoblast_hg19_1	-0.026809	0.35675	1	0	-1		H3K36me3_skeletal muscle myoblast_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	THAP1_K562_hg19_1	-0.013566	0.79528	1	0	-1		THAP1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	E2F6_HeLa-S3_hg19_1	-0.018411	0.41913	1	0	-1		E2F6_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTBP2_H1-hESC_hg19_1	-0.020672	0.78406	1	0	-1		CTBP2_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NFIC_SK-N-SH_hg19_2	-0.01292	0.74577	1	0	-1		NFIC_SK-N-SH_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR3C1_A549_hg19_8	0.014212	0.79322	1	0	1		NR3C1_A549_hg19_8
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RCOR1_MEL cell line_mm9_1	0.075258	0.03584	1	0	1		RCOR1_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_ECC-1_hg19_2	0.0096899	0.82413	1	0	1		REST_ECC-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_GM12878_hg19_3	-0.043605	0.35182	1	0	-1		REST_GM12878_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_Panc1_hg19_4	-0.028424	0.61871	1	0	-1		REST_Panc1_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIN3A_HCT116_hg19_2	-0.012274	0.61623	1	0	-1		SIN3A_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SMARCC1_HeLa-S3_hg19_1	-0.000323	1	1	0	-1		SMARCC1_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_olfactory bulb_mm9_1	-0.060078	0.32211	1	0	-1		CTCF_olfactory bulb_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SP1_HCT116_hg19_2	0.052003	0.13643	1	0	1		SP1_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_GM12878_hg19_2	-0.046189	0.067589	1	0	-1		SRF_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SUZ12_K562_hg19_1	0.060401	0.31828	1	0	1		SUZ12_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF7L2_HeLa-S3_hg19_2	-0.004522	1	1	0	-1		TCF7L2_HeLa-S3_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF2_MEL cell line_mm9_1	0.032946	0.52636	1	0	1		USF2_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZC3H11A_CH12.LX_mm9_1	-0.018088	0.65342	1	0	-1		ZC3H11A_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZC3H11A_MEL cell line_mm9_1	0.00096899	1	1	0	1		ZC3H11A_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZEB1_GM12878_hg19_1	-0.011951	0.81381	1	0	-1		ZEB1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BCL3_GM12878_hg19_1	-0.038114	0.3894	1	0	-1		BCL3_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SPI1_GM12891_hg19_2	0.0067829	1	1	0	1		SPI1_GM12891_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NFE2_GM12878_hg19_1	-0.10691	0.0092799	1	0	-1		NFE2_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF7L2_HEK293_hg19_1	-0.037468	0.33187	1	0	-1		TCF7L2_HEK293_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAL1_megakaryocyte_mm9_5	-0.02907	0.40075	1	0	-1		TAL1_megakaryocyte_mm9_5
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_HeLa-S3_hg19_1	0.027455	0.50439	1	0	1		EP300_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_MCF-7_hg19_2	-0.004522	1	1	0	-1		EP300_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ESRRA_GM12878_hg19_1	-0.014535	0.6968	1	0	-1		ESRRA_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ETS1_GM12878_hg19_2	-0.032946	0.39072	1	0	-1		ETS1_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ETS1_MEL cell line_mm9_1	-0.000323	1	1	0	-1		ETS1_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_B cell_hg19_1	-0.024871	0.69618	1	0	-1		EZH2_B cell_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_skeletal muscle myoblast_hg19_1	-0.055233	0.35522	1	0	-1		EZH2_skeletal muscle myoblast_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL1_K562_hg19_1	0.031008	0.20706	1	0	1		FOSL1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL1_K562_hg19_2	0.017119	0.68954	1	0	1		FOSL1_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL2_A549_hg19_1	0.0096899	0.82632	1	0	1		FOSL2_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL2_MCF-7_hg19_1	0.032623	0.31064	1	0	1		FOSL2_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXM1_ECC-1_hg19_1	-0.022287	0.37891	1	0	-1		FOXM1_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_K562_hg19_2	-0.026163	0.35026	1	0	-1		GATA2_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_K562_hg19_3	-0.046189	0.066199	1	0	-1		GATA2_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_A549_hg19_2	-0.021641	0.71947	1	0	-1		H3K27me3_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_ES-Bruce4_mm9_1	0.035853	0.53883	1	0	1		H3K27me3_ES-Bruce4_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_G1E-ER4_mm9_2	0.063307	0.20869	1	0	1		H3K27me3_G1E-ER4_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ELK4_HEK293_hg19_1	-0.010659	0.71106	1	0	-1		ELK4_HEK293_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CHD4_K562_hg19_1	-0.092054	0.051209	1	0	-1		CHD4_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CHD1_MEL cell line_mm9_1	0.010982	0.74326	1	0	1		CHD1_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CHD1_CH12.LX_mm9_1	-0.004199	1	1	0	-1		CHD1_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_HepG2_hg19_1	-0.018411	0.41683	1	0	-1		SRF_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_K562_hg19_2	-0.0083979	1	1	0	-1		SRF_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	STAT1_HeLa-S3_hg19_1	-0.058463	0.065579	1	0	-1		STAT1_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	STAT3_HeLa-S3_hg19_1	0.001938	1	1	0	1		STAT3_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SUPT20H_GM12878_hg19_1	-0.077842	0.0055199	1	0	-1		SUPT20H_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAF1_A549_hg19_2	-0.036176	0.10937	1	0	-1		TAF1_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAF7_K562_hg19_2	-0.026163	0.35183	1	0	-1		TAF7_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAL1_G1E-ER4_mm9_3	-0.033915	0.071219	1	0	-1		TAL1_G1E-ER4_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_cerebellum_mm9_1	0.03553	0.59275	1	0	1		H3K27me3_cerebellum_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF12_H1-hESC_hg19_1	0.021318	0.66218	1	0	1		TCF12_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TEAD4_HepG2_hg19_2	-0.018411	0.41646	1	0	-1		TEAD4_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	UBTF_MEL cell line_mm9_1	-0.005814	1	1	0	-1		UBTF_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	WHSC1_K562_hg19_1	-0.125	0.02037	1	0	-1		WHSC1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZKSCAN1_MEL cell line_mm9_1	-0.020026	0.21075	1	0	-1		ZKSCAN1_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF3_A549_hg19_1	-0.039729	0.36052	1	0	-1		ATF3_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BCL11A_H1-hESC_hg19_2	0.015504	0.58093	1	0	1		BCL11A_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_C2C12_mm9_1	-0.005814	1	1	0	-1		CEBPB_C2C12_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_K562_hg19_2	-0.023579	0.61888	1	0	-1		CEBPB_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF12_MCF-7_hg19_2	-0.002261	1	1	0	-1		TCF12_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_fibroblast of lung_hg19_1	0.010982	0.87237	1	0	1		H3K27me3_fibroblast of lung_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_mammary epithelial cell_hg19_1	0.092054	0.095249	1	0	1		H3K27me3_mammary epithelial cell_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_splenic B cell_mm9_1	-0.0323	0.23693	1	0	-1		H3K27me3_splenic B cell_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2A_endothelial cell of umbilical vein_hg19_4	-0.073643	0.087259	1	0	-1		POLR2A_endothelial cell of umbilical vein_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS2_MEL cell line_mm9_1	-0.037468	0.32987	1	0	-1		POLR2AphosphoS2_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS5_G1E-ER4_mm9_1	-0.056848	0.1075	1	0	-1		POLR2AphosphoS5_G1E-ER4_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POU5F1_H1-hESC_hg19_1	0.015504	0.58019	1	0	1		POU5F1_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RCOR1_IMR-90_hg19_1	0.0074289	1	1	0	1		RCOR1_IMR-90_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_HepG2_hg19_3	-0.049742	0.26752	1	0	-1		REST_HepG2_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_K562_hg19_3	-0.05491	0.26772	1	0	-1		REST_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_MCF-7_hg19_1	0.001938	1	1	0	1		REST_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR3C1_A549_hg19_6	0.0087209	1	1	0	1		NR3C1_A549_hg19_6
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_PFSK-1_hg19_2	-0.037468	0.33547	1	0	-1		REST_PFSK-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RXRA_H1-hESC_hg19_2	0.001615	1	1	0	1		RXRA_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RXRA_HepG2_hg19_2	-0.0080749	1	1	0	-1		RXRA_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIN3A_HepG2_hg19_1	-0.035853	0.37083	1	0	-1		SIN3A_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIN3A_K562_hg19_1	-0.046835	0.16261	1	0	-1		SIN3A_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SPI1_HL-60_hg19_2	-0.11822	0.01844	1	0	-1		SPI1_HL-60_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_ECC-1_hg19_1	-0.067506	0.1167	1	0	-1		SRF_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SUZ12_H1-hESC_hg19_2	-0.005168	1	1	0	-1		SUZ12_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAF1_MCF-7_hg19_1	-0.021964	0.64571	1	0	-1		TAF1_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RXRA_GM12878_hg19_2	-0.004522	1	1	0	-1		RXRA_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF12_SK-N-SH_hg19_2	0.004845	1	1	0	1		TCF12_SK-N-SH_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR3C1_A549_hg19_4	0.024548	0.69348	1	0	1		NR3C1_A549_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYOD1_C2C12_mm9_1	-0.00064599	1	1	0	-1		MYOD1_C2C12_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_BJ_hg19_1	0.005491	1	1	0	1		H3K36me3_BJ_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_Caco-2_hg19_1	-0.01615	0.58983	1	0	-1		H3K36me3_Caco-2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_G1E-ER4_mm9_3	0.03876	0.12449	1	0	1		H3K36me3_G1E-ER4_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_GM12878_hg19_1	-0.037791	0.0349	1	0	-1		H3K36me3_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_H1-hESC_hg19_1	-0.004522	1	1	0	-1		H3K36me3_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_HeLa-S3_hg19_1	-0.006137	1	1	0	-1		H3K36me3_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_NT2-D1_hg19_1	-0.019703	0.62584	1	0	-1		H3K36me3_NT2-D1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_cardiac mesoderm_hg19_3	-0.010659	0.71058	1	0	-1		H3K36me3_cardiac mesoderm_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYOD1_myocyte_mm9_1	-0.021641	0.71753	1	0	-1		MYOD1_myocyte_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_cardiac mesoderm_hg19_6	-0.005168	1	1	0	-1		H3K36me3_cardiac mesoderm_hg19_6
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HDAC2_H1-hESC_hg19_2	-0.022933	0.54513	1	0	-1		HDAC2_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HDAC2_HepG2_hg19_2	-0.0074289	1	1	0	-1		HDAC2_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_H1-hESC_hg19_1	0.032623	0.3129	1	0	1		JUND_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUN_K562_hg19_2	-0.031654	0.59125	1	0	-1		JUN_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUN_endothelial cell of umbilical vein_hg19_1	-0.0083979	1	1	0	-1		JUN_endothelial cell of umbilical vein_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAX_myocyte_mm9_1	-0.012274	0.61229	1	0	-1		MAX_myocyte_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MEF2C_GM12878_hg19_2	-0.076227	0.01519	1	0	-1		MEF2C_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYC_H1-hESC_hg19_1	0.034238	0.38488	1	0	1		MYC_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_liver_mm9_1	-0.004522	1	1	0	-1		H3K36me3_liver_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR2F2_MCF-7_hg19_2	-0.024548	0.47247	1	0	-1		NR2F2_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RELA_GM18526_hg19_1	-0.014535	0.695	1	0	-1		RELA_GM18526_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_GM12878_hg19_4	-0.021964	0.64781	1	0	-1		REST_GM12878_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_HepG2_hg19_2	-0.013889	0.8587	1	0	-1		JUND_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUN_H1-hESC_hg19_1	0.047804	0.3541	1	0	1		JUN_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	KAT2A_MEL cell line_mm9_1	-0.040052	0.071429	1	0	-1		KAT2A_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR3C1_ECC-1_hg19_2	0.015504	0.57959	1	0	1		NR3C1_ECC-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2A_spleen_mm9_1	-0.086563	0.096749	1	0	-1		POLR2A_spleen_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_HepG2_hg19_2	-0.049096	0.19669	1	0	-1		SRF_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SUZ12_NT2-D1_hg19_1	-0.005168	1	1	0	-1		SUZ12_NT2-D1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_HepG2_hg19_1	0.099806	0.12997	1	0	1		EZH2_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAFK_H1-hESC_hg19_1	-0.10594	0.0327	1	0	-1		MAFK_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_Panc1_hg19_3	-0.01615	0.59141	1	0	-1		REST_Panc1_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIRT6_H1-hESC_hg19_1	-0.063307	0.22236	1	0	-1		SIRT6_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIRT6_K562_hg19_1	-0.036499	0.41937	1	0	-1		SIRT6_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SREBF1_HepG2_hg19_2	-0.002261	1	1	0	-1		SREBF1_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF7L2_MCF-7_hg19_1	0.0080749	1	1	0	1		TCF7L2_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ESR1_T47D_hg19_2	0.001615	1	1	0	1		ESR1_T47D_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_GM06990_hg19_2	0.011628	0.59837	1	0	1		H3K27me3_GM06990_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_HeLa-S3_hg19_3	-0.002261	1	1	0	-1		H3K36me3_HeLa-S3_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_GM12878_hg19_3	0.12661	0.04615	1	0	1		H3K27me3_GM12878_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_megakaryocyte_mm9_1	-0.083979	0.0063999	1	0	-1		GATA1_megakaryocyte_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL1_C2C12_mm9_1	-0.012274	0.61495	1	0	-1		FOSL1_C2C12_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BACH1_K562_hg19_1	-0.0077519	1	1	0	-1		BACH1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR2C2_GM12878_hg19_1	-0.002261	1	1	0	-1		NR2C2_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PBX3_GM12878_hg19_2	-0.0083979	1	1	0	-1		PBX3_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_neural cell_hg19_2	-0.10853	0.0052099	1	0	-1		REST_neural cell_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	STAT2_K562_hg19_1	-0.023902	0.12113	1	0	-1		STAT2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF3_myocyte_mm9_1	0.001938	1	1	0	1		TCF3_myocyte_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZNF217_MCF-7_hg19_1	-0.011305	0.77966	1	0	-1		ZNF217_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	eGFP-NR4A1_K562_hg19_1	-0.036176	0.10637	1	0	-1		eGFP-NR4A1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_GM12878_hg19_2	-0.014535	0.69828	1	0	-1		EP300_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAFK_IMR-90_hg19_1	-0.094961	0.077169	1	0	-1		MAFK_IMR-90_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_H1-hESC_hg19_2	0.018734	0.5451	1	0	1		EP300_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_MCF-7_hg19_3	-0.032946	0.38552	1	0	-1		GATA3_MCF-7_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_kidney_mm9_1	0.036822	0.412	1	0	1		H3K27me3_kidney_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_skeletal muscle myoblast_hg19_1	-0.01615	0.86317	1	0	-1		H3K27me3_skeletal muscle myoblast_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_G1E-ER4_mm9_1	0.01938	0.35811	1	0	1		H3K36me3_G1E-ER4_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RXRA_SK-N-SH_hg19_1	-0.018411	0.41418	1	0	-1		RXRA_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_K562_hg19_1	0.002584	1	1	0	1		SRF_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TRIM28_K562_hg19_3	-0.04845	0.10538	1	0	-1		TRIM28_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	eGFP-FOS_K562_hg19_1	0.076873	0.055549	1	0	1		eGFP-FOS_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL1_H1-hESC_hg19_2	0.011628	0.5994	1	0	1		FOSL1_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYOD1_myocyte_mm9_3	-0.002261	1	1	0	-1		MYOD1_myocyte_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PBX3_GM12878_hg19_1	0.004199	1	1	0	1		PBX3_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2A_K562_hg19_4	-0.085271	0.04436	1	0	-1		POLR2A_K562_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_MCF-7_hg19_4	-0.006137	1	1	0	-1		GATA3_MCF-7_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HNF4A_HepG2_hg19_3	-0.0096899	0.80144	1	0	-1		HNF4A_HepG2_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MEF2A_SK-N-SH_hg19_1	-0.020026	0.20652	1	0	-1		MEF2A_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_T47D_hg19_2	-0.11305	0.0094899	1	0	-1		EP300_T47D_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_CD14-positive monocyte_hg19_1	0.01938	0.78448	1	0	1		H3K27me3_CD14-positive monocyte_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NFE2_K562_hg19_1	0.01938	0.36178	1	0	1		NFE2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF2_K562_hg19_1	-0.051357	0.22904	1	0	-1		USF2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BCL11A_GM12878_hg19_1	-0.036822	0.24241	1	0	-1		BCL11A_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZEB1_HepG2_hg19_1	-0.018411	0.41535	1	0	-1		ZEB1_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CBX3_HCT116_hg19_1	0.0093669	0.70515	1	0	1		CBX3_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_HeLa-S3_hg19_1	0.044251	0.21091	1	0	1		JUND_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIN3A_HCT116_hg19_1	-0.063953	0.01622	1	0	-1		SIN3A_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZNF263_K562_hg19_1	-0.0090439	0.75891	1	0	-1		ZNF263_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAZ_MEL cell line_mm9_1	0.016796	0.84034	1	0	1		MAZ_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_myotube_hg19_1	0.059109	0.41716	1	0	1		EZH2_myotube_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_K562_hg19_1	-0.056848	0.34645	1	0	-1		EP300_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RFX5_SK-N-SH_hg19_1	0.010982	0.74422	1	0	1		RFX5_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF12_myocyte_mm9_1	0.02261	0.53764	1	0	1		TCF12_myocyte_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EGR1_MCF-7_hg19_2	-0.0067829	1	1	0	-1		EGR1_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	KAT2B_K562_hg19_1	-0.085917	0.069919	1	0	-1		KAT2B_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_bronchial epithelial cell_hg19_2	0.042636	0.1313	1	0	1		H3K36me3_bronchial epithelial cell_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_MEL cell line_mm9_1	0.013566	0.82275	1	0	1		H3K27me3_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIN3A_Panc1_hg19_2	-0.059109	0.13264	1	0	-1		SIN3A_Panc1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF2_HepG2_hg19_1	-0.027778	0.59853	1	0	-1		USF2_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZC3H11A_ES-E14_mm9_1	-0.013566	0.79893	1	0	-1		ZC3H11A_ES-E14_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL1_HCT116_hg19_1	0.015504	0.57959	1	0	1		FOSL1_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXA1_T47D_hg19_1	-0.034238	0.52364	1	0	-1		FOXA1_T47D_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXM1_MCF-7_hg19_2	-0.006137	1	1	0	-1		FOXM1_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_G1E_mm9_3	0.020995	0.4697	1	0	1		GATA2_G1E_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_G1E_mm9_2	0.011628	0.59862	1	0	1		H3K36me3_G1E_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_HepG2_hg19_2	-0.004522	1	1	0	-1		H3K36me3_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_keratinocyte_hg19_3	0.01938	0.36287	1	0	1		H3K36me3_keratinocyte_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HSF1_HepG2_hg19_1	-0.020026	0.20774	1	0	-1		HSF1_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAX_MEL cell line_mm9_1	-0.026163	0.73355	1	0	-1		MAX_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYB_MEL cell line_mm9_1	-0.004522	1	1	0	-1		MYB_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RFX5_IMR-90_hg19_1	0.0093669	0.70683	1	0	1		RFX5_IMR-90_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CBX3_K562_hg19_3	-0.089793	0.04714	1	0	-1		CBX3_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_HCT116_hg19_2	-0.0323	0.2348	1	0	-1		CEBPB_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXM1_ECC-1_hg19_2	-0.040052	0.073589	1	0	-1		FOXM1_ECC-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_G1E_mm9_1	0.031008	0.20648	1	0	1		GATA2_G1E_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_splenic B cell_mm9_1	-0.01615	0.58958	1	0	-1		H3K36me3_splenic B cell_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HDAC2_H1-hESC_hg19_3	-0.042636	0.43312	1	0	-1		HDAC2_H1-hESC_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_thymus_mm9_1	0.015504	0.5805	1	0	1		H3K36me3_thymus_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_megakaryocyte_mm9_3	0.0071059	1	1	0	1		GATA1_megakaryocyte_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF12_SK-N-SH_hg19_1	-0.015181	0.77505	1	0	-1		TCF12_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TEAD4_SK-N-SH_hg19_1	-0.01292	0.74821	1	0	-1		TEAD4_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZBTB33_HCT116_hg19_2	-0.075581	0.0018	1	0	-1		ZBTB33_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZKSCAN1_CH12.LX_mm9_1	-0.034561	0.31914	1	0	-1		ZKSCAN1_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZMIZ1_MEL cell line_mm9_1	0.000323	1	1	0	1		ZMIZ1_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	eGFP-GATA2_K562_hg19_1	-0.083979	0.14255	1	0	-1		eGFP-GATA2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_A549_hg19_2	-0.057494	0.1683	1	0	-1		CEBPB_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_GM12878_hg19_2	-0.016796	0.74225	1	0	-1		CEBPB_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF12_GM12878_hg19_2	-0.088824	0.10487	1	0	-1		TCF12_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_HCT116_hg19_1	-0.028424	0.26507	1	0	-1		CEBPB_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ETS1_GM12878_hg19_1	-0.023902	0.12192	1	0	-1		ETS1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_fibroblast of lung_hg19_1	0.036822	0.59561	1	0	1		EZH2_fibroblast of lung_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXA1_ECC-1_hg19_1	-0.012274	0.61521	1	0	-1		FOXA1_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXA2_HepG2_hg19_1	0.00323	1	1	0	1		FOXA2_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GABPA_CH12.LX_mm9_1	-0.064599	0.053079	1	0	-1		GABPA_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_G1E-ER4_mm9_6	-0.052326	0.089639	1	0	-1		GATA1_G1E-ER4_mm9_6
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_MCF-7_hg19_1	-0.032623	0.54829	1	0	-1		GATA3_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_A549_hg19_1	0.05168	0.35194	1	0	1		H3K27me3_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	E2F4_CH12.LX_mm9_1	-0.031331	0.43966	1	0	-1		E2F4_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_GM12878_hg19_1	0.11434	0.03371	1	0	1		H3K27me3_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	STAT5A_K562_hg19_2	-0.036176	0.1099	1	0	-1		STAT5A_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIN3A_MCF-7_hg19_2	-0.080749	0.02696	1	0	-1		SIN3A_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIN3A_PFSK-1_hg19_1	-0.11854	0.00335	1	0	-1		SIN3A_PFSK-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_MCF-7_hg19_1	-0.08624	0.0099899	1	0	-1		SRF_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAL1_megakaryocyte_mm9_3	-0.046189	0.066169	1	0	-1		TAL1_megakaryocyte_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF12_HepG2_hg19_1	0.016473	0.77276	1	0	1		TCF12_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TEAD4_A549_hg19_2	0.001615	1	1	0	1		TEAD4_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF3_K562_hg19_2	0.000323	1	1	0	1		ATF3_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BHLHE40_HepG2_hg19_2	0.001615	1	1	0	1		BHLHE40_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	E2F4_myocyte_mm9_1	-0.093023	0.02211	1	0	-1		E2F4_myocyte_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SREBF1_GM12878_hg19_1	-0.030039	0.1223	1	0	-1		SREBF1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_H1-hESC_hg19_3	0.038437	0.43486	1	0	1		EP300_H1-hESC_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_CH12.LX_mm9_2	0.068475	0.13269	1	0	1		H3K27me3_CH12.LX_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_liver_mm9_1	0.074935	0.2594	1	0	1		H3K27me3_liver_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_CH12.LX_mm9_1	0.015504	0.58065	1	0	1		H3K36me3_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_K562_hg19_1	-0.020672	0.48919	1	0	-1		H3K36me3_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	IKZF1_GM12878_hg19_1	-0.11531	0.0123	1	0	-1		IKZF1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAFK_CH12.LX_mm9_1	-0.060401	0.23592	1	0	-1		MAFK_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PAX5_GM12891_hg19_1	-0.1124	0.00329	1	0	-1		PAX5_GM12891_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS2_K562_hg19_2	-0.015827	0.80988	1	0	-1		POLR2AphosphoS2_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_G1E-ER4_mm9_4	-0.080103	0.01012	1	0	-1		GATA1_G1E-ER4_mm9_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_HCT116_hg19_2	-0.006137	1	1	0	-1		SRF_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_endothelial cell of umbilical vein_hg19_1	0.069767	0.26142	1	0	1		H3K27me3_endothelial cell of umbilical vein_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_GM12878_hg19_3	-0.018411	0.41457	1	0	-1		H3K36me3_GM12878_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_Caco-2_hg19_2	0.015504	0.5783	1	0	1		H3K36me3_Caco-2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_ES-E14_mm9_1	-0.016796	0.74323	1	0	-1		H3K36me3_ES-E14_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_HepG2_hg19_1	0.011628	0.59878	1	0	1		H3K36me3_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_cardiac mesoderm_hg19_8	-0.0067829	1	1	0	-1		H3K36me3_cardiac mesoderm_hg19_8
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_erythroblast_mm9_1	-0.002261	1	1	0	-1		H3K36me3_erythroblast_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	IRF4_GM12878_hg19_2	-0.1053	0.01849	1	0	-1		IRF4_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUN_K562_hg19_6	-0.0083979	1	1	0	-1		JUN_K562_hg19_6
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NFIC_SK-N-SH_hg19_1	-0.033592	0.47282	1	0	-1		NFIC_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_fibroblast of dermis_hg19_1	0.023579	0.76258	1	0	1		H3K27me3_fibroblast of dermis_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RELA_GM12891_hg19_1	-0.045866	0.27411	1	0	-1		RELA_GM12891_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SREBF2_HepG2_hg19_1	-0.002261	1	1	0	-1		SREBF2_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_ECC-1_hg19_2	-0.036822	0.24248	1	0	-1		SRF_ECC-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZNF384_MEL cell line_mm9_1	-0.038114	0.39235	1	0	-1		ZNF384_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF1_K562_hg19_1	-0.029393	0.58645	1	0	-1		ATF1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_ECC-1_hg19_2	-0.046835	0.16222	1	0	-1		CEBPB_ECC-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_SK-N-SH_hg19_3	-0.024225	0.66541	1	0	-1		EP300_SK-N-SH_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ESR1_ECC-1_hg19_4	0.031008	0.20704	1	0	1		ESR1_ECC-1_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FLI1_megakaryocyte_mm9_3	-0.002261	1	1	0	-1		FLI1_megakaryocyte_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RELA_GM19193_hg19_1	-0.079134	0.059039	1	0	-1		RELA_GM19193_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_G1E_mm9_3	-0.018411	0.41565	1	0	-1		H3K36me3_G1E_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_megakaryocyte_mm9_4	0.001615	1	1	0	1		GATA1_megakaryocyte_mm9_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_MCF-7_hg19_2	-0.04845	0.10395	1	0	-1		CEBPB_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_cardiac mesoderm_hg19_2	-0.040052	0.070739	1	0	-1		H3K36me3_cardiac mesoderm_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_keratinocyte_hg19_2	0.00323	1	1	0	1		H3K36me3_keratinocyte_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	IRF3_HepG2_hg19_1	-0.002261	1	1	0	-1		IRF3_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_SK-N-SH_hg19_3	0.024871	0.46572	1	0	1		JUND_SK-N-SH_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUN_CH12.LX_mm9_1	0.0096899	0.82646	1	0	1		JUN_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUN_K562_hg19_1	-0.002584	1	1	0	-1		JUN_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAX_C2C12_mm9_1	-0.10207	0.03573	1	0	-1		MAX_C2C12_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR3C1_A549_hg19_7	0.062984	0.11075	1	0	1		NR3C1_A549_hg19_7
+ENCODE Transcription Factor Binding Site Profiles	encodetf	E2F4_GM12878_hg19_1	-0.082041	0.076219	1	0	-1		E2F4_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR3C1_ECC-1_hg19_1	0.0071059	1	1	0	1		NR3C1_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS5_G1E-ER4_mm9_2	-0.028424	0.26408	1	0	-1		POLR2AphosphoS5_G1E-ER4_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RELA_GM12892_hg19_1	-0.096253	0.0060999	1	0	-1		RELA_GM12892_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SP1_K562_hg19_1	-0.034561	0.31601	1	0	-1		SP1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_myocyte_mm9_1	-0.0090439	0.75805	1	0	-1		SRF_myocyte_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF7L2_HepG2_hg19_1	-0.01292	0.74835	1	0	-1		TCF7L2_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TEAD4_SK-N-SH_hg19_2	-0.0083979	1	1	0	-1		TEAD4_SK-N-SH_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZNF384_CH12.LX_mm9_1	-0.022287	0.7358	1	0	-1		ZNF384_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CBX8_K562_hg19_1	0.015827	0.81052	1	0	1		CBX8_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2A_GM12878_hg19_5	-0.14147	0.00359	1	0	-1		POLR2A_GM12878_hg19_5
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_HeLa-S3_hg19_1	0.10433	0.052779	1	0	1		EZH2_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SREBF2_GM12878_hg19_1	-0.002261	1	1	0	-1		SREBF2_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SPI1_K562_hg19_2	-0.06363	0.12808	1	0	-1		SPI1_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EGR1_HCT116_hg19_2	-0.019703	0.6295	1	0	-1		EGR1_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SMC3_HepG2_hg19_1	-0.12371	0.059779	1	0	-1		SMC3_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_CH12.LX_mm9_1	0.028108	0.46378	1	0	1		H3K27me3_CH12.LX_mm9_1|H3K27me3_CH12.LX_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF2_H1-hESC_hg19_2	-0.00017005	0.99284	1	0	-1		ATF2_H1-hESC_hg19_2|ATF2_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_PFSK-1_hg19_4	-0.064637	0.17754	1	0	-1		REST_PFSK-1_hg19_4|REST_PFSK-1_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_SK-N-SH_hg19_4	-0.085594	0.13171	1	0	-1		REST_SK-N-SH_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TEAD4_ECC-1_hg19_2	-0.023733	0.53019	1	0	-1		TEAD4_ECC-1_hg19_2|TEAD4_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_A549_hg19_3	-0.035141	0.51797	1	0	-1		CEBPB_A549_hg19_3|CEBPB_IMR-90_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_myocyte_mm9_1	0.0016343	0.98792	1	0	1		H3K27me3_myocyte_mm9_1|H3K27me3_C2C12_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_myocyte_mm9_2	-0.028711	0.28681	1	0	-1		CEBPB_myocyte_mm9_2|CEBPB_myocyte_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SP4_H1-hESC_hg19_1	0.011305	0.8344	1	0	1		SP4_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_GM12878_hg19_4	-0.057834	0.10175	1	0	-1		SRF_GM12878_hg19_4|SRF_GM12878_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_megakaryocyte_mm9_1	-0.0023195	1	1	0	-1		H3K36me3_megakaryocyte_mm9_1|H3K36me3_megakaryocyte_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TEAD4_H1-hESC_hg19_1	-0.046894	0.36689	1	0	-1		TEAD4_H1-hESC_hg19_1|TEAD4_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_G1E_mm9_1	0.078647	0.14767	1	0	1		H3K27me3_G1E_mm9_1|H3K27me3_G1E_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZBTB7A_HepG2_hg19_1	0.0092787	0.85703	1	0	1		ZBTB7A_HepG2_hg19_1|ZBTB7A_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_H7_hg19_1	-0.011082	0.65181	1	0	-1		H3K36me3_H7_hg19_1|H3K36me3_H7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR2F2_K562_hg19_1	-0.074935	0.14788	1	0	-1		NR2F2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SPI1_GM12878_hg19_3	-0.05675	0.18608	1	0	-1		SPI1_GM12878_hg19_3|SPI1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAX_HeLa-S3_hg19_2	-0.065747	0.076929	1	0	-1		MAX_HeLa-S3_hg19_2|MYC_HeLa-S3_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_SK-N-SH_hg19_1	-0.055599	0.071709	1	0	-1		GATA3_SK-N-SH_hg19_1|GATA3_SK-N-SH_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PBX3_A549_hg19_2	-0.03619	0.38334	1	0	-1		PBX3_A549_hg19_2|PBX3_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SMC3_SK-N-SH_hg19_1	-0.064276	0.16584	1	0	-1		SMC3_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_GM12878_hg19_1	-0.011305	0.78125	1	0	-1		REST_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_H1-hESC_hg19_2	0.016813	0.68731	1	0	1		REST_H1-hESC_hg19_2|REST_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_SK-N-SH_hg19_2	0.078125	0.18367	1	0	1		H3K27me3_SK-N-SH_hg19_2|H3K27me3_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SP1_H1-hESC_hg19_2	0.004522	1	1	0	1		SP1_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ESR1_ECC-1_hg19_2	0.010562	0.5463	1	0	1		ESR1_ECC-1_hg19_2|ESR1_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAX_HCT116_hg19_1	-0.099625	0.01152	1	0	-1		MAX_HCT116_hg19_1|MAX_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_HCT116_hg19_1	-0.018088	0.65518	1	0	-1		CTCF_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HA-E2F1_HeLa-S3_hg19_1	-0.070013	0.10224	1	0	-1		HA-E2F1_HeLa-S3_hg19_1|E2F1_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	STAT1_K562_hg19_1	-0.020026	0.2083	1	0	-1		STAT1_K562_hg19_1|STAT1_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	E2F6_A549_hg19_2	-0.047804	0.38913	1	0	-1		E2F6_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_bronchial epithelial cell_hg19_2	0.044146	0.43409	1	0	1		H3K27me3_bronchial epithelial cell_hg19_2|H3K27me3_bronchial epithelial cell_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SP1_GM12878_hg19_1	-0.15988	0.00209	1	0	-1		SP1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF3_H1-hESC_hg19_2	-0.024548	0.4764	1	0	-1		ATF3_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_H1-hESC_hg19_1	-0.0070668	0.84164	1	0	-1		SRF_H1-hESC_hg19_1|SRF_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_SK-N-SH_hg19_1	-0.031054	0.54052	1	0	-1		EP300_SK-N-SH_hg19_1|EP300_SK-N-SH_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS5_MEL cell line_mm9_3	-0.09578	0.03006	1	0	-1		POLR2AphosphoS5_MEL cell line_mm9_3|POLR2AphosphoS5_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR2C2_HepG2_hg19_1	0.0064046	0.80205	1	0	1		NR2C2_HepG2_hg19_1|NR2C2_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAF7_H1-hESC_hg19_1	-0.049096	0.19683	1	0	-1		TAF7_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RAD21_A549_hg19_3	-0.038437	0.50774	1	0	-1		RAD21_A549_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TEAD4_HepG2_hg19_1	-0.084948	0.1086	1	0	-1		TEAD4_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BCL3_GM12878_hg19_2	-0.0083979	1	1	0	-1		BCL3_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CBX2_K562_hg19_1	0.059109	0.15667	1	0	1		CBX2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_GM12878_hg19_1	-0.005168	1	1	0	-1		EZH2_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_K562_hg19_1	0.001938	1	1	0	1		EZH2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_keratinocyte_hg19_1	-0.010013	0.89541	1	0	-1		EZH2_keratinocyte_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXA2_A549_hg19_2	-0.05491	0.26378	1	0	-1		FOXA2_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_T-cell acute lymphoblastic leukemia_hg19_1	0.018411	0.77474	1	0	1		H3K27me3_T-cell acute lymphoblastic leukemia_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_myotube_hg19_1	-0.050388	0.31474	1	0	-1		H3K27me3_myotube_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZNF384_ES-E14_mm9_1	-0.044251	0.40831	1	0	-1		ZNF384_ES-E14_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_HepG2_hg19_3	0.023256	0.34699	1	0	1		H3K36me3_HepG2_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAFF_K562_hg19_1	-0.087209	0.11622	1	0	-1		MAFF_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PAX5_GM12878_hg19_3	-0.077519	0.081309	1	0	-1		PAX5_GM12878_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RXRA_H1-hESC_hg19_1	-0.002261	1	1	0	-1		RXRA_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RXRA_HepG2_hg19_1	0.00096899	1	1	0	1		RXRA_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BHLHE40_A549_hg19_1	0.026809	0.54945	1	0	1		BHLHE40_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CBX3_K562_hg19_1	-0.037791	0.48797	1	0	-1		CBX3_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_bone marrow macrophage_mm9_1	-0.064599	0.26867	1	0	-1		CTCF_bone marrow macrophage_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_ES-Bruce4_mm9_1	-0.052649	0.3354	1	0	-1		EP300_ES-Bruce4_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_SK-N-SH_hg19_1	-0.037791	0.03385	1	0	-1		H3K36me3_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZBTB33_A549_hg19_1	-0.043647	0.19395	1	0	-1		ZBTB33_A549_hg19_1|ZBTB33_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF12_MCF-7_hg19_1	0.005491	1	1	0	1		TCF12_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2A_MEL cell line_mm9_2	-0.014858	0.84219	1	0	-1		POLR2A_MEL cell line_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAL1_megakaryocyte_mm9_1	-0.034314	0.20284	1	0	-1		TAL1_megakaryocyte_mm9_1|TAL1_megakaryocyte_mm9_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF1_HepG2_hg19_2	-0.006137	1	1	0	-1		USF1_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NFATC1_GM12878_hg19_1	-0.083656	0.059989	1	0	-1		NFATC1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_endothelial cell of umbilical vein_hg19_2	0.020047	0.37208	1	0	1		H3K36me3_endothelial cell of umbilical vein_hg19_2|H3K36me3_endothelial cell of umbilical vein_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_MEL cell line_mm9_1	-0.093669	0.04039	1	0	-1		EP300_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL2_HepG2_hg19_1	0.027778	0.59493	1	0	1		FOSL2_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_SH-SY5Y_hg19_1	0.026163	0.70809	1	0	1		GATA3_SH-SY5Y_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_heart_mm9_1	0.050711	0.45583	1	0	1		H3K27me3_heart_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TCF12_H1-hESC_hg19_2	-0.064599	0.26515	1	0	-1		TCF12_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_GM06990_hg19_1	0.023256	0.34618	1	0	1		H3K36me3_GM06990_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPZ_HepG2_hg19_1	0.005491	1	1	0	1		CEBPZ_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_mammary epithelial cell_hg19_1	-0.001938	1	1	0	-1		EZH2_mammary epithelial cell_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXA2_A549_hg19_1	-0.070736	0.27229	1	0	-1		FOXA2_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GABPA_H1-hESC_hg19_2	0.024548	0.69546	1	0	1		GABPA_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_MEL cell line_mm9_2	-0.12145	0.057369	1	0	-1		GATA1_MEL cell line_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_fibroblast of lung_hg19_1	0.0093669	0.70594	1	0	1		H3K36me3_fibroblast of lung_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_HepG2_hg19_3	0.033592	0.64742	1	0	1		JUND_HepG2_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2A_HepG2_hg19_6	-0.11531	0.01272	1	0	-1		POLR2A_HepG2_hg19_6
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MEF2A_K562_hg19_1	-0.01615	0.58826	1	0	-1		MEF2A_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_K562_hg19_3	-0.062984	0.080939	1	0	-1		EP300_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCFL_K562_hg19_2	0.0038808	0.95917	1	0	1		CTCFL_K562_hg19_2|CTCFL_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PBX3_SK-N-SH_hg19_2	-0.032005	0.46615	1	0	-1		PBX3_SK-N-SH_hg19_2|PBX3_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAF1_GM12892_hg19_2	-0.13081	0.0025	1	0	-1		TAF1_GM12892_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CREB1_ECC-1_hg19_2	-0.040881	0.17893	1	0	-1		CREB1_ECC-1_hg19_2|CREB1_K562_hg19_1|CREB1_HepG2_hg19_2|CREB1_K562_hg19_2|CREB1_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RAD21_HCT116_hg19_1	-0.012317	0.76852	1	0	-1		RAD21_HCT116_hg19_1|RAD21_MCF-7_hg19_2|RAD21_MCF-7_hg19_1|RAD21_GM12878_hg19_3|RAD21_HCT116_hg19_2|RAD21_SK-N-SH_hg19_3|RAD21_ECC-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RAD21_GM12878_hg19_2	-0.057017	0.28132	1	0	-1		RAD21_GM12878_hg19_2|RAD21_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZBTB7A_ECC-1_hg19_2	-0.0063124	0.89635	1	0	-1		ZBTB7A_ECC-1_hg19_2|ZBTB7A_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RAD21_ECC-1_hg19_1	0.029716	0.64348	1	0	1		RAD21_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BHLHE40_CH12.LX_mm9_1	-0.076227	0.27144	1	0	-1		BHLHE40_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_ECC-1_hg19_1	-0.027723	0.43551	1	0	-1		CTCF_ECC-1_hg19_1|CTCF_ECC-1_hg19_2|CTCF_T47D_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SP2_H1-hESC_hg19_1	-0.057471	0.02482	1	0	-1		SP2_H1-hESC_hg19_1|SP2_HepG2_hg19_2|SP2_K562_hg19_2|SP2_HepG2_hg19_1|SP2_K562_hg19_1|SP2_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	E2F6_H1-hESC_hg19_2	0.038341	0.54985	1	0	1		E2F6_H1-hESC_hg19_2|E2F6_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIX5_H1-hESC_hg19_1	0.004774	0.79511	1	0	1		SIX5_H1-hESC_hg19_1|SIX5_K562_hg19_2|SIX5_GM12878_hg19_2|SIX5_K562_hg19_1|SIX5_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_cerebellum_mm9_1	-0.10558	0.02689	1	0	-1		CTCF_cerebellum_mm9_1|CTCF_ES-Bruce4_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_G1E-ER4_mm9_5	-0.10082	0.00199	1	0	-1		GATA1_G1E-ER4_mm9_5|GATA1_G1E-ER4_mm9_7|GATA1_G1E-ER4_mm9_9|GATA1_G1E-ER4_mm9_8|GATA1_G1E-ER4_mm9_1|GATA1_G1E-ER4_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAF1_HeLa-S3_hg19_1	-0.062016	0.21203	1	0	-1		TAF1_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_CH12.LX_mm9_3	0.0051361	0.87339	1	0	1		CTCF_CH12.LX_mm9_3|CTCF_CH12.LX_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NFYB_HeLa-S3_hg19_1	-0.051484	0.16279	1	0	-1		NFYB_HeLa-S3_hg19_1|NFYA_K562_hg19_1|NFYB_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF1_GM12878_hg19_1	-0.043842	0.20106	1	0	-1		USF1_GM12878_hg19_1|USF1_GM12878_hg19_2|USF1_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GABPA_HL-60_hg19_1	-0.016796	0.74085	1	0	-1		GABPA_HL-60_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BCLAF1_GM12878_hg19_2	-0.14212	0.005	1	0	-1		BCLAF1_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CHD2_CH12.LX_mm9_1	-0.12242	0.04355	1	0	-1		CHD2_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYC_CH12.LX_mm9_1	-0.090762	0.12529	1	0	-1		MYC_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_fibroblast of villous mesenchyme_hg19_1	-0.036692	0.46948	1	0	-1		CTCF_fibroblast of villous mesenchyme_hg19_1|CTCF_HepG2_hg19_2|CTCF_H54_hg19_1|CTCF_GM13977_hg19_1|CTCF_HGPS cell_hg19_1|CTCF_astrocyte of the spinal cord_hg19_2|CTCF_fibroblast of foreskin _hg19_1|CTCF_K562_hg19_4|CTCF_epithelial cell of proximal tubule_hg19_2|CTCF_HCT116_hg19_3|CTCF_MCF-7_hg19_6|CTCF_cardiac muscle cell_hg19_1|CTCF_GM12872_hg19_2|CTCF_GM12864_hg19_3|CTCF_NB4_hg19_1|CTCF_WERI-Rb-1_hg19_2|CTCF_fibroblast of pedal digit skin_hg19_2|CTCF_BE2C_hg19_2|CTCF_SK-N-SH_hg19_2|CTCF_LNCaP clone FGC_hg19_2|CTCF_HepG2_hg19_4|CTCF_GM10248_hg19_1|CTCF_HEK293_hg19_2|CTCF_mammary epithelial cell_hg19_1|CTCF_HeLa-S3_hg19_3|CTCF_MCF-7_hg19_9|CTCF_fibroblast of mammary gland_hg19_1|CTCF_K562_hg19_6|CTCF_GM12865_hg19_3|CTCF_fibroblast of foreskin _hg19_2|CTCF_HCT116_hg19_4|CTCF_GM12878_hg19_3|CTCF_GM12869_hg19_2|CTCF_astrocyte_hg19_1|CTCF_keratinocyte_hg19_4|CTCF_HL-60_hg19_1|CTCF_endothelial cell of umbilical vein_hg19_2|CTCF_A549_hg19_8|CTCF_H1-hESC_hg19_4|CTCF_GM13976_hg19_1|CTCF_astrocyte of the cerebellum_hg19_1|CTCF_WI38_hg19_1|CTCF_H1-hESC_hg19_2|CTCF_medulloblastoma_hg19_1|CTCF_GM12866_hg19_2|CTCF_GM12867_hg19_2|CTCF_SK-N-SH_hg19_1|CTCF_A549_hg19_3|CTCF_epithelial cell of esophagus_hg19_2|CTCF_WI38_hg19_2|CTCF_GM12868_hg19_2|CTCF_LNCaP clone FGC_hg19_1|CTCF_K562_hg19_3|CTCF_GM20000_hg19_1|CTCF_A549_hg19_10|CTCF_GM12870_hg19_2|RAD21_SK-N-SH_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_A549_hg19_5	-0.03905	0.39275	1	0	-1		CTCF_A549_hg19_5|CTCF_SK-N-SH_hg19_5|CTCF_HepG2_hg19_3|CTCF_A549_hg19_6|CTCF_MCF-7_hg19_1|CTCF_MCF-7_hg19_2|CTCF_GM12801_hg19_1|RAD21_A549_hg19_1|CTCF_H1-hESC_hg19_3|RAD21_HepG2_hg19_2|RAD21_A549_hg19_2|RAD21_K562_hg19_1|CTCF_A549_hg19_4|CTCF_T47D_hg19_2|CTCF_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RAD21_H1-hESC_hg19_2	0.012856	0.81737	1	0	1		RAD21_H1-hESC_hg19_2|RAD21_HepG2_hg19_1|RAD21_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZMIZ1_CH12.LX_mm9_1	-0.11827	0.0071699	1	0	-1		ZMIZ1_CH12.LX_mm9_1|POLR2A_ES-Bruce4_mm9_1|POLR2AphosphoS2_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GABPA_SK-N-SH_hg19_2	-0.041472	0.1732	1	0	-1		GABPA_SK-N-SH_hg19_2|GABPA_A549_hg19_2|GABPA_MCF-7_hg19_2|GABPA_HepG2_hg19_1|GABPA_K562_hg19_1|GABPA_HepG2_hg19_2|GABPA_HeLa-S3_hg19_2|GABPA_SK-N-SH_hg19_1|GABPA_GM12878_hg19_1|GABPA_GM12878_hg19_2|GABPA_HeLa-S3_hg19_1|GABPA_HL-60_hg19_2|ELF1_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_MEL cell line_mm9_2	-0.011951	0.87913	1	0	-1		H3K36me3_MEL cell line_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_kidney_mm9_1	-0.091798	0.04781	1	0	-1		CTCF_kidney_mm9_1|CTCF_liver_mm9_1|CTCF_MEL cell line_mm9_6|CTCF_G1E-ER4_mm9_1|CTCF_MEL cell line_mm9_5|RAD21_MEL cell line_mm9_2|CTCF_cortical plate_mm9_1|CTCF_G1E-ER4_mm9_3|CTCF_heart_mm9_1|CTCF_CH12.LX_mm9_4|CTCF_lung_mm9_1|CTCF_brain_mm9_1|CTCF_limb_mm9_1|CTCF_embryonic fibroblast_mm9_1|CTCF_spleen_mm9_1|CTCF_C2C12_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_G1E-ER4_mm9_2	-0.07003	0.061929	1	0	-1		CTCF_G1E-ER4_mm9_2|CTCF_MEL cell line_mm9_4|CTCF_MEL cell line_mm9_2|CTCF_G1E_mm9_2|CTCF_CH12.LX_mm9_1|CTCF_G1E_mm9_1|CTCF_MEL cell line_mm9_3|CTCF_G1E_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOS_K562_hg19_1	-0.0025082	0.92667	1	0	-1		FOS_K562_hg19_1|NFYA_GM12878_hg19_1|IRF3_HeLa-S3_hg19_1|FOS_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	YY1_GM12891_hg19_1	-0.041049	0.14681	1	0	-1		YY1_GM12891_hg19_1|YY1_GM12892_hg19_2|YY1_HepG2_hg19_2|YY1_K562_hg19_2|YY1_SK-N-SH_hg19_3|YY1_A549_hg19_2|YY1_HCT116_hg19_1|YY1_NT2-D1_hg19_1|YY1_K562_hg19_5|YY1_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIX5_A549_hg19_1	-0.022434	0.47752	1	0	-1		SIX5_A549_hg19_1|SIX5_A549_hg19_2|SIX5_K562_hg19_4|SIX5_GM12878_hg19_1|ETS1_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF1_SK-N-SH_hg19_4	-0.029053	0.45067	1	0	-1		USF1_SK-N-SH_hg19_4|USF1_A549_hg19_5|USF1_ECC-1_hg19_2|USF1_A549_hg19_3|USF1_A549_hg19_4|USF1_A549_hg19_1|USF1_K562_hg19_2|USF1_A549_hg19_2|USF1_ECC-1_hg19_1|USF1_K562_hg19_1|USF1_H1-hESC_hg19_2|USF1_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF2_GM12878_hg19_2	-0.12209	0.01646	1	0	-1		ATF2_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_A549_hg19_2	-0.010208	0.78978	1	0	-1		EP300_A549_hg19_2|SIN3A_A549_hg19_2|TCF12_A549_hg19_1|BCL3_A549_hg19_1|ATF3_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2A_bone marrow_mm9_1	-0.064599	0.26687	1	0	-1		POLR2A_bone marrow_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_osteoblast_hg19_1	0.12403	0.079579	1	0	1		EP300_osteoblast_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_cardiac mesoderm_hg19_4	0.064339	0.27192	1	0	1		H3K27me3_cardiac mesoderm_hg19_4|H3K27me3_cardiac mesoderm_hg19_1|H3K27me3_cardiac mesoderm_hg19_6|H3K27me3_H7_hg19_2|H3K27me3_H7_hg19_1|H3K27me3_cardiac mesoderm_hg19_3|H3K27me3_cardiac mesoderm_hg19_2|H3K27me3_cardiac mesoderm_hg19_5|H3K27me3_cardiac mesoderm_hg19_7|H3K27me3_NT2-D1_hg19_1|H3K27me3_cardiac mesoderm_hg19_8|H3K27me3_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RELA_GM18951_hg19_1	-0.078811	0.14421	1	0	-1		RELA_GM18951_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_HepG2_hg19_1	-0.0059976	0.81909	1	0	-1		REST_HepG2_hg19_1|REST_Panc1_hg19_5|REST_HCT116_hg19_2|REST_HL-60_hg19_2|REST_Panc1_hg19_6|REST_U-87 MG_hg19_1|REST_Panc1_hg19_2|REST_PFSK-1_hg19_1|REST_HepG2_hg19_2|REST_U-87 MG_hg19_2|REST_HCT116_hg19_1|REST_GM12878_hg19_2|REST_SK-N-SH_hg19_1|REST_Panc1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYOG_myocyte_mm9_1	-0.055515	0.31197	1	0	-1		MYOG_myocyte_mm9_1|MYOG_myocyte_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_MCF-7_hg19_2	0.020349	0.5849	1	0	1		REST_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MBD4_HepG2_hg19_1	-0.082534	0.056319	1	0	-1		MBD4_HepG2_hg19_1|NFIC_HepG2_hg19_2|MBD4_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_spleen_mm9_1	0.043477	0.37683	1	0	1		H3K27me3_spleen_mm9_1|H3K27me3_thymus_mm9_1|H3K27me3_small intestine_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HNF4A_HepG2_hg19_2	-0.079619	0.067139	1	0	-1		HNF4A_HepG2_hg19_2|HNF4A_HepG2_hg19_1|HNF4G_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	STAT5A_K562_hg19_1	-0.10368	0.02592	1	0	-1		STAT5A_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZBTB33_K562_hg19_1	-0.026913	0.03433	1	0	-1		ZBTB33_K562_hg19_1|ZBTB33_HepG2_hg19_2|ZBTB33_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_G1E-ER4_mm9_3	-0.11789	0.00057999	1	0	-1		GATA1_G1E-ER4_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS5_G1E_mm9_1	-0.056548	0.20984	1	0	-1		POLR2AphosphoS5_G1E_mm9_1|POLR2AphosphoS5_G1E_mm9_2|POLR2AphosphoS5_G1E_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2A_cortical plate_mm9_1	-0.010013	0.88749	1	0	-1		POLR2A_cortical plate_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_endothelial cell of umbilical vein_hg19_1	-0.014535	0.89255	1	0	-1		EZH2_endothelial cell of umbilical vein_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RAD21_MEL cell line_mm9_1	-0.022993	0.58545	1	0	-1		RAD21_MEL cell line_mm9_1|SMC3_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF1_myocyte_mm9_1	-0.036756	0.32972	1	0	-1		USF1_myocyte_mm9_1|USF1_C2C12_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAL1_G1E-ER4_mm9_1	-0.1049	0.00105	1	0	-1		TAL1_G1E-ER4_mm9_1|TAL1_G1E-ER4_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TFAP2A_HeLa-S3_hg19_1	-0.011173	0.82087	1	0	-1		TFAP2A_HeLa-S3_hg19_1|TFAP2C_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_endothelial cell of umbilical vein_hg19_2	0.027425	0.64966	1	0	1		H3K27me3_endothelial cell of umbilical vein_hg19_2|H3K27me3_endothelial cell of umbilical vein_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZBTB33_GM12878_hg19_1	-0.02478	0.15884	1	0	-1		ZBTB33_GM12878_hg19_1|ZBTB33_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_G1E-ER4_mm9_1	0.10035	0.03378	1	0	1		H3K27me3_G1E-ER4_mm9_1|H3K27me3_G1E-ER4_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EGR1_GM12878_hg19_1	-0.07009	0.24895	1	0	-1		EGR1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NRF1_HepG2_hg19_1	0.0021139	0.97885	1	0	1		NRF1_HepG2_hg19_1|NRF1_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_mononuclear cell_hg19_1	0.05525	0.36959	1	0	1		H3K27me3_mononuclear cell_hg19_1|H3K27me3_CD14-positive monocyte_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FLI1_megakaryocyte_mm9_1	-0.011413	0.76578	1	0	-1		FLI1_megakaryocyte_mm9_1|FLI1_megakaryocyte_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_kidney epithelial cell_hg19_2	0.042437	0.46077	1	0	1		H3K27me3_kidney epithelial cell_hg19_2|H3K27me3_kidney epithelial cell_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NRF1_SK-N-SH_hg19_1	-0.08897	0.03428	1	0	-1		NRF1_SK-N-SH_hg19_1|NRF1_K562_hg19_1|NRF1_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAFF_HepG2_hg19_1	-0.08624	0.14866	1	0	-1		MAFF_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAL1_erythroblast_mm9_1	-0.066009	0.01076	1	0	-1		TAL1_erythroblast_mm9_1|TAL1_erythroblast_mm9_3|TAL1_erythroblast_mm9_4|TAL1_erythroblast_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZBTB33_SK-N-SH_hg19_2	-0.02303	0.14007	1	0	-1		ZBTB33_SK-N-SH_hg19_2|ZBTB33_HepG2_hg19_3|ZBTB33_HepG2_hg19_4|ZBTB33_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYC_K562_hg19_5	-0.081688	0.0052199	1	0	-1		MYC_K562_hg19_5|MYC_K562_hg19_6|MYC_K562_hg19_7|MYC_K562_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	USF1_HCT116_hg19_2	-0.0239	0.36633	1	0	-1		USF1_HCT116_hg19_2|USF1_SK-N-SH_hg19_3|USF1_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ELF1_SK-N-SH_hg19_2	-0.069509	0.00172	1	0	-1		ELF1_SK-N-SH_hg19_2|ELF1_SK-N-SH_hg19_1|ELF1_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SPI1_GM12891_hg19_1	-0.12365	0.01277	1	0	-1		SPI1_GM12891_hg19_1|SPI1_K562_hg19_1|SPI1_GM12878_hg19_2|SPI1_HL-60_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF3_GM12878_hg19_2	-0.018058	0.44064	1	0	-1		ATF3_GM12878_hg19_2|ATF3_GM12878_hg19_1|ATF3_H1-hESC_hg19_1|ATF3_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXA2_HepG2_hg19_2	-0.092631	0.03755	1	0	-1		FOXA2_HepG2_hg19_2|FOXA1_HepG2_hg19_2|FOXA1_HepG2_hg19_1|FOXA1_HepG2_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_BJ_hg19_2	0.020891	0.7045	1	0	1		H3K27me3_BJ_hg19_2|H3K27me3_BJ_hg19_1|H3K27me3_fibroblast of lung_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EGR1_ECC-1_hg19_1	-0.033833	0.38169	1	0	-1		EGR1_ECC-1_hg19_1|EGR1_HCT116_hg19_1|EGR1_MCF-7_hg19_1|EGR1_ECC-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAL1_MEL cell line_mm9_1	-0.083655	0.03085	1	0	-1		TAL1_MEL cell line_mm9_1|TAL1_MEL cell line_mm9_3|TAL1_MEL cell line_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAL1_G1E_mm9_1	-0.03264	0.29163	1	0	-1		TAL1_G1E_mm9_1|TAL1_G1E_mm9_3|TAL1_G1E_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_erythroblast_mm9_1	0.036449	0.54538	1	0	1		H3K27me3_erythroblast_mm9_1|H3K27me3_erythroblast_mm9_2|H3K27me3_erythroblast_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_erythroblast_mm9_1	-0.063609	0.055609	1	0	-1		GATA1_erythroblast_mm9_1|GATA1_erythroblast_mm9_2|GATA1_erythroblast_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RAD21_CH12.LX_mm9_1	-0.11221	0.055709	1	0	-1		RAD21_CH12.LX_mm9_1|SMC3_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_megakaryocyte_mm9_1	0.019588	0.71843	1	0	1		H3K27me3_megakaryocyte_mm9_1|H3K27me3_megakaryocyte_mm9_3|H3K27me3_megakaryocyte_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_CH12.LX_mm9_2	0.017148	0.41797	1	0	1		H3K36me3_CH12.LX_mm9_2|H3K36me3_CH12.LX_mm9_4|H3K36me3_CH12.LX_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ESR1_T47D_hg19_1	0.0023391	0.99065	1	0	1		ESR1_T47D_hg19_1|ESR1_T47D_hg19_3|ESR1_T47D_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	UBTF_CH12.LX_mm9_1	-0.087855	0.13953	1	0	-1		UBTF_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EZH2_fibroblast of dermis_hg19_1	-0.046512	0.50552	1	0	-1		EZH2_fibroblast of dermis_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL2_SK-N-SH_hg19_2	0.015504	0.58143	1	0	1		FOSL2_SK-N-SH_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXP2_PFSK-1_hg19_2	-0.0083979	1	1	0	-1		FOXP2_PFSK-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CREB1_GM12878_hg19_2	0.00323	1	1	0	1		CREB1_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_bone marrow_mm9_1	-0.058786	0.25957	1	0	-1		CTCF_bone marrow_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	E2F4_HeLa-S3_hg19_1	-0.042313	0.14425	1	0	-1		E2F4_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	E2F4_MEL cell line_mm9_1	-0.004522	1	1	0	-1		E2F4_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EBF1_GM12878_hg19_1	-0.014535	0.86848	1	0	-1		EBF1_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EGR1_H1-hESC_hg19_1	-0.019057	0.55739	1	0	-1		EGR1_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_T47D_hg19_1	-0.068475	0.04179	1	0	-1		EP300_T47D_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL1_HCT116_hg19_2	0.0093669	0.70487	1	0	1		FOSL1_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL2_SK-N-SH_hg19_1	0.053618	0.12695	1	0	1		FOSL2_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXA1_ECC-1_hg19_2	-0.024548	0.47541	1	0	-1		FOXA1_ECC-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXA1_HepG2_hg19_3	-0.028101	0.51339	1	0	-1		FOXA1_HepG2_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXP2_SK-N-MC_hg19_1	-0.036176	0.10891	1	0	-1		FOXP2_SK-N-MC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_erythroblast_hg19_2	-0.020026	0.20712	1	0	-1		GATA1_erythroblast_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_T47D_hg19_1	-0.089147	0.02849	1	0	-1		GATA3_T47D_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GTF3C2_HeLa-S3_hg19_1	-0.0083979	1	1	0	-1		GTF3C2_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GTF3C2_K562_hg19_1	0.011628	0.59627	1	0	1		GTF3C2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_HeLa-S3_hg19_1	0.028101	0.43445	1	0	1		H3K27me3_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CHD2_MEL cell line_mm9_1	-0.046835	0.16396	1	0	-1		CHD2_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPD_K562_hg19_1	-0.072028	0.10721	1	0	-1		CEBPD_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPD_HepG2_hg19_2	-0.03553	0.59223	1	0	-1		CEBPD_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_HepG2_hg19_4	-0.048127	0.29553	1	0	-1		CEBPB_HepG2_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PAX5_GM12892_hg19_1	-0.028424	0.26371	1	0	-1		PAX5_GM12892_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PML_MCF-7_hg19_1	0.054264	0.04514	1	0	1		PML_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2A_cerebellum_mm9_1	0.025194	0.66435	1	0	1		POLR2A_cerebellum_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PRDM1_HeLa-S3_hg19_1	0.032623	0.31277	1	0	1		PRDM1_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RAD21_K562_hg19_3	-0.030685	0.33388	1	0	-1		RAD21_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SETDB1_U2OS_hg19_1	-0.0096899	0.80144	1	0	-1		SETDB1_U2OS_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIN3A_H1-hESC_hg19_2	-0.027455	0.4552	1	0	-1		SIN3A_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SP1_HepG2_hg19_1	-0.071705	0.18022	1	0	-1		SP1_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_K562_hg19_1	0.030362	0.63057	1	0	1		H3K27me3_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_HCT116_hg19_1	-0.006137	1	1	0	-1		SRF_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	STAT3_GM12878_hg19_1	-0.05814	0.21618	1	0	-1		STAT3_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAF1_MCF-7_hg19_2	-0.064599	0.052259	1	0	-1		TAF1_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAF7_K562_hg19_1	-0.030685	0.33156	1	0	-1		TAF7_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZBTB33_HCT116_hg19_1	-0.039083	0.28288	1	0	-1		ZBTB33_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ZBTB7A_K562_hg19_1	-0.040052	0.49445	1	0	-1		ZBTB7A_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF3_K562_hg19_1	0.033915	0.57917	1	0	1		ATF3_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BHLHE40_HepG2_hg19_1	-0.0067829	1	1	0	-1		BHLHE40_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_A549_hg19_1	-0.024871	0.6955	1	0	-1		CEBPB_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_MCF-7_hg19_2	-0.028424	0.26657	1	0	-1		SRF_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_MCF-7_hg19_1	0.01292	0.84011	1	0	1		H3K27me3_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_astrocyte_hg19_1	0.067506	0.26994	1	0	1		H3K27me3_astrocyte_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_brain_mm9_1	0.073643	0.2746	1	0	1		H3K27me3_brain_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYC_MEL cell line_mm9_1	-0.04199	0.38448	1	0	-1		MYC_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NANOG_H1-hESC_hg19_2	0.067829	0.17502	1	0	1		NANOG_H1-hESC_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NCOR1_K562_hg19_1	0.004199	1	1	0	1		NCOR1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NFIC_ECC-1_hg19_1	0.002907	1	1	0	1		NFIC_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR2F2_HepG2_hg19_2	0.013243	0.69239	1	0	1		NR2F2_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	PAX5_GM12891_hg19_2	-0.014535	0.69682	1	0	-1		PAX5_GM12891_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS2_A549_hg19_1	0.002584	1	1	0	1		POLR2AphosphoS2_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS5_G1E-ER4_mm9_3	-0.020672	0.49151	1	0	-1		POLR2AphosphoS5_G1E-ER4_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYC_A549_hg19_1	-0.075904	0.10018	1	0	-1		MYC_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS5_MEL cell line_mm9_2	-0.096899	0.12348	1	0	-1		POLR2AphosphoS5_MEL cell line_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RELA_GM10847_hg19_1	-0.10304	0.01365	1	0	-1		RELA_GM10847_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RELA_GM12878_hg19_1	-0.056202	0.0402	1	0	-1		RELA_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_ECC-1_hg19_1	-0.014858	0.84183	1	0	-1		REST_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_HeLa-S3_hg19_1	0.025194	0.66483	1	0	1		REST_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_K562_hg19_1	-0.000323	1	1	0	-1		REST_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_SK-N-SH_hg19_2	0.0077519	1	1	0	1		REST_SK-N-SH_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SMARCC2_HeLa-S3_hg19_1	0.020995	0.47183	1	0	1		SMARCC2_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SP1_HCT116_hg19_1	0.0096899	0.82505	1	0	1		SP1_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR3A_HeLa-S3_hg19_1	-0.01615	0.59156	1	0	-1		POLR3A_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR3C1_A549_hg19_5	-0.002261	1	1	0	-1		NR3C1_A549_hg19_5
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MEF2C_GM12878_hg19_1	0.011628	0.59762	1	0	1		MEF2C_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAFK_ES-E14_mm9_1	0.004845	1	1	0	1		MAFK_ES-E14_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_keratinocyte_hg19_1	-0.00096899	1	1	0	-1		H3K27me3_keratinocyte_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_osteoblast_hg19_1	0.094638	0.12756	1	0	1		H3K27me3_osteoblast_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_A549_hg19_1	0.00323	1	1	0	1		H3K36me3_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_A549_hg19_2	-0.002261	1	1	0	-1		H3K36me3_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_ES-Bruce4_mm9_1	0.017119	0.69	1	0	1		H3K36me3_ES-Bruce4_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_GM12878_hg19_2	-0.030039	0.12109	1	0	-1		H3K36me3_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_K562_hg19_2	-0.0083979	1	1	0	-1		H3K36me3_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_U2OS_hg19_1	0.0071059	1	1	0	1		H3K36me3_U2OS_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAFK_MEL cell line_mm9_2	0.005491	1	1	0	1		MAFK_MEL cell line_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_erythroblast_mm9_2	0.011628	0.59816	1	0	1		H3K36me3_erythroblast_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_heart_mm9_1	-0.036822	0.2429	1	0	-1		H3K36me3_heart_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HDAC2_K562_hg19_3	-0.035207	0.43369	1	0	-1		HDAC2_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HDAC2_MCF-7_hg19_1	-0.060078	0.32219	1	0	-1		HDAC2_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HNF4G_HepG2_hg19_2	-0.023579	0.61804	1	0	-1		HNF4G_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	IRF1_K562_hg19_4	0.011628	0.59788	1	0	1		IRF1_K562_hg19_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	IRF3_GM12878_hg19_1	-0.055879	0.19893	1	0	-1		IRF3_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_A549_hg19_1	-0.06137	0.16147	1	0	-1		JUND_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_MCF-7_hg19_1	0.013243	0.69279	1	0	1		JUND_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_fibroblast of dermis_hg19_1	-0.002261	1	1	0	-1		H3K36me3_fibroblast of dermis_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR3C1_A549_hg19_3	-0.004199	1	1	0	-1		NR3C1_A549_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NFIC_GM12878_hg19_2	-0.036499	0.42057	1	0	-1		NFIC_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYOD1_myocyte_mm9_2	0.011305	0.83334	1	0	1		MYOD1_myocyte_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL2_HepG2_hg19_2	0.024871	0.46792	1	0	1		FOSL2_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXA1_A549_hg19_1	0.011628	0.59976	1	0	1		FOXA1_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_K562_hg19_1	0.0093669	0.70345	1	0	1		GATA1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_K562_hg19_2	-0.006137	1	1	0	-1		GATA1_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_MEL cell line_mm9_1	-0.063307	0.21833	1	0	-1		GATA1_MEL cell line_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_G1E-ER4_mm9_1	0.002584	1	1	0	1		GATA2_G1E-ER4_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_A549_hg19_1	-0.012274	0.61603	1	0	-1		GATA3_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_A549_hg19_2	-0.062661	0.18729	1	0	-1		GATA3_A549_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ESRRA_HepG2_hg19_1	0.011628	0.5965	1	0	1		ESRRA_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_T47D_hg19_2	-0.10562	0.070429	1	0	-1		GATA3_T47D_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_G1E_mm9_1	0.005491	1	1	0	1		H3K36me3_G1E_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_HeLa-S3_hg19_2	0.011628	0.59736	1	0	1		H3K36me3_HeLa-S3_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_astrocyte_hg19_1	-0.01615	0.59053	1	0	-1		H3K36me3_astrocyte_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_brain_mm9_1	0.020995	0.47369	1	0	1		H3K36me3_brain_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_kidney epithelial cell_hg19_2	0.015504	0.58002	1	0	1		H3K36me3_kidney epithelial cell_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_kidney_mm9_1	0.023256	0.34528	1	0	1		H3K36me3_kidney_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_HCT116_hg19_2	0.015504	0.57959	1	0	1		JUND_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_SK-N-SH_hg19_1	0.013243	0.6942	1	0	1		JUND_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_testis_mm9_1	0.065891	0.26189	1	0	1		H3K27me3_testis_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MAFK_GM12878_hg19_1	-0.043928	0.04327	1	0	-1		MAFK_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_HepG2_hg19_2	-0.075581	0.17352	1	0	-1		EP300_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_HepG2_hg19_2	-0.11273	0.03542	1	0	-1		CEBPB_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GABPA_H1-hESC_hg19_1	-0.038114	0.54952	1	0	-1		GABPA_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_HepG2_hg19_3	0.036499	0.52017	1	0	1		H3K27me3_HepG2_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_keratinocyte_hg19_3	0.016473	0.76887	1	0	1		H3K27me3_keratinocyte_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_CH12.LX_mm9_1	0.059755	0.090539	1	0	1		JUND_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_HCT116_hg19_1	0.015504	0.57959	1	0	1		JUND_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUN_HepG2_hg19_1	0.02584	0.61823	1	0	1		JUN_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MYC_HeLa-S3_hg19_1	-0.090439	0.063739	1	0	-1		MYC_HeLa-S3_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR2F2_HepG2_hg19_1	-0.033915	0.070359	1	0	-1		NR2F2_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CHD7_K562_hg19_1	-0.12274	0.02381	1	0	-1		CHD7_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RCOR1_CH12.LX_mm9_1	-0.066214	0.25388	1	0	-1		RCOR1_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_myocyte_mm9_1	-0.060078	0.31741	1	0	-1		REST_myocyte_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RXRA_GM12878_hg19_1	-0.0323	0.23176	1	0	-1		RXRA_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TAL1_megakaryocyte_mm9_2	-0.044574	0.12764	1	0	-1		TAL1_megakaryocyte_mm9_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TEAD4_A549_hg19_1	-0.035853	0.37016	1	0	-1		TEAD4_A549_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ATF3_HepG2_hg19_2	-0.022287	0.38071	1	0	-1		ATF3_HepG2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BATF_GM12878_hg19_2	-0.10045	0.0443	1	0	-1		BATF_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CBX3_HCT116_hg19_2	0.01938	0.35904	1	0	1		CBX3_HCT116_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_GM12878_hg19_1	-0.05814	0.21926	1	0	-1		CEBPB_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	REST_HeLa-S3_hg19_2	-0.074289	0.12228	1	0	-1		REST_HeLa-S3_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SREBF1_HepG2_hg19_1	0.013243	0.69309	1	0	1		SREBF1_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NELFE_K562_hg19_1	-0.023902	0.12216	1	0	-1		NELFE_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	POLR2AphosphoS5_G1E-ER4_mm9_4	0.015504	0.58218	1	0	1		POLR2AphosphoS5_G1E-ER4_mm9_4
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA1_erythroblast_hg19_1	-0.10433	0.04172	1	0	-1		GATA1_erythroblast_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_G1E-ER4_mm9_3	0.014858	0.74001	1	0	1		GATA2_G1E-ER4_mm9_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA2_K562_hg19_1	-0.039083	0.2836	1	0	-1		GATA2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	GATA3_MCF-7_hg19_2	-0.036822	0.24095	1	0	-1		GATA3_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_Caco-2_hg19_2	0.033592	0.47118	1	0	1		H3K27me3_Caco-2_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_GM12878_hg19_2	0.046512	0.41116	1	0	1		H3K27me3_GM12878_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_K562_hg19_3	0.011628	0.60016	1	0	1		H3K27me3_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K27me3_mammary epithelial cell_hg19_2	0.040698	0.40621	1	0	1		H3K27me3_mammary epithelial cell_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOXM1_MCF-7_hg19_1	-0.012274	0.61529	1	0	-1		FOXM1_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_K562_hg19_3	-0.012274	0.61264	1	0	-1		H3K36me3_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_cardiac mesoderm_hg19_1	0.040698	0.40937	1	0	1		H3K36me3_cardiac mesoderm_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_cardiac mesoderm_hg19_7	0.005491	1	1	0	1		H3K36me3_cardiac mesoderm_hg19_7
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_endothelial cell of umbilical vein_hg19_1	0.0071059	1	1	0	1		H3K36me3_endothelial cell of umbilical vein_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_keratinocyte_hg19_1	-0.002261	1	1	0	-1		H3K36me3_keratinocyte_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_testis_mm9_1	-0.001292	1	1	0	-1		H3K36me3_testis_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	HDAC2_MCF-7_hg19_2	-0.055233	0.14559	1	0	-1		HDAC2_MCF-7_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	JUND_HepG2_hg19_1	-0.059755	0.19254	1	0	-1		JUND_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	MEF2A_GM12878_hg19_1	-0.075258	0.066099	1	0	-1		MEF2A_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	H3K36me3_MCF-7_hg19_1	-0.006137	1	1	0	-1		H3K36me3_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	NR2F2_MCF-7_hg19_1	0.023902	0.7144	1	0	1		NR2F2_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	FOSL1_H1-hESC_hg19_1	0.024871	0.46611	1	0	1		FOSL1_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_HepG2_hg19_1	-0.075904	0.10237	1	0	-1		EP300_HepG2_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RELA_GM18505_hg19_1	-0.042959	0.26968	1	0	-1		RELA_GM18505_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RFX5_H1-hESC_hg19_1	-0.012597	0.8332	1	0	-1		RFX5_H1-hESC_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	RNF2_K562_hg19_1	0.060401	0.31786	1	0	1		RNF2_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SETDB1_K562_hg19_3	-0.020672	0.49162	1	0	-1		SETDB1_K562_hg19_3
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SIN3A_SK-N-SH_hg19_1	-0.047481	0.23662	1	0	-1		SIN3A_SK-N-SH_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SP1_K562_hg19_2	-0.065245	0.098489	1	0	-1		SP1_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SRF_GM12878_hg19_1	-0.030039	0.12125	1	0	-1		SRF_GM12878_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	THAP1_K562_hg19_2	-0.019703	0.62542	1	0	-1		THAP1_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_MCF-7_hg19_1	-0.0083979	1	1	0	-1		EP300_MCF-7_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	TRIM28_K562_hg19_2	0.023256	0.34471	1	0	1		TRIM28_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BCLAF1_K562_hg19_2	-0.04845	0.10384	1	0	-1		BCLAF1_K562_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_ECC-1_hg19_1	-0.11402	0.00115	1	0	-1		CEBPB_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CEBPB_K562_hg19_1	-0.064922	0.20288	1	0	-1		CEBPB_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	CTCF_small intestine_mm9_1	-0.11531	0.074309	1	0	-1		CTCF_small intestine_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	ELF1_HCT116_hg19_1	-0.030039	0.12224	1	0	-1		ELF1_HCT116_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_CH12.LX_mm9_1	-0.050065	0.4017	1	0	-1		EP300_CH12.LX_mm9_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_ECC-1_hg19_1	-0.1166	0.02396	1	0	-1		EP300_ECC-1_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	EP300_ECC-1_hg19_2	0.004845	1	1	0	1		EP300_ECC-1_hg19_2
+ENCODE Transcription Factor Binding Site Profiles	encodetf	BCLAF1_K562_hg19_1	-0.036176	0.10756	1	0	-1		BCLAF1_K562_hg19_1
+ENCODE Transcription Factor Binding Site Profiles	encodetf	SUZ12_H1-hESC_hg19_1	0.1124	0.10443	1	0	1		SUZ12_H1-hESC_hg19_1

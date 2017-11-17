@@ -1,0 +1,20 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+LOCATE Curated Protein Localization Annotations	locate	intracellular organelle part	-0.078239	0.00395	0.26626	0	-1		intracellular organelle part|organelle part|nuclear part|nucleolus|intracellular non-membrane-bounded organelle|non-membrane-bounded organelle
+LOCATE Curated Protein Localization Annotations	locate	intracellular organelle	-0.0093592	0.31086	1	0	-1	mean	intracellular organelle|organelle|intracellular membrane-bounded organelle|membrane-bounded organelle|intracellular part|mean|stdv|cell part|nucleus
+LOCATE Curated Protein Localization Annotations	locate	apical plasma membrane	0.014493	0.58746	1	0	1		apical plasma membrane
+LOCATE Curated Protein Localization Annotations	locate	endoplasmic reticulum	-0.061555	0.34287	1	0	-1		endoplasmic reticulum
+LOCATE Curated Protein Localization Annotations	locate	cytoplasm	-0.097242	0.16174	1	0	-1		cytoplasm
+LOCATE Curated Protein Localization Annotations	locate	secretory granule	-0.017765	0.59176	1	0	-1		secretory granule
+LOCATE Curated Protein Localization Annotations	locate	endosome	-0.0017142	1	1	0	-1		endosome
+LOCATE Curated Protein Localization Annotations	locate	extracellular region	0.0011688	1	1	0	1		extracellular region
+LOCATE Curated Protein Localization Annotations	locate	cytoplasmic part	0.0010909	1	1	0	1		cytoplasmic part
+LOCATE Curated Protein Localization Annotations	locate	mitochondrion	-0.025869	0.48069	1	0	-1		mitochondrion
+LOCATE Curated Protein Localization Annotations	locate	membrane	0.12246	0.089849	1	0	1		membrane|plasma membrane
+LOCATE Curated Protein Localization Annotations	locate	microbody	-0.017765	0.5917	1	0	-1		microbody|peroxisome
+LOCATE Curated Protein Localization Annotations	locate	lysosome	0.004753	1	1	0	1		lysosome|lytic vacuole|vacuole
+LOCATE Curated Protein Localization Annotations	locate	envelope	-0.0064672	1	1	0	-1		envelope|organelle envelope|nuclear envelope
+LOCATE Curated Protein Localization Annotations	locate	cytoplasmic membrane-bounded vesicle	0.020882	0.74082	1	0	1		cytoplasmic membrane-bounded vesicle|membrane-bounded vesicle|cytoplasmic vesicle|vesicle
+LOCATE Curated Protein Localization Annotations	locate	mitochondrial part	0.020765	0.42176	1	0	1		mitochondrial part|organelle membrane|mitochondrial membrane|organelle inner membrane|mitochondrial inner membrane
+LOCATE Curated Protein Localization Annotations	locate	membrane part	0.02004	0.52395	1	0	1		membrane part|plasma membrane region|plasma membrane part|membrane region|basolateral plasma membrane
+LOCATE Curated Protein Localization Annotations	locate	early endosome	0.014493	0.58749	1	0	1		early endosome
+LOCATE Curated Protein Localization Annotations	locate	golgi apparatus	-0.017843	0.77158	1	0	-1		golgi apparatus

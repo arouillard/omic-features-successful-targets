@@ -1,0 +1,105 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	mean	-0.0016611	0.61066	1	0	-1	mean	mean|stdv|endocrine gland|gland|reproductive system|female reproductive system|internal female genital organ|urogenital system|central nervous system|brain|nervous system|head|hematopoietic system
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	myeloid leukemia cell	-0.00214	1	1	0	-1		myeloid leukemia cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	cardiac muscle	0.012146	0.59578	1	0	1		cardiac muscle
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	bone marrow cancer cell	0.016194	0.57789	1	0	1		bone marrow cancer cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	lung cancer cell	0.016194	0.58256	1	0	1		lung cancer cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	jejunum	-0.0061885	1	1	0	-1		jejunum
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	mucosa	-0.012377	0.61682	1	0	-1		mucosa
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	lymph node	-0.026663	0.35538	1	0	-1		lymph node
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	connective tissue	-0.01926	0.67	1	0	-1		connective tissue
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	ovary cancer cell	-0.03476	0.073449	1	0	-1		ovary cancer cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	retina	-0.016657	0.74078	1	0	-1		retina
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	adrenal gland	0.0019086	1	1	0	1		adrenal gland
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	thymus	0.0059572	1	1	0	1		thymus
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	peripheral nervous system	0.012146	0.59426	1	0	1		peripheral nervous system
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	myometrium	-0.020474	0.21182	1	0	-1		myometrium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	lymphoblast	-0.020474	0.21209	1	0	-1		lymphoblast
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	uterine endometrium	-0.024523	0.12515	1	0	-1		uterine endometrium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	peripheral blood	-0.020706	0.49382	1	0	-1		peripheral blood
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	cartilage	0.0019086	1	1	0	1		cartilage
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	aorta	-0.059283	0.01478	1	0	-1		aorta
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	ovary	-0.039271	0.28415	1	0	-1		ovary
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	t-lymphocyte	0.014054	0.69201	1	0	1		t-lymphocyte
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	lymphoma cell	-0.026663	0.35132	1	0	-1		lymphoma cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	trachea	0.0078658	1	1	0	1		trachea
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	fibroblast	0.0097744	0.77688	1	0	1		fibroblast
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	milk	0.012146	0.59747	1	0	1		milk
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	vascular smooth muscle	-0.0061885	1	1	0	-1		vascular smooth muscle
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	dendritic cell	-0.024523	0.12299	1	0	-1		dendritic cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	bone	-0.0061885	1	1	0	-1		bone
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	small intestine	0.034297	0.30994	1	0	1		small intestine
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	b-lymphocyte cell line	-0.03476	0.073719	1	0	-1		b-lymphocyte cell line
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	lymphoid tissue	-0.060902	0.32968	1	0	-1		lymphoid tissue
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	hippocampus	0.0095431	0.81465	1	0	1		hippocampus
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	lens epithelium	0.016194	0.57693	1	0	1		lens epithelium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	esophagus	0.012146	0.59502	1	0	1		esophagus
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	skin fibroblast	0.012146	0.5957	1	0	1		skin fibroblast
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	urine	-0.012377	0.61607	1	0	-1		urine
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	gall bladder	0.012146	0.59538	1	0	1		gall bladder
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	retinal pigment epithelium	-0.0061885	1	1	0	-1		retinal pigment epithelium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	lung fibroblast	0.016194	0.58147	1	0	1		lung fibroblast
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	lymph	-0.028803	0.26888	1	0	-1		lymph
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	muscle	-0.053326	0.091569	1	0	-1		muscle
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	subthalamic nucleus	-0.0061885	1	1	0	-1		subthalamic nucleus
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	embryo	-0.020937	0.59301	1	0	-1		embryo
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	stomach	-0.00023135	1	1	0	-1		stomach
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	spleen	-0.07166	0.01718	1	0	-1		spleen
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	smooth muscle	-0.012377	0.61892	1	0	-1		smooth muscle
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	hypophysis	-0.0083285	1	1	0	-1		hypophysis
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	lens	0.0019086	1	1	0	1		lens
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	adipose tissue	-0.026663	0.35468	1	0	-1		adipose tissue
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	pancreas	-0.051648	0.22908	1	0	-1		pancreas
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	corpus striatum	0.012146	0.59568	1	0	1		corpus striatum
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	viscus	0.01203	0.89204	1	0	1		viscus
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	breast	0.0085662	0.7879	1	0	1		breast|thorax|trunk|mammary gland
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	endothelium	0.010006	0.69976	1	0	1		endothelium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	colonic adenocarcinoma cell	-0.00214	1	1	0	-1		colonic adenocarcinoma cell|colorectal adenocarcinoma cell|rectal cancer cell|rectum
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	urinary system	-0.0017539	0.97265	1	0	-1		urinary system|urinary tract|kidney|excretory gland
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	embryonic structure	0.029529	0.65349	1	0	1		embryonic structure|organism form|fetus|placenta
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	monocyte	0.035929	0.15944	1	0	1		monocyte|mononuclear phagocyte|mononuclear cell|phagocyte
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	erythrocyte	-0.019497	0.21367	1	0	-1		erythrocyte|normoblast|erythroblast|erythroid cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	metencephalon	-0.0020329	1	1	0	-1		metencephalon|hindbrain|cerebellum|brain stem
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	synovium	-0.012377	0.61517	1	0	-1		synovium|tendon sheath|tendon|synovial tissue
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	carcinoma cell	-0.032779	0.3401	1	0	-1		carcinoma cell|epithelioma cell|epithelial cell|adenocarcinoma cell|epithelium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	b-lymphocyte	-0.018393	0.67625	1	0	-1		b-lymphocyte|lymphocyte|lymphoid cell|plasma cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	vascular endothelial cell	-0.0019819	0.99601	1	0	-1		vascular endothelial cell|endothelial cell|umbilical vein endothelial cell|umbilical vein endothelium|blood vessel endothelium|vascular endothelium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	colorectum	0.016705	0.68127	1	0	1		colorectum|large intestine|intestine|colon|gastrointestinal tract|alimentary canal
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	melanoma cell	-0.0082205	0.77853	1	0	-1		melanoma cell|skin cancer cell|melanoma cell line|melanocyte|epidermal cell|epidermis
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	brain ventricle	0.0059572	1	1	0	1		brain ventricle|lateral ventricle|cerebrospinal fluid|choroid plexus|spinal column|subarachnoid space
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	basal ganglion	-0.017676	0.60903	1	0	-1		basal ganglion|ganglion
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	leukocyte	-0.06133	0.13547	1	0	-1		leukocyte|hematopoietic cell|blood|leukemia cell|lymphocytic leukemia cell|chronic lymphocytic leukemia cell|t-cell chronic lymphocytic leukemia cell|blood cancer cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	cerebral lobe	0.0075087	0.82828	1	0	1		cerebral lobe|temporal lobe|limbic system|cerebral cortex|cerebral hemisphere|telencephalon|forebrain|amygdala|avian pallium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	macroglia	-0.0017069	1	1	0	-1		macroglia|astroblast|astrocyte|astroglia|astroglial cell|neuroblast|astrocytoma cell|glia|glial cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	blood vessel	-0.020053	0.35864	1	0	-1		blood vessel|vascular system|connecting stalk|umbilical cord|mesoderm|germ layer|umbilical artery|umbilical cord blood|artery|cardiovascular system
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	female reproductive gland	0.053215	0.18991	1	0	1		female reproductive gland|male reproductive gland|internal male genital organ|male reproductive system|gonad|testis
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	marrow cell	-0.013611	0.71548	1	0	-1		marrow cell|myeloid progenitor cell|megakaryocyte|megakaryoblast|blood plasma|blood platelet|blast cell|hematopoietic stem cell|adult stem cell|bone marrow cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	uterus	-0.10266	0.02096	1	0	-1		uterus|uterine cervix|cervical carcinoma cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	fetal cell line	0.036437	0.21325	1	0	1		fetal cell line|cl-48 cell|liver cell line
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	external male genital organ	0.0086634	0.91515	1	0	1		external male genital organ|penis|prepuce
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	neck	-0.0042799	1	1	0	-1		neck|throat|thyroid gland
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	heart	0.040023	0.35064	1	0	1		heart
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	integument	0.0029054	0.94605	1	0	1		integument|skin
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	neutrophil	0.011865	0.68956	1	0	1		neutrophil|granulocyte
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	eye	-0.024718	0.5828	1	0	-1		eye|sense organ
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	mouth	-0.020474	0.21363	1	0	-1		mouth|tongue
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	digestive gland	-0.0099605	0.85369	1	0	-1		digestive gland|liver
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	thalamus	0.015933	0.61835	1	0	1		thalamus|diencephalon
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	prostate gland	0.0018236	0.97356	1	0	1		prostate gland|prostate gland epithelium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	respiratory system	0.040018	0.5083	1	0	1		respiratory system|lung
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	urinary bladder	-0.024824	0.22656	1	0	-1		urinary bladder|bladder
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	bronchoalveolar system	0.012146	0.59524	1	0	1		bronchoalveolar system|respiratory epithelium
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	hepatoma cell	-0.022529	0.1232	1	0	-1		hepatoma cell|liver cancer cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	teratocarcinoma cell	0.0019086	1	1	0	1		teratocarcinoma cell|testicular cancer cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	brain cell line	-0.012377	0.61523	1	0	-1		brain cell line|brain cortex cell line
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	colonic cancer cell	-0.014517	0.69709	1	0	-1		colonic cancer cell|gastrointestinal cancer cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	interstitial cell	-0.0042799	1	1	0	-1		interstitial cell|interstitial cell of cajal
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	prostate cancer cell line	0.016194	0.58012	1	0	1		prostate cancer cell line|prostate gland cell line
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	keratinocyte	-0.0061885	1	1	0	-1		keratinocyte|stratum spinosum
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	umbilical vein	0.0059572	1	1	0	1		umbilical vein
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	spinal cord	-0.0023713	1	1	0	-1		spinal cord
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	bone marrow	-0.013343	0.81997	1	0	-1		bone marrow|skeletal system
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	vertebrate muscular system	-0.0087814	0.72943	1	0	-1		vertebrate muscular system|skeletal muscle|muscular system
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	glioma cell	-0.00214	1	1	0	-1		glioma cell
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	pronephros	-0.020474	0.21373	1	0	-1		pronephros
+TISSUES Curated Tissue Protein Expression Evidence Scores	jensentissuecurated	breast cancer cell	-0.0064199	1	1	0	-1		breast cancer cell

@@ -1,0 +1,1153 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tuberculosis, Miliary	0.014395	0.57829	1	0	1		Tuberculosis, Miliary|Parvoviridae Infections|Shock, Cardiogenic|Picornaviridae Infections|Bird Fancier's Lung|Tuberculosis, Pleural|Clonorchiasis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia, Myelocytic, Acute	0.01992	0.35565	1	0	1		Leukemia, Myelocytic, Acute
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Still's Disease, Adult-Onset	-0.0061164	1	1	0	-1		Still's Disease, Adult-Onset
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Oral Submucous Fibrosis	0.023904	0.34632	1	0	1		Oral Submucous Fibrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Myasthenia Gravis	0.039841	0.1266	1	0	1		Myasthenia Gravis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Abruptio Placentae	0.023904	0.3471	1	0	1		Abruptio Placentae
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Epilepsy	0.041412	0.31421	1	0	1		Epilepsy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pulmonary Disease, Chronic Obstructive	0.005443	1	1	0	1		Pulmonary Disease, Chronic Obstructive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nerve Degeneration	-0.040402	0.074679	1	0	-1		Nerve Degeneration
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Irritable Bowel Syndrome	0.045396	0.22685	1	0	1		Irritable Bowel Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sleep	0.091633	0.0064999	1	0	1		Sleep
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Child Development Disorders, Pervasive	0.025476	0.58012	1	0	1		Child Development Disorders, Pervasive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Psychiatric Status Rating Scales	0.077998	0.2029	1	0	1		Psychiatric Status Rating Scales
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypokinesia	0.01992	0.35989	1	0	1		Hypokinesia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Reinforcement Schedule	0.015936	0.57621	1	0	1		Reinforcement Schedule
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Huntington Disease	0.0058358	1	1	0	1		Huntington Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ocular Motility Disorders	0.015936	0.57782	1	0	1		Ocular Motility Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Prostatic Neoplasms	0.033612	0.64613	1	0	1		Prostatic Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thrombocytopenia	0.0076876	1	1	0	1		Thrombocytopenia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lichen Planus, Oral	0.051793	0.080679	1	0	1		Lichen Planus, Oral
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Meniere Disease	0.017788	0.68954	1	0	1		Meniere Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hearing Loss	0.035857	0.21601	1	0	1		Hearing Loss
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypercholesterolemia	0.06021	0.31927	1	0	1		Hypercholesterolemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Obesity, Abdominal	0.039841	0.12528	1	0	1		Obesity, Abdominal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Overweight	0.041131	0.37946	1	0	1		Overweight
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Erythema	0.0058358	1	1	0	1		Erythema
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Body Weight	0.12934	0.00265	1	0	1		Body Weight
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aneurysm, Ruptured	0.031873	0.20765	1	0	1		Aneurysm, Ruptured
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thromboembolism	0.037708	0.20831	1	0	1		Thromboembolism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetes Mellitus, Type 1	0.013972	0.86903	1	0	1		Diabetes Mellitus, Type 1
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Abortion, Spontaneous	0.019079	0.66873	1	0	1		Abortion, Spontaneous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neurotoxicity Syndromes	-0.00028057	1	1	0	-1		Neurotoxicity Syndromes
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasm, Residual	-0.026317	0.35227	1	0	-1		Neoplasm, Residual
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vascular Diseases	0.077268	0.075019	1	0	1		Vascular Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bronchiolitis	0.017788	0.69063	1	0	1		Bronchiolitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Association Learning	0.015936	0.57979	1	0	1		Association Learning
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Reactive Attachment Disorder	0.015936	0.58014	1	0	1		Reactive Attachment Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cushing Syndrome	0.01992	0.35811	1	0	1		Cushing Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperthyroidism	-0.024185	0.12541	1	0	-1		Hyperthyroidism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypotension, Orthostatic	0.015936	0.58124	1	0	1		Hypotension, Orthostatic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urogenital Abnormalities	0.011952	0.59729	1	0	1		Urogenital Abnormalities
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pseudoxanthoma Elasticum	-0.024185	0.12432	1	0	-1		Pseudoxanthoma Elasticum
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Abdominal Pain	0.0018517	1	1	0	1		Abdominal Pain
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperparathyroidism	0.011952	0.59404	1	0	1		Hyperparathyroidism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Amyloidosis, Familial	-0.016217	0.58992	1	0	-1		Amyloidosis, Familial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chromosome Inversion	-0.0061164	1	1	0	-1		Chromosome Inversion
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thrombocythemia, Hemorrhagic	0.011952	0.59578	1	0	1		Thrombocythemia, Hemorrhagic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Polycythemia Vera	0.011952	0.59578	1	0	1		Polycythemia Vera
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Myeloproliferative Disorders	0.011952	0.59578	1	0	1		Myeloproliferative Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chromosome Deletion	0.043544	0.26554	1	0	1		Chromosome Deletion
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adrenal Gland Neoplasms	0.023904	0.34604	1	0	1		Adrenal Gland Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mental Retardation	0.021772	0.46936	1	0	1		Mental Retardation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alcohol Withdrawal Delirium	0.017788	0.69149	1	0	1		Alcohol Withdrawal Delirium
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperparathyroidism, Primary	0.01992	0.3596	1	0	1		Hyperparathyroidism, Primary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Auditory Threshold	-0.024185	0.1244	1	0	-1		Auditory Threshold
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Motor Skills	0.023904	0.34918	1	0	1		Motor Skills
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Space Perception	0.027888	0.21546	1	0	1		Space Perception
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gambling	0.017788	0.68898	1	0	1		Gambling
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tic Disorders	0.011952	0.59544	1	0	1		Tic Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mental Recall	0.023904	0.34414	1	0	1		Mental Recall
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vasospasm, Intracranial	0.015936	0.57684	1	0	1		Vasospasm, Intracranial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Auditory Perception	0.011952	0.5951	1	0	1		Auditory Perception
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stress	0.027888	0.2177	1	0	1		Stress
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Virilism	-0.0061164	1	1	0	-1		Virilism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urination Disorders	0.0018517	1	1	0	1		Urination Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypospadias	-0.018349	0.41974	1	0	-1		Hypospadias
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urinary Incontinence, Stress	-0.0021323	1	1	0	-1		Urinary Incontinence, Stress
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Corneal Diseases	0.0018517	1	1	0	1		Corneal Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dyslexia	-0.0021323	1	1	0	-1		Dyslexia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Amenorrhea	0.031873	0.20805	1	0	1		Amenorrhea
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Intraductal, Noninfiltrating	0.0018517	1	1	0	1		Carcinoma, Intraductal, Noninfiltrating
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Brucellosis	0.051793	0.079399	1	0	1		Brucellosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rheumatic Heart Disease	0.047809	0.076459	1	0	1		Rheumatic Heart Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Spinal Fractures	0.033724	0.31159	1	0	1		Spinal Fractures
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anemia, Sickle Cell	0.033444	0.42822	1	0	1		Anemia, Sickle Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anemia, Iron-Deficiency	0.0058358	1	1	0	1		Anemia, Iron-Deficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Death, Sudden	0.0098199	0.69988	1	0	1		Death, Sudden
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cardiomyopathies	0.02974	0.31373	1	0	1		Cardiomyopathies
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cough	0.033724	0.31095	1	0	1		Cough
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteoporosis, Postmenopausal	0.027047	0.66444	1	0	1		Osteoporosis, Postmenopausal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intracranial Aneurysm	0.015656	0.73863	1	0	1		Intracranial Aneurysm
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cicatrix	-0.0021323	1	1	0	-1		Cicatrix
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nephritis, Interstitial	0.011952	0.59783	1	0	1		Nephritis, Interstitial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertension, Malignant	0.011952	0.59783	1	0	1		Hypertension, Malignant
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Convalescence	0.015936	0.57986	1	0	1		Convalescence
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Angioedemas, Hereditary	0.011952	0.59529	1	0	1		Angioedemas, Hereditary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Liver Failure, Acute	0.027888	0.2158	1	0	1		Liver Failure, Acute
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypotension	0.043825	0.13158	1	0	1		Hypotension
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypoglycemia	0.013804	0.69179	1	0	1		Hypoglycemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lupus Nephritis	0.043544	0.26828	1	0	1		Lupus Nephritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cholestasis	0.015936	0.58023	1	0	1		Cholestasis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fragile X Syndrome	0.011952	0.59553	1	0	1		Fragile X Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Metabolism, Inborn Errors	-0.0061164	1	1	0	-1		Metabolism, Inborn Errors
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Severe Combined Immunodeficiency	0.027888	0.21629	1	0	1		Severe Combined Immunodeficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Maduromycosis	0.011952	0.59676	1	0	1		Maduromycosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypothyroidism	0.0058358	1	1	0	1		Hypothyroidism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rectal Fistula	0.011952	0.59763	1	0	1		Rectal Fistula
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cholestasis, Intrahepatic	-0.0021323	1	1	0	-1		Cholestasis, Intrahepatic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intellectual Disability	0.0018517	1	1	0	1		Intellectual Disability
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Peritoneal Diseases	0.015936	0.58016	1	0	1		Peritoneal Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Back Pain	0.011952	0.59599	1	0	1		Back Pain
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stress Disorders, Traumatic, Acute	0.011952	0.59695	1	0	1		Stress Disorders, Traumatic, Acute
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adrenal Cortex Neoplasms	0.015936	0.57907	1	0	1		Adrenal Cortex Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nephrolithiasis	-0.0021323	1	1	0	-1		Nephrolithiasis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cumulative Trauma Disorders	-0.012233	0.61473	1	0	-1		Cumulative Trauma Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Syndrome	0.054935	0.23566	1	0	1		Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leishmaniasis, Cutaneous	0.02974	0.31361	1	0	1		Leishmaniasis, Cutaneous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Septal Defects, Ventricular	0.023904	0.34568	1	0	1		Heart Septal Defects, Ventricular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intracranial Embolism	0.011952	0.59268	1	0	1		Intracranial Embolism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pneumonia, Viral	0.011952	0.59649	1	0	1		Pneumonia, Viral
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pterygium	0.01992	0.36074	1	0	1		Pterygium
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pancreatitis, Chronic	0.037708	0.20696	1	0	1		Pancreatitis, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Liver Diseases, Alcoholic	0.047809	0.075229	1	0	1		Liver Diseases, Alcoholic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lipodystrophy	0.021772	0.47068	1	0	1		Lipodystrophy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leprosy, Lepromatous	0.015936	0.58023	1	0	1		Leprosy, Lepromatous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Candidiasis, Invasive	0.011952	0.59522	1	0	1		Candidiasis, Invasive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Campylobacter Infections	0.01992	0.35764	1	0	1		Campylobacter Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Duodenal Diseases	0.011952	0.59856	1	0	1		Duodenal Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Colitis, Microscopic	0.015936	0.58131	1	0	1		Colitis, Microscopic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Histiocytosis, Langerhans-Cell	0.01992	0.35943	1	0	1		Histiocytosis, Langerhans-Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Common Cold	0.0018517	1	1	0	1		Common Cold
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Schistosomiasis mansoni	0.011952	0.5984	1	0	1		Schistosomiasis mansoni
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Endotoxemia	0.01992	0.35965	1	0	1		Endotoxemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Liver Failure	0.023904	0.34809	1	0	1		Liver Failure
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Raynaud Disease	0.015936	0.58043	1	0	1		Raynaud Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hematologic Neoplasms	0.035576	0.38258	1	0	1		Hematologic Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Parasitemia	0.015656	0.7423	1	0	1		Parasitemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intermittent Claudication	0.011952	0.59494	1	0	1		Intermittent Claudication
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Epilepsy, Post-Traumatic	0.011952	0.59517	1	0	1		Epilepsy, Post-Traumatic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Folic Acid Deficiency	0.0058358	1	1	0	1		Folic Acid Deficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Enterovirus Infections	-0.024185	0.12297	1	0	-1		Enterovirus Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vitamin A Deficiency	-0.0061164	1	1	0	-1		Vitamin A Deficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lichen Planus	0.011952	0.5971	1	0	1		Lichen Planus
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Malaria	0.013523	0.77435	1	0	1		Malaria
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pleural Diseases	0.011952	0.59798	1	0	1		Pleural Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Multiple System Atrophy	0.013804	0.68931	1	0	1		Multiple System Atrophy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis	0.015936	0.5788	1	0	1		Hepatitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Respiratory Sounds	0.059761	0.04851	1	0	1		Respiratory Sounds
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cholangitis, Sclerosing	0.017788	0.68672	1	0	1		Cholangitis, Sclerosing
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vitiligo	0.015375	0.79453	1	0	1		Vitiligo
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Malaria, Cerebral	0.013523	0.77579	1	0	1		Malaria, Cerebral
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bone Marrow Diseases	0.017788	0.68906	1	0	1		Bone Marrow Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hirsutism	0.0098199	0.70139	1	0	1		Hirsutism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hot Flashes	-0.016217	0.58846	1	0	-1		Hot Flashes
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasms, Cystic, Mucinous, and Serous	0.011952	0.59574	1	0	1		Neoplasms, Cystic, Mucinous, and Serous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Psoriasis	0.03928	0.35271	1	0	1		Psoriasis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arthritis, Psoriatic	0.045396	0.22783	1	0	1		Arthritis, Psoriatic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphocytosis	0.015936	0.57837	1	0	1		Lymphocytosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fatigue Syndrome, Chronic	0.05948	0.12376	1	0	1		Fatigue Syndrome, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tumor Virus Infections	0.01992	0.36232	1	0	1		Tumor Virus Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Latent Tuberculosis	-0.0061164	1	1	0	-1		Latent Tuberculosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Addison Disease	0.031873	0.20677	1	0	1		Addison Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis C	0.038718	0.45226	1	0	1		Hepatitis C
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis B	0.081252	0.077539	1	0	1		Hepatitis B
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nasopharyngeal Neoplasms	0.063464	0.082989	1	0	1		Nasopharyngeal Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Papillomavirus Infections	0.047528	0.18317	1	0	1		Papillomavirus Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Myelodysplastic Syndromes	0.027608	0.38883	1	0	1		Myelodysplastic Syndromes
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acute Disease	0.075866	0.21137	1	0	1		Acute Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Paraproteinemias	0.015936	0.58192	1	0	1		Paraproteinemias
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis B, Chronic	0.077268	0.075859	1	0	1		Hepatitis B, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hernia, Hiatal	0.015936	0.57894	1	0	1		Hernia, Hiatal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Polyendocrinopathies, Autoimmune	0.011952	0.59756	1	0	1		Polyendocrinopathies, Autoimmune
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thyroid Diseases	0.015656	0.74146	1	0	1		Thyroid Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tendinopathy	0.017788	0.68811	1	0	1		Tendinopathy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Keratoconus	-0.0061164	1	1	0	-1		Keratoconus
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteitis Deformans	0.023904	0.34486	1	0	1		Osteitis Deformans
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sciatica	0.067729	0.03008	1	0	1		Sciatica
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Spinal Diseases	0.027888	0.21561	1	0	1		Spinal Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intervertebral Disk Displacement	0.037708	0.21025	1	0	1		Intervertebral Disk Displacement
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thyroiditis, Autoimmune	0.0037035	1	1	0	1		Thyroiditis, Autoimmune
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arthralgia	0.023904	0.3458	1	0	1		Arthralgia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Root Resorption	0.011952	0.59558	1	0	1		Root Resorption
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Achlorhydria	0.011952	0.59572	1	0	1		Achlorhydria
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Meningococcal Infections	0.025195	0.64483	1	0	1		Meningococcal Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nasal Polyps	0.043825	0.12956	1	0	1		Nasal Polyps
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Food Hypersensitivity	0.0098199	0.70611	1	0	1		Food Hypersensitivity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypersensitivity	0.029179	0.50025	1	0	1		Hypersensitivity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dysthymic Disorder	0.01992	0.35927	1	0	1		Dysthymic Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bronchitis, Chronic	0.023904	0.34357	1	0	1		Bronchitis, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Wounds and Injuries	0.075697	0.0182	1	0	1		Wounds and Injuries
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nephrotic Syndrome	0.037708	0.21045	1	0	1		Nephrotic Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastroenteritis	0.027888	0.21622	1	0	1		Gastroenteritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Blastocystis Infections	0.011952	0.59641	1	0	1		Blastocystis Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Retinal Vasculitis	-0.0082487	1	1	0	-1		Retinal Vasculitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Multiple Organ Failure	0.055777	0.04636	1	0	1		Multiple Organ Failure
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gram-Negative Bacterial Infections	0.0098199	0.70139	1	0	1		Gram-Negative Bacterial Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pneumoconiosis	0.0037035	1	1	0	1		Pneumoconiosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatolenticular Degeneration	0.015936	0.58131	1	0	1		Hepatolenticular Degeneration
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Berylliosis	0.023904	0.34556	1	0	1		Berylliosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dental Plaque	0.023904	0.34662	1	0	1		Dental Plaque
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chronic Periodontitis	0.075417	0.055529	1	0	1		Chronic Periodontitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Actinobacillus Infections	0.0098199	0.7007	1	0	1		Actinobacillus Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alveolitis, Extrinsic Allergic	0.027888	0.21632	1	0	1		Alveolitis, Extrinsic Allergic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hearing Loss, Noise-Induced	-0.012233	0.61626	1	0	-1		Hearing Loss, Noise-Induced
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperuricemia	0.037708	0.20741	1	0	1		Hyperuricemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tooth Loss	0.027888	0.21594	1	0	1		Tooth Loss
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sudden Infant Death	0.03956	0.26402	1	0	1		Sudden Infant Death
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glossitis, Benign Migratory	0.011952	0.59527	1	0	1		Glossitis, Benign Migratory
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stomach Diseases	0.015936	0.58083	1	0	1		Stomach Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glomerulonephritis, Membranous	0.039841	0.12469	1	0	1		Glomerulonephritis, Membranous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glomerulonephritis	0.027608	0.38938	1	0	1		Glomerulonephritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Respiratory Distress Syndrome, Newborn	0.039841	0.12489	1	0	1		Respiratory Distress Syndrome, Newborn
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Respiratory Distress Syndrome, Adult	0.0095393	0.77906	1	0	1		Respiratory Distress Syndrome, Adult
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Uremia	0.023904	0.34664	1	0	1		Uremia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Metaplasia	0.01964	0.5436	1	0	1		Metaplasia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tooth Diseases	0.015936	0.57866	1	0	1		Tooth Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastritis, Atrophic	0.007407	1	1	0	1		Gastritis, Atrophic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fatty Liver, Alcoholic	0.0058358	1	1	0	1		Fatty Liver, Alcoholic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Delayed Graft Function	-0.0063969	1	1	0	-1		Delayed Graft Function
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pancreatitis, Alcoholic	0.021772	0.46771	1	0	1		Pancreatitis, Alcoholic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dermatitis, Occupational	0.023904	0.34701	1	0	1		Dermatitis, Occupational
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dermatitis, Allergic Contact	0.031873	0.20684	1	0	1		Dermatitis, Allergic Contact
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Malaria, Vivax	0.011672	0.74291	1	0	1		Malaria, Vivax
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Helicobacter Infections	0.038999	0.41424	1	0	1		Helicobacter Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Peritoneal Neoplasms	-0.0021323	1	1	0	-1		Peritoneal Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Periapical Periodontitis	0.011952	0.59527	1	0	1		Periapical Periodontitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Failure, Systolic	0.015936	0.57997	1	0	1		Heart Failure, Systolic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hip Fractures	0.023624	0.53811	1	0	1		Hip Fractures
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fractures, Spontaneous	0.0058358	1	1	0	1		Fractures, Spontaneous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bone Diseases, Metabolic	0.035576	0.37919	1	0	1		Bone Diseases, Metabolic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bone Diseases	0.023904	0.34206	1	0	1		Bone Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Disorders of Excessive Somnolence	0.01992	0.35662	1	0	1		Disorders of Excessive Somnolence
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neuroendocrine Tumors	0.0018517	1	1	0	1		Neuroendocrine Tumors
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteoporotic Fractures	0.031873	0.20875	1	0	1		Osteoporotic Fractures
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rhabdomyolysis	-0.0021323	1	1	0	-1		Rhabdomyolysis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Atrial Fibrillation	0.03928	0.35472	1	0	1		Atrial Fibrillation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Death, Sudden, Cardiac	0.061613	0.090019	1	0	1		Death, Sudden, Cardiac
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Block	0.01992	0.35691	1	0	1		Heart Block
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Long QT Syndrome	0.035857	0.21432	1	0	1		Long QT Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arrhythmia	0.011952	0.59365	1	0	1		Arrhythmia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cardiomyopathy, Dilated	0.089501	0.02568	1	0	1		Cardiomyopathy, Dilated
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sickle Cell Trait	0.015936	0.57827	1	0	1		Sickle Cell Trait
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cardiomyopathy, Hypertrophic	0.0015712	1	1	0	1		Cardiomyopathy, Hypertrophic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vitamin D Deficiency	0.01992	0.35833	1	0	1		Vitamin D Deficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Retinal Neovascularization	0.011952	0.5958	1	0	1		Retinal Neovascularization
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Awareness	0.01992	0.35808	1	0	1		Awareness
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Colonic Polyps	0.047809	0.075269	1	0	1		Colonic Polyps
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Microsatellite Instability	0.011391	0.79593	1	0	1		Microsatellite Instability
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Adenoid Cystic	0.015936	0.58048	1	0	1		Carcinoma, Adenoid Cystic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vulvar Neoplasms	0.025756	0.46826	1	0	1		Vulvar Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chromosomal Instability	0.011952	0.594	1	0	1		Chromosomal Instability
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carpal Tunnel Syndrome	-0.0061164	1	1	0	-1		Carpal Tunnel Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Medullary	-0.0061164	1	1	0	-1		Carcinoma, Medullary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Papillary	0.0058358	1	1	0	1		Carcinoma, Papillary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adenocarcinoma, Clear Cell	-0.0021323	1	1	0	-1		Adenocarcinoma, Clear Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gout	0.067729	0.03006	1	0	1		Gout
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Refractive Errors	0.01992	0.3574	1	0	1		Refractive Errors
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Macular Degeneration	-0.026878	0.61773	1	0	-1		Macular Degeneration
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Geographic Atrophy	0.011952	0.59743	1	0	1		Geographic Atrophy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thyroid Neoplasms	0.03075	0.56449	1	0	1		Thyroid Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Coronary Aneurysm	0.011952	0.59864	1	0	1		Coronary Aneurysm
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Respiratory Insufficiency	0.01992	0.35553	1	0	1		Respiratory Insufficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fibromuscular Dysplasia	0.015936	0.58214	1	0	1		Fibromuscular Dysplasia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neurogenic Inflammation	-0.020201	0.21226	1	0	-1		Neurogenic Inflammation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Virus Diseases	0.01992	0.35981	1	0	1		Virus Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urinary Tract Infections	0.025756	0.4675	1	0	1		Urinary Tract Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pyelonephritis	0.01992	0.35838	1	0	1		Pyelonephritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Staphylococcal Infections	0.023904	0.3463	1	0	1		Staphylococcal Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acne Vulgaris	0.01992	0.36084	1	0	1		Acne Vulgaris
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mycobacterium Infections, Atypical	0.011952	0.59551	1	0	1		Mycobacterium Infections, Atypical
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	HELLP Syndrome	0.035857	0.21559	1	0	1		HELLP Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Appetite	0.063745	0.02714	1	0	1		Appetite
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Angioedema	0.015936	0.58093	1	0	1		Angioedema
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pulmonary Emphysema	-0.022333	0.37965	1	0	-1		Pulmonary Emphysema
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vitreoretinopathy, Proliferative	0.015936	0.57829	1	0	1		Vitreoretinopathy, Proliferative
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Spinal Osteophytosis	0.01992	0.35821	1	0	1		Spinal Osteophytosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Erythema Nodosum	0.0037035	1	1	0	1		Erythema Nodosum
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pregnancy in Diabetics	-0.0021323	1	1	0	-1		Pregnancy in Diabetics
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aortic Rupture	0.0058358	1	1	0	1		Aortic Rupture
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stomatitis	-0.012233	0.61651	1	0	-1		Stomatitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tension-Type Headache	0.023904	0.34503	1	0	1		Tension-Type Headache
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ascites	0.0098199	0.70239	1	0	1		Ascites
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Polycystic Kidney, Autosomal Dominant	0.039841	0.12569	1	0	1		Polycystic Kidney, Autosomal Dominant
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aortic Coarctation	0.023904	0.34671	1	0	1		Aortic Coarctation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetic Foot	0.023904	0.34469	1	0	1		Diabetic Foot
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pulmonary Edema	0.023904	0.34495	1	0	1		Pulmonary Edema
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Otosclerosis	0.027888	0.21813	1	0	1		Otosclerosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Eclampsia	0.023904	0.34559	1	0	1		Eclampsia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ureteral Obstruction	0.015936	0.57814	1	0	1		Ureteral Obstruction
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glycogen Storage Disease Type II	0.011952	0.59494	1	0	1		Glycogen Storage Disease Type II
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Kidney Failure	0.025756	0.46811	1	0	1		Kidney Failure
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperinsulinism	0.011672	0.74537	1	0	1		Hyperinsulinism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Limb Deformities, Congenital	0.0058358	1	1	0	1		Limb Deformities, Congenital
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intracranial Embolism and Thrombosis	0.011952	0.5979	1	0	1		Intracranial Embolism and Thrombosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastroschisis	-0.0061164	1	1	0	-1		Gastroschisis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Peptic Ulcer Hemorrhage	0.027888	0.21637	1	0	1		Peptic Ulcer Hemorrhage
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glucose Metabolism Disorders	0.017788	0.69057	1	0	1		Glucose Metabolism Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Uterine Diseases	-0.024466	0.47744	1	0	-1		Uterine Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Amyloid Neuropathies, Familial	0.011952	0.59825	1	0	1		Amyloid Neuropathies, Familial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteoarthritis, Hip	0.037708	0.20967	1	0	1		Osteoarthritis, Hip
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dermatitis, Atopic	0.073565	0.03576	1	0	1		Dermatitis, Atopic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Colitis, Ulcerative	0.042702	0.44981	1	0	1		Colitis, Ulcerative
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anthracosis	0.0018517	1	1	0	1		Anthracosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mycobacterium Infections	0.031873	0.20835	1	0	1		Mycobacterium Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fever	0.021772	0.46952	1	0	1		Fever
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Drug Hypersensitivity	0.03956	0.26497	1	0	1		Drug Hypersensitivity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Parasitic Diseases	0.011952	0.59563	1	0	1		Parasitic Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pemphigus	0.043825	0.13131	1	0	1		Pemphigus
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Puerperal Disorders	0.045676	0.13702	1	0	1		Puerperal Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pneumococcal Infections	0.023904	0.34538	1	0	1		Pneumococcal Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chagas Disease	0.039841	0.12512	1	0	1		Chagas Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sleep Apnea, Obstructive	0.095618	0.0082599	1	0	1		Sleep Apnea, Obstructive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anoxia	0.055777	0.04649	1	0	1		Anoxia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis E	0.015936	0.57829	1	0	1		Hepatitis E
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Retinopathy of Prematurity	0.031873	0.20975	1	0	1		Retinopathy of Prematurity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aspergillosis, Allergic Bronchopulmonary	0.011952	0.59914	1	0	1		Aspergillosis, Allergic Bronchopulmonary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Subacute Sclerosing Panencephalitis	0.039841	0.12694	1	0	1		Subacute Sclerosing Panencephalitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adenocarcinoma, Mucinous	0.0018517	1	1	0	1		Adenocarcinoma, Mucinous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Choroidal Neovascularization	0.02974	0.31472	1	0	1		Choroidal Neovascularization
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sarcopenia	0.015936	0.57947	1	0	1		Sarcopenia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperaldosteronism	0.015936	0.57627	1	0	1		Hyperaldosteronism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aortic Aneurysm, Abdominal	0.0031424	1	1	0	1		Aortic Aneurysm, Abdominal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Failure, Congestive	0.043825	0.13171	1	0	1		Heart Failure, Congestive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gonorrhea	0.011952	0.59544	1	0	1		Gonorrhea
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Peripheral Arterial Disease	0.0058358	1	1	0	1		Peripheral Arterial Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vesico-Ureteral Reflux	0.043825	0.12992	1	0	1		Vesico-Ureteral Reflux
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Diseases	0.063464	0.082599	1	0	1		Heart Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tetralogy of Fallot	0.011952	0.59443	1	0	1		Tetralogy of Fallot
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Brain Diseases	-0.024185	0.12448	1	0	-1		Brain Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Varicose Ulcer	0.0018517	1	1	0	1		Varicose Ulcer
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Eosinophilia	0.035857	0.21566	1	0	1		Eosinophilia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Polycystic Kidney Diseases	-0.0021323	1	1	0	-1		Polycystic Kidney Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasms, Multiple Primary	0.01992	0.36094	1	0	1		Neoplasms, Multiple Primary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thrombosis	0.056787	0.25667	1	0	1		Thrombosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Breast Diseases	0.0098199	0.70311	1	0	1		Breast Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Psychological Tests	0.031592	0.3805	1	0	1		Psychological Tests
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lung Diseases, Obstructive	0.035857	0.21496	1	0	1		Lung Diseases, Obstructive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Genetic Diseases, Inborn	0.051512	0.18092	1	0	1		Genetic Diseases, Inborn
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypogonadism	0.025756	0.46618	1	0	1		Hypogonadism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ovarian Hyperstimulation Syndrome	-0.0021323	1	1	0	-1		Ovarian Hyperstimulation Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gait Disorders, Neurologic	-0.0061164	1	1	0	-1		Gait Disorders, Neurologic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bipolar Disorder	0.090231	0.13814	1	0	1		Bipolar Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Takotsubo Cardiomyopathy	0.01992	0.35831	1	0	1		Takotsubo Cardiomyopathy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cataract	-0.030301	0.1254	1	0	-1		Cataract
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Down Syndrome	-0.044666	0.2109	1	0	-1		Down Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Counseling	0.011952	0.59545	1	0	1		Counseling
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adenomatous Polyps	0.033724	0.31058	1	0	1		Adenomatous Polyps
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Genital Neoplasms, Female	0.015936	0.58042	1	0	1		Genital Neoplasms, Female
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Wet Macular Degeneration	-0.016217	0.58898	1	0	-1		Wet Macular Degeneration
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Granuloma	0.011952	0.59635	1	0	1		Granuloma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetic Retinopathy	0.01111	0.82178	1	0	1		Diabetic Retinopathy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Psychotic Disorders	0.049099	0.28499	1	0	1		Psychotic Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Somatoform Disorders	0.033724	0.31203	1	0	1		Somatoform Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neovascularization, Pathologic	0.045396	0.22679	1	0	1		Neovascularization, Pathologic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasms, Hormone-Dependent	-0.018349	0.41591	1	0	-1		Neoplasms, Hormone-Dependent
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Ductal, Breast	-0.036979	0.33686	1	0	-1		Carcinoma, Ductal, Breast
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Breast Neoplasms, Male	0.043825	0.13109	1	0	1		Breast Neoplasms, Male
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cell Transformation, Neoplastic	0.013243	0.81095	1	0	1		Cell Transformation, Neoplastic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Brain Neoplasms	-0.0072387	1	1	0	-1		Brain Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Wakefulness	0.055777	0.04616	1	0	1		Wakefulness
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Precancerous Conditions	0.021211	0.64391	1	0	1		Precancerous Conditions
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Central Nervous System Diseases	0.015936	0.58316	1	0	1		Central Nervous System Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rheumatic Diseases	-0.012233	0.61708	1	0	-1		Rheumatic Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Guillain-Barre Syndrome	0.015936	0.58156	1	0	1		Guillain-Barre Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Perception	0.031873	0.20563	1	0	1		Perception
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Supranuclear Palsy, Progressive	-0.020201	0.21317	1	0	-1		Supranuclear Palsy, Progressive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Frontotemporal Lobar Degeneration	-0.020201	0.21214	1	0	-1		Frontotemporal Lobar Degeneration
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasms, Radiation-Induced	0.035857	0.21472	1	0	1		Neoplasms, Radiation-Induced
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vision Disorders	-0.020201	0.21243	1	0	-1		Vision Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glaucoma, Angle-Closure	-0.0021323	1	1	0	-1		Glaucoma, Angle-Closure
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cerebral Amyloid Angiopathy	-0.036418	0.11192	1	0	-1		Cerebral Amyloid Angiopathy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Scleroderma, Systemic	0.083385	0.03641	1	0	1		Scleroderma, Systemic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Polymyalgia Rheumatica	0.017788	0.69032	1	0	1		Polymyalgia Rheumatica
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertension, Pulmonary	0.087649	0.01332	1	0	1		Hypertension, Pulmonary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Calcinosis	0.054374	0.30986	1	0	1		Calcinosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Radiation Pneumonitis	0.033444	0.42996	1	0	1		Radiation Pneumonitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Migraine with Aura	0.069581	0.058249	1	0	1		Migraine with Aura
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tuberculosis, Pulmonary	0.081533	0.02219	1	0	1		Tuberculosis, Pulmonary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Schizophrenic Psychology	0.024634	0.70589	1	0	1		Schizophrenic Psychology
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mental Disorders	0.12581	0.04618	1	0	1		Mental Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mitral Valve Prolapse	0.021772	0.47238	1	0	1		Mitral Valve Prolapse
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Measles	0.033724	0.30941	1	0	1		Measles
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Multiple Sclerosis, Relapsing-Remitting	0.065597	0.055609	1	0	1		Multiple Sclerosis, Relapsing-Remitting
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Liver Cirrhosis, Biliary	0.067729	0.02982	1	0	1		Liver Cirrhosis, Biliary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hashimoto Disease	0.035576	0.38199	1	0	1		Hashimoto Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Schizophrenia	0.028225	0.68007	1	0	1		Schizophrenia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tuberculosis	0.045396	0.22658	1	0	1		Tuberculosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Uterine Cervical Neoplasms	0.051232	0.25716	1	0	1		Uterine Cervical Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bronchiolitis Obliterans	0.027888	0.21582	1	0	1		Bronchiolitis Obliterans
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Spondylitis, Ankylosing	0.053364	0.2233	1	0	1		Spondylitis, Ankylosing
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Coronary Disease	0.081701	0.17466	1	0	1		Coronary Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alcoholism	-0.0025251	1	1	0	-1		Alcoholism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Atherosclerosis	0.067897	0.27003	1	0	1		Atherosclerosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urinary Bladder Neoplasms	0.049829	0.43086	1	0	1		Urinary Bladder Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Weight Gain	0.03047	0.59075	1	0	1		Weight Gain
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Celiac Disease	0.023063	0.66381	1	0	1		Celiac Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Epstein-Barr Virus Infections	0.00101	1	1	0	1		Epstein-Barr Virus Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lupus Erythematosus, Systemic	-0.024297	0.74599	1	0	-1		Lupus Erythematosus, Systemic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Liver Cirrhosis	0.043993	0.51515	1	0	1		Liver Cirrhosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Birth Weight	0.0041524	1	1	0	1		Birth Weight
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pancreatic Neoplasms	0.031031	0.52467	1	0	1		Pancreatic Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Myopia	0.0015712	1	1	0	1		Myopia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	beta-Thalassemia	0.059761	0.04799	1	0	1		beta-Thalassemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sarcoidosis	0.079401	0.057409	1	0	1		Sarcoidosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fractures, Ununited	0.0058358	1	1	0	1		Fractures, Ununited
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Multiple Sclerosis	0.033893	0.632	1	0	1		Multiple Sclerosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphadenitis	0.017788	0.68688	1	0	1		Lymphadenitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Eczema	0.017788	0.69227	1	0	1		Eczema
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acute Lung Injury	0.023904	0.34464	1	0	1		Acute Lung Injury
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bacteremia	0.035857	0.21584	1	0	1		Bacteremia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Common Variable Immunodeficiency	0.039841	0.12533	1	0	1		Common Variable Immunodeficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Radiation Injuries	0.057348	0.15736	1	0	1		Radiation Injuries
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Colonic Neoplasms	0.052803	0.33146	1	0	1		Colonic Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Splenomegaly	0.0018517	1	1	0	1		Splenomegaly
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sjogren's Syndrome	0.051793	0.078409	1	0	1		Sjogren's Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dementia	-0.035408	0.54706	1	0	-1		Dementia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Disease Models, Animal	-0.0035352	1	1	0	-1		Disease Models, Animal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mood Disorders	0.018237	0.73214	1	0	1		Mood Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Opioid-Related Disorders	0.065597	0.055509	1	0	1		Opioid-Related Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heroin Dependence	0.057629	0.086049	1	0	1		Heroin Dependence
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Reaction Time	0.075417	0.053289	1	0	1		Reaction Time
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertriglyceridemia	0.0034229	1	1	0	1		Hypertriglyceridemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anemia, Aplastic	0.043825	0.13287	1	0	1		Anemia, Aplastic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Syncope, Vasovagal	0.035857	0.215	1	0	1		Syncope, Vasovagal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Retinal Diseases	0.0037035	1	1	0	1		Retinal Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Encephalitis	-0.0082487	1	1	0	-1		Encephalitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rheumatic Fever	0.01992	0.35708	1	0	1		Rheumatic Fever
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hearing Loss, Sensorineural	0.037708	0.2105	1	0	1		Hearing Loss, Sensorineural
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Muscular Diseases	0.035857	0.21143	1	0	1		Muscular Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Obesity, Morbid	0.075417	0.054699	1	0	1		Obesity, Morbid
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Kidney Diseases	0.03075	0.56284	1	0	1		Kidney Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Scoliosis	0.021772	0.47018	1	0	1		Scoliosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperlipoproteinemia Type II	0.047528	0.18309	1	0	1		Hyperlipoproteinemia Type II
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetes Complications	0.038887	0.56744	1	0	1		Diabetes Complications
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphoma, B-Cell	-0.012513	0.7503	1	0	-1		Lymphoma, B-Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Head and Neck Neoplasms	0.027047	0.66487	1	0	1		Head and Neck Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adenoma	0.028898	0.54714	1	0	1		Adenoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Demyelinating Diseases	0.011952	0.59757	1	0	1		Demyelinating Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diarrhea	0.011672	0.74387	1	0	1		Diarrhea
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Plaque, Atherosclerotic	0.031592	0.38313	1	0	1		Plaque, Atherosclerotic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leiomyomatosis	-0.0061164	1	1	0	-1		Leiomyomatosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Kidney Calculi	0.023904	0.34477	1	0	1		Kidney Calculi
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Growth Disorders	0.055777	0.04591	1	0	1		Growth Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urologic Neoplasms	0.01992	0.35761	1	0	1		Urologic Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Endometrial Neoplasms	0.017227	0.81085	1	0	1		Endometrial Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rectal Neoplasms	0.027047	0.66008	1	0	1		Rectal Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glaucoma	0.035857	0.21639	1	0	1		Glaucoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia, Promyelocytic, Acute	-0.0021323	1	1	0	-1		Leukemia, Promyelocytic, Acute
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Genomic Instability	0.011672	0.74517	1	0	1		Genomic Instability
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteosarcoma	0.021772	0.46847	1	0	1		Osteosarcoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Astrocytoma	-0.026317	0.35423	1	0	-1		Astrocytoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Respiration Disorders	0.011952	0.5915	1	0	1		Respiration Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cryoglobulinemia	-0.0061164	1	1	0	-1		Cryoglobulinemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Temporomandibular Joint Disorders	0.011672	0.74542	1	0	1		Temporomandibular Joint Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hematuria	0.01992	0.35858	1	0	1		Hematuria
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lewy Body Disease	0.027888	0.21654	1	0	1		Lewy Body Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Torticollis	0.01992	0.35625	1	0	1		Torticollis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Germinoma	-0.0061164	1	1	0	-1		Germinoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mitral Valve Insufficiency	0.015936	0.57953	1	0	1		Mitral Valve Insufficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mucositis	-0.0061164	1	1	0	-1		Mucositis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetic Nephropathies	0.026486	0.71615	1	0	1		Diabetic Nephropathies
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thinness	0.055777	0.04506	1	0	1		Thinness
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Weight Loss	0.067168	0.13184	1	0	1		Weight Loss
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteonecrosis	0.0015712	1	1	0	1		Osteonecrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Femur Head Necrosis	0.049661	0.1344	1	0	1		Femur Head Necrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cellulitis	-0.018349	0.41831	1	0	-1		Cellulitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chronic Disease	0.069469	0.29398	1	0	1		Chronic Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Brain Ischemia	0.074294	0.18343	1	0	1		Brain Ischemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertrophy, Left Ventricular	0.10729	0.01688	1	0	1		Hypertrophy, Left Ventricular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cerebral Palsy	0.035576	0.38116	1	0	1		Cerebral Palsy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arterial Occlusive Diseases	0.031592	0.38258	1	0	1		Arterial Occlusive Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cadaver	0.03956	0.26535	1	0	1		Cadaver
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Retinal Vein Occlusion	0.011672	0.74339	1	0	1		Retinal Vein Occlusion
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pulmonary Embolism	0.033724	0.30973	1	0	1		Pulmonary Embolism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Proteinuria	0.053083	0.28648	1	0	1		Proteinuria
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Angina, Unstable	0.037708	0.20685	1	0	1		Angina, Unstable
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetes, Gestational	0.038999	0.40894	1	0	1		Diabetes, Gestational
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Retroperitoneal Fibrosis	0.015936	0.58132	1	0	1		Retroperitoneal Fibrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperlipoproteinemia Type I	0.0018517	1	1	0	1		Hyperlipoproteinemia Type I
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pattern Recognition, Visual	0.031873	0.20831	1	0	1		Pattern Recognition, Visual
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Memory	0.085517	0.02295	1	0	1		Memory
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Executive Function	0.041692	0.20508	1	0	1		Executive Function
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Inhibition	0.047528	0.18135	1	0	1		Inhibition
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Attention	0.063464	0.082609	1	0	1		Attention
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Genetics, Behavioral	0.031873	0.20734	1	0	1		Genetics, Behavioral
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Brain Injuries	0.021491	0.58328	1	0	1		Brain Injuries
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Reinforcement	0.027888	0.21512	1	0	1		Reinforcement
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Startle Reaction	0.043825	0.13041	1	0	1		Startle Reaction
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arousal	0.027608	0.38876	1	0	1		Arousal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Recognition	0.033724	0.30977	1	0	1		Recognition
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cognitive Therapy	0.027888	0.21524	1	0	1		Cognitive Therapy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Body Image	0.015936	0.57782	1	0	1		Body Image
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mental Health	0.015936	0.57752	1	0	1		Mental Health
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Personality Assessment	0.053645	0.13744	1	0	1		Personality Assessment
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Taste Perception	0.011952	0.5951	1	0	1		Taste Perception
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neurotic Disorders	0.011672	0.74624	1	0	1		Neurotic Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Serial Learning	0.011952	0.59206	1	0	1		Serial Learning
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Amnesia	-0.012233	0.61648	1	0	-1		Amnesia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Seasonal Affective Disorder	0.011952	0.59485	1	0	1		Seasonal Affective Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tourette Syndrome	0.033444	0.43119	1	0	1		Tourette Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Obsessive-Compulsive Disorder	-0.0085293	1	1	0	-1		Obsessive-Compulsive Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sleep Deprivation	0.039841	0.12541	1	0	1		Sleep Deprivation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sleep Initiation and Maintenance Disorders	0.059761	0.050139	1	0	1		Sleep Initiation and Maintenance Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Wechsler Scales	0.0037035	1	1	0	1		Wechsler Scales
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Parkinson Disease	0.0041524	1	1	0	1		Parkinson Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Depressive Disorder, Major	0.084395	0.12692	1	0	1		Depressive Disorder, Major
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Creativeness	0.01992	0.35899	1	0	1		Creativeness
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Conditioning, Classical	-0.0061164	1	1	0	-1		Conditioning, Classical
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Parkinsonian Disorders	0.023904	0.34579	1	0	1		Parkinsonian Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Set	0.011952	0.59206	1	0	1		Set
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Delirium	0.039841	0.12613	1	0	1		Delirium
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intelligence Tests	0.043544	0.26752	1	0	1		Intelligence Tests
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fractures, Bone	0.0052747	1	1	0	1		Fractures, Bone
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glucose Intolerance	0.03956	0.26598	1	0	1		Glucose Intolerance
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Abscess	0.035857	0.21445	1	0	1		Abscess
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dyspnea	0.015936	0.57914	1	0	1		Dyspnea
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Spinal Dysraphism	0.0037035	1	1	0	1		Spinal Dysraphism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Meningomyelocele	-0.016217	0.59106	1	0	-1		Meningomyelocele
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Asthma, Aspirin-Induced	0.0098199	0.69843	1	0	1		Asthma, Aspirin-Induced
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Airway Obstruction	0.023904	0.34684	1	0	1		Airway Obstruction
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Placenta Diseases	0.01992	0.35644	1	0	1		Placenta Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Budd-Chiari Syndrome	-0.0061164	1	1	0	-1		Budd-Chiari Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Meningitis, Pneumococcal	0.011952	0.59732	1	0	1		Meningitis, Pneumococcal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Prosthesis-Related Infections	0.023904	0.34641	1	0	1		Prosthesis-Related Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bacterial Infections	0.041692	0.20575	1	0	1		Bacterial Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Candidemia	-0.0061164	1	1	0	-1		Candidemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Angioneurotic Edema	0.011952	0.59576	1	0	1		Angioneurotic Edema
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urticaria	0.033724	0.31183	1	0	1		Urticaria
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Emphysema	0.031873	0.20896	1	0	1		Emphysema
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Elephantiasis, Filarial	0.015936	0.58317	1	0	1		Elephantiasis, Filarial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Retinal Detachment	0.0018517	1	1	0	1		Retinal Detachment
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukomalacia, Periventricular	0.023904	0.34273	1	0	1		Leukomalacia, Periventricular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hemolytic-Uremic Syndrome	0.039841	0.12621	1	0	1		Hemolytic-Uremic Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acromegaly	0.01992	0.35874	1	0	1		Acromegaly
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ventricular Premature Complexes	0.015936	0.57819	1	0	1		Ventricular Premature Complexes
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Priapism	0.011952	0.59656	1	0	1		Priapism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tachycardia, Ventricular	0.023904	0.34219	1	0	1		Tachycardia, Ventricular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arrhythmias, Cardiac	0.037708	0.20997	1	0	1		Arrhythmias, Cardiac
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Moyamoya Disease	0.015936	0.57748	1	0	1		Moyamoya Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Embryo Loss	0.027888	0.21638	1	0	1		Embryo Loss
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Microvascular Angina	-0.0061164	1	1	0	-1		Microvascular Angina
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertension, Renal	0.063745	0.02764	1	0	1		Hypertension, Renal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Altitude Sickness	0.047809	0.075149	1	0	1		Altitude Sickness
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertension, Renovascular	0.015936	0.58032	1	0	1		Hypertension, Renovascular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Emergencies	0.01992	0.35779	1	0	1		Emergencies
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cerebral Arterial Diseases	0.015936	0.57951	1	0	1		Cerebral Arterial Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Septal Defects, Atrial	0.01992	0.35664	1	0	1		Heart Septal Defects, Atrial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tachycardia	0.01992	0.35787	1	0	1		Tachycardia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	HIV-Associated Lipodystrophy Syndrome	0.021772	0.46923	1	0	1		HIV-Associated Lipodystrophy Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ossification of Posterior Longitudinal Ligament	0.017788	0.69023	1	0	1		Ossification of Posterior Longitudinal Ligament
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intervertebral Disk Degeneration	0.015936	0.57795	1	0	1		Intervertebral Disk Degeneration
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphoma, Mucosa-Associated Lymphoid Tissue	0.0098199	0.70613	1	0	1		Lymphoma, Mucosa-Associated Lymphoid Tissue
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Appendicitis	0.01992	0.36055	1	0	1		Appendicitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anorexia	0.023904	0.34485	1	0	1		Anorexia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leishmaniasis, Visceral	0.027888	0.21735	1	0	1		Leishmaniasis, Visceral
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Trypanosomiasis, African	0.015936	0.57902	1	0	1		Trypanosomiasis, African
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vaginal Diseases	0.027888	0.21627	1	0	1		Vaginal Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vasculitis	0.033724	0.31348	1	0	1		Vasculitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Infectious Mononucleosis	0.01992	0.35959	1	0	1		Infectious Mononucleosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Systemic Inflammatory Response Syndrome	0.017788	0.68784	1	0	1		Systemic Inflammatory Response Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chagas Cardiomyopathy	0.02974	0.31677	1	0	1		Chagas Cardiomyopathy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Respiratory Hypersensitivity	0.031873	0.20834	1	0	1		Respiratory Hypersensitivity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Respiratory Tract Infections	0.059761	0.04936	1	0	1		Respiratory Tract Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stomatitis, Aphthous	0.015656	0.74122	1	0	1		Stomatitis, Aphthous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Idiopathic Pulmonary Fibrosis	0.063745	0.02746	1	0	1		Idiopathic Pulmonary Fibrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Streptococcal Infections	0.039841	0.1258	1	0	1		Streptococcal Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteoarthritis	-0.00056114	1	1	0	-1		Osteoarthritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Kidney Failure, Acute	0.035857	0.21596	1	0	1		Kidney Failure, Acute
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Critical Illness	0.027608	0.39058	1	0	1		Critical Illness
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intracranial Arteriovenous Malformations	0.031873	0.21011	1	0	1		Intracranial Arteriovenous Malformations
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arteriovenous Fistula	-0.0021323	1	1	0	-1		Arteriovenous Fistula
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Death	0.01992	0.36081	1	0	1		Death
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dengue Hemorrhagic Fever	0.0012906	1	1	0	1		Dengue Hemorrhagic Fever
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Crohn Disease	0.038718	0.44994	1	0	1		Crohn Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma in Situ	-0.00028057	1	1	0	-1		Carcinoma in Situ
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pneumonia	0.033444	0.43476	1	0	1		Pneumonia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Malaria, Falciparum	-0.00056114	1	1	0	-1		Malaria, Falciparum
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Uveitis	0.0058358	1	1	0	1		Uveitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Recurrence	0.023792	0.75165	1	0	1		Recurrence
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ventricular Dysfunction, Left	0.075697	0.01797	1	0	1		Ventricular Dysfunction, Left
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glomerulosclerosis, Focal Segmental	0.023904	0.34366	1	0	1		Glomerulosclerosis, Focal Segmental
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nephritis	0.039841	0.12489	1	0	1		Nephritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bronchopulmonary Dysplasia	0.075697	0.01757	1	0	1		Bronchopulmonary Dysplasia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Uveomeningoencephalitic Syndrome	0.0058358	1	1	0	1		Uveomeningoencephalitic Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperglycemia	0.073565	0.03413	1	0	1		Hyperglycemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetes Mellitus	0.078278	0.18057	1	0	1		Diabetes Mellitus
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Amyotrophic Lateral Sclerosis	0.031311	0.47032	1	0	1		Amyotrophic Lateral Sclerosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Migraine Disorders	0.11868	0.02163	1	0	1		Migraine Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mental Status Schedule	0.0015712	1	1	0	1		Mental Status Schedule
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neuropsychological Tests	0.040009	0.51587	1	0	1		Neuropsychological Tests
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cognition	0.013692	0.87585	1	0	1		Cognition
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Eating Disorders	-0.0008417	1	1	0	-1		Eating Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Premenstrual Syndrome	0.0058358	1	1	0	1		Premenstrual Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Interview, Psychological	0.01964	0.54195	1	0	1		Interview, Psychological
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Infantile Apparent Life-Threatening Event	0.011952	0.59502	1	0	1		Infantile Apparent Life-Threatening Event
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Panic Disorder	0.069581	0.056989	1	0	1		Panic Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Extraversion	0.01992	0.35824	1	0	1		Extraversion
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Headache	-0.0042646	1	1	0	-1		Headache
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Psychopathology	0.0018517	1	1	0	1		Psychopathology
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anxiety, Separation	0.011952	0.59664	1	0	1		Anxiety, Separation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Conduct Disorder	0.031873	0.20578	1	0	1		Conduct Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperkinesis	0.011952	0.59672	1	0	1		Hyperkinesis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Amphetamine-Related Disorders	0.013523	0.77311	1	0	1		Amphetamine-Related Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fatigue	0.063464	0.084189	1	0	1		Fatigue
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cyclothymic Disorder	-0.0061164	1	1	0	-1		Cyclothymic Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sclerosis	0.01992	0.36038	1	0	1		Sclerosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Seizures	0.017788	0.68941	1	0	1		Seizures
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Epilepsy, Absence	0.015936	0.58307	1	0	1		Epilepsy, Absence
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Essential Tremor	0.0018517	1	1	0	1		Essential Tremor
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Xanthomatosis	-0.0021323	1	1	0	-1		Xanthomatosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperlipidemia, Familial Combined	0.0058358	1	1	0	1		Hyperlipidemia, Familial Combined
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Restless Legs Syndrome	0.039841	0.12518	1	0	1		Restless Legs Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperlipoproteinemias	-0.0061164	1	1	0	-1		Hyperlipoproteinemias
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Frontotemporal Dementia	-0.0061164	1	1	0	-1		Frontotemporal Dementia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Plaque, Amyloid	-0.0061164	1	1	0	-1		Plaque, Amyloid
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pain	0.094776	0.065019	1	0	1		Pain
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neuralgia	0.023904	0.34423	1	0	1		Neuralgia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Binge-Eating Disorder	0.011952	0.59669	1	0	1		Binge-Eating Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Psychophysiologic Disorders	0.0058358	1	1	0	1		Psychophysiologic Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aortic Valve Stenosis	0.021772	0.46774	1	0	1		Aortic Valve Stenosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis, Alcoholic	-0.024185	0.12301	1	0	-1		Hepatitis, Alcoholic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cocaine-Related Disorders	0.055777	0.04547	1	0	1		Cocaine-Related Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Resilience, Psychological	0.0098199	0.7013	1	0	1		Resilience, Psychological
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fibrocystic Breast Disease	-0.0021323	1	1	0	-1		Fibrocystic Breast Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Primary Ovarian Insufficiency	-0.0024129	1	1	0	-1		Primary Ovarian Insufficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Infertility	-0.00028057	1	1	0	-1		Infertility
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gender Identity	-0.022333	0.37841	1	0	-1		Gender Identity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gynecomastia	-0.016217	0.59135	1	0	-1		Gynecomastia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alopecia	-0.0082487	1	1	0	-1		Alopecia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cryptorchidism	0.0076876	1	1	0	1		Cryptorchidism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Muscular Atrophy, Spinal	-0.0061164	1	1	0	-1		Muscular Atrophy, Spinal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperplasia	0.011672	0.74538	1	0	1		Hyperplasia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cystadenocarcinoma, Serous	0.015936	0.57896	1	0	1		Cystadenocarcinoma, Serous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bone Resorption	0.043825	0.12919	1	0	1		Bone Resorption
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neural Tube Defects	0.015656	0.7391	1	0	1		Neural Tube Defects
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fibrosis	0.017507	0.77232	1	0	1		Fibrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Digestive System Neoplasms	0.031873	0.20589	1	0	1		Digestive System Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Klinefelter Syndrome	0.011952	0.5969	1	0	1		Klinefelter Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Child Behavior Disorders	0.051793	0.079249	1	0	1		Child Behavior Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Seminoma	-0.0042646	1	1	0	-1		Seminoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Language Tests	0.015936	0.57793	1	0	1		Language Tests
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Object Attachment	0.023904	0.3477	1	0	1		Object Attachment
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperphagia	0.015936	0.5784	1	0	1		Hyperphagia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stress Disorders, Post-Traumatic	0.017507	0.76977	1	0	1		Stress Disorders, Post-Traumatic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Habituation, Psychophysiologic	0.015936	0.57918	1	0	1		Habituation, Psychophysiologic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Conditioning, Operant	0.023904	0.3464	1	0	1		Conditioning, Operant
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sensation	0.035857	0.21548	1	0	1		Sensation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adrenal Hyperplasia, Congenital	0.011952	0.59554	1	0	1		Adrenal Hyperplasia, Congenital
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Verbal Learning	0.02974	0.31431	1	0	1		Verbal Learning
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adolescent Psychology	0.031873	0.20621	1	0	1		Adolescent Psychology
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bulimia Nervosa	0.023904	0.34552	1	0	1		Bulimia Nervosa
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Theory of Mind	0.015936	0.57673	1	0	1		Theory of Mind
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Learning Disorders	0.023904	0.34237	1	0	1		Learning Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aptitude	0.011952	0.59687	1	0	1		Aptitude
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypnosis	0.011952	0.59511	1	0	1		Hypnosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Borderline Personality Disorder	0.047809	0.076059	1	0	1		Borderline Personality Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Disease Susceptibility	0.043993	0.51576	1	0	1		Disease Susceptibility
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	AIDS-Related Opportunistic Infections	-0.014365	0.69564	1	0	-1		AIDS-Related Opportunistic Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hemophilia B	0.01992	0.35647	1	0	1		Hemophilia B
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intracranial Thrombosis	0.0098199	0.70096	1	0	1		Intracranial Thrombosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Brain Infarction	0.031592	0.381	1	0	1		Brain Infarction
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Graft Occlusion, Vascular	0.0098199	0.70196	1	0	1		Graft Occlusion, Vascular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Postoperative Complications	0.096908	0.054649	1	0	1		Postoperative Complications
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cerebrovascular Disorders	0.011391	0.79455	1	0	1		Cerebrovascular Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Myocardial Ischemia	0.0592	0.18624	1	0	1		Myocardial Ischemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dementia, Vascular	-0.01863	0.56114	1	0	-1		Dementia, Vascular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cerebrovascular Accident	-0.0032546	1	1	0	-1		Cerebrovascular Accident
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Constriction, Pathologic	0.013243	0.81003	1	0	1		Constriction, Pathologic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fetal Death	0.027608	0.38913	1	0	1		Fetal Death
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Postoperative Hemorrhage	0.0018517	1	1	0	1		Postoperative Hemorrhage
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Blood Coagulation Disorders	0.011672	0.7465	1	0	1		Blood Coagulation Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hemorrhagic Disorders	-0.012233	0.61599	1	0	-1		Hemorrhagic Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetic Neuropathies	0.03956	0.26608	1	0	1		Diabetic Neuropathies
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Coronary Stenosis	0.067449	0.082409	1	0	1		Coronary Stenosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasms	0.057965	0.41944	1	0	1		Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertension, Pregnancy-Induced	0.025476	0.57898	1	0	1		Hypertension, Pregnancy-Induced
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Insulin Resistance	0.038157	0.50843	1	0	1		Insulin Resistance
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gingival Hemorrhage	0.031873	0.21124	1	0	1		Gingival Hemorrhage
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Temporal Arteritis	0.017788	0.69041	1	0	1		Temporal Arteritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pemphigoid, Bullous	0.023904	0.3459	1	0	1		Pemphigoid, Bullous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sarcoidosis, Pulmonary	0.03956	0.26857	1	0	1		Sarcoidosis, Pulmonary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pulmonary Fibrosis	0.023624	0.53901	1	0	1		Pulmonary Fibrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lung Diseases, Interstitial	0.039841	0.12432	1	0	1		Lung Diseases, Interstitial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Memory Disorders	0.0052747	1	1	0	1		Memory Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Skin Ulcer	0.035857	0.21575	1	0	1		Skin Ulcer
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteolysis	0.043825	0.13031	1	0	1		Osteolysis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thoracic Neoplasms	0.035857	0.21445	1	0	1		Thoracic Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hearing Loss, Sudden	0.0058358	1	1	0	1		Hearing Loss, Sudden
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Obesity	0.05241	0.4856	1	0	1		Obesity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Metabolic Diseases	0.061613	0.088759	1	0	1		Metabolic Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperlipidemias	0.095056	0.04405	1	0	1		Hyperlipidemias
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Prosthesis Failure	0.047809	0.074719	1	0	1		Prosthesis Failure
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cytomegalovirus Retinitis	-0.0021323	1	1	0	-1		Cytomegalovirus Retinitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteoporosis	0.058807	0.39811	1	0	1		Osteoporosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Abortion, Habitual	0.010549	0.85243	1	0	1		Abortion, Habitual
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Exfoliation Syndrome	0.01992	0.35704	1	0	1		Exfoliation Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia, Lymphocytic, Acute, L1	0.0018517	1	1	0	1		Leukemia, Lymphocytic, Acute, L1
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Micronuclei, Chromosome-Defective	-0.024185	0.12311	1	0	-1		Micronuclei, Chromosome-Defective
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anus Neoplasms	-0.0061164	1	1	0	-1		Anus Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adenocarcinoma, Bronchiolo-Alveolar	-0.0061164	1	1	0	-1		Adenocarcinoma, Bronchiolo-Alveolar
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Genital Diseases, Female	0.015936	0.57859	1	0	1		Genital Diseases, Female
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glaucoma, Open-Angle	-0.0088098	1	1	0	-1		Glaucoma, Open-Angle
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Keratosis	-0.0061164	1	1	0	-1		Keratosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Purpura, Thrombotic Thrombocytopenic	0.011952	0.5953	1	0	1		Purpura, Thrombotic Thrombocytopenic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bronchiectasis	0.027888	0.21654	1	0	1		Bronchiectasis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	IgA Deficiency	0.015936	0.57704	1	0	1		IgA Deficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Biliary Atresia	-0.016217	0.58664	1	0	-1		Biliary Atresia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neuromyelitis Optica	-0.0021323	1	1	0	-1		Neuromyelitis Optica
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mycobacterium avium-intracellulare Infection	0.015936	0.57984	1	0	1		Mycobacterium avium-intracellulare Infection
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis, Chronic	0.011952	0.5967	1	0	1		Hepatitis, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Infertility, Female	0.0592	0.18655	1	0	1		Infertility, Female
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Low Tension Glaucoma	0.017788	0.6924	1	0	1		Low Tension Glaucoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adenocarcinoma	0.12025	0.03448	1	0	1		Adenocarcinoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Peripheral Nervous System Diseases	-0.012233	0.61484	1	0	-1		Peripheral Nervous System Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neutropenia	0.017507	0.77295	1	0	1		Neutropenia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukopenia	-0.012233	0.61506	1	0	-1		Leukopenia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urologic Diseases	0.0098199	0.70203	1	0	1		Urologic Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pregnancy Complications	0.06902	0.15224	1	0	1		Pregnancy Complications
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Prostatic Hyperplasia	0.065316	0.10812	1	0	1		Prostatic Hyperplasia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ocular Hypertension	-0.00028057	1	1	0	-1		Ocular Hypertension
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fetal Growth Retardation	0.031592	0.37972	1	0	1		Fetal Growth Retardation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Multiple Myeloma	0.00101	1	1	0	1		Multiple Myeloma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastrointestinal Neoplasms	0.0037035	1	1	0	1		Gastrointestinal Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Small Cell Lung Carcinoma	0.01964	0.5443	1	0	1		Small Cell Lung Carcinoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bone Neoplasms	0.013523	0.77432	1	0	1		Bone Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Basal Cell	0.057629	0.087319	1	0	1		Carcinoma, Basal Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	DNA Damage	0.0034229	1	1	0	1		DNA Damage
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphoma	-0.014646	0.7762	1	0	-1		Lymphoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Periodontitis, Juvenile	0.01992	0.363	1	0	1		Periodontitis, Juvenile
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rhinitis, Allergic, Perennial	0.027608	0.39057	1	0	1		Rhinitis, Allergic, Perennial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Inflammatory Bowel Diseases	0.01083	0.84126	1	0	1		Inflammatory Bowel Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rhinitis	0.03427	0.22245	1	0	1		Rhinitis|Sinusitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stomach Ulcer	0.031458	0.2593	1	0	1		Stomach Ulcer|Duodenal Ulcer
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Femoral Neck Fractures	0.017669	0.49679	1	0	1		Femoral Neck Fractures|Fractures, Stress
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Substance-Related Disorders	-0.0084293	0.87193	1	0	-1		Substance-Related Disorders|Cues
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dermatomyositis	-0.0016404	1	1	0	-1		Dermatomyositis|Polymyositis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Occupational Diseases	0.026501	0.50192	1	0	1		Occupational Diseases|Hematologic Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Oligospermia	0.021244	0.50754	1	0	1		Oligospermia|Azoospermia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Laryngeal Neoplasms	0.034689	0.21746	1	0	1		Laryngeal Neoplasms|Pharyngeal Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aneurysm, Dissecting	0.015464	0.40833	1	0	1		Aneurysm, Dissecting|Aortic Aneurysm, Thoracic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Skin Neoplasms	0.039556	0.39204	1	0	1		Skin Neoplasms|Melanoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thymus Neoplasms	0.011952	0.59504	1	0	1		Thymus Neoplasms|Thymoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Paratyphoid Fever	0.013372	0.57953	1	0	1		Paratyphoid Fever|Typhoid Fever
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Corneal Ulcer	0.014145	0.49179	1	0	1		Corneal Ulcer|Eye Infections, Bacterial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nausea	0.04761	0.069989	1	0	1		Nausea|Vomiting
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Uterine Neoplasms	0.044822	0.18757	1	0	1		Uterine Neoplasms|Leiomyoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hemochromatosis	0.026768	0.35583	1	0	1		Hemochromatosis|Iron Overload
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphoma, Follicular	0.020735	0.43925	1	0	1		Lymphoma, Follicular|Lymphoma, Large B-Cell, Diffuse
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intracranial Arterial Diseases	0.011952	0.59763	1	0	1		Intracranial Arterial Diseases|Escherichia coli Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Attention Deficit Disorder with Hyperactivity	0.092924	0.053669	1	0	1		Attention Deficit Disorder with Hyperactivity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Disease Progression	0.015712	0.89181	1	0	1		Disease Progression
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	HIV Infections	-0.001964	1	1	0	-1		HIV Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphoma, Non-Hodgkin	-0.026149	0.74159	1	0	-1		Lymphoma, Non-Hodgkin
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mouth Neoplasms	0.024914	0.68063	1	0	1		Mouth Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acquired Immunodeficiency Syndrome	-0.002974	1	1	0	-1		Acquired Immunodeficiency Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chlamydia Infections	0.042844	0.12732	1	0	1		Chlamydia Infections|Trachoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lung Diseases	0.039082	0.31904	1	0	1		Lung Diseases|Cystic Fibrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Confusion	0.011952	0.55126	1	0	1		Confusion|Pain, Intractable
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Non-Small-Cell Lung	0.034626	0.51294	1	0	1		Carcinoma, Non-Small-Cell Lung|Lung Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia	-0.037422	0.37994	1	0	-1		Leukemia|Leukemia, Myeloid, Acute
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Retinal Artery Occlusion	0.024525	0.25615	1	0	1		Retinal Artery Occlusion|Optic Neuropathy, Ischemic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Liver Diseases	0.020482	0.38702	1	0	1		Liver Diseases|Skin Diseases, Viral
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alphavirus Infections	0.01992	0.35959	1	0	1		Alphavirus Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tremor	0.018262	0.35901	1	0	1		Tremor|Muscle Rigidity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aggressive Periodontitis	0.055496	0.12445	1	0	1		Aggressive Periodontitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasms, Germ Cell and Embryonal	-0.02414	0.2861	1	0	-1		Neoplasms, Germ Cell and Embryonal|Testicular Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Choroid Diseases	0.0080005	0.88488	1	0	1		Choroid Diseases|Polyps
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Periodontal Attachment Loss	0.039702	0.16977	1	0	1		Periodontal Attachment Loss|Periodontal Pocket|Alveolar Bone Loss
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Uveitis, Intermediate	0.011952	0.49163	1	0	1		Uveitis, Intermediate|Paracoccidioidomycosis|Boutonneuse Fever
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Schizotypal Personality Disorder	0.046192	0.071049	1	0	1		Schizotypal Personality Disorder|Marijuana Abuse|Psychoses, Substance-Induced
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Subarachnoid Hemorrhage	0.051387	0.050109	1	0	1		Subarachnoid Hemorrhage|Intracranial Hemorrhages|Cerebral Hemorrhage
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Waldenstrom Macroglobulinemia	0.0054815	0.87889	1	0	1		Waldenstrom Macroglobulinemia|Lymphoproliferative Disorders|Hodgkin Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Protein C Deficiency	0.011952	0.59525	1	0	1		Protein C Deficiency|Protein S Deficiency|Antithrombin III Deficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Muscle Hypotonia	0.013129	0.48987	1	0	1		Muscle Hypotonia|Asphyxia Neonatorum|Coma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Edema	0.10741	0.073549	1	0	1		Edema|Cardiovascular Diseases|Diabetes Mellitus, Type 2
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	stdv	0.022757	0.03401	1	0	1	stdv	stdv|mean|Genetic Predisposition to Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pelvic Pain	0.013687	0.49138	1	0	1		Pelvic Pain|Prostatitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Meningioma	-0.047823	0.1958	1	0	-1		Meningioma|Meningeal Neoplasms|Glioma|Glioblastoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chorioamnionitis	0.06009	0.25027	1	0	1		Chorioamnionitis|Fetal Membranes, Premature Rupture|Obstetric Labor, Premature|Premature Birth|Pre-Eclampsia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Puberty, Delayed	0.092895	0.062239	1	0	1		Puberty, Delayed|Puberty, Precocious|Ovarian Failure, Premature|Thrombophilia|Polycystic Ovary Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Musculoskeletal Diseases	0.057102	0.19915	1	0	1		Musculoskeletal Diseases|Connective Tissue Diseases|Fetal Diseases|Pregnancy Complications, Hematologic|Skin Diseases|Infection
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bronchiolitis, Viral	0.029036	0.52504	1	0	1		Bronchiolitis, Viral|Respiratory Syncytial Virus Infections|Infant, Premature, Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bile Duct Neoplasms	-0.014388	0.52646	1	0	-1		Bile Duct Neoplasms|Cholangiocarcinoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Periapical Abscess	0.015936	0.57958	1	0	1		Periapical Abscess|Periapical Granuloma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cleft Lip	-0.069412	0.13732	1	0	-1		Cleft Lip|Cleft Palate
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mumps	0.01166	0.69082	1	0	1		Mumps|Rubella
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aspergillosis	-0.010083	0.70056	1	0	-1		Aspergillosis|Lung Diseases, Fungal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Conditioning	0.013801	0.49153	1	0	1		Conditioning|Extinction, Psychological
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia, Mast-Cell	0.011952	0.59503	1	0	1		Leukemia, Mast-Cell|Mastocytosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pleural Neoplasms	-0.014351	0.52583	1	0	-1		Pleural Neoplasms|Mesothelioma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stevens-Johnson Syndrome	0.01992	0.35919	1	0	1		Stevens-Johnson Syndrome|Epidermal Necrolysis, Toxic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Factor VII Deficiency	0.011952	0.59268	1	0	1		Factor VII Deficiency|Factor XIII Deficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Asperger Syndrome	0.011415	0.77226	1	0	1		Asperger Syndrome|Social Perception
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acrocephalosyndactylia	0.011952	0.59562	1	0	1		Acrocephalosyndactylia|Craniofacial Dysostosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anorexia Nervosa	0.082792	0.095709	1	0	1		Anorexia Nervosa|Bulimia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hemoglobinuria, Paroxysmal	0.037947	0.10902	1	0	1		Hemoglobinuria, Paroxysmal|Leptospirosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Angina Pectoris, Variant	-0.004038	1	1	0	-1		Angina Pectoris, Variant|Coronary Vasospasm
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Reflex Sympathetic Dystrophy	0.031873	0.20681	1	0	1		Reflex Sympathetic Dystrophy|Radius Fractures
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Renal Cell	0.079461	0.02778	1	0	1		Carcinoma, Renal Cell|Kidney Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Scleroderma, Limited	0.01992	0.35833	1	0	1		Scleroderma, Limited|Scleroderma, Diffuse
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bronchial Hyperreactivity	0.071152	0.13294	1	0	1		Bronchial Hyperreactivity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Periodontitis	0.095337	0.02487	1	0	1		Periodontitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Personality Inventory	0.051512	0.18184	1	0	1		Personality Inventory
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Q Fever	0.02974	0.31482	1	0	1		Q Fever
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tobacco Use Disorder	0.014141	0.88953	1	0	1		Tobacco Use Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fatty Liver	0.016946	0.83304	1	0	1		Fatty Liver
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dyslipidemias	0.066887	0.1725	1	0	1		Dyslipidemias
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Drug Toxicity	0.061052	0.21107	1	0	1		Drug Toxicity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertension	0.16481	0.01258	1	0	1		Hypertension
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Salmonella Infections	0.023904	0.34631	1	0	1		Salmonella Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cerebral Infarction	0.063184	0.18807	1	0	1		Cerebral Infarction
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Angina Pectoris	0.051512	0.18248	1	0	1		Angina Pectoris
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Venous Thrombosis	0.02093	0.68041	1	0	1		Venous Thrombosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hemorrhage	0.035576	0.38086	1	0	1		Hemorrhage
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetic Angiopathies	0.0089782	1	1	0	1		Diabetic Angiopathies
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Albuminuria	0.033163	0.49899	1	0	1		Albuminuria
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Coronary Artery Disease	0.14702	0.02473	1	0	1		Coronary Artery Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ischemia	0.02946	0.43341	1	0	1		Ischemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Inflammation	-0.019303	0.77231	1	0	-1		Inflammation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Periodontal Diseases	0.021772	0.47016	1	0	1		Periodontal Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sepsis	0.037147	0.38433	1	0	1		Sepsis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arthritis, Rheumatoid	-0.056731	0.35498	1	0	-1		Arthritis, Rheumatoid
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dengue	0.023904	0.34368	1	0	1		Dengue
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Behcet Syndrome	0.015095	0.82281	1	0	1		Behcet Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis C, Chronic	0.022502	0.71902	1	0	1		Hepatitis C, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Liver Neoplasms	0.082824	0.091759	1	0	1		Liver Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Graft vs Host Disease	-0.091465	0.03521	1	0	-1		Graft vs Host Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Silicosis	0.035857	0.21602	1	0	1		Silicosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Purpura, Schoenlein-Henoch	0.03956	0.26791	1	0	1		Purpura, Schoenlein-Henoch
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fabry Disease	0.035857	0.21447	1	0	1		Fabry Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pancreatitis	0.0012906	1	1	0	1		Pancreatitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Liver Cirrhosis, Alcoholic	0.041412	0.31434	1	0	1		Liver Cirrhosis, Alcoholic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Giant Cell Arteritis	0.053645	0.13932	1	0	1		Giant Cell Arteritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alopecia Areata	0.037708	0.20975	1	0	1		Alopecia Areata
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Severe Acute Respiratory Syndrome	-0.024466	0.47513	1	0	-1		Severe Acute Respiratory Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Community-Acquired Infections	0.01964	0.54261	1	0	1		Community-Acquired Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neuroblastoma	-0.014365	0.69672	1	0	-1		Neuroblastoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Esophagitis, Peptic	0.027888	0.21708	1	0	1		Esophagitis, Peptic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Esophagitis	0.0089782	1	1	0	1		Esophagitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperandrogenism	0.037708	0.20722	1	0	1		Hyperandrogenism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Narcolepsy	-0.0008417	1	1	0	-1		Narcolepsy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Endometrioid	-0.00028057	1	1	0	-1		Carcinoma, Endometrioid
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteoarthritis, Knee	0.017227	0.80804	1	0	1		Osteoarthritis, Knee
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Asthma	-0.0073509	1	1	0	-1		Asthma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arthritis	0.0015712	1	1	0	1		Arthritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Antisocial Personality Disorder	0.027608	0.3875	1	0	1		Antisocial Personality Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Renal Insufficiency, Chronic	-0.033275	0.52803	1	0	-1		Renal Insufficiency, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alzheimer Disease	-0.072779	0.28465	1	0	-1		Alzheimer Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Transitional Cell	0.049661	0.13541	1	0	1		Carcinoma, Transitional Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasms, Second Primary	0.021491	0.58692	1	0	1		Neoplasms, Second Primary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Breast Neoplasms	0.030638	0.67579	1	0	1		Breast Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Squamous Cell	0.013972	0.87007	1	0	1		Carcinoma, Squamous Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stress, Psychological	0.020089	0.74174	1	0	1		Stress, Psychological
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Myocardial Infarction	0.065204	0.31015	1	0	1		Myocardial Infarction
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Barrett Esophagus	0.015656	0.74074	1	0	1		Barrett Esophagus
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Personality Disorders	0.031592	0.37976	1	0	1		Personality Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Depressive Disorder	0.076988	0.10937	1	0	1		Depressive Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Large Cell	0.017788	0.6905	1	0	1		Carcinoma, Large Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasm Metastasis	0.042983	0.40615	1	0	1		Neoplasm Metastasis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphatic Metastasis	0.07912	0.093949	1	0	1		Lymphatic Metastasis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasm Recurrence, Local	0.046686	0.3539	1	0	1		Neoplasm Recurrence, Local
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ovarian Neoplasms	0.02166	0.75844	1	0	1		Ovarian Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasms, Glandular and Epithelial	0.028898	0.54861	1	0	1		Neoplasms, Glandular and Epithelial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anxiety Disorders	0.031031	0.5232	1	0	1		Anxiety Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Translocation, Genetic	0.017788	0.68973	1	0	1		Translocation, Genetic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	HIV Seropositivity	-0.0063969	1	1	0	-1		HIV Seropositivity
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Taste	0.023904	0.34215	1	0	1		Taste
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pain Threshold	0.055777	0.04631	1	0	1		Pain Threshold
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastrointestinal Diseases	0.073565	0.03514	1	0	1		Gastrointestinal Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diseases in Twins	0.0092587	0.81459	1	0	1		Diseases in Twins
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Autistic Disorder	0.074575	0.15391	1	0	1		Autistic Disorder
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Viremia	0.0015712	1	1	0	1		Viremia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hemorrhagic Fever with Renal Syndrome	0.01992	0.3594	1	0	1		Hemorrhagic Fever with Renal Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sarcoma, Kaposi	0.0058358	1	1	0	1		Sarcoma, Kaposi
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteomyelitis	0.035857	0.21682	1	0	1		Osteomyelitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Basal Ganglia Diseases	0.037708	0.20866	1	0	1		Basal Ganglia Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Akathisia, Drug-Induced	0.023904	0.34417	1	0	1		Akathisia, Drug-Induced
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Learning	0.025756	0.46475	1	0	1		Learning
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alcohol Withdrawal Seizures	0.01992	0.35761	1	0	1		Alcohol Withdrawal Seizures
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Substance Withdrawal Syndrome	0.067449	0.082459	1	0	1		Substance Withdrawal Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alcohol-Related Disorders	0.059761	0.04902	1	0	1		Alcohol-Related Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dyskinesia, Drug-Induced	0.043544	0.26987	1	0	1		Dyskinesia, Drug-Induced
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mental Processes	0.043825	0.13225	1	0	1		Mental Processes
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Combat Disorders	0.015936	0.58121	1	0	1		Combat Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Schizophrenia, Paranoid	0.021491	0.5843	1	0	1		Schizophrenia, Paranoid
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Psychometrics	0.049661	0.13331	1	0	1		Psychometrics
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Task Performance and Analysis	0.045676	0.13468	1	0	1		Task Performance and Analysis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Functional Laterality	0.033724	0.31075	1	0	1		Functional Laterality
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Visual Perception	0.027888	0.2151	1	0	1		Visual Perception
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Galvanic Skin Response	0.031873	0.20804	1	0	1		Galvanic Skin Response
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Discrimination	0.031873	0.2056	1	0	1		Discrimination
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Movement Disorders	0.039841	0.12543	1	0	1		Movement Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Problem Solving	0.023904	0.34485	1	0	1		Problem Solving
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sleep Disorders	0.01964	0.54321	1	0	1		Sleep Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Migraine without Aura	0.079681	0.02214	1	0	1		Migraine without Aura
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cognition Disorders	-0.028001	0.6073	1	0	-1		Cognition Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Atrophy	0.045396	0.22679	1	0	1		Atrophy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dominance, Cerebral	0.01992	0.35762	1	0	1		Dominance, Cerebral
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sleep, REM	0.015936	0.58188	1	0	1		Sleep, REM
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Brief Psychiatric Rating Scale	0.035857	0.21569	1	0	1		Brief Psychiatric Rating Scale
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sleep Stages	0.01992	0.35845	1	0	1		Sleep Stages
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Consciousness	0.011952	0.59749	1	0	1		Consciousness
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Signal Detection, Psychological	0.011952	0.59357	1	0	1		Signal Detection, Psychological
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Phobic Disorders	0.017788	0.69005	1	0	1		Phobic Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Agoraphobia	0.023904	0.3453	1	0	1		Agoraphobia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Orientation	-0.0021323	1	1	0	-1		Orientation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Imagination	0.015936	0.57665	1	0	1		Imagination
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Depression, Postpartum	0.0098199	0.70321	1	0	1		Depression, Postpartum
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sleep Apnea Syndromes	0.027888	0.21646	1	0	1		Sleep Apnea Syndromes
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Choice Behavior	0.031873	0.20663	1	0	1		Choice Behavior
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Memory, Short-Term	0.05948	0.12347	1	0	1		Memory, Short-Term
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neonatal Abstinence Syndrome	0.011952	0.59587	1	0	1		Neonatal Abstinence Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chromosome Disorders	0.01992	0.36077	1	0	1		Chromosome Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypopituitarism	0.0018517	1	1	0	1		Hypopituitarism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fibroadenoma	0.0058358	1	1	0	1		Fibroadenoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urinary Incontinence, Urge	-0.0061164	1	1	0	-1		Urinary Incontinence, Urge
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anovulation	-0.012233	0.61783	1	0	-1		Anovulation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Judgment	0.011952	0.59425	1	0	1		Judgment
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Androgen-Insensitivity Syndrome	0.0018517	1	1	0	1		Androgen-Insensitivity Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sex Chromosome Aberrations	0.011952	0.5969	1	0	1		Sex Chromosome Aberrations
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperparathyroidism, Secondary	0.047248	0.25865	1	0	1		Hyperparathyroidism, Secondary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Craniosynostoses	0.01992	0.35804	1	0	1		Craniosynostoses
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphopenia	0.011952	0.59577	1	0	1		Lymphopenia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Immunologic Deficiency Syndromes	0.01992	0.3584	1	0	1		Immunologic Deficiency Syndromes
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Esophageal Achalasia	0.023904	0.34525	1	0	1		Esophageal Achalasia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Friedreich Ataxia	0.011952	0.59564	1	0	1		Friedreich Ataxia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Psychomotor Performance	0.063184	0.18623	1	0	1		Psychomotor Performance
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Speech Disorders	-0.0021323	1	1	0	-1		Speech Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Negotiating	0.011952	0.59544	1	0	1		Negotiating
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stress Disorders, Traumatic	0.017788	0.68879	1	0	1		Stress Disorders, Traumatic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Headache Disorders, Secondary	0.023904	0.34576	1	0	1		Headache Disorders, Secondary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pain Perception	0.027888	0.21397	1	0	1		Pain Perception
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sleep Bruxism	0.015936	0.57717	1	0	1		Sleep Bruxism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Reward	0.049661	0.13327	1	0	1		Reward
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Personality Tests	0.037708	0.20808	1	0	1		Personality Tests
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Achievement	0.023904	0.34523	1	0	1		Achievement
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Memory, Long-Term	0.0098199	0.70092	1	0	1		Memory, Long-Term
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Decision Making	-0.0042646	1	1	0	-1		Decision Making
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Time Perception	0.027888	0.21523	1	0	1		Time Perception
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Avoidance Learning	0.0098199	0.70135	1	0	1		Avoidance Learning
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Attention Deficit and Disruptive Behavior Disorders	0.039841	0.12377	1	0	1		Attention Deficit and Disruptive Behavior Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Impulse Control Disorders	0.021772	0.47067	1	0	1		Impulse Control Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperalgesia	0.027888	0.21586	1	0	1		Hyperalgesia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Electroconvulsive Therapy	0.027888	0.21623	1	0	1		Electroconvulsive Therapy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sunburn	-0.0061164	1	1	0	-1		Sunburn
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Affective Disorders, Psychotic	-0.0082487	1	1	0	-1		Affective Disorders, Psychotic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sexual Dysfunction, Physiological	0.039841	0.1266	1	0	1		Sexual Dysfunction, Physiological
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Endometriosis	0.01083	0.84233	1	0	1		Endometriosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Infertility, Male	0.02946	0.43604	1	0	1		Infertility, Male
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Asthenozoospermia	0.031873	0.20801	1	0	1		Asthenozoospermia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Prenatal Exposure Delayed Effects	0.053645	0.13893	1	0	1		Prenatal Exposure Delayed Effects
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gallstones	0.063464	0.083239	1	0	1		Gallstones
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gallbladder Neoplasms	0.051512	0.18363	1	0	1		Gallbladder Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ductus Arteriosus, Patent	0.071152	0.13434	1	0	1		Ductus Arteriosus, Patent
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Biliary Tract Neoplasms	0.035576	0.38129	1	0	1		Biliary Tract Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphoma, T-Cell	0.013804	0.69059	1	0	1		Lymphoma, T-Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia, Lymphocytic, Chronic, B-Cell	0.023904	0.34618	1	0	1		Leukemia, Lymphocytic, Chronic, B-Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastrointestinal Stromal Tumors	-0.0021323	1	1	0	-1		Gastrointestinal Stromal Tumors
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Lobular	-0.042534	0.14654	1	0	-1		Carcinoma, Lobular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Pancreatic Ductal	-0.012233	0.61701	1	0	-1		Carcinoma, Pancreatic Ductal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma	0.052803	0.33252	1	0	1		Carcinoma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastroesophageal Reflux	0.013804	0.68945	1	0	1		Gastroesophageal Reflux
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasm Invasiveness	-0.0053869	1	1	0	-1		Neoplasm Invasiveness
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Metabolic Syndrome X	0.024241	0.78267	1	0	1		Metabolic Syndrome X
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Kidney Failure, Chronic	0.074743	0.2613	1	0	1		Kidney Failure, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pregnancy Complications, Cardiovascular	0.02974	0.31338	1	0	1		Pregnancy Complications, Cardiovascular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intracranial Arteriosclerosis	0.033724	0.31154	1	0	1		Intracranial Arteriosclerosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carotid Stenosis	0.0592	0.18548	1	0	1		Carotid Stenosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Coronary Restenosis	0.023063	0.6641	1	0	1		Coronary Restenosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arteriosclerosis	0.023063	0.66315	1	0	1		Arteriosclerosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intestinal Atresia	0.017788	0.69168	1	0	1		Intestinal Atresia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stroke	0.079569	0.23041	1	0	1		Stroke
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Peripheral Vascular Diseases	-0.010942	0.81403	1	0	-1		Peripheral Vascular Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Antiphospholipid Syndrome	-0.0082487	1	1	0	-1		Antiphospholipid Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Coronary Thrombosis	0.059761	0.04713	1	0	1		Coronary Thrombosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Blood Coagulation Disorders, Inherited	0.0098199	0.70269	1	0	1		Blood Coagulation Disorders, Inherited
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Activated Protein C Resistance	0.023904	0.34344	1	0	1		Activated Protein C Resistance
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carotid Artery Diseases	0.016946	0.83291	1	0	1		Carotid Artery Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glomerulonephritis, IGA	0.062903	0.23536	1	0	1		Glomerulonephritis, IGA
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ischemic Attack, Transient	0.031873	0.20673	1	0	1		Ischemic Attack, Transient
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Satiation	0.023904	0.34382	1	0	1		Satiation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Stomach Neoplasms	0.062342	0.30433	1	0	1		Stomach Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Neoplasms, Squamous Cell	-0.016217	0.59213	1	0	-1		Neoplasms, Squamous Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	AIDS Dementia Complex	0.0098199	0.70381	1	0	1		AIDS Dementia Complex
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Alcoholic Intoxication	0.01992	0.3583	1	0	1		Alcoholic Intoxication
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Seizures, Febrile	0.051793	0.082219	1	0	1		Seizures, Febrile
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Epilepsy, Temporal Lobe	0.043825	0.13156	1	0	1		Epilepsy, Temporal Lobe
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Epilepsy, Generalized	-0.026317	0.35535	1	0	-1		Epilepsy, Generalized
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Behavior Therapy	0.0018517	1	1	0	1		Behavior Therapy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chlamydophila Infections	0.0058358	1	1	0	1		Chlamydophila Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Postmortem Changes	0.0018517	1	1	0	1		Postmortem Changes
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fibromyalgia	0.067729	0.02937	1	0	1		Fibromyalgia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Postoperative Nausea and Vomiting	0.027888	0.21838	1	0	1		Postoperative Nausea and Vomiting
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pruritus	0.015936	0.57928	1	0	1		Pruritus
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dyspepsia	0.063745	0.02836	1	0	1		Dyspepsia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Constipation	0.02974	0.3175	1	0	1		Constipation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Sexual Dysfunctions, Psychological	0.01992	0.3598	1	0	1		Sexual Dysfunctions, Psychological
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pain, Postoperative	0.099602	0.00431	1	0	1		Pain, Postoperative
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Small Cell	0.023904	0.3445	1	0	1		Carcinoma, Small Cell
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	HTLV-I Infections	-0.0082487	1	1	0	-1		HTLV-I Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Joint Diseases	-0.0021323	1	1	0	-1		Joint Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aneuploidy	0.0018517	1	1	0	1		Aneuploidy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Poisoning	-0.0061164	1	1	0	-1		Poisoning
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Asbestosis	0.0018517	1	1	0	1		Asbestosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Candidiasis	-0.0061164	1	1	0	-1		Candidiasis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hallucinations	0.043825	0.1334	1	0	1		Hallucinations
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Goiter	-0.0021323	1	1	0	-1		Goiter
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis, Viral, Human	-0.0061164	1	1	0	-1		Hepatitis, Viral, Human
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Substance Abuse, Intravenous	0.01992	0.35745	1	0	1		Substance Abuse, Intravenous
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Drug Eruptions	0.0018517	1	1	0	1		Drug Eruptions
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Exanthema	0.0058358	1	1	0	1		Exanthema
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Purpura, Thrombocytopenic, Idiopathic	0.051793	0.080629	1	0	1		Purpura, Thrombocytopenic, Idiopathic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis, Autoimmune	0.027888	0.21784	1	0	1		Hepatitis, Autoimmune
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Optic Neuritis	-0.0061164	1	1	0	-1		Optic Neuritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Herpes Simplex	-0.0061164	1	1	0	-1		Herpes Simplex
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Eye Diseases	0.027888	0.21486	1	0	1		Eye Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nevus	-0.0021323	1	1	0	-1		Nevus
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pituitary Neoplasms	0.01992	0.35796	1	0	1		Pituitary Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypokalemia	-0.0021323	1	1	0	-1		Hypokalemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Graves Disease	0.061332	0.15817	1	0	1		Graves Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cervical Intraepithelial Neoplasia	0.0095393	0.77791	1	0	1		Cervical Intraepithelial Neoplasia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anemia	0.025476	0.58117	1	0	1		Anemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Autoimmune Diseases	0.027047	0.66498	1	0	1		Autoimmune Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leprosy	0.011672	0.74296	1	0	1		Leprosy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia, Myeloid, Chronic	-0.0061164	1	1	0	-1		Leukemia, Myeloid, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Multiple Sclerosis, Chronic Progressive	0.02974	0.31377	1	0	1		Multiple Sclerosis, Chronic Progressive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia, Lymphocytic, Acute	0.0098199	0.7016	1	0	1		Leukemia, Lymphocytic, Acute
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cytomegalovirus Infections	0.041692	0.2056	1	0	1		Cytomegalovirus Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Uveitis, Anterior	-0.018349	0.42173	1	0	-1		Uveitis, Anterior
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Spondylarthropathies	0.011952	0.59464	1	0	1		Spondylarthropathies
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gaucher Disease	-0.0042646	1	1	0	-1		Gaucher Disease
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hemophilia A	0.02974	0.31414	1	0	1		Hemophilia A
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Paraparesis, Tropical Spastic	0.0098199	0.70367	1	0	1		Paraparesis, Tropical Spastic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Familial Mediterranean Fever	0.02974	0.31765	1	0	1		Familial Mediterranean Fever
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Hepatocellular	0.049099	0.28677	1	0	1		Carcinoma, Hepatocellular
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypersensitivity, Immediate	0.073004	0.11023	1	0	1		Hypersensitivity, Immediate
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Low Back Pain	0.063745	0.02735	1	0	1		Low Back Pain
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Wegener Granulomatosis	0.043825	0.13166	1	0	1		Wegener Granulomatosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Peritonitis	-0.0021323	1	1	0	-1		Peritonitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Satiety Response	0.015936	0.57838	1	0	1		Satiety Response
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	alpha 1-Antitrypsin Deficiency	0.023904	0.34725	1	0	1		alpha 1-Antitrypsin Deficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Keloid	-0.0061164	1	1	0	-1		Keloid
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukoaraiosis	0.015936	0.57993	1	0	1		Leukoaraiosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rhinitis, Allergic, Seasonal	0.067729	0.02939	1	0	1		Rhinitis, Allergic, Seasonal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mucocutaneous Lymph Node Syndrome	0.027608	0.39133	1	0	1		Mucocutaneous Lymph Node Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Rupture	0.015936	0.57873	1	0	1		Rupture
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hip Dislocation, Congenital	0.0058358	1	1	0	1		Hip Dislocation, Congenital
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nervous System Diseases	0.039841	0.12584	1	0	1		Nervous System Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Peri-Implantitis	0.01992	0.35984	1	0	1		Peri-Implantitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urolithiasis	0.01992	0.35753	1	0	1		Urolithiasis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Urinary Calculi	0.051793	0.079629	1	0	1		Urinary Calculi
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intervertebral Disc Displacement	0.031873	0.2079	1	0	1		Intervertebral Disc Displacement
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mycoses	0.015936	0.58275	1	0	1		Mycoses
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.053645	0.13986	1	0	1		Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nephrosis, Lipoid	0.011952	0.59693	1	0	1		Nephrosis, Lipoid
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cachexia	0.031873	0.20812	1	0	1		Cachexia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Multiple Trauma	0.023904	0.34502	1	0	1		Multiple Trauma
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Shock	0.035857	0.21439	1	0	1		Shock
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Reperfusion Injury	0.023904	0.34386	1	0	1		Reperfusion Injury
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis D, Chronic	0.011952	0.59634	1	0	1		Hepatitis D, Chronic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Graves Ophthalmopathy	0.02946	0.43492	1	0	1		Graves Ophthalmopathy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pneumonia, Bacterial	0.01992	0.35755	1	0	1		Pneumonia, Bacterial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arthritis, Juvenile Rheumatoid	0.0071264	1	1	0	1		Arthritis, Juvenile Rheumatoid
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Shock, Septic	0.027608	0.39038	1	0	1		Shock, Septic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vaginosis, Bacterial	0.0076876	1	1	0	1		Vaginosis, Bacterial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Meningitis, Meningococcal	0.035857	0.21594	1	0	1		Meningitis, Meningococcal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Enterocolitis, Necrotizing	0.027888	0.21844	1	0	1		Enterocolitis, Necrotizing
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gingivitis	0.023904	0.34954	1	0	1		Gingivitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pregnancy Complications, Infectious	0.011672	0.7451	1	0	1		Pregnancy Complications, Infectious
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Communicable Diseases	0.013804	0.6907	1	0	1		Communicable Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Leukemia, Myeloid	0.011672	0.74546	1	0	1		Leukemia, Myeloid
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Burns	0.023904	0.34488	1	0	1		Burns
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Fallopian Tube Diseases	0.01992	0.36146	1	0	1		Fallopian Tube Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cross Infection	0.031873	0.20711	1	0	1		Cross Infection
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Valve Diseases	0.025756	0.46727	1	0	1		Heart Valve Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Renal Artery Obstruction	0.027888	0.21634	1	0	1		Renal Artery Obstruction
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Panuveitis	0.011952	0.59649	1	0	1		Panuveitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cardiac Output, Low	0.01992	0.35562	1	0	1		Cardiac Output, Low
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acute Kidney Injury	0.031873	0.20981	1	0	1		Acute Kidney Injury
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thyroiditis, Subacute	0.011952	0.59529	1	0	1		Thyroiditis, Subacute
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastritis	0.03956	0.26682	1	0	1		Gastritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Respiratory Tract Diseases	-0.0063969	1	1	0	-1		Respiratory Tract Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Otorhinolaryngologic Neoplasms	0.011952	0.59606	1	0	1		Otorhinolaryngologic Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Bronchitis	0.027888	0.21589	1	0	1		Bronchitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Takayasu Arteritis	0.015936	0.58125	1	0	1		Takayasu Arteritis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Influenza, Human	0.043825	0.13092	1	0	1		Influenza, Human
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Arthritis, Reactive	0.0098199	0.70219	1	0	1		Arthritis, Reactive
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Peptic Ulcer	0.067729	0.03009	1	0	1		Peptic Ulcer
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pouchitis	0.015936	0.58174	1	0	1		Pouchitis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Otitis Media	0.02974	0.31462	1	0	1		Otitis Media
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Central Nervous System Neoplasms	-0.0042646	1	1	0	-1		Central Nervous System Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hernia, Diaphragmatic	0.011952	0.59783	1	0	1		Hernia, Diaphragmatic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Chromosome Aberrations	0.051512	0.18338	1	0	1		Chromosome Aberrations
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Psychology	0.01992	0.35756	1	0	1		Psychology
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Colorectal Neoplasms, Hereditary Nonpolyposis	0.013804	0.68833	1	0	1		Colorectal Neoplasms, Hereditary Nonpolyposis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Intestinal Neoplasms	0.0018517	1	1	0	1		Intestinal Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tongue Neoplasms	0.01992	0.3616	1	0	1		Tongue Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Carcinoma, Ductal	-0.020201	0.21161	1	0	-1		Carcinoma, Ductal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Necrosis	0.031873	0.20653	1	0	1		Necrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Immune System Diseases	0.0098199	0.70172	1	0	1		Immune System Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lymphatic Diseases	0.011952	0.59624	1	0	1		Lymphatic Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypoparathyroidism	0.011952	0.59512	1	0	1		Hypoparathyroidism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertrophy	0.015936	0.5769	1	0	1		Hypertrophy
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Spinal Cord Diseases	-0.0061164	1	1	0	-1		Spinal Cord Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Osteopetrosis	-0.0061164	1	1	0	-1		Osteopetrosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Myopia, Degenerative	0.015936	0.5777	1	0	1		Myopia, Degenerative
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dwarfism, Pituitary	0.0098199	0.70362	1	0	1		Dwarfism, Pituitary
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Abnormalities, Multiple	0.031873	0.2083	1	0	1		Abnormalities, Multiple
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Spasms, Infantile	0.015936	0.58207	1	0	1		Spasms, Infantile
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nephrosclerosis	-0.0021323	1	1	0	-1		Nephrosclerosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Myocardial Stunning	0.011952	0.59694	1	0	1		Myocardial Stunning
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cystitis, Interstitial	0.011952	0.59442	1	0	1		Cystitis, Interstitial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acanthosis Nigricans	0.011952	0.5928	1	0	1		Acanthosis Nigricans
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Adhesions	0.011952	0.59772	1	0	1		Adhesions
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Asymptomatic Diseases	0.0058358	1	1	0	1		Asymptomatic Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Developmental Disabilities	0.023904	0.34653	1	0	1		Developmental Disabilities
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Tooth Abnormalities	-0.0021323	1	1	0	-1		Tooth Abnormalities
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acute-Phase Reaction	0.01992	0.35787	1	0	1		Acute-Phase Reaction
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Infant, Newborn, Diseases	0.015936	0.5772	1	0	1		Infant, Newborn, Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Exocrine Pancreatic Insufficiency	0.011952	0.59307	1	0	1		Exocrine Pancreatic Insufficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Pseudomonas Infections	0.0098199	0.70003	1	0	1		Pseudomonas Infections
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Nutrition Disorders	0.011952	0.59525	1	0	1		Nutrition Disorders
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Amyloidosis	-0.0082487	1	1	0	-1		Amyloidosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Anodontia	0.015936	0.58097	1	0	1		Anodontia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Dwarfism	0.01992	0.36027	1	0	1		Dwarfism
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cluster Headache	0.011952	0.59552	1	0	1		Cluster Headache
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Thalassemia	0.01992	0.35854	1	0	1		Thalassemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperbilirubinemia	-0.0061164	1	1	0	-1		Hyperbilirubinemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Malnutrition	0.0058358	1	1	0	1		Malnutrition
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Prediabetic State	0.035857	0.21439	1	0	1		Prediabetic State
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Defects, Congenital	-0.0088098	1	1	0	-1		Heart Defects, Congenital
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Turner Syndrome	0.023904	0.34277	1	0	1		Turner Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Inversion, Chromosome	-0.0021323	1	1	0	-1		Inversion, Chromosome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Drug-Induced Liver Injury	0.01992	0.35842	1	0	1		Drug-Induced Liver Injury
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastrointestinal Hemorrhage	-0.018349	0.42	1	0	-1		Gastrointestinal Hemorrhage
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Esophageal and Gastric Varices	0.0098199	0.70574	1	0	1		Esophageal and Gastric Varices
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Polycythemia	0.01992	0.36031	1	0	1		Polycythemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Varicose Veins	0.015936	0.57885	1	0	1		Varicose Veins
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Vertebral Artery Dissection	-0.0021323	1	1	0	-1		Vertebral Artery Dissection
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hyperhomocysteinemia	0.025756	0.4671	1	0	1		Hyperhomocysteinemia
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gingival Overgrowth	0.011952	0.59452	1	0	1		Gingival Overgrowth
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypoxia-Ischemia, Brain	0.027888	0.21654	1	0	1		Hypoxia-Ischemia, Brain
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hepatitis, Toxic	0.02974	0.31308	1	0	1		Hepatitis, Toxic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Mitral Valve Stenosis	0.011952	0.59439	1	0	1		Mitral Valve Stenosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Failure, Diastolic	0.011952	0.59783	1	0	1		Heart Failure, Diastolic
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Glucosephosphate Dehydrogenase Deficiency	0.023904	0.34361	1	0	1		Glucosephosphate Dehydrogenase Deficiency
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hemolysis	0.011952	0.59698	1	0	1		Hemolysis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Ventricular Fibrillation	0.027888	0.21361	1	0	1		Ventricular Fibrillation
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Brugada Syndrome	0.015936	0.57727	1	0	1		Brugada Syndrome
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Syncope	0.027888	0.21398	1	0	1		Syncope
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Heart Arrest	0.015936	0.57856	1	0	1		Heart Arrest
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Gastroparesis	0.011952	0.59761	1	0	1		Gastroparesis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Lipid Metabolism, Inborn Errors	0.0018517	1	1	0	1		Lipid Metabolism, Inborn Errors
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cardiomyopathy, Hypertrophic, Familial	0.01992	0.35889	1	0	1		Cardiomyopathy, Hypertrophic, Familial
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Cardiomegaly	0.015936	0.57949	1	0	1		Cardiomegaly
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Diabetic Cardiomyopathies	0.011952	0.59536	1	0	1		Diabetic Cardiomyopathies
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Acidosis	0.011952	0.596	1	0	1		Acidosis
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aortic Aneurysm	0.011952	0.59818	1	0	1		Aortic Aneurysm
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Aortic Diseases	0.0058358	1	1	0	1		Aortic Diseases
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Hypertension, Portal	0.043825	0.1331	1	0	1		Hypertension, Portal
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Esophageal Neoplasms	0.076427	0.16718	1	0	1		Esophageal Neoplasms
+HuGE Navigator Gene-Phenotype Associations	hugenavigator	Colorectal Neoplasms	0.043712	0.53399	1	0	1		Colorectal Neoplasms

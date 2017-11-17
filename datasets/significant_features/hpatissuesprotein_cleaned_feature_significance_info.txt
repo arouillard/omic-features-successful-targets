@@ -1,0 +1,12 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	spleen	-0.45969	0.00164	0.054478	0	-1		spleen
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	bone marrow	-0.35528	0.01564	0.25977	0	-1		bone marrow
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	hippocampus	-0.2501	0.067909	0.72349	0	-1		hippocampus|lateral ventricle
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	ovary	-0.22555	0.087119	0.72349	0	-1		ovary
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	mean	-0.097027	0.36992	1	0	-1	mean	mean|skin|cervix, uterine|endometrium|rectum|tonsil|esophagus|vagina|oral mucosa|cerebral cortex|cerebellum|breast|colon|appendix|duodenum|lymph node|bronchus|fallopian tube|nasopharynx|stomach|soft tissue|pancreas|thyroid gland|urinary bladder|testis|gallbladder|kidney|placenta|seminal vesicle|lung|salivary gland|prostate|epididymis|adrenal gland|parathyroid gland
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	small intestine	0.065173	0.69766	1	0	1		small intestine
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	stdv	-0.0025044	0.92616	1	0	-1	stdv	stdv
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	smooth muscle	-0.11645	0.38275	1	0	-1		smooth muscle
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	heart muscle	-0.12006	0.42909	1	0	-1		heart muscle
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	skeletal muscle	-0.096146	0.47055	1	0	-1		skeletal muscle
+HPA Tissue Protein Expression Profiles - Cleaned	hpatissuesprotein_cleaned	liver	-0.15019	0.28963	1	0	-1		liver

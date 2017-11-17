@@ -1,0 +1,107 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	stdv	-0.028129	0.1721	1	0	-1	stdv	stdv|intracellular part|intracellular|intracellular organelle|organelle|mean|membrane-bounded organelle|intracellular membrane-bounded organelle|cellular_component|cytoplasm|cell part|cell|organelle part|intracellular organelle part|cytoplasmic part|membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	asymmetric synapse	-0.004522	1	1	0	-1		asymmetric synapse
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	chloride channel complex	-0.04845	0.59	1	0	-1		chloride channel complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	neuron projection membrane	0.023256	0.59689	1	0	1		neuron projection membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	excitatory synapse	-0.00064599	1	1	0	-1		excitatory synapse
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	receptor complex	-0.47061	0.01149	1	0	-1		receptor complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	ionotropic glutamate receptor complex	-0.034561	0.86589	1	0	-1		ionotropic glutamate receptor complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	myelin sheath	0.034884	0.73079	1	0	1		myelin sheath
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	membrane raft	-0.005814	1	1	0	-1		membrane raft
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	anchored component of membrane	-0.022933	0.67929	1	0	-1		anchored component of membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	extrinsic component of external side of plasma membrane	0.046512	0.59907	1	0	1		extrinsic component of external side of plasma membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cell-cell junction	-0.056848	0.30001	1	0	-1		cell-cell junction
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	late endosome	-0.058463	0.58273	1	0	-1		late endosome
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	transport vesicle	-0.004522	1	1	0	-1		transport vesicle
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cytosol	-0.46932	0.02621	1	0	-1		cytosol
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	extracellular space	-0.16796	0.48639	1	0	-1		extracellular space
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	organelle envelope lumen	-0.10401	0.073219	1	0	-1		organelle envelope lumen
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	microvillus	0.03876	0.3578	1	0	1		microvillus
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	actin cytoskeleton	0.042636	0.72895	1	0	1		actin cytoskeleton
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	neuromuscular junction	0.0071059	1	1	0	1		neuromuscular junction
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	axon part	0.045866	0.44128	1	0	1		axon part
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	axon	-0.087209	0.39364	1	0	-1		axon
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	basement membrane	-0.046796	0.15122	1	0	-1		basement membrane|extracellular matrix part
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	endosome	0.002584	1	1	0	1		endosome
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	sarcolemma	0.045866	0.52587	1	0	1		sarcolemma
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	synaptic vesicle membrane	0.023256	0.59561	1	0	1		synaptic vesicle membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cell cortex	-0.042959	0.75016	1	0	-1		cell cortex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	nucleolus	-0.15568	0.0412	1	0	-1		nucleolus
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	endoplasmic reticulum lumen	0.067829	0.50487	1	0	1		endoplasmic reticulum lumen
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	golgi lumen	0.093023	0.3487	1	0	1		golgi lumen
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	coated pit	-0.11725	0.04681	1	0	-1		coated pit
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	dendritic shaft	-0.1095	0.0445	1	0	-1		dendritic shaft
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	t-tubule	0.054264	0.29584	1	0	1		t-tubule
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	sodium channel complex	0.042636	0.72955	1	0	1		sodium channel complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	presynaptic membrane	-0.00064599	1	1	0	-1		presynaptic membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	early endosome	0.001292	1	1	0	1		early endosome
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	perinuclear region of cytoplasm	0.033915	0.81227	1	0	1		perinuclear region of cytoplasm
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	replication fork	-0.014535	0.86601	1	0	-1		replication fork
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	synaptic vesicle	0.057494	0.4471	1	0	1		synaptic vesicle
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	nuclear envelope lumen	-0.020672	1	1	0	-1		nuclear envelope lumen
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cell surface	-0.14244	0.50855	1	0	-1		cell surface
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	endocytic vesicle	0.080103	0.42864	1	0	1		endocytic vesicle
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	endocytic vesicle membrane	0.046512	0.59903	1	0	1		endocytic vesicle membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	microtubule	0.05814	0.59756	1	0	1		microtubule
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	rough endoplasmic reticulum	0.023256	0.59931	1	0	1		rough endoplasmic reticulum
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	acrosomal vesicle	-0.004522	1	1	0	-1		acrosomal vesicle
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	secretory granule	-0.13857	0.2957	1	0	-1		secretory granule
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	blood microparticle	-0.030362	0.75809	1	0	-1		blood microparticle
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	sperm part	0.0044143	0.90502	1	0	1		sperm part
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	presynaptic active zone	-0.012274	1	1	0	-1		presynaptic active zone
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cell projection	0.042327	0.77609	1	0	1		cell projection|cell projection part
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	lamellipodium	0.080359	0.25157	1	0	1		lamellipodium|cell leading edge
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	plasma membrane region	0.089588	0.069369	1	0	1		plasma membrane region|basolateral plasma membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cell projection membrane	0.13512	0.091749	1	0	1		cell projection membrane|leading edge membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	neuron projection	-0.18744	0.13314	1	0	-1		neuron projection|neuron part|dendrite
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	chromosomal part	0.035078	0.76659	1	0	1		chromosomal part|chromosome
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	axon terminus	0.028907	0.58945	1	0	1		axon terminus|neuron projection terminus|terminal bouton
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	plasma membrane	0.44961	0.12095	1	0	1		plasma membrane|cell periphery
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	intrinsic component of plasma membrane	0.12184	0.64551	1	0	1		intrinsic component of plasma membrane|integral component of plasma membrane|plasma membrane part
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	organelle outer membrane	0.025504	0.79953	1	0	1		organelle outer membrane|outer membrane|mitochondrial outer membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	nuclear chromatin	0.015665	0.76488	1	0	1		nuclear chromatin|chromatin|nuclear chromosome part|nuclear chromosome
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	synaptic membrane	-0.17774	0.17665	1	0	-1		synaptic membrane|synapse part|postsynaptic membrane|synapse
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cytoplasmic vesicle part	-0.03089	0.75458	1	0	-1		cytoplasmic vesicle part|cytoplasmic vesicle membrane|vesicle membrane|cytoplasmic membrane-bounded vesicle
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	microbody part	-0.042301	0.56492	1	0	-1		microbody part|peroxisomal part|microbody|peroxisome
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	dendritic spine	-0.041016	0.61875	1	0	-1		dendritic spine|dendritic spine head|neuron spine|postsynaptic density
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	intrinsic component of membrane	0.25618	0.32759	1	0	1		intrinsic component of membrane|integral component of membrane|membrane part
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	transmembrane transporter complex	0.0078827	0.89724	1	0	1		transmembrane transporter complex|transporter complex|ion channel complex|cation channel complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cytoskeleton	-0.0038024	0.97321	1	0	-1		cytoskeleton|non-membrane-bounded organelle|intracellular non-membrane-bounded organelle|cytoskeletal part|microtubule cytoskeleton
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	secretory granule lumen	-0.13699	0.26104	1	0	-1		secretory granule lumen|platelet alpha granule lumen|cytoplasmic membrane-bounded vesicle lumen|vesicle lumen|platelet alpha granule
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	endoplasmic reticulum membrane	-0.155	0.22723	1	0	-1		endoplasmic reticulum membrane|endoplasmic reticulum part|nuclear outer membrane-endoplasmic reticulum membrane network|membrane region|endoplasmic reticulum
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	lysosome	0.30873	0.01206	1	0	1		lysosome|lytic vacuole|vacuolar part|vacuolar membrane|vacuole|lysosomal membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	sarcomere	0.075259	0.33652	1	0	1		sarcomere|i band|contractile fiber part|myofibril|contractile fiber|z disc
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cell-substrate adherens junction	-0.23107	0.058229	1	0	-1		cell-substrate adherens junction|adherens junction|cell-substrate junction|anchoring junction|focal adhesion|cell junction
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	nucleus	-0.30717	0.20047	1	0	-1		nucleus
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	nucleoplasm	-0.16718	0.23317	1	0	-1		nucleoplasm|intracellular organelle lumen|organelle lumen|nuclear lumen|membrane-enclosed lumen|nuclear part|nucleoplasm part
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	mitochondrial envelope	-0.11815	0.15496	1	0	-1		mitochondrial envelope|mitochondrial membrane|mitochondrial inner membrane|organelle envelope|envelope|organelle inner membrane|mitochondrial part
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	extracellular organelle	-0.30381	0.21047	1	0	-1		extracellular organelle|extracellular membrane-bounded organelle|extracellular vesicular exosome|extracellular vesicle|membrane-bounded vesicle|vesicle|extracellular region part|extracellular region
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	coated vesicle	0.064522	0.38635	1	0	1		coated vesicle|clathrin-coated vesicle|coated vesicle membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	mitochondrial matrix	-0.17733	0.01532	1	0	-1		mitochondrial matrix
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	golgi apparatus part	0.05695	0.58266	1	0	1		golgi apparatus part|golgi membrane|golgi apparatus
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	caveola	0.084625	0.34287	1	0	1		caveola|plasma membrane raft
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	endomembrane system	-0.30438	0.11822	1	0	-1		endomembrane system|organelle membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	external side of plasma membrane	-0.092328	0.27375	1	0	-1		external side of plasma membrane|side of membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	mitochondrion	-0.26615	0.04093	1	0	-1		mitochondrion
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	extrinsic component of plasma membrane	0.022083	0.7911	1	0	1		extrinsic component of plasma membrane|extrinsic component of membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	nuclear envelope	-0.092603	0.32553	1	0	-1		nuclear envelope|nuclear membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	calcium channel complex	0.069767	0.57776	1	0	1		calcium channel complex|voltage-gated calcium channel complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	brush border	0.077457	0.30545	1	0	1		brush border|brush border membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	motile cilium	0.0028504	1	1	0	1		motile cilium|cilium
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	integrin complex	-0.12529	0.01008	1	0	-1		integrin complex|protein complex involved in cell adhesion
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	apical part of cell	0.14217	0.24127	1	0	1		apical part of cell|apical plasma membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	nuclear periphery	0.054264	0.59886	1	0	1		nuclear periphery|nuclear matrix
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	protein complex	-0.67431	0.0059399	1	0	-1		protein complex|macromolecular complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cytoplasmic vesicle	0.036176	0.85755	1	0	1		cytoplasmic vesicle
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	catalytic complex	-0.00083647	0.21894	1	0	-1		catalytic complex|transferase complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	neuronal cell body	-0.17475	0.063259	1	0	-1		neuronal cell body|cell body
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	extracellular matrix	-0.088019	0.3757	1	0	-1		extracellular matrix|proteinaceous extracellular matrix
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	plasma lipoprotein particle	-0.083979	0.12091	1	0	-1		plasma lipoprotein particle|protein-lipid complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	lysosomal lumen	0.17054	0.11477	1	0	1		lysosomal lumen|vacuolar lumen
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	sarcoplasm	0.03876	0.59749	1	0	1		sarcoplasm|sarcoplasmic reticulum
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	endosome membrane	0.15504	0.1862	1	0	1		endosome membrane|endosomal part
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	site of polarized growth	-0.11725	0.02659	1	0	-1		site of polarized growth|growth cone
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	cytoplasmic side of membrane	-0.0091942	1	1	0	-1		cytoplasmic side of membrane|cytoplasmic side of plasma membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	potassium channel complex	-0.034561	0.68413	1	0	-1		potassium channel complex|voltage-gated potassium channel complex
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	clathrin-coated vesicle membrane	0.046512	0.55144	1	0	1		clathrin-coated vesicle membrane
+COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	jensencompartmentcurated_cleaned	bounding membrane of organelle	0.0051327	0.55605	1	0	1		bounding membrane of organelle

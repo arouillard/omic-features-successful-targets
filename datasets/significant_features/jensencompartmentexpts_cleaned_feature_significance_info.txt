@@ -1,0 +1,10 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	jensencompartmentexpts_cleaned	mean	-0.012899	0.69417	1	0	-1	mean	mean|stdv|intracellular part|intracellular|cell part|cell|cellular_component|intracellular organelle|organelle|intracellular membrane-bounded organelle|membrane-bounded organelle|nucleus|intracellular organelle part|organelle part|cytoplasmic part|cytoplasm
+COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	jensencompartmentexpts_cleaned	intracellular organelle lumen	-0.0038976	0.98522	1	0	-1		intracellular organelle lumen|organelle lumen|nuclear lumen|nucleolus|membrane-enclosed lumen|nuclear part|intracellular non-membrane-bounded organelle|non-membrane-bounded organelle
+COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	jensencompartmentexpts_cleaned	cytoskeletal part	0.0834	0.17972	1	0	1		cytoskeletal part|macromolecular complex|protein complex|cytoskeleton
+COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	jensencompartmentexpts_cleaned	plasma membrane	0.029067	0.90542	1	0	1		plasma membrane|cell periphery|membrane
+COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	jensencompartmentexpts_cleaned	cytosol	0.23639	0.17492	1	0	1		cytosol
+COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	jensencompartmentexpts_cleaned	actin cytoskeleton	0.061224	0.54696	1	0	1		actin cytoskeleton|actin filament
+COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	jensencompartmentexpts_cleaned	mitochondrion	-0.085034	0.61608	1	0	-1		mitochondrion
+COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	jensencompartmentexpts_cleaned	golgi apparatus	-0.12585	0.085399	1	0	-1		golgi apparatus
+COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	jensencompartmentexpts_cleaned	vesicle	0.09949	0.40652	1	0	1		vesicle

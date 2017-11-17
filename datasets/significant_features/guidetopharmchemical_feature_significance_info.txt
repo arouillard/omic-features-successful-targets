@@ -1,0 +1,52 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	(+)-aceclidine	-0.019951	0.39561	1	0	-1		(+)-aceclidine|(-)-aceclidine|pirenzepine|silahexocyclium|4-DAMP|<i>N</i>-benzyl brucine|<i>p</i>-F-HHSiD|AFDX384|pilocarpine|otenzepad|methoctramine|lithocholylcholine|ipratropium|himbacine|hexocyclium|hexahydrodifenidol|glycopyrrolate|darifenacin|carbachol|brucine <i>N</i>-oxide|brucine|biperiden|atropine|acetylcholine|HHSiD|[<sup>3</sup>H]QNB|[<sup>3</sup>H]N-methyl scopolamine|VU0255035|NNC 11-1607|NNC 11-1585|NNC 11-1314|N-chloromethyl-brucine|McN-A-343|MT7|G&ouml; 7874|thiochrome|vincamine|scopolamine|propantheline|pentylthio-TZTP|oxotremorine-M|oxotremorine|methylfurmethide|methacholine|guanylpirenzepine|furmethide|eburnamonine|bethanechol|arecoline|arecaidine propargyl ester|alcuronium|WIN 62 577|WIN 51 708|milameline|sabcomeline
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	Ca<sup>2+</sup>	-0.019951	0.39462	1	0	-1		Ca<sup>2+</sup>
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	anandamide	0.016949	1	1	0	1		anandamide
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	diazepam	-0.014301	1	1	0	-1		diazepam
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	Mg<sup>2+</sup>	-0.019951	0.39574	1	0	-1		Mg<sup>2+</sup>
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	alitretinoin	-0.019951	0.39621	1	0	-1		alitretinoin
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	pimozide	0.033898	0.59014	1	0	1		pimozide
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	lurasidone	0.022599	0.62138	1	0	1		lurasidone
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	vilazodone	0.033898	0.59129	1	0	1		vilazodone
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	nimodipine	0.016949	1	1	0	1		nimodipine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	diclofenac	0.016949	1	1	0	1		diclofenac
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	cyamemazine	0.016949	1	1	0	1		cyamemazine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	(-)-pentazocine	-0.019951	0.3928	1	0	-1		(-)-pentazocine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	noradrenaline	0.016949	1	1	0	1		noradrenaline
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	17&beta;-estradiol	-0.019951	0.39676	1	0	-1		17&beta;-estradiol
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	strychnine	-0.019951	0.39561	1	0	-1		strychnine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	(-)-adrenaline	0.016949	1	1	0	1		(-)-adrenaline
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	mirtazapine	0.016949	1	1	0	1		mirtazapine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	pindolol	0.022599	0.62211	1	0	1		pindolol
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	ibudilast	0.016949	1	1	0	1		ibudilast
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	caffeine	0.016949	1	1	0	1		caffeine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	Zn<sup>2+</sup>	-0.014301	1	1	0	-1		Zn<sup>2+</sup>
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	fluoxetine	0.016949	1	1	0	1		fluoxetine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	mifepristone	0.016949	1	1	0	1		mifepristone
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	dovitinib	0.022599	0.62373	1	0	1		dovitinib
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	haloperidol	0.039548	0.38181	1	0	1		haloperidol
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	ZK112993	0.016949	1	1	0	1		ZK112993|onapristone
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	5-CT	0.021523	0.33437	1	0	1		5-CT|methiothepin|BRL-15572|GR-127935|8-OH-DPAT|RU 24969|TFMPP|metergoline|methysergide|LY344864|SL65.0155|tryptamine|5-MeOT|CGS-12066|<i>m</i>-CPP|ritanserin|ergotamine|5-HT|sertindole|SB 216641|MPDT|&alpha;-methyl-5-HT|olanzapine|donitriptan|xanomeline|yohimbine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	ziprasidone	0.03184	0.32053	1	0	1		ziprasidone|aripiprazole|risperidone|9-OH-risperidone|asenapine|fluspirilene|pipamperone|zotepine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	roxindole	0.040602	0.33672	1	0	1		roxindole|spiperone|bromocriptine|pergolide|cabergoline|lisuride|terguride|apomorphine|quinpirole|S33084|piribedil
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	carbacyclin	0.01035	0.64843	1	0	1		carbacyclin|iloprost|U46619|PGF<sub>2&alpha;</sub>|M&B 28767|PGE<sub>2</sub>|PGD<sub>2</sub>|butaprost (free acid form)|cloprostenol|cicaprost
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	SB 224289	0.016949	1	1	0	1		SB 224289
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	CGP 12177	0.016949	1	1	0	1		CGP 12177|SR59230A|[<sup>125</sup>I]ICYP|bunolol|bupranolol|carvedilol|isoprenaline|mirabegron|nadolol
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	chlorpromazine	0.038044	0.36199	1	0	1		chlorpromazine|(+)-butaclamol
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	S 16924	0.016949	1	1	0	1		S 16924
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	prochlorperazine	0.016949	0.81214	1	0	1		prochlorperazine|dopamine|rotigotine|cis-flupentixol|nafadotride|raclopride
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	amoxapine	0.020123	0.57226	1	0	1		amoxapine|loxapine|perphenazine|duloxetine|amitriptyline|nefazodone
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	PGE<sub>1</sub>	0.016949	1	1	0	1		PGE<sub>1</sub>
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	atomoxetine	0.018696	0.58546	1	0	1		atomoxetine|desvenlafaxine|levomilnacipran|sibutramine|phenelzine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	quetiapine	0.033898	0.59489	1	0	1		quetiapine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	clobenpropit	0.016949	1	1	0	1		clobenpropit|histamine|impromidine|ABT-239
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	thioridazine	0.025816	0.5558	1	0	1		thioridazine|fluphenazine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	mianserin	0.016949	1	1	0	1		mianserin
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	ketanserin	0.039548	0.38339	1	0	1		ketanserin
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	(-)-noradrenaline	0.018619	0.51428	1	0	1		(-)-noradrenaline|spiroxatrine|oxymetazoline
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	trifluoperazine	0.016949	1	1	0	1		trifluoperazine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	TBPS	-0.05685	0.061789	1	0	-1		TBPS|picrotoxin|gaboxadol
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	vortioxetine	0.028249	0.60276	1	0	1		vortioxetine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	mean	0.00029138	0.74838	1	0	1	mean	mean|stdv
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	clozapine	0.062147	0.22075	1	0	1		clozapine
+Guide to Pharmacology Chemical Ligands of Receptors	guidetopharmchemical	nintedanib	0.022599	0.62609	1	0	1		nintedanib

@@ -1,0 +1,124 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+GO Cellular Component Annotations	gocc	mean	-0.0016242	0.11611	1	0	-1	mean	mean|stdv|intracellular part|intracellular organelle|membrane-bounded organelle|cell part|intracellular membrane-bounded organelle|organelle|organelle part|intracellular organelle part|cytoplasmic part
+GO Cellular Component Annotations	gocc	axon part	0.010188	0.74977	1	0	1		axon part
+GO Cellular Component Annotations	gocc	microvillus	0.01938	0.36798	1	0	1		microvillus
+GO Cellular Component Annotations	gocc	nucleolus	-0.059801	0.01316	1	0	-1		nucleolus
+GO Cellular Component Annotations	gocc	cell cortex part	-0.0065338	1	1	0	-1		cell cortex part
+GO Cellular Component Annotations	gocc	actin cytoskeleton	0.011628	0.60161	1	0	1		actin cytoskeleton
+GO Cellular Component Annotations	gocc	late endosome	-0.020819	0.20175	1	0	-1		late endosome
+GO Cellular Component Annotations	gocc	endosome	-0.0043189	1	1	0	-1		endosome
+GO Cellular Component Annotations	gocc	transport vesicle	-0.0065338	1	1	0	-1		transport vesicle
+GO Cellular Component Annotations	gocc	sarcolemma	0.0012182	1	1	0	1		sarcolemma
+GO Cellular Component Annotations	gocc	cytoskeletal part	-0.030011	0.25462	1	0	-1		cytoskeletal part
+GO Cellular Component Annotations	gocc	membrane raft	-0.022481	0.62335	1	0	-1		membrane raft
+GO Cellular Component Annotations	gocc	nuclear membrane	-0.0091916	0.64194	1	0	-1		nuclear membrane
+GO Cellular Component Annotations	gocc	synaptic vesicle membrane	0.011628	0.60239	1	0	1		synaptic vesicle membrane
+GO Cellular Component Annotations	gocc	endocytic vesicle membrane	0.011628	0.59947	1	0	1		endocytic vesicle membrane
+GO Cellular Component Annotations	gocc	golgi lumen	0.023256	0.34945	1	0	1		golgi lumen
+GO Cellular Component Annotations	gocc	coated pit	-0.024695	0.11676	1	0	-1		coated pit
+GO Cellular Component Annotations	gocc	t-tubule	0.023256	0.34891	1	0	1		t-tubule
+GO Cellular Component Annotations	gocc	receptor complex	-0.082281	0.052899	1	0	-1		receptor complex
+GO Cellular Component Annotations	gocc	chloride channel complex	-0.016944	0.59126	1	0	-1		chloride channel complex
+GO Cellular Component Annotations	gocc	sodium channel complex	0.011628	0.60454	1	0	1		sodium channel complex
+GO Cellular Component Annotations	gocc	ionotropic glutamate receptor complex	-0.0065338	1	1	0	-1		ionotropic glutamate receptor complex
+GO Cellular Component Annotations	gocc	extracellular matrix part	-0.020819	0.19905	1	0	-1		extracellular matrix part
+GO Cellular Component Annotations	gocc	cell-cell junction	-0.033887	0.22782	1	0	-1		cell-cell junction
+GO Cellular Component Annotations	gocc	synapse	-0.024917	0.54057	1	0	-1		synapse
+GO Cellular Component Annotations	gocc	asymmetric synapse	0.011628	0.60152	1	0	1		asymmetric synapse
+GO Cellular Component Annotations	gocc	intracellular	-0.020819	0.20318	1	0	-1		intracellular
+GO Cellular Component Annotations	gocc	postsynaptic density	-0.011849	0.70703	1	0	-1		postsynaptic density
+GO Cellular Component Annotations	gocc	cell projection part	0.012403	0.83561	1	0	1		cell projection part
+GO Cellular Component Annotations	gocc	brush border membrane	0.015504	0.57986	1	0	1		brush border membrane
+GO Cellular Component Annotations	gocc	neuronal postsynaptic density	-0.020819	0.19829	1	0	-1		neuronal postsynaptic density
+GO Cellular Component Annotations	gocc	perinuclear region of cytoplasm	0.011406	0.77726	1	0	1		perinuclear region of cytoplasm
+GO Cellular Component Annotations	gocc	cytosol	-0.14109	0.0097199	1	0	-1		cytosol
+GO Cellular Component Annotations	gocc	cell surface	0.0056478	1	1	0	1		cell surface
+GO Cellular Component Annotations	gocc	apical part of cell	-0.016944	0.58795	1	0	-1		apical part of cell
+GO Cellular Component Annotations	gocc	dendrite membrane	0.011628	0.60423	1	0	1		dendrite membrane
+GO Cellular Component Annotations	gocc	leading edge membrane	0.031008	0.21321	1	0	1		leading edge membrane
+GO Cellular Component Annotations	gocc	cilium	0.011628	0.60126	1	0	1		cilium
+GO Cellular Component Annotations	gocc	mitochondrion	-0.089812	0.0083799	1	0	-1		mitochondrion
+GO Cellular Component Annotations	gocc	recycling endosome	0.015504	0.58049	1	0	1		recycling endosome
+GO Cellular Component Annotations	gocc	early endosome	-0.0014396	1	1	0	-1		early endosome
+GO Cellular Component Annotations	gocc	coated vesicle	-0.013068	0.61177	1	0	-1		coated vesicle
+GO Cellular Component Annotations	gocc	extrinsic component of external side of plasma membrane	0.011628	0.60204	1	0	1		extrinsic component of external side of plasma membrane
+GO Cellular Component Annotations	gocc	extrinsic component of membrane	-0.013068	0.61053	1	0	-1		extrinsic component of membrane
+GO Cellular Component Annotations	gocc	nuclear envelope lumen	-0.0065338	1	1	0	-1		nuclear envelope lumen
+GO Cellular Component Annotations	gocc	organelle envelope lumen	-0.035105	0.068959	1	0	-1		organelle envelope lumen
+GO Cellular Component Annotations	gocc	mitochondrial matrix	-0.035105	0.067629	1	0	-1		mitochondrial matrix
+GO Cellular Component Annotations	gocc	transcription factor complex	-0.0065338	1	1	0	-1		transcription factor complex
+GO Cellular Component Annotations	gocc	neuromuscular junction	-0.0026578	1	1	0	-1		neuromuscular junction
+GO Cellular Component Annotations	gocc	excitatory synapse	-0.0065338	1	1	0	-1		excitatory synapse
+GO Cellular Component Annotations	gocc	cell cortex	-0.0065338	1	1	0	-1		cell cortex
+GO Cellular Component Annotations	gocc	perikaryon	-0.035105	0.067519	1	0	-1		perikaryon
+GO Cellular Component Annotations	gocc	presynaptic active zone	-0.0065338	1	1	0	-1		presynaptic active zone
+GO Cellular Component Annotations	gocc	terminal bouton	0.0012182	1	1	0	1		terminal bouton
+GO Cellular Component Annotations	gocc	cell projection membrane	0.054264	0.088609	1	0	1		cell projection membrane
+GO Cellular Component Annotations	gocc	cytoskeleton	0.020598	0.47221	1	0	1		cytoskeleton
+GO Cellular Component Annotations	gocc	rough endoplasmic reticulum	-0.020819	0.19951	1	0	-1		rough endoplasmic reticulum
+GO Cellular Component Annotations	gocc	lateral plasma membrane	0.011628	0.60226	1	0	1		lateral plasma membrane
+GO Cellular Component Annotations	gocc	cell junction	-0.084939	0.062289	1	0	-1		cell junction
+GO Cellular Component Annotations	gocc	dendritic shaft	-0.020819	0.20053	1	0	-1		dendritic shaft
+GO Cellular Component Annotations	gocc	extracellular region	0.033776	0.63836	1	0	1		extracellular region
+GO Cellular Component Annotations	gocc	neuron projection membrane	0.01938	0.36768	1	0	1		neuron projection membrane
+GO Cellular Component Annotations	gocc	golgi apparatus	0.023034	0.58525	1	0	1		golgi apparatus
+GO Cellular Component Annotations	gocc	lysosomal lumen	0.042636	0.1299	1	0	1		lysosomal lumen|vacuolar lumen
+GO Cellular Component Annotations	gocc	site of polarized growth	-0.020819	0.20019	1	0	-1		site of polarized growth|growth cone
+GO Cellular Component Annotations	gocc	dendritic spine	-0.023477	0.37308	1	0	-1		dendritic spine|neuron spine
+GO Cellular Component Annotations	gocc	caveola	0.024474	0.46923	1	0	1		caveola|plasma membrane raft
+GO Cellular Component Annotations	gocc	integrin complex	-0.042857	0.0091599	1	0	-1		integrin complex|protein complex involved in cell adhesion
+GO Cellular Component Annotations	gocc	cell projection cytoplasm	-0.0065338	1	1	0	-1		cell projection cytoplasm|dendrite cytoplasm
+GO Cellular Component Annotations	gocc	pigment granule	-0.0065338	1	1	0	-1		pigment granule|melanosome
+GO Cellular Component Annotations	gocc	intracellular non-membrane-bounded organelle	-0.049612	0.15474	1	0	-1		intracellular non-membrane-bounded organelle|non-membrane-bounded organelle
+GO Cellular Component Annotations	gocc	nuclear chromatin	-0.00078906	0.98548	1	0	-1		nuclear chromatin|nuclear chromosome part|chromatin
+GO Cellular Component Annotations	gocc	neuron projection	-0.022945	0.60804	1	0	-1		neuron projection|neuron part|cell projection
+GO Cellular Component Annotations	gocc	endoplasmic reticulum membrane	-0.025238	0.49875	1	0	-1		endoplasmic reticulum membrane|endoplasmic reticulum part|membrane region
+GO Cellular Component Annotations	gocc	synaptic membrane	-0.019081	0.54515	1	0	-1		synaptic membrane|postsynaptic membrane|synapse part
+GO Cellular Component Annotations	gocc	intrinsic component of plasma membrane	0.071162	0.25627	1	0	1		intrinsic component of plasma membrane|integral component of plasma membrane|plasma membrane part
+GO Cellular Component Annotations	gocc	cytoplasmic vesicle membrane	-0.0038159	0.87873	1	0	-1		cytoplasmic vesicle membrane|vesicle membrane|cytoplasmic vesicle part
+GO Cellular Component Annotations	gocc	vacuolar membrane	0.038033	0.068589	1	0	1		vacuolar membrane|lysosomal membrane|vacuolar part
+GO Cellular Component Annotations	gocc	intrinsic component of membrane	0.10688	0.084969	1	0	1		intrinsic component of membrane|integral component of membrane|membrane part
+GO Cellular Component Annotations	gocc	organelle outer membrane	0.0083902	0.72053	1	0	1		organelle outer membrane|outer membrane|mitochondrial outer membrane
+GO Cellular Component Annotations	gocc	organelle lumen	-0.018586	0.62123	1	0	-1		organelle lumen|membrane-enclosed lumen|intracellular organelle lumen
+GO Cellular Component Annotations	gocc	lysosome	0.04773	0.13685	1	0	1		lysosome|lytic vacuole|vacuole
+GO Cellular Component Annotations	gocc	organelle envelope	-0.024742	0.31245	1	0	-1		organelle envelope|envelope|nuclear envelope
+GO Cellular Component Annotations	gocc	nucleus	-0.034551	0.57978	1	0	-1		nucleus
+GO Cellular Component Annotations	gocc	microbody	-0.01126	0.50778	1	0	-1		microbody|microbody part|peroxisomal part|peroxisome
+GO Cellular Component Annotations	gocc	mitochondrial membrane	-0.015213	0.48062	1	0	-1		mitochondrial membrane|mitochondrial inner membrane|organelle inner membrane|mitochondrial part
+GO Cellular Component Annotations	gocc	cytoplasmic membrane-bounded vesicle lumen	-0.032122	0.25803	1	0	-1		cytoplasmic membrane-bounded vesicle lumen|vesicle lumen|secretory granule lumen|platelet alpha granule lumen
+GO Cellular Component Annotations	gocc	cell-substrate adherens junction	-0.034269	0.28952	1	0	-1		cell-substrate adherens junction|cell-substrate junction|focal adhesion|adherens junction|anchoring junction
+GO Cellular Component Annotations	gocc	cation channel complex	-0.012037	0.58151	1	0	-1		cation channel complex|transmembrane transporter complex|ion channel complex|transporter complex|potassium channel complex|voltage-gated potassium channel complex
+GO Cellular Component Annotations	gocc	extracellular organelle	-0.089603	0.1197	1	0	-1		extracellular organelle|extracellular membrane-bounded organelle|extracellular vesicle|extracellular vesicular exosome|membrane-bounded vesicle|vesicle|extracellular region part
+GO Cellular Component Annotations	gocc	protein-lipid complex	-0.020819	0.19932	1	0	-1		protein-lipid complex|plasma lipoprotein particle
+GO Cellular Component Annotations	gocc	nuclear matrix	0.011628	0.59916	1	0	1		nuclear matrix
+GO Cellular Component Annotations	gocc	endosome membrane	0.024474	0.46926	1	0	1		endosome membrane|endosomal part
+GO Cellular Component Annotations	gocc	cytoplasmic membrane-bounded vesicle	0.0057424	0.94459	1	0	1		cytoplasmic membrane-bounded vesicle|cytoplasmic vesicle
+GO Cellular Component Annotations	gocc	endoplasmic reticulum	-0.036766	0.33784	1	0	-1		endoplasmic reticulum
+GO Cellular Component Annotations	gocc	synaptic vesicle	0.0089701	1	1	0	1		synaptic vesicle
+GO Cellular Component Annotations	gocc	endocytic vesicle	-0.0053156	1	1	0	-1		endocytic vesicle
+GO Cellular Component Annotations	gocc	extrinsic component of plasma membrane	0.0012182	1	1	0	1		extrinsic component of plasma membrane
+GO Cellular Component Annotations	gocc	basolateral plasma membrane	0.032226	0.3115	1	0	1		basolateral plasma membrane
+GO Cellular Component Annotations	gocc	endoplasmic reticulum lumen	0.0063123	1	1	0	1		endoplasmic reticulum lumen
+GO Cellular Component Annotations	gocc	extracellular space	0.024806	0.74618	1	0	1		extracellular space
+GO Cellular Component Annotations	gocc	blood microparticle	-0.015725	0.69436	1	0	-1		blood microparticle
+GO Cellular Component Annotations	gocc	axon	-0.043079	0.21712	1	0	-1		axon
+GO Cellular Component Annotations	gocc	dendrite	0.0036545	1	1	0	1		dendrite
+GO Cellular Component Annotations	gocc	secretory granule	-0.0040975	1	1	0	-1		secretory granule
+GO Cellular Component Annotations	gocc	anchored component of membrane	-0.013068	0.61117	1	0	-1		anchored component of membrane
+GO Cellular Component Annotations	gocc	apical plasma membrane	0.039691	0.25707	1	0	1		apical plasma membrane|plasma membrane region
+GO Cellular Component Annotations	gocc	plasma membrane	0.048192	0.41282	1	0	1		plasma membrane|membrane
+GO Cellular Component Annotations	gocc	chromosomal part	-0.0014396	1	1	0	-1		chromosomal part
+GO Cellular Component Annotations	gocc	sperm part	0.0034133	1	1	0	1		sperm part|acrosomal vesicle
+GO Cellular Component Annotations	gocc	contractile fiber part	0.019959	0.32765	1	0	1		contractile fiber part|z disc
+GO Cellular Component Annotations	gocc	catalytic complex	-0.018668	0.19981	1	0	-1		catalytic complex|transferase complex
+GO Cellular Component Annotations	gocc	golgi apparatus part	-0.0022293	0.97741	1	0	-1		golgi apparatus part|golgi membrane
+GO Cellular Component Annotations	gocc	nuclear part	-0.084113	0.052049	1	0	-1		nuclear part|nucleoplasm
+GO Cellular Component Annotations	gocc	calcium channel complex	0.015504	0.58034	1	0	1		calcium channel complex|voltage-gated calcium channel complex
+GO Cellular Component Annotations	gocc	extracellular matrix	-0.021465	0.31444	1	0	-1		extracellular matrix|proteinaceous extracellular matrix
+GO Cellular Component Annotations	gocc	bounding membrane of organelle	-0.023684	0.63589	1	0	-1		bounding membrane of organelle|organelle membrane
+GO Cellular Component Annotations	gocc	axon terminus	0.004868	0.86344	1	0	1		axon terminus|neuron projection terminus
+GO Cellular Component Annotations	gocc	side of membrane	-0.046352	0.20266	1	0	-1		side of membrane|external side of plasma membrane
+GO Cellular Component Annotations	gocc	cell body	0.0082638	0.89568	1	0	1		cell body|neuronal cell body
+GO Cellular Component Annotations	gocc	macromolecular complex	-0.15334	0.0071699	1	0	-1		macromolecular complex|protein complex
+GO Cellular Component Annotations	gocc	cytoplasmic side of plasma membrane	-0.0065338	1	1	0	-1		cytoplasmic side of plasma membrane|cytoplasmic side of membrane
+GO Cellular Component Annotations	gocc	cytoplasm	-0.033776	0.64636	1	0	-1		cytoplasm

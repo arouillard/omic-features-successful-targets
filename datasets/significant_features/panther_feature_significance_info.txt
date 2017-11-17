@@ -1,0 +1,40 @@
+dataset	abbreviation	feature	test_statistic	pvalue	pvalue_corrected	is_significant	correlation_sign	preferred_rowstat	similar_features
+PANTHER Pathways	panther	Integrin signalling pathway	-0.16129	0.00046	0.076308	0	-1		Integrin signalling pathway
+PANTHER Pathways	panther	mean	-0.0058736	0.02696	1	0	-1	mean	mean|stdv
+PANTHER Pathways	panther	5HT4 type receptor mediated signaling pathway	0.028037	0.59072	1	0	1		5HT4 type receptor mediated signaling pathway
+PANTHER Pathways	panther	PNAT	0.074766	0.19999	1	0	1		PNAT
+PANTHER Pathways	panther	Endogenous_cannabinoid_signaling	-0.0042207	1	1	0	-1		Endogenous_cannabinoid_signaling
+PANTHER Pathways	panther	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	-0.012662	1	1	0	-1		Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway
+PANTHER Pathways	panther	B cell activation	-0.087428	0.03538	1	0	-1		B cell activation
+PANTHER Pathways	panther	Inflammation mediated by chemokine and cytokine signaling pathway	-0.035574	0.73579	1	0	-1		Inflammation mediated by chemokine and cytokine signaling pathway
+PANTHER Pathways	panther	Muscarinic acetylcholine receptor 2 and 4 signaling pathway	-0.05517	0.12735	1	0	-1		Muscarinic acetylcholine receptor 2 and 4 signaling pathway
+PANTHER Pathways	panther	Interleukin signaling pathway	0.028942	0.73611	1	0	1		Interleukin signaling pathway
+PANTHER Pathways	panther	Parkinson disease	-0.05517	0.12653	1	0	-1		Parkinson disease
+PANTHER Pathways	panther	Adenine and hypoxanthine salvage pathway	-0.013566	1	1	0	-1		Adenine and hypoxanthine salvage pathway
+PANTHER Pathways	panther	5HT2 type receptor mediated signaling pathway	0.0051251	1	1	0	1		5HT2 type receptor mediated signaling pathway
+PANTHER Pathways	panther	Nicotine pharmacodynamics pathway	0.046729	0.35093	1	0	1		Nicotine pharmacodynamics pathway
+PANTHER Pathways	panther	Interferon-gamma signaling pathway	-0.013566	1	1	0	-1		Interferon-gamma signaling pathway
+PANTHER Pathways	panther	Plasminogen activating cascade	0.037383	0.57513	1	0	1		Plasminogen activating cascade
+PANTHER Pathways	panther	Androgen/estrogene/progesterone biosynthesis	-0.013566	1	1	0	-1		Androgen/estrogene/progesterone biosynthesis
+PANTHER Pathways	panther	DNA replication	-0.013566	1	1	0	-1		DNA replication
+PANTHER Pathways	panther	EGF receptor signaling pathway	-0.05517	0.12588	1	0	-1		EGF receptor signaling pathway
+PANTHER Pathways	panther	Blood coagulation	0.10793	0.11985	1	0	1		Blood coagulation
+PANTHER Pathways	panther	VEGF signaling pathway	-0.045825	0.21844	1	0	-1		VEGF signaling pathway
+PANTHER Pathways	panther	Alzheimer disease-presenilin pathway	-0.036479	0.58323	1	0	-1		Alzheimer disease-presenilin pathway
+PANTHER Pathways	panther	Angiogenesis	-0.040699	0.68295	1	0	-1		Angiogenesis
+PANTHER Pathways	panther	Apoptosis signaling pathway	-0.05517	0.12576	1	0	-1		Apoptosis signaling pathway
+PANTHER Pathways	panther	Thyrotropin-releasing hormone receptor signaling pathway	-0.013566	1	1	0	-1		Thyrotropin-releasing hormone receptor signaling pathway
+PANTHER Pathways	panther	Muscarinic acetylcholine receptor 1 and 3 signaling pathway	-0.059391	0.34949	1	0	-1		Muscarinic acetylcholine receptor 1 and 3 signaling pathway
+PANTHER Pathways	panther	5HT1 type receptor mediated signaling pathway	0.028037	0.59023	1	0	1		5HT1 type receptor mediated signaling pathway
+PANTHER Pathways	panther	Ionotropic glutamate receptor pathway	-0.013566	1	1	0	-1		Ionotropic glutamate receptor pathway
+PANTHER Pathways	panther	PI3 kinase pathway	0.028037	0.59001	1	0	1		PI3 kinase pathway
+PANTHER Pathways	panther	Metabotropic glutamate receptor group III pathway	-0.036479	0.58719	1	0	-1		Metabotropic glutamate receptor group III pathway
+PANTHER Pathways	panther	FGF signaling pathway	-0.068737	0.12688	1	0	-1		FGF signaling pathway
+PANTHER Pathways	panther	Toll receptor signaling pathway	-0.0042207	1	1	0	-1		Toll receptor signaling pathway
+PANTHER Pathways	panther	Huntington disease	-0.013566	1	1	0	-1		Huntington disease
+PANTHER Pathways	panther	Alzheimer disease-amyloid secretase pathway	-0.13325	0.01461	1	0	-1		Alzheimer disease-amyloid secretase pathway
+PANTHER Pathways	panther	Metabotropic glutamate receptor group I pathway	-0.087428	0.03642	1	0	-1		Metabotropic glutamate receptor group I pathway
+PANTHER Pathways	panther	Adrenaline and noradrenaline biosynthesis	0.065421	0.20859	1	0	1		Adrenaline and noradrenaline biosynthesis
+PANTHER Pathways	panther	GABA-B_receptor_II_signaling	0.028037	0.58951	1	0	1		GABA-B_receptor_II_signaling
+PANTHER Pathways	panther	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	0.038288	0.73054	1	0	1		Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway
+PANTHER Pathways	panther	TGF-beta signaling pathway	-0.078083	0.075179	1	0	-1		TGF-beta signaling pathway
