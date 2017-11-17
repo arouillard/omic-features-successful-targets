@@ -1,0 +1,104 @@
+mean|1	stdv|0.96907	endocrine gland|0.773563	gland|0.796051	reproductive system|0.850386	female reproductive system|0.844425	internal female genital organ|0.777767	urogenital system|0.860824	central nervous system|0.721726	brain|0.721025	nervous system|0.728317	head|0.744567	hematopoietic system|0.712604
+marrow cell|1	myeloid progenitor cell|1	megakaryocyte|0.882011	megakaryoblast|0.879487	blood plasma|0.877777	blood platelet|0.877777	blast cell|0.979767	hematopoietic stem cell|0.979767	adult stem cell|0.976281	bone marrow cell|0.721312
+female reproductive gland|1	male reproductive gland|0.854536	internal male genital organ|0.852163	male reproductive system|0.847455	gonad|0.883883	testis|0.883883
+blood vessel|1	vascular system|0.99442	connecting stalk|0.752552	umbilical cord|0.752552	mesoderm|0.749965	germ layer|0.733371	umbilical artery|0.743676	umbilical cord blood|0.740427	artery|0.904615	cardiovascular system|0.714908
+macroglia|1	astroblast|0.975182	astrocyte|0.975182	astroglia|0.975182	astroglial cell|0.975182	neuroblast|0.859046	astrocytoma cell|0.828417	glia|0.721393	glial cell|0.721393
+cerebral lobe|1	temporal lobe|0.990469	limbic system|0.948048	cerebral cortex|0.863688	cerebral hemisphere|0.84839	telencephalon|0.847839	forebrain|0.760705	amygdala|0.74475	avian pallium|0.74475
+leukocyte|1	hematopoietic cell|0.945281	blood|0.871383	leukemia cell|0.842004	lymphocytic leukemia cell|0.820315	chronic lymphocytic leukemia cell|0.820315	t-cell chronic lymphocytic leukemia cell|0.820315	blood cancer cell|0.825397
+basal ganglion|1	ganglion|0.908756
+brain ventricle|1	lateral ventricle|1	cerebrospinal fluid|1	choroid plexus|1	spinal column|0.989529	subarachnoid space|0.989529
+melanoma cell|1	skin cancer cell|1	melanoma cell line|1	melanocyte|0.972062	epidermal cell|0.806755	epidermis|0.752956
+colorectum|1	large intestine|1	intestine|0.863437	colon|0.986075	gastrointestinal tract|0.789028	alimentary canal|0.771737
+uterus|1	uterine cervix|0.906657	cervical carcinoma cell|0.884381
+vascular endothelial cell|1	endothelial cell|0.731083	umbilical vein endothelial cell|0.861357	umbilical vein endothelium|0.861357	blood vessel endothelium|0.727952	vascular endothelium|0.820922
+carcinoma cell|1	epithelioma cell|1	epithelial cell|0.998909	adenocarcinoma cell|0.960419	epithelium|0.749233
+synovium|1	tendon sheath|1	tendon|1	synovial tissue|0.995062
+metencephalon|1	hindbrain|0.994902	cerebellum|0.999429	brain stem|0.956745
+erythrocyte|1	normoblast|1	erythroblast|0.9337	erythroid cell|0.9337
+monocyte|1	mononuclear phagocyte|1	mononuclear cell|0.905232	phagocyte|0.905232
+embryonic structure|1	organism form|1	fetus|0.893698	placenta|0.868971
+urinary system|1	urinary tract|1	kidney|0.933791	excretory gland|0.783628
+colonic adenocarcinoma cell|1	colorectal adenocarcinoma cell|1	rectal cancer cell|0.832456	rectum|0.804699
+endothelium|1
+breast|1	thorax|0.793636	trunk|0.740582	mammary gland|0.787347
+b-lymphocyte|1	lymphocyte|0.748806	lymphoid cell|0.748806	plasma cell|0.710832
+fetal cell line|1	cl-48 cell|1	liver cell line|0.997497
+external male genital organ|1	penis|1	prepuce|0.992032
+neck|1	throat|1	thyroid gland|0.991392
+glioma cell|1
+vertebrate muscular system|1	skeletal muscle|0.854425	muscular system|0.772571
+bone marrow|1	skeletal system|0.807723
+spinal cord|1
+umbilical vein|1
+keratinocyte|1	stratum spinosum|1
+prostate cancer cell line|1	prostate gland cell line|1
+interstitial cell|1	interstitial cell of cajal|1
+colonic cancer cell|1	gastrointestinal cancer cell|1
+brain cell line|1	brain cortex cell line|0.997672
+teratocarcinoma cell|1	testicular cancer cell|0.991489
+hepatoma cell|1	liver cancer cell|0.97069
+bronchoalveolar system|1	respiratory epithelium|0.966092
+urinary bladder|1	bladder|0.940616
+respiratory system|1	lung|0.923941
+prostate gland|1	prostate gland epithelium|0.917288
+thalamus|1	diencephalon|0.8657
+digestive gland|1	liver|0.864586
+mouth|1	tongue|0.863431
+eye|1	sense organ|0.860834
+neutrophil|1	granulocyte|0.849076
+integument|1	skin|0.75918
+heart|1
+viscus|1
+corpus striatum|1
+pancreas|1
+fibroblast|1
+lymphoma cell|1
+t-lymphocyte|1
+ovary|1
+aorta|1
+cartilage|1
+peripheral blood|1
+uterine endometrium|1
+lymphoblast|1
+myometrium|1
+peripheral nervous system|1
+trachea|1
+thymus|1
+retina|1
+ovary cancer cell|1
+connective tissue|1
+lymph node|1
+mucosa|1
+jejunum|1
+lung cancer cell|1
+bone marrow cancer cell|1
+cardiac muscle|1
+myeloid leukemia cell|1
+adrenal gland|1
+milk|1
+gall bladder|1
+vascular smooth muscle|1
+lens|1
+hypophysis|1
+smooth muscle|1
+spleen|1
+stomach|1
+embryo|1
+subthalamic nucleus|1
+muscle|1
+lymph|1
+lung fibroblast|1
+adipose tissue|1
+retinal pigment epithelium|1
+urine|1
+skin fibroblast|1
+esophagus|1
+lens epithelium|1
+hippocampus|1
+lymphoid tissue|1
+b-lymphocyte cell line|1
+small intestine|1
+bone|1
+dendritic cell|1
+pronephros|1
+breast cancer cell|1

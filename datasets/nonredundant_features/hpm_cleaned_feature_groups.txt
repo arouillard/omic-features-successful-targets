@@ -1,0 +1,2 @@
+mean|1	adult ovary|0.932514	adult testis|0.923465	adult retina|0.88351	cd8 cells|0.828735
+stdv|1

@@ -1,0 +1,126 @@
+head and neck cancer|1	acute myeloid leukemia|0.746706	hand, foot and mouth disease|0.746706	diarrhea|0.746706	colon cancer|0.746706	myeloid leukemia|0.74294	intestinal cancer|0.82878	large intestine cancer|0.82878	testicular cancer|0.908306	colorectal cancer|0.717006
+acquired metabolic disease|1	disease of metabolism|0.905584	carbohydrate metabolism disease|0.911069	nutrition disease|0.722941	glucose metabolism disease|0.822949	overnutrition|0.721389	diabetes mellitus|0.790617	type 2 diabetes mellitus|0.794521
+esophageal cancer|1	gastrointestinal system cancer|0.912323	disease of cellular proliferation|0.813776	squamous cell carcinoma|0.925307	carcinoma|0.925307	cell type cancer|0.911802	organ system cancer|0.747858
+artery disease|1	disease of anatomical entity|0.726567	arteriosclerosis|0.844365	atherosclerosis|0.776633	coronary artery disease|0.898554	lipid metabolism disorder|0.725446	arteriosclerotic cardiovascular disease|0.713571
+von willebrand's disease|1	factor viii deficiency|1	x-linked disease|1	vein disease|0.97362	monogenic disease|0.824792	genetic disease|0.824692
+lymphoma|1	lymphopenia|0.98334	leukemia|0.945428	leukopenia|0.896162	leukocyte disease|0.889814	immune system cancer|0.832961
+lower respiratory tract disease|1	respiratory system disease|0.999147	obstructive lung disease|0.927584	bronchial disease|0.875356	asthma|0.875356	lung disease|0.710818
+degeneration of macula and posterior pole|1	macular degeneration|1	age related macular degeneration|1	retinal degeneration|0.985782	retinal disease|0.766652
+disease|1	mean|0.983877	stdv|0.926478
+alcohol dependence|1	alcohol abuse|0.922003	substance abuse|0.91682	substance-related disorder|0.847127	substance dependence|0.834508
+neurodegenerative disease|1	alzheimer's disease|0.781738	tauopathy|0.781738	dementia|0.740789	central nervous system disease|0.830578
+congenital hemolytic anemia|1	normocytic anemia|1	hemolytic anemia|1	hemoglobinopathy|1
+selective immunoglobulin deficiency disease|1	dysgammaglobulinemia|1	b cell deficiency|0.902351	selective ige deficiency disease|0.828707
+intestinal disease|1	inflammatory bowel disease|0.865938	gastrointestinal system disease|0.865237	crohn's disease|0.786917
+male reproductive organ cancer|1	reproductive organ cancer|0.937405	prostate cancer|0.813824
+bone inflammation disease|1	connective tissue disease|0.929688	arthritis|0.835004	gout|0.707279
+biliary tract disease|1	sclerosing cholangitis|0.736831	cholangitis|0.736831	bile duct disease|0.87242
+endocrine system disease|1	hyperthyroidism|0.793332	hypothyroidism|0.723209	thyroid gland disease|0.71048
+agammaglobulinemia|1	blood protein disease|1	common variable immunodeficiency|1
+obsessive-compulsive disorder|1	gilles de la tourette syndrome|1	tic disorder|1
+acute lymphocytic leukemia|1	acute leukemia|0.997171	lymphoblastic leukemia|0.893808
+integumentary system disease|1	hair disease|0.929208	skin disease|0.919006
+obesity|1
+intrinsic cardiomyopathy|1	cardiomyopathy|1	hypertrophic cardiomyopathy|0.808309
+viral infectious disease|1	disease by infectious agent|0.947274	human immunodeficiency virus infectious disease|0.81542
+developmental disorder of mental health|1	specific developmental disorder|0.957688	attention deficit hyperactivity disorder|0.77303
+lipid storage disease|1	lysosomal storage disease|1	fatty liver disease|0.729873
+skin cancer|1	integumentary system cancer|0.92642	autosomal dominant disease|0.711818
+eye disease|1	eye and adnexa disease|1
+synucleinopathy|1	parkinson's disease|1
+autoimmune disease of gastrointestinal tract|1	celiac disease|1
+cholesterol ester storage disease|1	cholesterol embolism|1
+colitis|1	ulcerative colitis|1
+multiple sclerosis|1	demyelinating disease|1
+endogenous depression|1	major depressive disorder|1
+amyotrophic lateral sclerosis|1	motor neuron disease|1
+agranulocytosis|1	neutropenia|1
+iris disease|1	uveal disease|0.999986
+breast cancer|1	thoracic cancer|0.99793
+hypotrichosis|1	alopecia|0.98851
+autism spectrum disorder|1	pervasive developmental disorder|0.959231
+lung carcinoma|1	non-small cell lung carcinoma|0.956254
+uterine cancer|1	endometrial cancer|0.943157
+nasopharynx carcinoma|1	pharynx cancer|0.942658
+hepatobiliary disease|1	liver disease|0.9406
+orofacial cleft|1	physical disorder|0.934604
+urinary system disease|1	kidney disease|0.929806
+gonadal disease|1	ovarian disease|0.922962
+lung cancer|1	respiratory system cancer|0.919739
+bone resorption disease|1	bone remodeling disease|0.913663
+sleep disorder|1	narcolepsy|0.911344
+kidney failure|1	chronic kidney failure|0.898032
+hypersensitivity reaction type ii disease|1	hematologic cancer|0.852688
+reading disorder|1	learning disability|0.837572
+myopathy|1	muscle tissue disease|0.832519
+myopia|1	refractive error|0.808987
+musculoskeletal system disease|1	bone disease|0.797675
+mood disorder|1	bipolar disorder|0.770577
+mineral metabolism disease|1	iron metabolism disease|0.725519
+inherited metabolic disorder|1
+cardiovascular system disease|1
+nervous system disease|1
+nicotine dependence|1
+hypertension|1
+hematopoietic system disease|1
+female reproductive system disease|1
+disease of mental health|1
+schizophrenia|1
+mental depression|1
+cognitive disorder|1
+end stage renal failure|1
+brain disease|1
+heart conduction disease|1
+cholecystolithiasis|1
+lung small cell carcinoma|1
+vascular disease|1
+metabolic syndrome x|1
+autosomal genetic disease|1
+cerebrovascular disease|1
+blood coagulation disease|1
+anemia|1
+diabetic retinopathy|1
+anxiety disorder|1
+epilepsy syndrome|1
+familial atrial fibrillation|1
+vascular dementia|1
+hepatitis b|1
+vasculitis|1
+vitiligo|1
+psychotic disorder|1
+chronic obstructive pulmonary disease|1
+inherited blood coagulation disease|1
+osteoarthritis|1
+muscular atrophy|1
+nervous system cancer|1
+polycystic ovary syndrome|1
+psoriasis|1
+primary immunodeficiency disease|1
+lung adenocarcinoma|1
+mouth disease|1
+drug dependence|1
+urinary system cancer|1
+congestive heart failure|1
+prion disease|1
+retinal vascular disease|1
+endometriosis|1
+corneal disease|1
+auditory system disease|1
+dyslexia|1
+long qt syndrome|1
+syndrome|1
+muscular disease|1
+gallbladder disease|1
+reproductive system disease|1
+sensory system disease|1
+osteoporosis|1
+rheumatoid arthritis|1
+female reproductive organ cancer|1
+type 1 diabetes mellitus|1
+personality disorder|1
+pulmonary embolism|1
+heart disease|1
+hypersensitivity reaction disease|1
+cancer|1
+myocardial infarction|1
+immune system disease|1

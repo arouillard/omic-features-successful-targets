@@ -1,0 +1,1849 @@
+artery disease|1	cardiovascular system disease|0.782643	vascular disease|0.793678	extrinsic cardiomyopathy|0.827062	coronary artery disease|0.812694	heart disease|0.776324	cardiomyopathy|0.793023	myocardial infarction|0.808728	arteriosclerosis|0.807205	peripheral vascular disease|0.772606	arteriosclerotic cardiovascular disease|0.791128	atherosclerosis|0.791412	cerebrovascular disease|0.786387	acute myocardial infarction|0.722189	hypertension|0.774794
+organ system cancer|1	mean|0.745052	gastrointestinal system cancer|0.761164	carcinoma|0.743654	disease of cellular proliferation|0.9648	cancer|0.966128	cell type cancer|0.819532	reproductive organ cancer|0.737269	stdv|0.792791	disease|0.828757	hematologic cancer|0.741926	immune system cancer|0.74787	thoracic cancer|0.735341	breast cancer|0.734393
+disease of anatomical entity|1	nervous system disease|0.831345	central nervous system disease|0.734755
+neuromuscular disease|1	myopathy|0.82803	muscle tissue disease|0.825215	muscular disease|0.825249	neuropathy|0.792305	muscular dystrophy|0.816032	atrophic muscular disease|0.813407
+cognitive disorder|1	dementia|0.823248	tauopathy|0.820919	alzheimer's disease|0.820828	psychotic disorder|0.727572	schizophrenia|0.726538	disease of mental health|0.834438
+glucose metabolism disease|1	carbohydrate metabolism disease|0.999998	diabetes mellitus|0.984377	acquired metabolic disease|0.962785	hyperglycemia|0.753699	disease of metabolism|0.878342
+bile duct carcinoma|1	bile duct cancer|0.991187	bile duct adenocarcinoma|0.987302	cholangiocarcinoma|0.985141	biliary tract cancer|0.900761	intrahepatic cholangiocarcinoma|0.71378
+obstructive lung disease|1	lung disease|0.895583	lower respiratory tract disease|0.892169	respiratory system disease|0.883263	bronchial disease|0.948752	asthma|0.939655
+eye disease|1	globe disease|0.999508	eye and adnexa disease|0.996082	retinal disease|0.868109	sensory system disease|0.954526	retinal degeneration|0.723124
+arthritis|1	bone inflammation disease|0.985512	bone disease|0.883962	rheumatoid arthritis|0.894331	musculoskeletal system disease|0.765678	osteoarthritis|0.708679
+blood coagulation disease|1	hemorrhagic disease|0.961945	hematopoietic system disease|0.720113	blood platelet disease|0.919075	thrombocytopenia|0.872398	thrombophilia|0.713898
+leukemia|1	lymphoblastic leukemia|0.78447	myeloid leukemia|0.806298	acute myeloid leukemia|0.726587
+hypersensitivity reaction type ii disease|1	hypersensitivity reaction disease|0.956171	lupus erythematosus|0.798923	systemic lupus erythematosus|0.759551	connective tissue disease|0.785101	immune system disease|0.804659
+respiratory system cancer|1	lung cancer|0.972343	lung carcinoma|0.8627	non-small cell lung carcinoma|0.811605
+phosphorus metabolism disease|1	osteomalacia|0.777688	hypophosphatemia|0.87572	mineral metabolism disease|0.708083	x-linked hypophosphatemia|0.714205	hyperphosphatemia|0.88729
+parathyroid gland disease|1	hyperparathyroidism|0.933499	secondary hyperparathyroidism|0.771744	hypercalcemia|0.713304	primary hyperparathyroidism|0.793915	hypoparathyroidism|0.725296
+intestinal disease|1	inflammatory bowel disease|0.892723	colitis|0.76222	ulcerative colitis|0.76222	crohn's disease|0.779112	gastrointestinal system disease|0.732639
+neurodegenerative disease|1
+ovarian cancer|1	malignant ovarian surface epithelial-stromal neoplasm|0.708768	ovary epithelial cancer|0.709243	ovarian carcinoma|0.707121	female reproductive organ cancer|0.866623
+retinal cancer|1	retinal cell cancer|0.999676	retinoblastoma|0.999621	ocular cancer|0.993595	sensory system cancer|0.99321
+cranial nerve malignant neoplasm|1	olfactory nerve neoplasm|1	olfactory neuroblastoma|1	extracranial neuroblastoma|0.989178	cranial nerve neoplasm|0.95829
+rhinitis|1	nasal cavity disease|0.997708	nose disease|0.9444	allergic rhinitis|0.955625	upper respiratory tract disease|0.835959
+colorectal cancer|1	large intestine cancer|0.999378	intestinal cancer|0.996182	colon cancer|0.844883
+liver disease|1	hepatobiliary disease|0.977871	hepatitis|0.824467	liver cirrhosis|0.87039
+peripheral vertigo|1	vestibular disease|0.935577	endolymphatic hydrops|0.932029	meniere's disease|0.793389	labyrinthine disease|0.775448
+autoimmune disease of endocrine system|1	hyperthyroidism|0.778663	thyroiditis|0.818678	autoimmune thyroiditis|0.814836	graves' disease|0.891638
+kidney failure|1	kidney disease|0.840233	urinary system disease|0.835466	chronic kidney failure|0.839044	end stage renal failure|0.76158
+urinary system cancer|1	renal carcinoma|0.77876	renal cell carcinoma|0.766099	kidney cancer|0.861049	urinary bladder cancer|0.717217
+synostosis|1	bone development disease|0.708052	dysostosis|0.92527	craniosynostosis|0.755983	syndactyly|0.730126
+skull cancer|1	skull base neoplasm|0.99995	sella turcica neoplasm|0.932151	craniopharyngioma|0.91706
+scleroderma|1	systemic scleroderma|0.992592	rheumatic disease|0.961479	collagen disease|0.860366
+adrenal cortex disease|1	adrenal gland hyperfunction|0.943854	adrenal gland disease|0.990686	cushing's syndrome|0.86448
+breast carcinoma in situ|1	in situ carcinoma|0.904254	ductal carcinoma in situ|0.994238	pre-malignant neoplasm|0.863761
+liver carcinoma|1	hepatocellular carcinoma|0.998116	liver cancer|0.979741
+female reproductive organ benign neoplasm|1	uterine benign neoplasm|0.942038	uterine fibroid|0.932513	reproductive organ benign neoplasm|0.856961
+intracranial arterial disease|1	intracranial arteriosclerosis|0.857715	vascular dementia|0.857715	cerebral arterial disease|0.999694
+gangliosidosis gm2|1	gangliosidosis|0.884042	tay-sachs disease|0.931544	sandhoff disease|0.89453
+autonomic nervous system neoplasm|1	neuroblastoma|0.998233	peripheral nervous system neoplasm|0.947856	nervous system cancer|0.756008
+subependymal glioma|1	benign ependymoma|0.874465	subependymal giant cell astrocytoma|0.991459	benign glioma|0.826932
+periodontal disease|1	tooth disease|0.873455	mouth disease|0.838178	periodontitis|0.940501
+monogenic disease|1	autosomal genetic disease|0.967853	genetic disease|0.910111	autosomal recessive disease|0.771147
+lymphadenitis|1	lymph node disease|0.99046	kawasaki disease|0.843753	polyarteritis nodosa|0.810966
+leukopenia|1	agranulocytosis|0.899995	neutropenia|0.888173	leukocyte disease|0.853102
+systemic mycosis|1	opportunistic mycosis|0.947727	fungal infectious disease|0.965315	candidiasis|0.716671
+benign neoplasm|1	cell type benign neoplasm|0.955264	adenoma|0.853509	organ system benign neoplasm|0.800996
+peripheral t-cell lymphoma|1	cutaneous t cell lymphoma|0.924587	mature t-cell and nk-cell lymphoma|0.891118	mycosis fungoides|0.783438
+acute porphyria|1	porphyria|0.999504	porphyria cutanea tarda|0.822918	erythropoietic protoporphyria|0.745739
+agammaglobulinemia|1	b cell deficiency|0.93856	blood protein disease|0.887868	common variable immunodeficiency|0.729321
+skin cancer|1	integumentary system cancer|1	skin carcinoma|0.816916	basal cell carcinoma|0.709508
+endocrine pancreas disease|1	pancreas disease|0.800981	hypoglycemia|0.880864	hyperinsulinism|0.840854
+pancreas adenocarcinoma|1	pancreatic carcinoma|0.93962	pancreatic cancer|0.727019	pancreatic ductal adenocarcinoma|0.827843
+synucleinopathy|1	parkinson's disease|0.894573	basal ganglia disease|0.882953	multiple system atrophy|0.708065
+cerebral ventricle cancer|1	cerebrum cancer|0.950447	choroid plexus cancer|0.721172	supratentorial cancer|0.808353
+substance dependence|1	substance-related disorder|0.882132	alcohol dependence|0.874575	drug dependence|0.708716
+calcium metabolism disease|1	calcinosis|0.748831
+hypopituitarism|1	panhypopituitarism|0.818898	pituitary gland disease|0.918023	sheehan syndrome|0.722881
+optic nerve disease|1	visual pathway disease|0.966916	optic atrophy|0.754003	cranial nerve disease|0.733407
+developmental disorder of mental health|1	specific developmental disorder|0.940268	intellectual disability|0.77919
+aplastic anemia|1	congenital hypoplastic anemia|0.827264	bone marrow disease|0.887528	fanconi's anemia|0.707174
+thyroid carcinoma|1	follicular thyroid carcinoma|0.782731	thyroid cancer|0.876516	papillary thyroid carcinoma|0.755906
+factor x deficiency|1	factor vii deficiency|0.859644	prothrombin deficiency|0.818073	factor v deficiency|0.712813
+autoimmune disease of blood|1	primary thrombocytopenia|0.84425	autoimmune thrombocytopenic purpura|0.824544	autoimmune hemolytic anemia|0.719001
+lymphoma|1	b-cell lymphoma|0.74476
+bone deterioration disease|1	bone structure disease|0.855967	spinal stenosis|0.770531	degenerative disc disease|0.740784
+brain disease|1
+polycythemia vera|1	thrombocytosis|0.780536	polycythemia|0.847796	myelofibrosis|0.731889
+disease by infectious agent|1	bacterial infectious disease|0.762323	primary bacterial infectious disease|0.751716	viral infectious disease|0.837307
+sweat gland cancer|1	apocrine adenocarcinoma|0.800596	apocrine sweat gland cancer|0.800596	eccrine sweat gland cancer|0.737715
+keratoconjunctivitis sicca|1	dry eye syndrome|0.806343	lacrimal apparatus disease|0.751755	keratoconjunctivitis|0.761793
+congenital hemolytic anemia|1	hemolytic anemia|0.75889	normocytic anemia|0.756868	hemoglobinopathy|0.795317
+neuroectodermal tumor|1	germ cell and embryonal cancer|0.827542	germ cell cancer|0.726181	medulloblastoma|0.754769
+dermatitis|1	skin disease|0.791658	integumentary system disease|0.773574	atopic dermatitis|0.728158
+colonic disease|1	constipation|0.780945	bowel dysfunction|0.778709	megacolon|0.727148
+heart septal defect|1	ventricular septal defect|0.815535	atrial heart septal defect|0.730433	congenital heart disease|0.728862
+breast benign neoplasm|1	thoracic benign neoplasm|0.999939	breast fibroadenoma|0.958129
+autism spectrum disorder|1	pervasive developmental disorder|0.969219	autistic disorder|0.956167
+uterine body mixed cancer|1	uterine carcinosarcoma|1	uterine corpus cancer|0.923319
+degeneration of macula and posterior pole|1	age related macular degeneration|0.989149	macular degeneration|0.933421
+bile duct disease|1	biliary tract disease|0.995147	cholestasis|0.916098
+morbid obesity|1	obesity|1	overnutrition|0.903524
+myasthenia gravis|1	autoimmune disease of the nervous system|0.975608	neuromuscular junction disease|0.927678
+autoimmune disease of skin and connective tissue|1	bullous skin disease|0.991515	bullous pemphigoid|0.907365
+bone resorption disease|1	osteoporosis|0.998412	bone remodeling disease|0.893491
+neuroma|1	nervous system benign neoplasm|0.946736	neurilemmoma|0.930025
+adrenal cortex cancer|1	adrenal gland cancer|0.93961	adrenocortical carcinoma|0.922717
+myeloma|1	bone marrow cancer|0.974611	multiple myeloma|0.883917
+stomach carcinoma|1	gastric adenocarcinoma|0.964843	stomach cancer|0.89317
+pulmonary sclerosing hemangioma|1	hemangioma of lung|0.976711	sclerosing hemangioma|0.867541
+male reproductive organ cancer|1	prostate cancer|0.990157
+skeletal muscle cancer|1	rhabdomyosarcoma|0.964242	muscle cancer|0.872627
+hypotrichosis|1	alopecia|0.935507	hair disease|0.882628
+polyradiculopathy|1	radiculopathy|0.993264	polyradiculoneuropathy|0.815928
+astrocytoma|1	glioblastoma multiforme|0.947548	malignant glioma|0.857759
+lung benign neoplasm|1	respiratory system benign neoplasm|0.913803	lung adenoma|0.885847
+t-cell leukemia|1	lymphoid leukemia|0.939861	adult t-cell leukemia|0.859119
+reading disorder|1	dyslexia|0.999993	learning disability|0.797069
+vaginitis|1	bacterial vaginosis|0.904549	vaginal disease|0.887958
+chronic pulmonary heart disease|1	primary pulmonary hypertension|0.993288	cor pulmonale|0.79889
+lice infestation|1	pthirus pubis infestation|0.968587	parasitic ectoparasitic infectious disease|0.822798
+communication disorder|1	pain agnosia|0.92218	agnosia|0.863538
+endometrial cancer|1	uterine cancer|0.989511	endometrial carcinoma|0.790746
+laryngeal carcinoma|1	larynx cancer|0.959619	laryngeal squamous cell carcinoma|0.819991
+uveal melanoma|1	ocular melanoma|0.923653	posterior uveal melanoma|0.852656
+brain stem cancer|1	brain stem glioma|0.977313	infratentorial cancer|0.797869
+parasitic protozoa infectious disease|1	parasitic infectious disease|0.928978	malaria|0.84571
+ovarian primitive germ cell tumor|1	malignant ovarian germ cell neoplasm|0.988825	dysgerminoma of ovary|0.780278
+endocardium disease|1	endocarditis|0.902718	infective endocarditis|0.863124
+breast disease|1	thoracic disease|0.999426	mastitis|0.765752
+inner ear disease|1	sensorineural hearing loss|0.928329	auditory system disease|0.822846
+chronic lymphocytic leukemia|1	chronic leukemia|0.99375
+cartilage disease|1	articular cartilage disease|0.964463	pseudogout|0.769514
+functioning pituitary adenoma|1	prolactinoma|0.899178	pituitary adenoma|0.831473
+ovarian serous cystadenocarcinoma|1	ovary serous adenocarcinoma|0.96061	ovarian cystadenocarcinoma|0.759205
+congenital mesoblastic nephroma|1	mesoblastic nephroma|0.865614	childhood kidney neoplasm|0.853314
+renal hypertension|1	secondary hypertension|0.915351	renovascular hypertension|0.80002
+orofacial cleft|1	cleft palate|0.920863	cleft lip|0.7903
+pyloric stenosis|1	gastric outlet obstruction|0.94763	hypertrophic pyloric stenosis|0.755397
+cutaneous mastocytosis|1	mast cell neoplasm|0.9515	mastocytosis|0.751341
+combined t cell and b cell immunodeficiency|1	severe combined immunodeficiency|0.982216	primary immunodeficiency disease|0.719915
+kidney benign neoplasm|1	urinary system benign neoplasm|0.921185	renal oncocytoma|0.769182
+cystitis|1	bladder disease|0.918042	interstitial cystitis|0.766411
+familial periodic paralysis|1	hypokalemic periodic paralysis|0.904708	hyperkalemic periodic paralysis|0.778311
+bipolar disorder|1	mood disorder|0.889291	bipolar i disorder|0.788548
+panuveitis|1	anterior uveitis|0.900673	uveitis|0.770225
+hemangioblastoma|1	von hippel-lindau disease|0.942051	hemangioma|0.725258
+thyroid gland disease|1	hypothyroidism|0.836893
+human immunodeficiency virus infectious disease|1	acquired immunodeficiency syndrome|0.926525
+dystonia|1	generalized dystonia|0.947295	central nervous system hereditary degenerative disease|0.70794
+endogenous depression|1	mental depression|0.910195	major depressive disorder|0.743762
+protein s deficiency|1	antithrombin iii deficiency|0.840319	protein c deficiency|0.811101
+mononeuritis multiplex|1	mononeuritis|0.833808	mononeuritis of upper limb and mononeuritis multiplex|0.811813
+aortic valve disease|1	heart valve disease|0.747976	aortic valve stenosis|0.896082
+male infertility|1	male reproductive system disease|0.892334	azoospermia|0.750864
+hereditary angioedema|1	angioedema|0.830009	c1 inhibitor deficiency|0.812956
+ureteral obstruction|1	ureteral disease|0.852213	urinary tract obstruction|0.778835
+androgen insensitivity syndrome|1	hermaphroditism|0.913026	testicular disease|0.71436
+mature b-cell neoplasm|1	burkitt lymphoma|0.824601
+retinal vascular occlusion|1	retinal vein occlusion|0.852008	central retinal vein occlusion|0.756298
+muscle benign neoplasm|1	musculoskeletal system benign neoplasm|0.825119	myoma|0.780213
+peripheral nerve sheath neoplasm|1	neurofibroma|0.876875	malignant peripheral nerve sheath tumor|0.72207
+gonadal disease|1	sex differentiation disease|0.713776	hypogonadism|0.875709
+salivary gland carcinoma|1	mucoepidermoid carcinoma|0.830223	salivary gland adenoid cystic carcinoma|0.759018
+intrinsic cardiomyopathy|1	dilated cardiomyopathy|0.875142	hypertrophic cardiomyopathy|0.712131
+substance abuse|1	alcohol abuse|0.817565
+non-langerhans-cell histiocytosis|1	niemann-pick disease|0.843856	histiocytosis|0.734522
+familial hyperlipidemia|1	lipid metabolism disorder|0.836391	familial combined hyperlipidemia|0.740084
+pancreatitis|1	acute pancreatitis|0.850349
+urticaria|1	vascular skin disease|0.79598
+opiate dependence|1	morphine dependence|0.730032
+dengue disease|1	dengue hemorrhagic fever|0.820336	dengue shock syndrome|0.73272
+hypolipoproteinemia|1	tangier disease|0.787423	abetalipoproteinemia|0.764043
+renal osteodystrophy|1	osteitis fibrosa|0.770215
+plasma cell neoplasm|1	monoclonal gammopathy of uncertain significance|0.782968	plasmacytoma|0.767227
+pericardium disease|1	pericardial effusion|0.818303	pericarditis|0.713733
+squamous cell carcinoma|1
+kwashiorkor|1	protein-energy malnutrition|0.787078	marasmus|0.727826
+gallbladder disease|1	cholelithiasis|0.794655	cholecystitis|0.711513
+esophagitis|1	esophageal disease|0.787974	peptic esophagitis|0.717685
+sex cord-stromal neoplasm|1	leydig cell tumor|0.773119	sertoli cell tumor|0.722831
+ischemia|1
+hyperandrogenism|1	polycystic ovary syndrome|0.712712
+reproductive system disease|1	infertility|0.743091	female reproductive system disease|0.734937
+anal carcinoma|1	anus cancer|0.767104	anal squamous cell carcinoma|0.710832
+mitral valve disease|1	mitral valve insufficiency|0.749764
+proteinuria|1
+atrioventricular block|1	congenital heart block|1
+chronic ulcer of skin|1	decubitus ulcer|1
+breast lobular carcinoma|1	invasive lobular carcinoma|1
+behcet's disease|1	autoimmune disease of cardiovascular system|1
+eye lymphoma|1	intraocular lymphoma|1
+drug psychosis|1	drug-induced mental disorder|1
+breast ductal carcinoma|1	invasive ductal carcinoma|1
+deep angioma|1	intramuscular hemangioma|1
+cholesteatoma of middle ear|1	middle ear cholesteatoma|1
+external ear disease|1	otitis externa|1
+central sleep apnea|1	sleep apnea|1
+cannabis dependence|1	hallucinogen dependence|1
+autoimmune disease of urogenital tract|1	primary biliary cirrhosis|1
+appendicitis|1	cecal disease|1
+acute cor pulmonale|1	acute pulmonary heart disease|1
+colonic pseudo-obstruction|1	functional colonic disease|1
+non-specific x-linked mental retardation|1	non-syndromic intellectual disability|1
+focal segmental glomerulosclerosis|1	glomerulosclerosis|1
+dysgammaglobulinemia|1	selective immunoglobulin deficiency disease|1
+nocardiosis|1	opportunistic bacterial infectious disease|1
+borderline glaucoma|1	ocular hypertension|1
+trigeminal nerve disease|1	trigeminal neuralgia|1
+peritoneum cancer|1	peritoneal mesothelioma|1
+integumentary system benign neoplasm|1	skin benign neoplasm|0.999999
+leiomyosarcoma|1	smooth muscle cancer|0.999999
+salpingitis|1	fallopian tube disease|0.999994
+lipomatous cancer|1	liposarcoma|0.999993
+erythema infectiosum|1	viral exanthem|0.99998
+nasopharyngitis|1	nasopharyngeal disease|0.999966
+synovial sarcoma|1	synovium cancer|0.999957
+vitamin metabolic disorder|1	vitamin b12 deficiency|0.999926
+cutaneous fibrous histiocytoma|1	dermis tumor|0.999892
+temporal arteritis|1	central nervous system vasculitis|0.999891
+labyrinthitis|1	otitis interna|0.999863
+progressive myoclonus epilepsy|1	variable age at onset electroclinical syndrome|0.999812
+glottis carcinoma|1	glottis cancer|0.999803
+chordoma|1	notochordal cancer|0.999782
+mature teratoma of the ovary|1	ovarian biphasic or triphasic teratoma|0.999567
+glycogen metabolism disorder|1	glycogen storage disease|0.999465
+lichen disease|1	lichen planus|0.999379
+cataract|1	lens disease|0.999331
+phacogenic glaucoma|1	exfoliation syndrome|0.998473
+endometrial stromal sarcoma|1	endometrial stromal tumor|0.998217
+adrenal cortical hypofunction|1	addison's disease|0.997836
+situs inversus|1	visceral heterotaxy|0.996825
+mixed germ cell cancer|1	teratocarcinoma|0.996144
+guillain-barre syndrome|1	autoimmune disease of peripheral nervous system|0.995229
+paranasal sinus disease|1	sinusitis|0.994973
+bronchus cancer|1	bronchus carcinoma|0.993125
+pyelonephritis|1	pyelitis|0.992983
+gamma-amino butyric acid metabolism disorder|1	succinic semialdehyde dehydrogenase deficiency|0.992033
+demyelinating disease|1	multiple sclerosis|0.991073
+placenta cancer|1	choriocarcinoma|0.990365
+root resorption|1	tooth resorption|0.989823
+epidermolysis bullosa|1	vesiculobullous skin disease|0.989354
+gilles de la tourette syndrome|1	tic disorder|0.989308
+pleural cancer|1	malignant pleural mesothelioma|0.98543
+gastric cardia carcinoma|1	gastric cardia adenocarcinoma|0.983352
+cerebellar disease|1	cerebellar ataxia|0.982585
+pathologic nystagmus|1	congenital nystagmus|0.982317
+myotonic dystrophy type 1|1	myotonic disease|0.982029
+legionellosis|1	legionnaires' disease|0.980556
+cysticercosis|1	taeniasis|0.980285
+hypersensitivity vasculitis|1	henoch-schoenlein purpura|0.979413
+myxedema|1	mucinoses|0.979213
+cavernous hemangioma|1	vascular hemostatic disease|0.976916
+apparent mineralocorticoid excess syndrome|1	steroid inherited metabolic disorder|0.976739
+mite infestation|1	scabies|0.974803
+spinocerebellar degeneration|1	spinocerebellar ataxia|0.974797
+renal artery disease|1	nephrosclerosis|0.973827
+endometritis|1	endometrial disease|0.972794
+crescentic glomerulonephritis|1	acute proliferative glomerulonephritis|0.971555
+nephrosis|1	nephrotic syndrome|0.970877
+thymoma|1	thymus cancer|0.970129
+acne|1	sebaceous gland disease|0.968145
+hypertrophy of breast|1	gynecomastia|0.968125
+choroid plexus carcinoma|1
+facial paralysis|1	facial nerve disease|0.966495
+vitreous disease|1	proliferative vitreoretinopathy|0.963866
+lip disease|1	cheilitis|0.962027
+lesion of sciatic nerve|1	mononeuritis of lower limb|0.961818
+pelvic varices|1	varicocele|0.96176
+hirschsprung's disease|1
+dumping syndrome|1	postgastrectomy syndrome|0.960155
+writing disorder|1	dysgraphia|0.959919
+sexual disorder|1	sexual dysfunction|0.959215
+cardiovascular cancer|1	vascular cancer|0.959214
+embryonal cancer|1	embryonal carcinoma|0.959153
+ampulla of vater cancer|1	ampulla of vater carcinoma|0.958683
+retroperitoneal cancer|1	retroperitoneal sarcoma|0.957595
+choledocholithiasis|1	common bile duct disease|0.957189
+trophoblastic neoplasm|1	gestational trophoblastic neoplasm|0.956037
+dysentery|1	intestinal infectious disease|0.955998
+conn's syndrome|1	adrenal adenoma|0.95569
+idiopathic interstitial pneumonia|1	idiopathic pulmonary fibrosis|0.95453
+juvenile myelomonocytic leukemia|1	myelodysplastic myeloproliferative cancer|0.95385
+cerebral infarction|1	brain infarction|0.953577
+agoraphobia|1	phobic disorder|0.952116
+hidradenitis|1	hidradenitis suppurativa|0.95188
+glossitis|1	tongue disease|0.95177
+nerve compression syndrome|1	carpal tunnel syndrome|0.951034
+abdominal tuberculosis|1	gastrointestinal tuberculosis|0.95048
+allergic conjunctivitis|1	chronic conjunctivitis|0.949153
+neuroacanthocytosis|1	chorea-acanthocytosis|0.94823
+tympanic membrane disease|1	tympanosclerosis|0.947935
+dravet syndrome|1	infancy electroclinical syndrome|0.946456
+pulmonary valve stenosis|1	pulmonary valve disease|0.946247
+serous cystadenocarcinoma|1	cystadenocarcinoma|0.942749
+malignant dermis tumor|1	malignant skin fibrous histiocytoma|0.942526
+hydrocephalus|1	intracranial hypertension|0.942466
+germinoma|1	seminoma|0.941873
+glomerulonephritis|1	nephritis|0.94164
+conjunctivitis|1	conjunctival disease|0.938879
+subcutaneous mycosis|1	chromoblastomycosis|0.938234
+diabetic retinopathy|1	retinal vascular disease|0.932861
+open-angle glaucoma|1	primary open angle glaucoma|0.932068
+laryngeal disease|1	laryngitis|0.931497
+lesch-nyhan syndrome|1	purine-pyrimidine metabolic disorder|0.930463
+physical urticaria|1	dermatographia|0.929744
+transsexualism|1	gender identity disorder|0.929053
+occlusion precerebral artery|1	carotid artery occlusion|0.925981
+dental enamel hypoplasia|1	amelogenesis imperfecta|0.925495
+choroid cancer|1	uveal cancer|0.924863
+cutaneous mycosis|1	dermatophytosis|0.922624
+motor neuron disease|1	amyotrophic lateral sclerosis|0.922213
+dendritic cell thymoma|1	epithelial malignant thymoma|0.921583
+duodenum cancer|1	small intestine cancer|0.921334
+islet cell tumor|1	insulinoma|0.921225
+mixed cell type cancer|1	carcinosarcoma|0.920963
+lipid storage disease|1	lysosomal storage disease|0.918645
+macular retinal edema|1	retinal edema|0.918629
+iron deficiency anemia|1	microcytic anemia|0.918251
+premature ejaculation|1	psychosexual disorder|0.9179
+hepatic vascular disease|1	portal hypertension|0.917734
+dyspepsia|1	functional gastric disease|0.917545
+focal chorioretinitis|1	neuroretinitis|0.917315
+granulosa cell tumor|1	sex cord-gonadal stromal tumor|0.917278
+somatoform disorder|1	pain disorder|0.914487
+cholesterol embolism|1	blue toe syndrome|0.911146
+conjunctival degeneration|1	xerophthalmia|0.909504
+peroxisomal disease|1	zellweger syndrome|0.908798
+acute kidney tubular necrosis|1	acute kidney failure|0.908025
+osteosclerosis|1	osteopetrosis|0.907681
+autoimmune polyendocrine syndrome|1	autoimmune polyendocrine syndrome type 1|0.902208
+transient hypogammaglobulinemia|1	transient hypogammaglobulinemia of infancy|0.901716
+uterine disease|1	placenta disease|0.899413
+periventricular leukomalacia|1	encephalomalacia|0.898518
+autonomic nervous system disease|1	autonomic neuropathy|0.897879
+sarcoidosis|1	hypersensitivity reaction type iv disease|0.896932
+otitis media|1	middle ear disease|0.896685
+vulva cancer|1	vulva carcinoma|0.896666
+connective tissue cancer|1	musculoskeletal system cancer|0.893977
+histiocytoma|1	malignant fibroxanthoma|0.893246
+vulvar sarcoma|1	vulvar leiomyosarcoma|0.89291
+cervicitis|1	cervix disease|0.891625
+sagittal sinus thrombosis|1	intracranial sinus thrombosis|0.89133
+capillary disease|1	capillary leak syndrome|0.891266
+urea cycle disorder|1	ornithine carbamoyltransferase deficiency|0.891265
+cutaneous leiomyosarcoma|1	skin sarcoma|0.890182
+salivary gland disease|1	sialadenitis|0.889411
+reticulosarcoma|1	lymphatic system cancer|0.887254
+acute monocytic leukemia|1	monocytic leukemia|0.886426
+paranasal sinus cancer|1	maxillary sinus cancer|0.885821
+rectum cancer|1	rectum adenocarcinoma|0.88085
+papillary conjunctivitis|1	giant papillary conjunctivitis|0.880416
+skin hemangioma|1	capillary hemangioma|0.880199
+carotid artery disease|1	carotid stenosis|0.878435
+language disorder|1	aphasia|0.87823
+aseptic meningitis|1	viral meningitis|0.876544
+angle-closure glaucoma|1	primary angle-closure glaucoma|0.87634
+pityriasis versicolor|1	superficial mycosis|0.875591
+endocrine gland cancer|1
+central retinal artery occlusion|1	retinal artery occlusion|0.867678
+turner syndrome|1	gonadal dysgenesis|0.86614
+stomach disease|1	gastritis|0.865391
+peptic ulcer disease|1	duodenal ulcer|0.863538
+communicating hydrocephalus|1	normal pressure hydrocephalus|0.859833
+autoimmune disease of gastrointestinal tract|1	celiac disease|0.858667
+thalassemia|1	beta thalassemia|0.858416
+scrapie|1	prion disease|0.858233
+t cell deficiency|1	digeorge syndrome|0.855631
+aortic aneurysm|1	abdominal aortic aneurysm|0.851007
+hypersplenism|1	splenic disease|0.84814
+tertiary neurosyphilis|1	tertiary syphilis|0.847892
+thymus gland disease|1	ectopic thymus|0.84655
+myopia|1	refractive error|0.845044
+ischemic bone disease|1	osteonecrosis|0.844807
+varicose veins|1	vein disease|0.844151
+microcephaly|1	congenital nervous system abnormality|0.840899
+gingivitis|1	gingival disease|0.840259
+gallbladder carcinoma|1	gallbladder cancer|0.840041
+anxiety disorder|1	panic disorder|0.839432
+lymphangioma|1	cystic lymphangioma|0.839189
+trypanosomiasis|1	chagas disease|0.838783
+peripheral nervous system disease|1	polyneuropathy|0.838453
+dental pulp disease|1	pulpitis|0.838086
+congenital diaphragmatic hernia|1	diaphragm disease|0.836863
+phlebitis|1	thrombophlebitis|0.836831
+thyroid medullary carcinoma|1
+duodenal disease|1	duodenogastric reflux|0.830044
+follicular adenoma|1	thyroid adenoma|0.828807
+orbital plasma cell granuloma|1	chronic orbital inflammation|0.828185
+familial hemiplegic migraine|1	migraine with aura|0.827539
+acromegaly|1	hyperpituitarism|0.82732
+orbital disease|1	myopathy of extraocular muscle|0.827155
+hyperopia|1	strabismus|0.826745
+disseminated intravascular coagulation|1
+factor viii deficiency|1
+borderline personality disorder|1	personality disorder|0.823286
+adenocarcinoma|1
+heart conduction disease|1	brugada syndrome|0.821255
+cortical blindness|1	visual cortex disease|0.820763
+nephrocalcinosis|1
+deep keratitis|1	interstitial keratitis|0.819546
+macrocytic anemia|1	megaloblastic anemia|0.818393
+contact dermatitis|1	allergic contact dermatitis|0.818068
+uveal disease|1
+toxoplasmosis|1	coccidiosis|0.817136
+multiple epiphyseal dysplasia|1	pseudoachondroplasia|0.817006
+oropharynx cancer|1	pharynx cancer|0.815615
+lactic acidosis|1	metabolic acidosis|0.812836
+acute conjunctivitis|1	acute contagious conjunctivitis|0.810401
+adolescence-adult electroclinical syndrome|1	juvenile absence epilepsy|0.809049
+nutrition disease|1	nutritional deficiency disease|0.80822
+anemia|1
+suppurative otitis media|1	chronic purulent otitis media|0.807087
+intestinal obstruction|1	ileus|0.806869
+scrub typhus|1	typhus|0.806013
+chronic meningitis|1	eosinophilic meningitis|0.805483
+pulmonary large cell neuroendocrine carcinoma|1	lung large cell carcinoma|0.804693
+giant hemangioma|1	intestinal impaction|0.804266
+electroclinical syndrome|1	epilepsy syndrome|0.803876
+chondromalacia|1	relapsing polychondritis|0.80078
+bone giant cell tumor|1	giant cell tumor|0.794714
+ovarian germ cell cancer|1	ovarian germ cell teratoma|0.793579
+x-linked hyper igm syndrome|1	hyperimmunoglobulin syndrome|0.792538
+fetal alcohol spectrum disorder|1	fetal alcohol syndrome|0.792388
+prostatic adenoma|1	male reproductive organ benign neoplasm|0.792286
+gestational choriocarcinoma|1	placental choriocarcinoma|0.791769
+leishmaniasis|1	visceral leishmaniasis|0.791054
+penile cancer|1	penis carcinoma|0.790053
+ovarian disease|1	premature ovarian failure|0.79002
+scleritis|1	scleral disease|0.789574
+prostate disease|1	prostatitis|0.788894
+interstitial lung disease|1	pulmonary fibrosis|0.788854
+leukodystrophy|1	cerebral degeneration|0.784004
+eye accommodation disease|1	presbyopia|0.782731
+paraphilia disorder|1	exhibitionism|0.782544
+endocrine system disease|1
+perivascular tumor|1	perivascular epithelioid cell tumor|0.779602
+cholangitis|1	sclerosing cholangitis|0.778692
+parasitic helminthiasis infectious disease|1	schistosomiasis|0.778689
+human granulocytic anaplasmosis|1	ehrlichiosis|0.778538
+carcinoma of supraglottis|1	supraglottis cancer|0.774596
+inherited blood coagulation disease|1	von willebrand's disease|0.774204
+meningioma|1	central nervous system cancer|0.773888
+juvenile spinal muscular atrophy|1	survival motor neuron spinal muscular atrophy|0.772379
+impotence|1	penile disease|0.771829
+aspergillosis|1	invasive aspergillosis|0.771777
+intracranial thrombosis|1	carotid artery thrombosis|0.770413
+night blindness|1	congenital stationary night blindness|0.769961
+osteochondrodysplasia|1
+chronic eosinophilic pneumonia|1	eosinophilic pneumonia|0.768112
+central core myopathy|1	congenital structural myopathy|0.767869
+alkaptonuria|1	ochronosis|0.764504
+neuroendocrine tumor|1	paraganglioma|0.7614
+pathological gambling|1	impulse control disorder|0.760055
+osteoblastoma|1	bone benign neoplasm|0.758942
+chronic myeloproliferative disease|1	hemorrhagic thrombocythemia|0.757578
+mitochondrial metabolism disease|1	mitochondrial myopathy|0.757578
+rickets|1
+macroglobulinemia|1	plasma protein metabolism disease|0.755378
+adult respiratory distress syndrome|1	respiratory failure|0.753729
+gaucher's disease|1	sphingolipidosis|0.752481
+diffuse large b-cell lymphoma|1
+cerebellum cancer|1	cerebellar medulloblastoma|0.748604
+pituitary cancer|1	hormone producing pituitary cancer|0.744051
+papillary adenocarcinoma|1	papillary serous adenocarcinoma|0.743398
+hypersensitivity reaction type iii disease|1	arthus reaction|0.743369
+factor xi deficiency|1
+boutonneuse fever|1	spotted fever|0.740938
+benign epilepsy with centrotemporal spikes|1	childhood electroclinical syndrome|0.739995
+impaired renal function disease|1	nephrogenic diabetes insipidus|0.738308
+neonatal anemia|1	twin-to-twin transfusion syndrome|0.736653
+iridocyclitis|1
+parathyroid adenoma|1
+glucose intolerance|1
+alcoholic neuropathy|1	inflammatory and toxic neuropathy|0.732401
+ovarian benign neoplasm|1	ovarian brenner tumor|0.728802
+gilbert syndrome|1	bilirubin metabolic disorder|0.726897
+viral hepatitis|1
+iron metabolism disease|1	hemosiderosis|0.724101
+gastrointestinal system benign neoplasm|1	intestinal benign neoplasm|0.720492
+myositis|1	dermatomyositis|0.719641
+saethre-chotzen syndrome|1	acrocephalosyndactylia|0.719401
+vipoma|1	somatostatinoma|0.71761
+keratopathy|1	bullous keratopathy|0.713853
+proctitis|1	rectal disease|0.712036
+anaplastic large cell lymphoma|1
+extrapulmonary tuberculosis|1	pleural tuberculosis|0.708837
+idiopathic generalized epilepsy|1	generalized epilepsy with febrile seizures plus|0.708011
+chromosomal disease|1
+inherited metabolic disorder|1
+cerebral palsy|1
+syndrome|1
+type 2 diabetes mellitus|1
+oligodendroglioma|1
+thyrotoxicosis|1
+blindness|1
+smallpox|1
+pulmonary edema|1
+hepatitis b|1
+lewy body dementia|1
+prader-willi syndrome|1
+retinitis pigmentosa|1
+cone-rod dystrophy|1
+keratosis|1
+velocardiofacial syndrome|1
+muscular atrophy|1
+polycystic kidney disease|1
+meningitis|1
+proliferative glomerulonephritis|1
+typhoid fever|1
+uremia|1
+malignant hypertension|1
+hepatorenal syndrome|1
+coronary thrombosis|1
+hypospadias|1
+prediabetes syndrome|1
+complex regional pain syndrome|1
+frontotemporal dementia|1
+migraine|1
+bladder carcinoma|1
+cervix carcinoma|1
+dermatofibrosarcoma protuberans|1
+placental insufficiency|1
+charcot-marie-tooth disease|1
+prostatic hypertrophy|1
+urethral disease|1
+duchenne muscular dystrophy|1
+sotos syndrome|1
+measles|1
+rubella|1
+hairy cell leukemia|1
+polyclonal hypergammaglobulinemia|1
+lymphosarcoma|1
+autoimmune lymphoproliferative syndrome|1
+lymphopenia|1
+iga glomerulonephritis|1
+psoriasis|1
+hypersensitivity reaction type i disease|1
+pulmonary sarcoidosis|1
+extrinsic allergic alveolitis|1
+encephalomyelitis|1
+juvenile rheumatoid arthritis|1
+silicosis|1
+tetanus|1
+bronchitis|1
+bronchiolitis|1
+childhood type dermatomyositis|1
+cutaneous lupus erythematosus|1
+leprosy|1
+vasculitis|1
+pleural empyema|1
+blau syndrome|1
+pharyngitis|1
+brucellosis|1
+sjogren's syndrome|1
+onchocerciasis|1
+syphilis|1
+primary hyperoxaluria|1
+acute cholangitis|1
+autoimmune hepatitis|1
+biliary atresia|1
+osteochondrosis|1
+hypervitaminosis a|1
+gitelman syndrome|1
+hereditary hemorrhagic telangiectasia|1
+persistent fetal circulation syndrome|1
+western equine encephalitis|1
+takayasu's arteritis|1
+hemophilia b|1
+pulmonary embolism|1
+anterior ischemic optic neuropathy|1
+eclampsia|1
+hemolytic-uremic syndrome|1
+post-thrombotic syndrome|1
+intermittent claudication|1
+diabetic angiopathy|1
+denture stomatitis|1
+aortic disease|1
+spermatic cord torsion|1
+systemic mastocytosis|1
+restrictive cardiomyopathy|1
+hyperprolactinemia|1
+adrenal carcinoma|1
+pseudohermaphroditism|1
+cryptorchidism|1
+oligospermia|1
+pigmentation disease|1
+maturity-onset diabetes of the young|1
+fibromyalgia|1
+secretory diarrhea|1
+irritable bowel syndrome|1
+pernicious anemia|1
+motion sickness|1
+brain ischemia|1
+antisocial personality disorder|1
+delusional disorder|1
+lissencephaly|1
+fragile x syndrome|1
+angelman syndrome|1
+obsessive-compulsive personality disorder|1
+cervical adenocarcinoma|1
+cystic fibrosis|1
+esophageal carcinoma|1
+oral cavity cancer|1
+tubular adenocarcinoma|1
+signet ring cell adenocarcinoma|1
+acinar cell carcinoma|1
+lobular neoplasia|1
+female breast cancer|1
+estrogen-receptor positive breast cancer|1
+adenofibroma|1
+hypopharynx cancer|1
+merkel cell carcinoma|1
+auditory system cancer|1
+ganglioglioma|1
+phaeochromocytoma|1
+acoustic neuroma|1
+spinal cancer|1
+parapsoriasis|1
+plummer's disease|1
+angiosarcoma|1
+atypical lipomatous tumor|1
+leiomyoma|1
+spermatocytoma|1
+mccune albright syndrome|1
+leber congenital amaurosis|1
+low tension glaucoma|1
+exotropia|1
+bell's palsy|1
+sleep disorder|1
+hemorrhoid|1
+bacterial conjunctivitis|1
+lemierre's syndrome|1
+giardiasis|1
+multidrug-resistant tuberculosis|1
+plasmodium vivax malaria|1
+carbohydrate metabolic disorder|1
+congenital muscular dystrophy|1
+barth syndrome|1
+spastic diplegia|1
+melas syndrome|1
+amino acid metabolic disorder|1
+organic acidemia|1
+reye syndrome|1
+laryngeal benign neoplasm|1
+primary hypertrophic osteoarthropathy|1
+epididymitis|1
+ehlers-danlos syndrome|1
+childhood medulloblastoma|1
+hypochondroplasia|1
+smith-lemli-opitz syndrome|1
+microphthalmia|1
+treacher collins syndrome|1
+progressive multifocal leukoencephalopathy|1
+mumps|1
+chickenpox|1
+sezary's disease|1
+hcl-v|1
+prolymphocytic leukemia|1
+alpha 1-antitrypsin deficiency|1
+infectious mononucleosis|1
+megakaryocytic leukemia|1
+leukemoid reaction|1
+essential hypertension|1
+newborn respiratory distress syndrome|1
+peritonitis|1
+hepatitis c|1
+neuritis|1
+hemophagocytic lymphohistiocytosis|1
+polymyalgia rheumatica|1
+septic arthritis|1
+cerebral malaria|1
+viral encephalitis|1
+meningoencephalitis|1
+irritant dermatitis|1
+pneumoconiosis|1
+blepharitis|1
+listeriosis|1
+perinatal necrotizing enterocolitis|1
+pelvic inflammatory disease|1
+tonsillitis|1
+bacteriuria|1
+mesangial proliferative glomerulonephritis|1
+orthostatic proteinuria|1
+complement deficiency|1
+c3 deficiency|1
+complement component 5 deficiency|1
+orchitis|1
+null-cell leukemia|1
+intermediate uveitis|1
+reactive arthritis|1
+iritis|1
+interstitial nephritis|1
+inclusion conjunctivitis|1
+dermatitis herpetiformis|1
+shigellosis|1
+gastroenteritis|1
+diffuse scleroderma|1
+urinary schistosomiasis|1
+toxocariasis|1
+sparganosis|1
+secondary syphilis|1
+paget's disease of bone|1
+giant cell reparative granuloma|1
+parathyroid carcinoma|1
+hypervitaminosis d|1
+granulomatous hepatitis|1
+myelophthisic anemia|1
+acalculous cholecystitis|1
+biliary dyskinesia|1
+berylliosis|1
+miliary tuberculosis|1
+bone osteosarcoma|1
+connective tissue benign neoplasm|1
+amyloid tumor|1
+choline deficiency disease|1
+drug-induced hepatitis|1
+vasculogenic impotence|1
+generalized atherosclerosis|1
+liddle syndrome|1
+hypertensive retinopathy|1
+anuria|1
+myocardial stunning|1
+hypertensive heart disease|1
+systolic heart failure|1
+aortic valve insufficiency|1
+mitral valve prolapse|1
+melioidosis|1
+q fever|1
+pasteurellosis|1
+pneumonic tularemia|1
+yellow fever|1
+tick-borne encephalitis|1
+severe acute respiratory syndrome|1
+epidural abscess|1
+diverticulitis|1
+tendinitis|1
+gas gangrene|1
+factor xii deficiency|1
+placental abruption|1
+glanzmann's thrombasthenia|1
+thromboangiitis obliterans|1
+arteriosclerosis obliterans|1
+basilar artery insufficiency|1
+cerebral atherosclerosis|1
+cerebrotendinous xanthomatosis|1
+aortic atherosclerosis|1
+hemochromatosis|1
+splenic infarction|1
+sickle cell anemia|1
+malignant essential hypertension|1
+alcoholic cardiomyopathy|1
+senile cataract|1
+mature cataract|1
+indolent systemic mastocytosis|1
+eosinophilia-myalgia syndrome|1
+egg allergy|1
+food allergy|1
+laron syndrome|1
+endocrine organ benign neoplasm|1
+thyroid crisis|1
+central pontine myelinolysis|1
+inappropriate adh syndrome|1
+luteoma|1
+estrogen excess|1
+kallmann syndrome|1
+metabolic syndrome x|1
+eating disorder|1
+panniculitis|1
+nodular nonsuppurative panniculitis|1
+familial partial lipodystrophy|1
+barrett's esophagus|1
+gastrinoma|1
+peptic ulcer perforation|1
+active peptic ulcer disease|1
+bile reflux|1
+atrophic gastritis|1
+duodenitis|1
+gastroparesis|1
+intestinal pseudo-obstruction|1
+alcoholic pancreatitis|1
+exocrine pancreatic insufficiency|1
+steatorrhea|1
+achalasia|1
+short bowel syndrome|1
+meckel's diverticulum|1
+space motion sickness|1
+reflex sympathetic dystrophy|1
+obstructive hydrocephalus|1
+pick's disease|1
+ocular hypotension|1
+opioid abuse|1
+withdrawal disorder|1
+heroin dependence|1
+cocaine abuse|1
+retrograde amnesia|1
+anterograde amnesia|1
+x-linked disease|1
+hemiplegia|1
+body dysmorphic disorder|1
+acute interstitial pneumonia|1
+fungal meningitis|1
+cryptogenic organizing pneumonia|1
+skin squamous cell carcinoma|1
+fibrosarcoma|1
+brain cancer|1
+gallbladder adenocarcinoma|1
+esophagus adenocarcinoma|1
+prostate carcinoma|1
+epithelial-myoepithelial carcinoma|1
+spindle cell carcinoma|1
+adenosarcoma|1
+hard palate cancer|1
+mucinous adenocarcinoma|1
+mucinous cystadenocarcinoma|1
+verrucous carcinoma|1
+ovary adenocarcinoma|1
+triple-receptor negative breast cancer|1
+gastroesophageal junction adenocarcinoma|1
+ulcerative stomatitis|1
+benign mesothelioma|1
+pancreatic cystadenoma|1
+lynch syndrome|1
+chronic cervicitis|1
+epulis|1
+alexander disease|1
+tuberous sclerosis|1
+spinal cord glioma|1
+central nervous system organ benign neoplasm|1
+peripheral primitive neuroectodermal tumor|1
+kidney sarcoma|1
+thymic carcinoma|1
+lambert-eaton myasthenic syndrome|1
+teratoma|1
+mature teratoma|1
+endemic goiter|1
+thyroid hormone resistance syndrome|1
+epithelioid sarcoma|1
+breast sarcoma|1
+myxoid liposarcoma|1
+cellular leiomyoma|1
+functional diarrhea|1
+hepatobiliary benign neoplasm|1
+patau syndrome|1
+chorioamnionitis|1
+oligohydramnios|1
+angiodysplasia|1
+photokeratitis|1
+malignant histiocytosis|1
+necrobiosis lipoidica|1
+histiocytic and dendritic cell cancer|1
+peripartum cardiomyopathy|1
+rubinstein-taybi syndrome|1
+carney complex|1
+pseudoxanthoma elasticum|1
+cystoid macular edema|1
+proliferative diabetic retinopathy|1
+retinal detachment|1
+eye degenerative disease|1
+keratoconus|1
+anisometropia|1
+duane retraction syndrome|1
+ocular motility disease|1
+choroid disease|1
+periodontosis|1
+bethlem myopathy|1
+spondylosis|1
+spondylolysis|1
+demyelinating polyneuropathy|1
+chronic inflammatory demyelinating polyradiculoneuropathy|1
+axonal neuropathy|1
+mononeuropathy|1
+syringomyelia|1
+paralytic poliomyelitis|1
+conjunctivochalasis|1
+angiostrongyliasis|1
+corneal ulcer|1
+striatonigral degeneration|1
+brain stem infarction|1
+hodgkin's lymphoma, mixed cellularity|1
+lymphocele|1
+skin atrophy|1
+riley-day syndrome|1
+anhidrosis|1
+seborrheic dermatitis|1
+congenital ichthyosiform erythroderma|1
+hailey-hailey disease|1
+wernicke-korsakoff syndrome|1
+vestibular nystagmus|1
+phagocyte bactericidal dysfunction|1
+anthrax disease|1
+nephroblastoma|1
+iris disease|1
+whipple disease|1
+job's syndrome|1
+bubonic plague|1
+plague|1
+pneumonic plague|1
+anogenital venereal wart|1
+squamous papillomatosis|1
+combat disorder|1
+lassa fever|1
+distal arthrogryposis|1
+t lymphocyte deficiency|1
+familial visceral amyloidosis|1
+compartment syndrome|1
+urethral intrinsic sphincter deficiency|1
+glycogen storage disease iii|1
+x-linked myopathy with excessive autophagy|1
+prostate sarcoma|1
+thomsen disease|1
+malignant hyperthermia|1
+right bundle branch block|1
+spastic quadriplegia|1
+neuroaxonal dystrophy|1
+olivopontocerebellar atrophy|1
+paraplegia|1
+fabry disease|1
+mucopolysaccharidosis vi|1
+mucopolysaccharidosis i|1
+sly syndrome|1
+beta-mannosidosis|1
+fanconi syndrome|1
+granulomatous amebic encephalitis|1
+adnexa disease|1
+eyelid disease|1
+horner's syndrome|1
+endophthalmitis|1
+allergic bronchopulmonary aspergillosis|1
+klatskin's tumor|1
+acneiform dermatitis|1
+secondary hypertrophic osteoarthropathy|1
+alexithymia|1
+hidradenoma|1
+glossopharyngeal nerve disease|1
+hereditary renal cell carcinoma|1
+idiopathic juvenile osteoporosis|1
+marfan syndrome|1
+metaphyseal dysplasia|1
+intestinal atresia|1
+imperforate anus|1
+thanatophoric dysplasia|1
+achondroplasia|1
+renal agenesis|1
+coloboma|1
+cystic kidney|1
+botulism|1
+neurotic disorder|1
+exophthalmos|1
+stiff-person syndrome|1
+paranoid schizophrenia|1
+follicular mucinosis|1
+retinitis|1
+mycobacterium avium complex disease|1
+penicilliosis|1
+exanthema subitum|1
+cerebral lymphoma|1
+histoplasmosis|1
+paracoccidioidomycosis|1
+oral candidiasis|1
+pneumocystosis|1
+strongyloidiasis|1
+subacute sclerosing panencephalitis|1
+herpes zoster|1
+blastomycosis|1
+chronic myeloid leukemia|1
+cll/sll|1
+immunoglobulin alpha deficiency|1
+wiskott-aldrich syndrome|1
+exanthem|1
+thrombocytopenia due to platelet alloimmunization|1
+membranous glomerulonephritis|1
+pulmonary tuberculosis|1
+bronchiolitis obliterans|1
+relapsing-remitting multiple sclerosis|1
+corneal disease|1
+keratitis|1
+toxic shock syndrome|1
+eosinophilia|1
+blepharoconjunctivitis|1
+fiedler's myocarditis|1
+vulvovaginitis|1
+vulvovaginal candidiasis|1
+bronchopneumonia|1
+pyuria|1
+adult dermatomyositis|1
+inclusion body myositis|1
+acute poststreptococcal glomerulonephritis|1
+leukostasis|1
+pericardial tuberculosis|1
+central nervous system tuberculosis|1
+pneumothorax|1
+pleurisy|1
+schnitzler syndrome|1
+cervical adenitis|1
+aphthous stomatitis|1
+stomatitis|1
+retinal vasculitis|1
+posterior uveitis|1
+ankylosing spondylitis|1
+vogt-koyanagi-harada disease|1
+pustulosis of palm and sole|1
+osteosclerotic myeloma|1
+poems syndrome|1
+monoclonal paraproteinemia|1
+exudative glomerulonephritis|1
+dacryoadenitis|1
+lymphoid interstitial pneumonia|1
+cicatricial pemphigoid|1
+erythema multiforme|1
+impetigo|1
+acute diarrhea|1
+amebiasis|1
+raynaud disease|1
+limited scleroderma|1
+localized scleroderma|1
+mixed connective tissue disease|1
+elephantiasis|1
+filariasis|1
+alveolar echinococcosis|1
+echinococcosis|1
+opisthorchiasis|1
+necrotizing ulcerative gingivitis|1
+calciphylaxis|1
+hypophosphatasia|1
+ascending cholangitis|1
+periostitis|1
+choledochal cyst|1
+mesenteric vascular occlusion|1
+alcoholic hepatitis|1
+alcoholic liver cirrhosis|1
+hepatic coma|1
+hepatic encephalopathy|1
+intrahepatic cholestasis|1
+obstructive jaundice|1
+extrahepatic cholestasis|1
+hepatitis e|1
+chronic cholangitis|1
+bursitis|1
+periarthritis|1
+camurati-engelmann disease|1
+chondroblastoma|1
+neonatal jaundice|1
+skin sarcoidosis|1
+bartter disease|1
+renal artery obstruction|1
+vesicoureteral reflux|1
+arteriovenous malformation|1
+double outlet right ventricle|1
+hypoplastic left heart syndrome|1
+chancroid|1
+human monocytic ehrlichiosis|1
+rocky mountain spotted fever|1
+leptospirosis|1
+hemorrhagic fever with renal syndrome|1
+korean hemorrhagic fever|1
+venezuelan equine encephalitis|1
+acute salpingitis|1
+chronic salpingitis|1
+relapsing fever|1
+lyme disease|1
+aortitis|1
+silent myocardial infarction|1
+coronary artery vasospasm|1
+vitamin k deficiency hemorrhagic disease|1
+factor xiii deficiency|1
+portal vein thrombosis|1
+bernard-soulier syndrome|1
+marantic endocarditis|1
+hellp syndrome|1
+mild pre-eclampsia|1
+thrombotic thrombocytopenic purpura|1
+shwartzman phenomenon|1
+arcus senilis|1
+familial hypercholesterolemia|1
+wolman disease|1
+cholesterol ester storage disease|1
+thoracic aortic aneurysm|1
+coronary restenosis|1
+coronary stenosis|1
+intracranial aneurysm|1
+telogen effluvium|1
+hypochromic microcytic anemia|1
+acute chest syndrome|1
+primary polycythemia|1
+babesiosis|1
+wilson disease|1
+galactosemia|1
+mast-cell leukemia|1
+kimura disease|1
+cough variant asthma|1
+acth-secreting pituitary adenoma|1
+glucocorticoid-remediable aldosteronism|1
+tuberculum sellae meningioma|1
+dysgerminoma|1
+hypogonadotropism|1
+priapism|1
+alopecia areata|1
+donohue syndrome|1
+diabetic neuropathy|1
+diabetic polyneuropathy|1
+hyperinsulinemic hypoglycemia|1
+pancreatic endocrine carcinoma|1
+pancreatic cholera|1
+pancreatic gastrinoma|1
+dyskinesia of esophagus|1
+duodenal obstruction|1
+ischemic neuropathy|1
+tietze's syndrome|1
+erythromelalgia|1
+neurogenic bladder|1
+vasomotor rhinitis|1
+dental pulp necrosis|1
+transient cerebral ischemia|1
+essential tremor|1
+substance-induced psychosis|1
+generalized anxiety disorder|1
+schizoaffective disorder|1
+conduct disorder|1
+schizophreniform disorder|1
+pseudobulbar palsy|1
+childhood absence epilepsy|1
+trichotillomania|1
+kleptomania|1
+intermittent explosive disorder|1
+pulmonary immaturity|1
+desquamative interstitial pneumonia|1
+actinic keratosis|1
+colon carcinoma|1
+endometrial adenocarcinoma|1
+nasopharynx carcinoma|1
+cervical squamous cell carcinoma|1
+cervical cancer|1
+barrett's adenocarcinoma|1
+lung giant cell carcinoma|1
+tongue cancer|1
+adenosquamous carcinoma|1
+nephrogenic adenoma|1
+endosalpingiosis|1
+sarcomatoid renal cell carcinoma|1
+chromophobe adenocarcinoma|1
+ovarian clear cell adenocarcinoma|1
+microglandular adenosis|1
+cribriform carcinoma|1
+comedo carcinoma|1
+peritoneal carcinoma|1
+inflammatory breast carcinoma|1
+breast fibrocystic disease|1
+heart cancer|1
+endometriosis of uterus|1
+spermatocele|1
+breast metaplastic carcinoma|1
+apocrine sweat gland neoplasm|1
+familial melanoma|1
+tonsil cancer|1
+lung oat cell carcinoma|1
+large cell carcinoma|1
+pilocytic astrocytoma|1
+cranial nerve palsy|1
+angiomyolipoma|1
+kidney angiomyolipoma|1
+embryonal rhabdomyosarcoma|1
+alveolar rhabdomyosarcoma|1
+alveolar soft part sarcoma|1
+malignant teratoma|1
+subacute thyroiditis|1
+nodular goiter|1
+hyperthyroxinemia|1
+euthyroid sick syndrome|1
+congenital hypothyroidism|1
+hemangiopericytoma|1
+histiocytoid hemangioma|1
+pneumatosis cystoides intestinalis|1
+fibrous meningioma|1
+spindle cell sarcoma|1
+peroneal nerve paralysis|1
+long bone adamantinoma|1
+myxoid leiomyosarcoma|1
+intravenous leiomyomatosis|1
+leiomyomatosis|1
+necrotizing fasciitis|1
+toxic pneumonitis|1
+benign breast phyllodes tumor|1
+hemangioma of intra-abdominal structure|1
+testicular germ cell cancer|1
+edwards syndrome|1
+funisitis|1
+polyhydramnios|1
+placenta accreta|1
+intraductal papilloma|1
+gliomatosis cerebri|1
+gliosarcoma|1
+coronary aneurysm|1
+heart aneurysm|1
+acral lentiginous melanoma|1
+amelanotic melanoma|1
+tenosynovial giant cell tumor|1
+granulomatous gastritis|1
+myeloid sarcoma|1
+lethal midline granuloma|1
+pseudohypoparathyroidism|1
+dubin-johnson syndrome|1
+neovascular glaucoma|1
+severe nonproliferative diabetic retinopathy|1
+diabetic macular edema|1
+vitreous detachment|1
+kuhnt-junius degeneration|1
+scotoma|1
+acute closed-angle glaucoma|1
+corneal edema|1
+amblyopia|1
+astigmatism|1
+esotropia|1
+ophthalmoplegia|1
+cartilage-hair hypoplasia|1
+piebaldism|1
+hepatopulmonary syndrome|1
+granulomatous angiitis|1
+otosclerosis|1
+alagille syndrome|1
+diffuse idiopathic skeletal hyperostosis|1
+cauda equina syndrome|1
+asphyxia neonatorum|1
+pelizaeus-merzbacher disease|1
+optic neuritis|1
+acute hemorrhagic leukoencephalitis|1
+myositis fibrosa|1
+poliomyelitis|1
+rectal prolapse|1
+transient arthritis|1
+gingival hypertrophy|1
+oral submucous fibrosis|1
+perforated corneal ulcer|1
+differentiating neuroblastoma|1
+complex partial epilepsy|1
+lymph node tuberculosis|1
+t-cell large granular lymphocyte leukemia|1
+intestinal perforation|1
+blepharophimosis, ptosis, and epicanthus inversus syndrome|1
+anisakiasis|1
+hereditary sensory neuropathy|1
+sweat gland disease|1
+hypohidrosis|1
+hypohidrotic ectodermal dysplasia|1
+inhalation anthrax|1
+leukocyte-adhesion deficiency syndrome|1
+good syndrome|1
+silver-russell syndrome|1
+osmotic diarrhea|1
+dermatomycosis|1
+african tick-bite fever|1
+newcastle disease|1
+argentine hemorrhagic fever|1
+monkeypox|1
+borna disease|1
+acute endometritis|1
+dyscalculia|1
+retinal hemangioblastoma|1
+amyloidosis|1
+cerebral amyloid angiopathy|1
+clear cell acanthoma|1
+schizotypal personality disorder|1
+myiasis|1
+proteus syndrome|1
+toxic myocarditis|1
+trichinosis|1
+phimosis|1
+sweat gland carcinoma|1
+wolff-parkinson-white syndrome|1
+purine nucleoside phosphorylase deficiency|1
+hyperuricemia|1
+progressive muscular atrophy|1
+becker muscular dystrophy|1
+centronuclear myopathy|1
+timothy syndrome|1
+chronic progressive external ophthalmoplegia|1
+kearns-sayre syndrome|1
+mucolipidosis|1
+gangliosidosis gm1|1
+mucopolysaccharidosis|1
+mucopolysaccharidosis ii|1
+alpha-mannosidosis|1
+tyrosinemia|1
+hyperhomocysteinemia|1
+homocystinuria|1
+pellagra|1
+cystinosis|1
+cardia cancer|1
+leukorrhea|1
+suppurative lymphadenitis|1
+atrophic rhinitis|1
+hypertropia|1
+ureterolithiasis|1
+pediatric osteosarcoma|1
+cyclic hematopoiesis|1
+brain glioma|1
+photosensitivity disease|1
+periapical granuloma|1
+dentinogenesis imperfecta|1
+cervical incompetence|1
+cutis laxa|1
+angiomatous meningioma|1
+diastrophic dysplasia|1
+osteochondritis dissecans|1
+vitreous syneresis|1
+holoprosencephaly|1
+pfeiffer syndrome|1
+ladd syndrome|1
+choanal atresia|1
+antley-bixler syndrome|1
+neonatal abstinence syndrome|1
+hereditary fructose intolerance syndrome|1
+acute t cell leukemia|1
+nonpapillary renal cell carcinoma|1
+klippel-feil syndrome|1
+esophageal candidiasis|1
+bird fancier's lung|1
+primary systemic mycosis|1
+congenital toxoplasmosis|1
+evans' syndrome|1
+fatty liver disease|1
+aggressive periodontitis|1
+plasmodium falciparum malaria|1
+encephalitis|1
+pertussis|1
+common cold|1
+bronchiectasis|1
+vaginal discharge|1
+tuberculoid leprosy|1
+membranoproliferative glomerulonephritis|1
+immune-complex glomerulonephritis|1
+cryoglobulinemia|1
+constrictive pericarditis|1
+pyoderma|1
+adult-onset still's disease|1
+erysipelas|1
+psoriatic arthritis|1
+fuchs' heterochromic uveitis|1
+protein-losing enteropathy|1
+farmer's lung|1
+nezelof syndrome|1
+goodpasture syndrome|1
+gastrointestinal lymphoma|1
+stevens-johnson syndrome|1
+paratyphoid fever|1
+intestinal schistosomiasis|1
+ascariasis|1
+pericoronitis|1
+gonorrhea|1
+trichomoniasis|1
+nephrolithiasis|1
+scurvy|1
+fibrodysplasia ossificans progressiva|1
+acrodermatitis|1
+myositis ossificans|1
+crimean-congo hemorrhagic fever|1
+kernicterus|1
+multiple chemical sensitivity|1
+optic papillitis|1
+renal tubular transport disease|1
+hydronephrosis|1
+pulmonary venoocclusive disease|1
+mitral valve stenosis|1
+pulmonary valve insufficiency|1
+tricuspid valve disease|1
+carrion's disease|1
+cat-scratch disease|1
+glanders|1
+nephropathia epidemica|1
+variola major|1
+chikungunya|1
+oophoritis|1
+hepatic vein thrombosis|1
+antiphospholipid syndrome|1
+intracranial embolism|1
+sneddon syndrome|1
+congenital afibrinogenemia|1
+basilar artery occlusion|1
+hypobetalipoproteinemia|1
+familial hypertriglyceridemia|1
+xanthomatosis|1
+metal metabolism disorder|1
+acquired polycythemia|1
+hemoglobinuria|1
+lingual-facial-buccal dyskinesia|1
+keshan disease|1
+urticaria pigmentosa|1
+aggressive systemic mastocytosis|1
+endomyocardial fibrosis|1
+chronic rhinitis|1
+premenstrual tension|1
+hyperaldosteronism|1
+diabetes insipidus|1
+anovulation|1
+amenorrhea|1
+hypoactive sexual desire disorder|1
+lipodystrophy|1
+eosinophilic gastritis|1
+gastroesophageal reflux disease|1
+photoallergic dermatitis|1
+intussusception|1
+burning mouth syndrome|1
+myofascial pain syndrome|1
+pseudotumor cerebri|1
+papilledema|1
+moyamoya disease|1
+progressive supranuclear palsy|1
+attention deficit hyperactivity disorder|1
+cyclothymic disorder|1
+dysthymic disorder|1
+rett syndrome|1
+atypical autism|1
+migraine without aura|1
+amphetamine abuse|1
+nonspecific interstitial pneumonia|1
+keratoacanthoma|1
+colonic benign neoplasm|1
+skull base chordoma|1
+pleomorphic adenoma|1
+inverted papilloma|1
+cystadenoma|1
+anal canal cancer|1
+lipid-rich carcinoma|1
+oncocytic breast carcinoma|1
+female breast carcinoma|1
+bartholin's gland carcinoma|1
+intraductal breast neoplasm|1
+breast adenoid cystic carcinoma|1
+noma|1
+lip cancer|1
+breast adenoma|1
+pregnancy adenoma|1
+choroid plexus papilloma|1
+cerebral meningioma|1
+childhood pilocytic astrocytoma|1
+malignant ependymoma|1
+cystic teratoma|1
+type 1 diabetes mellitus|1
+mesenchymal chondrosarcoma|1
+conventional fibrosarcoma|1
+angiolipoma|1
+peripheral osteosarcoma|1
+clear cell sarcoma|1
+melkersson-rosenthal syndrome|1
+adult syndrome|1
+central nervous system melanocytic neoplasm|1
+phacolytic glaucoma|1
+jansen's metaphyseal chondrodysplasia|1
+ovarian small cell carcinoma|1
+fibrous dysplasia|1
+peutz-jeghers syndrome|1
+background diabetic retinopathy|1
+color blindness|1
+lattice corneal dystrophy|1
+corneal granular dystrophy|1
+band keratopathy|1
+recurrent corneal erosion|1
+tetanus neonatorum|1
+japanese encephalitis|1
+neuromyelitis optica|1
+acute disseminated encephalomyelitis|1
+mooren's ulcer|1
+gastric lymphoma|1
+thyroid lymphoma|1
+natural killer cell leukemia|1
+anterior spinal artery syndrome|1
+hemopericardium|1
+rosacea|1
+cholesteatoma|1
+chronic mucocutaneous candidiasis|1
+norwegian scabies|1
+acute stress disorder|1
+viral pneumonia|1
+inflammatory diarrhea|1
+pityriasis rosea|1
+gorham's disease|1
+neuroleptic malignant syndrome|1
+glycogen storage disease i|1
+glycogen storage disease iv|1
+danon disease|1
+spinal muscular atrophy|1
+arrhythmogenic right ventricular cardiomyopathy|1
+familial atrial fibrillation|1
+jervell-lange nielsen syndrome|1
+mitochondrial encephalomyopathy|1
+mucopolysaccharidosis iv|1
+adrenoleukodystrophy|1
+maple syrup urine disease|1
+hyperargininemia|1
+diamond-blackfan anemia|1
+pure red-cell aplasia|1
+maxillary sinusitis|1
+tethered spinal cord syndrome|1
+somatization disorder|1
+ectropion|1
+aspiration pneumonitis|1
+hantavirus pulmonary syndrome|1
+tracheal disease|1
+tracheitis|1
+mesenteric lymphadenitis|1
+severe congenital neutropenia|1
+epididymo-orchitis|1
+megakaryocytic tumor|1
+chronic apical periodontitis|1
+periapical periodontitis|1
+sost-related sclerosing bone dysplasia|1
+williams-beuren syndrome|1
+spondyloepiphyseal dysplasia congenita|1
+spondyloepimetaphyseal dysplasia|1
+retinal perforation|1
+esophageal atresia|1
+osteogenesis imperfecta|1
+theileriasis|1
+tick infestation|1
+smoldering myeloma|1
+gingival recession|1
+alveolar periostitis|1
+skin papilloma|1
+tropical spastic paraparesis|1
+gamma chain deficiency|1
+pancytopenia|1
+lymphatic system disease|1
+synovitis|1
+pulmonary emphysema|1
+cutaneous leishmaniasis|1
+mucocutaneous leishmaniasis|1
+corneal neovascularization|1
+anthracosis|1
+asbestosis|1
+diphtheria|1
+commensal bacterial infectious disease|1
+chronic fatigue syndrome|1
+chronic pyelonephritis|1
+lepromatous leprosy|1
+rheumatic fever|1
+splenic tuberculosis|1
+cardiac tamponade|1
+pyoderma gangrenosum|1
+chorioretinitis|1
+pityriasis rubra pilaris|1
+thymic dysplasia|1
+epidermolysis bullosa dystrophica|1
+superficial keratitis|1
+intestinal volvulus|1
+cherubism|1
+esophageal varix|1
+craniometaphyseal dysplasia|1
+legg-calve-perthes disease|1
+peliosis hepatis|1
+hypokalemia|1
+perinephritis|1
+arteriolosclerosis|1
+tricuspid valve insufficiency|1
+tetralogy of fallot|1
+japanese spotted fever|1
+tularemia|1
+eastern equine encephalitis|1
+avian influenza|1
+influenza|1
+swine influenza|1
+louse-borne relapsing fever|1
+frozen shoulder|1
+paralytic ileus|1
+meconium aspiration syndrome|1
+hemarthrosis|1
+subendocardial myocardial infarction|1
+femoral neuropathy|1
+norum disease|1
+splenic sequestration|1
+diabetic cataract|1
+eosinophilic gastroenteritis|1
+growth hormone secreting pituitary adenoma|1
+lipoid nephrosis|1
+neurohypophyseal diabetes insipidus|1
+sertoli cell-only syndrome|1
+alopecia universalis|1
+vitiligo|1
+ovarian hyperstimulation syndrome|1
+acanthosis nigricans|1
+neonatal diabetes mellitus|1
+critical illness polyneuropathy|1
+lipomatosis|1
+gastroduodenitis|1
+toxic megacolon|1
+lung sarcoma|1
+epicondylitis|1
+movement disease|1
+cannabis abuse|1
+specific phobia|1
+avoidant personality disorder|1
+asperger syndrome|1
+pulmonary alveolar proteinosis|1
+bronchiolitis obliterans organizing pneumonia|1
+lung adenocarcinoma|1
+transitional cell carcinoma|1
+esophageal cancer|1
+sweat gland neoplasm|1
+adenomyoma|1
+bladder adenocarcinoma|1
+chronic cystitis|1
+papillary renal cell carcinoma|1
+progesterone-receptor positive breast cancer|1
+dysplastic nevus syndrome|1
+progesterone-receptor negative breast cancer|1
+kennedy's disease|1
+malignant mesothelioma|1
+bizarre leiomyoma|1
+retroperitoneal leiomyosarcoma|1
+gastric diffuse adenocarcinoma|1
+gangliocytoma|1
+mixed glioma|1
+lymphangioleiomyomatosis|1
+central nervous system primitive neuroectodermal neoplasm|1
+papillary adenoma|1
+mediastinal cancer|1
+papillary carcinoma|1
+nontoxic goiter|1
+multinodular goiter|1
+adamantinoma|1
+smooth muscle tumor|1
+fasciitis|1
+chondroma|1
+gastroschisis|1
+nodular malignant melanoma|1
+ocular albinism|1
+platelet storage pool deficiency|1
+chediak-higashi syndrome|1
+multicentric reticulohistiocytosis|1
+granuloma annulare|1
+central nervous system leukemia|1
+subacute myeloid leukemia|1
+wermer syndrome|1
+macular holes|1
+fundus dystrophy|1
+degenerative myopia|1
+chronic closed-angle glaucoma|1
+primary congenital glaucoma|1
+sipple syndrome|1
+sensory peripheral neuropathy|1
+myelitis|1
+sigmoid colon cancer|1
+gingival overgrowth|1
+bone lymphoma|1
+urethral obstruction|1
+urethritis|1
+purulent labyrinthitis|1
+wernicke encephalopathy|1
+leukocyte adhesion deficiency|1
+felty's syndrome|1
+trachoma|1
+superficial basal cell carcinoma|1
+genital herpes|1
+herpes simplex|1
+microsporidiosis|1
+lymphocytic choriomeningitis|1
+vaccinia|1
+sporotrichosis|1
+actinomycosis|1
+spongiotic dermatitis|1
+mediastinitis|1
+fructose-1,6-bisphosphatase deficiency|1
+carotid artery dissection|1
+gout|1
+spastic cerebral palsy|1
+apraxia|1
+machado-joseph disease|1
+gastric dilatation|1
+fucosidosis|1
+canavan disease|1
+cystinuria|1
+werner syndrome|1
+vulvar disease|1
+streptococcal meningitis|1
+spindle cell hemangioma|1
+ureter cancer|1
+anterior cranial fossa meningioma|1
+cholecystolithiasis|1
+dentin dysplasia|1
+tooth agenesis|1
+ollier disease|1
+breast giant fibroadenoma|1
+pycnodysostosis|1
+enophthalmos|1
+carbuncle|1
+coccidioidomycosis|1
+cryptococcosis|1
+cellulitis|1
+familial nephrotic syndrome|1
+dental caries|1
+cholera|1
+acute myocarditis|1
+aspiration pneumonia|1
+acute pyelonephritis|1
+churg-strauss syndrome|1
+toxicodendron dermatitis|1
+mevalonic aciduria|1
+osteomyelitis|1
+alport syndrome|1
+clonorchiasis|1
+hyperostosis|1
+arthropathy|1
+renal tubular acidosis|1
+pseudohypoaldosteronism|1
+patent ductus arteriosus|1
+atrioventricular septal defect|1
+pyomyositis|1
+kidney cortex necrosis|1
+cerebral artery occlusion|1
+familial lipoprotein lipase deficiency|1
+methemoglobinemia|1
+intrinsic asthma|1
+mast-cell sarcoma|1
+peyronie's disease|1
+diabetic ketoacidosis|1
+lipoatrophic diabetes|1
+diabetic autonomic neuropathy|1
+congenital generalized lipodystrophy|1
+emery-dreifuss muscular dystrophy|1
+diarrhea|1
+nicotine dependence|1
+melancholia|1
+amnestic disorder|1
+focal epilepsy|1
+fibrous histiocytoma|1
+sporadic breast cancer|1
+estrogen-receptor negative breast cancer|1
+cervix uteri carcinoma in situ|1
+neuroendocrine carcinoma|1
+ependymoblastoma|1
+atypical teratoid rhabdoid tumor|1
+testicular malignant germ cell cancer|1
+testicular cancer|1
+skin melanoma|1
+brachydactyly|1
+angioid streaks|1
+retinopathy of prematurity|1
+corneal dystrophy|1
+anus disease|1
+lymphocytic gastritis|1
+ebola hemorrhagic fever|1
+cowpox|1
+steroid-induced glaucoma|1
+status asthmaticus|1
+glycogen storage disease v|1
+adenosine deaminase deficiency|1
+quadriplegia|1
+lateral sclerosis|1
+metachromatic leukodystrophy|1
+refsum disease|1
+sialuria|1
+xeroderma pigmentosum|1
+thoracic outlet syndrome|1
+spina bifida|1
+choroiditis|1
+lung squamous cell carcinoma|1
+primary ciliary dyskinesia|1
+cryptosporidiosis|1
+folliculitis|1
+central nervous system lymphoma|1
+myocarditis|1
+wegener's granulomatosis|1
+familial mediterranean fever|1
+kidney hypertrophy|1
+hepatitis a|1
+cleidocranial dysplasia|1
+severe pre-eclampsia|1
+peanut allergic reaction|1
+gonadoblastoma|1
+ovarian dysfunction|1
+premature menopause|1
+gestational diabetes|1
+brain edema|1
+retinal ischemia|1
+colon adenocarcinoma|1
+hepatoblastoma|1
+prostate adenocarcinoma|1
+papilloma|1
+bilateral breast cancer|1
+male breast cancer|1
+renal clear cell carcinoma|1
+goiter|1
+lymphedema|1
+malignant spindle cell melanoma|1
+conjunctival cancer|1
+beckwith-wiedemann syndrome|1
+glycogen storage disease ii|1
+achondrogenesis|1
+polydactyly|1
+omenn syndrome|1
+rabies|1
+mantle cell lymphoma|1
+marginal zone b-cell lymphoma|1
+congestive heart failure|1
+sleeping sickness|1
+campylobacteriosis|1
+mammary paget's disease|1
+ankylosis|1
+hepatitis d|1
+telangiectasis|1
+diastolic heart failure|1
+patent foramen ovale|1
+venous insufficiency|1
+klinefelter's syndrome|1
+hiatus hernia|1
+adjustment disorder|1
+seborrheic keratosis|1
+endometriosis|1
+adenocarcinoma in situ|1
+oxyphilic adenoma|1
+endometriosis of ovary|1
+lipoma|1
+pigmented villonodular synovitis|1
+childhood leukemia|1
+sudden infant death syndrome|1
+krabbe disease|1
+neuronal ceroid lipofuscinosis|1
+crouzon syndrome|1
+radioulnar synostosis|1
+hypertrichosis|1
+intermediate coronary syndrome|1
+bacterial meningitis|1
+eosinophilic esophagitis|1
+bacterial pneumonia|1
+rapidly progressive glomerulonephritis|1
+spondyloarthropathy|1
+toxic encephalopathy|1
+cocaine dependence|1
+gastrointestinal stromal tumor|1
+small cell carcinoma|1
+lung small cell carcinoma|1
+chondrosarcoma|1
+hermansky-pudlak syndrome|1
+glaucoma|1
+corneal degeneration|1
+phenylketonuria|1
+spinal cord disease|1
+tuberculosis|1
+pulmonary eosinophilia|1
+pleural disease|1
+breast adenocarcinoma|1
+familial adenomatous polyposis|1
+neurofibromatosis|1
+mesenchymal cell neoplasm|1
+spondylolisthesis|1
+ataxia telangiectasia|1
+allergic asthma|1
+pneumonia|1
+physical disorder|1
+kaposi's sarcoma|1
+langerhans-cell histiocytosis|1
+peripheral neuropathy|1
+cockayne syndrome|1
+hodgkin's lymphoma|1
+huntington's disease|1
+sarcoma|1
+down syndrome|1
+long qt syndrome|1
+acute leukemia|1
+melanoma|1
+nonsyndromic deafness|1
+chronic obstructive pulmonary disease|1
+osteosarcoma|1
+bone cancer|1
+salivary gland cancer|1
+acute lymphocytic leukemia|1
+autosomal dominant disease|1
+teeth hard tissue disease|1
+pulmonary hypertension|1
+pre-eclampsia|1
+non-hodgkin lymphoma|1
+breast carcinoma|1

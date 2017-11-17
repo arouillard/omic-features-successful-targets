@@ -1,0 +1,5 @@
+mean|1	A-375 cell|0.910615	ovary|0.896085	MCF-7 cell|0.9152	rectum|0.914428	HCC-1937 cell|0.909618	lung|0.879147	MCF-10A cell|0.914018	HMEpC cell|0.908969	GaMG cell|0.88868	U2-OS cell|0.894077	HMELonza|0.904801	HCC-1143|0.899183	testis|0.86999	A-549 cell|0.888059	HCC-2218|0.893089	Hep-G2 cell|0.859858	HCC-1599|0.884359	pancreas|0.851234	HMT-3522 cell|0.887083	MFM-223 cell|0.873704	liver|0.85332	heart|0.842209	MDA-MB-453 cell|0.867499	OVCAR-8/ADR cell|0.877519	Colo-205 cell|0.873323	HES-3|0.859384	HCC-202|0.85407	LNCaP cell|0.831493	lymphoblastoid cell line|0.840759	non-small cell lung cancer cell line|0.832385	PC-3 cell|0.844705	SK-N-BE(2) cell|0.841934	natural killer cell|0.828491	helper T-lymphocyte|0.833099	retina|0.819895	M14 cell|0.813151	placenta|0.814306	prostate gland|0.814636	HEK-293 cell|0.812178	cytotoxic T-lymphocyte|0.819678	RKO cell|0.788637	B-lymphocyte|0.802657	PBMC cell line|0.78137	HeLa cell|0.771478	Mixed|0.790819	colon|0.78946	NFF|0.742899	JURKAT cell|0.742911	K-562 cell|0.721869
+SW-480 cell|1	SW-620 cell|0.958047
+stdv|1
+colorectal cancer cell|1
+HeLa-S3 cell|1

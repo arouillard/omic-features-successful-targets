@@ -1,0 +1,791 @@
+hsa-miR-548w|1	hsa-miR-548c-5p|0.999882	hsa-miR-548ak|0.999744	hsa-miR-548d-5p|0.999729	hsa-miR-548b-5p|0.999585	hsa-miR-548h|0.999739	hsa-miR-548y|0.998811	hsa-miR-548a-5p|0.998057	hsa-miR-548j|0.998096	hsa-miR-548ab|0.997573	hsa-miR-548i|0.997421	hsa-miR-559|0.994783
+hsa-miR-520a-3p|1	hsa-miR-520d-3p|0.999641	hsa-miR-520e|0.998997	hsa-miR-373|0.999013	hsa-miR-302a|0.997684	hsa-miR-302b|0.997625	hsa-miR-302d|0.997716	hsa-miR-302c|0.997625	hsa-miR-372|0.998321	hsa-miR-520c-3p|0.998292	hsa-miR-520b|0.998243	hsa-miR-302e|0.998221
+hsa-let-7c|1	hsa-let-7a|0.999899	hsa-let-7e|0.999868	hsa-let-7g|0.999638	hsa-miR-98|0.999748	hsa-let-7f|0.99962	hsa-let-7b|0.999635	hsa-let-7i|0.999384	hsa-let-7d|0.998865	hsa-miR-4500|0.997422	hsa-miR-4458|0.996816
+hsa-miR-378|1	hsa-miR-378i|0.999976	hsa-miR-378c|0.999968	hsa-miR-378d|0.999948	hsa-miR-422a|0.999584	hsa-miR-378e|0.999666	hsa-miR-378h|0.999467	hsa-miR-378f|0.997864	hsa-miR-378b|0.997539
+hsa-miR-20a|1	hsa-miR-20b|0.999926	hsa-miR-106a|0.999023	hsa-miR-17|0.999023	hsa-miR-106b|0.998944	hsa-miR-93|0.99938	hsa-miR-519d|0.995519
+hsa-miR-301b|1	hsa-miR-454|0.998135	hsa-miR-3666|0.997585	hsa-miR-301a|0.99894	hsa-miR-130b|0.99641	hsa-miR-4295|0.997025	hsa-miR-130a|0.995344
+hsa-miR-92a|1	hsa-miR-363|0.998914	hsa-miR-92b|0.999757	hsa-miR-25|0.999038	hsa-miR-32|0.998058	hsa-miR-367|0.997907
+hsa-miR-15a|1	hsa-miR-15b|0.999438	hsa-miR-16|0.996639	hsa-miR-195|0.996592	hsa-miR-497|0.997453	hsa-miR-424|0.996137
+hsa-miR-320a|1	hsa-miR-320c|0.99994	hsa-miR-320d|0.999933	hsa-miR-320b|0.999842	hsa-miR-4429|0.999677
+hsa-miR-518d-5p|1	hsa-miR-520c-5p|1	hsa-miR-526a|1	hsa-miR-519b-5p|0.999127	hsa-miR-519c-5p|0.999127
+hsa-miR-181a|1	hsa-miR-181c|0.999526	hsa-miR-181b|0.999715	hsa-miR-181d|0.999389	hsa-miR-4262|0.997301
+hsa-miR-30a|1	hsa-miR-30d|0.999872	hsa-miR-30c|0.998322	hsa-miR-30b|0.998301	hsa-miR-30e|0.999322
+hsa-miR-548x|1	hsa-miR-548aj|0.999973	hsa-miR-548ae|0.999987	hsa-miR-548am|0.999475
+hsa-miR-3689a-5p|1	hsa-miR-3689b|1	hsa-miR-3689e|1	hsa-miR-3689f|0.99911
+hsa-miR-449b|1	hsa-miR-449a|0.999977	hsa-miR-34c-5p|0.998947	hsa-miR-34a|0.998384
+hsa-miR-26b|1	hsa-miR-26a|0.99979	hsa-miR-1297|0.999362	hsa-miR-4465|0.998055
+hsa-miR-148b|1	hsa-miR-148a|0.999961	hsa-miR-152|0.999879
+hsa-miR-519b-3p|1	hsa-miR-519a|0.999881	hsa-miR-519c-3p|0.999853
+hsa-miR-29c|1	hsa-miR-29a|0.999878	hsa-miR-29b|0.99973
+hsa-miR-200b|1	hsa-miR-200c|0.999881	hsa-miR-429|0.999449
+hsa-miR-548f|1	hsa-miR-548e|0.999659	hsa-miR-548a-3p|0.999581
+hsa-miR-23b|1	hsa-miR-23a|0.999751	hsa-miR-23c|0.998687
+hsa-miR-199a-3p|1	hsa-miR-199b-3p|1	hsa-miR-3129-5p|0.998129
+hsa-miR-548z|1	hsa-miR-548ac|0.99956	hsa-miR-548d-3p|0.998294
+hsa-miR-18b|1	hsa-miR-18a|0.999959	hsa-miR-4735-3p|0.997759
+hsa-miR-100|1	hsa-miR-99b|0.998975	hsa-miR-99a|0.998563
+hsa-miR-509-3-5p|1	hsa-miR-509-5p|0.999276	hsa-miR-4418|0.998103
+hsa-miR-4306|1	hsa-miR-185|0.999864	hsa-miR-4644|0.997316
+hsa-miR-125b|1	hsa-miR-125a-5p|0.998581	hsa-miR-4319|0.996992
+hsa-miR-1|1	hsa-miR-206|0.999444	hsa-miR-613|0.995405
+hsa-miR-4296|1	hsa-miR-4265|0.997964	hsa-miR-4322|0.996709
+hsa-miR-708|1	hsa-miR-28-5p|0.997515	hsa-miR-3139|0.997034
+hsa-miR-3647-5p|1	hsa-miR-3616-5p|0.997425	hsa-miR-573|0.997023
+hsa-miR-1285|1	hsa-miR-3187-5p|0.997485	hsa-miR-612|0.996347
+hsa-miR-4498|1	hsa-miR-762|0.996601	hsa-miR-4492|0.996429
+hsa-miR-3155|1	hsa-miR-3155b|0.999715	hsa-miR-484|0.993242
+hsa-miR-761|1	hsa-miR-214|0.996307	hsa-miR-3619-5p|0.996041
+hsa-miR-4739|1	hsa-miR-1321|0.993529	hsa-miR-4756-5p|0.992095
+mean|1	stdv|0.921529
+hsa-miR-518a-5p|1	hsa-miR-527|1
+hsa-miR-133b|1	hsa-miR-133a|0.999987
+hsa-miR-520g|1	hsa-miR-520h|0.999985
+hsa-miR-501-3p|1	hsa-miR-502-3p|0.999976
+hsa-miR-107|1	hsa-miR-103a|0.999976
+hsa-miR-4659a-5p|1	hsa-miR-4659b-5p|0.999971
+hsa-miR-376a|1	hsa-miR-376b|0.999948
+hsa-miR-33a|1	hsa-miR-33b|0.99993
+hsa-miR-4659a-3p|1	hsa-miR-4659b-3p|0.999927
+hsa-miR-27b|1	hsa-miR-27a|0.999915
+hsa-miR-1260|1	hsa-miR-1260b|0.99991
+hsa-miR-193a-3p|1	hsa-miR-193b|0.999902
+hsa-miR-1255b|1	hsa-miR-1255a|0.999873
+hsa-miR-19b|1	hsa-miR-19a|0.999873
+hsa-miR-514b-3p|1	hsa-miR-514|0.999873
+hsa-miR-499a-3p|1	hsa-miR-499-3p|0.99981
+hsa-miR-135a|1	hsa-miR-135b|0.999774
+hsa-miR-199b-5p|1	hsa-miR-199a-5p|0.999747
+hsa-miR-204|1	hsa-miR-211|0.999718
+hsa-miR-141|1	hsa-miR-200a|0.999624
+hsa-miR-10b|1	hsa-miR-10a|0.999563
+hsa-miR-3689a-3p|1	hsa-miR-3689c|0.999436
+hsa-miR-3940-5p|1	hsa-miR-4507|0.999165
+hsa-miR-143|1	hsa-miR-4770|0.998889
+hsa-miR-374a|1	hsa-miR-374b|0.9988
+hsa-miR-381|1	hsa-miR-300|0.9988
+hsa-miR-631|1	hsa-miR-3661|0.998676
+hsa-miR-524-5p|1	hsa-miR-520d-5p|0.998648
+hsa-miR-575|1	hsa-miR-4676-5p|0.998618
+hsa-miR-4518|1	hsa-miR-1266|0.998585
+hsa-miR-329|1	hsa-miR-362-3p|0.998561
+hsa-miR-655|1	hsa-miR-374c|0.998489
+hsa-miR-1262|1	hsa-miR-4701-3p|0.998376
+hsa-miR-654-5p|1	hsa-miR-541|0.998374
+hsa-miR-507|1	hsa-miR-557|0.998338
+hsa-miR-3652|1	hsa-miR-4430|0.998305
+hsa-miR-1270|1	hsa-miR-620|0.998281
+hsa-miR-548ag|1	hsa-miR-548ai|0.998265
+hsa-miR-4464|1	hsa-miR-4748|0.998263
+hsa-miR-4731-3p|1	hsa-miR-4801|0.998241
+hsa-miR-3942-5p|1	hsa-miR-4703-5p|0.998225
+hsa-miR-520a-5p|1	hsa-miR-525-5p|0.998179
+hsa-miR-4712-5p|1	hsa-miR-770-5p|0.998177
+hsa-miR-221|1	hsa-miR-222|0.998106
+hsa-miR-4651|1	hsa-miR-608|0.998103
+hsa-miR-1271|1	hsa-miR-96|0.998087
+hsa-miR-3622a-3p|1	hsa-miR-3622b-3p|0.998047
+hsa-miR-3913-5p|1	hsa-miR-3122|0.998041
+hsa-miR-1245b-5p|1	hsa-miR-3142|0.998033
+hsa-miR-212|1	hsa-miR-132|0.997991
+hsa-miR-3176|1	hsa-miR-3922-3p|0.997911
+hsa-miR-500b|1	hsa-miR-362-5p|0.997872
+hsa-miR-506|1	hsa-miR-124|0.997786
+hsa-miR-3150b-3p|1	hsa-miR-4784|0.997759
+hsa-miR-519e|1	hsa-miR-515-3p|0.997679
+hsa-miR-4720-5p|1	hsa-miR-4799-3p|0.997675
+hsa-miR-4640-5p|1	hsa-miR-4726-5p|0.997512
+hsa-miR-4653-5p|1	hsa-miR-3921|0.997508
+hsa-miR-3617|1	hsa-miR-641|0.997492
+hsa-miR-548o|1	hsa-miR-1323|0.997439
+hsa-miR-4309|1	hsa-miR-3198|0.997434
+hsa-miR-4514|1	hsa-miR-4692|0.997394
+hsa-miR-449c|1	hsa-miR-2682|0.997267
+hsa-miR-219-5p|1	hsa-miR-4782-3p|0.997169
+hsa-miR-3136-5p|1	hsa-miR-4439|0.997032
+hsa-miR-379|1	hsa-miR-3529|0.996963
+hsa-miR-4287|1	hsa-miR-4685-3p|0.99696
+hsa-miR-4271|1	hsa-miR-4725-3p|0.996937
+hsa-miR-330-5p|1	hsa-miR-326|0.996882
+hsa-miR-1207-5p|1	hsa-miR-4763-3p|0.996794
+hsa-miR-1254|1	hsa-miR-3116|0.996779
+hsa-miR-4701-5p|1	hsa-miR-588|0.996682
+hsa-miR-4667-5p|1	hsa-miR-4700-5p|0.996626
+hsa-miR-920|1	hsa-miR-4300|0.996606
+hsa-miR-3183|1	hsa-miR-4723-3p|0.996583
+hsa-miR-3609|1	hsa-miR-548ah|0.996533
+hsa-miR-5047|1	hsa-miR-1301|0.996516
+hsa-miR-4526|1	hsa-miR-3660|0.996515
+hsa-miR-452|1	hsa-miR-4676-3p|0.996388
+hsa-miR-3916|1	hsa-miR-3125|0.99636
+hsa-miR-504|1	hsa-miR-4725-5p|0.996327
+hsa-miR-4419a|1	hsa-miR-4510|0.996208
+hsa-miR-4654|1	hsa-miR-4769-5p|0.995873
+hsa-miR-3972|1	hsa-miR-1202|0.995729
+hsa-miR-4673|1	hsa-miR-4645-5p|0.995477
+hsa-miR-1293|1	hsa-miR-4483|0.995455
+hsa-miR-4516|1	hsa-miR-4434|0.995423
+hsa-miR-4288|1	hsa-miR-632|0.995304
+hsa-miR-4741|1	hsa-miR-4675|0.994753
+hsa-miR-4298|1	hsa-miR-1302|0.994674
+hsa-miR-4270|1	hsa-miR-4441|0.9938
+hsa-miR-21|1	hsa-miR-590-5p|0.992518
+hsa-miR-190|1	hsa-miR-190b|0.989508
+hsa-miR-503|1	hsa-miR-4524|0.747839
+hsa-miR-3163|1
+hsa-miR-548aa|1
+hsa-miR-450b-5p|1
+hsa-miR-3133|1
+hsa-miR-664|1
+hsa-miR-543|1
+hsa-miR-570|1
+hsa-miR-203|1
+hsa-miR-4269|1
+hsa-miR-4796-3p|1
+hsa-miR-646|1
+hsa-miR-3120-3p|1
+hsa-miR-548an|1
+hsa-miR-4719|1
+hsa-miR-4251|1
+hsa-miR-3074-5p|1
+hsa-miR-101|1
+hsa-miR-3143|1
+hsa-miR-153|1
+hsa-miR-3910|1
+hsa-miR-4477a|1
+hsa-miR-636|1
+hsa-miR-3119|1
+hsa-miR-3148|1
+hsa-miR-600|1
+hsa-miR-4776-3p|1
+hsa-miR-4428|1
+hsa-miR-4671-3p|1
+hsa-miR-3973|1
+hsa-miR-128|1
+hsa-miR-4495|1
+hsa-miR-548n|1
+hsa-miR-590-3p|1
+hsa-miR-4672|1
+hsa-miR-4795-3p|1
+hsa-miR-186|1
+hsa-miR-579|1
+hsa-miR-4328|1
+hsa-miR-4755-5p|1
+hsa-miR-4324|1
+hsa-miR-539|1
+hsa-miR-875-3p|1
+hsa-miR-4738-3p|1
+hsa-miR-205|1
+hsa-miR-3618|1
+hsa-miR-4666-3p|1
+hsa-miR-4282|1
+hsa-miR-3613-3p|1
+hsa-miR-142-5p|1
+hsa-miR-548l|1
+hsa-miR-576-5p|1
+hsa-miR-218|1
+hsa-miR-320e|1
+hsa-miR-3658|1
+hsa-miR-3065-5p|1
+hsa-miR-380|1
+hsa-miR-488|1
+hsa-miR-935|1
+hsa-miR-3160-5p|1
+hsa-miR-3140-5p|1
+hsa-miR-499-5p|1
+hsa-miR-1825|1
+hsa-miR-516b|1
+hsa-miR-4797-5p|1
+hsa-miR-451b|1
+hsa-miR-433|1
+hsa-miR-3180-5p|1
+hsa-miR-4635|1
+hsa-miR-3064-3p|1
+hsa-miR-3663-5p|1
+hsa-miR-3173-5p|1
+hsa-miR-22|1
+hsa-miR-1207-3p|1
+hsa-miR-3607-3p|1
+hsa-miR-4699-3p|1
+hsa-miR-545|1
+hsa-miR-448|1
+hsa-miR-9|1
+hsa-miR-494|1
+hsa-miR-944|1
+hsa-miR-3673|1
+hsa-miR-513b|1
+hsa-miR-4773|1
+hsa-miR-3924|1
+hsa-miR-4272|1
+hsa-miR-1179|1
+hsa-miR-605|1
+hsa-miR-194|1
+hsa-miR-371b-5p|1
+hsa-miR-4766-5p|1
+hsa-miR-487a|1
+hsa-miR-4477b|1
+hsa-miR-376c|1
+hsa-miR-4257|1
+hsa-miR-1200|1
+hsa-miR-670|1
+hsa-miR-4277|1
+hsa-miR-4756-3p|1
+hsa-miR-3129-3p|1
+hsa-miR-4716-5p|1
+hsa-miR-767-3p|1
+hsa-miR-1324|1
+hsa-miR-3685|1
+hsa-miR-582-3p|1
+hsa-miR-4435|1
+hsa-miR-3926|1
+hsa-miR-643|1
+hsa-miR-4760-5p|1
+hsa-miR-4487|1
+hsa-miR-1290|1
+hsa-miR-4685-5p|1
+hsa-miR-24|1
+hsa-miR-760|1
+hsa-miR-550a|1
+hsa-miR-1912|1
+hsa-miR-382|1
+hsa-miR-4473|1
+hsa-miR-512-3p|1
+hsa-miR-582-5p|1
+hsa-miR-3646|1
+hsa-miR-3647-3p|1
+hsa-miR-3121-3p|1
+hsa-miR-4422|1
+hsa-miR-3714|1
+hsa-miR-603|1
+hsa-miR-4643|1
+hsa-miR-4789-3p|1
+hsa-miR-656|1
+hsa-miR-4496|1
+hsa-miR-4427|1
+hsa-miR-4452|1
+hsa-miR-4436b-5p|1
+hsa-miR-4255|1
+hsa-miR-1294|1
+hsa-miR-4329|1
+hsa-miR-4668-5p|1
+hsa-miR-3168|1
+hsa-miR-4778-3p|1
+hsa-miR-1299|1
+hsa-miR-4696|1
+hsa-miR-4276|1
+hsa-miR-4724-5p|1
+hsa-miR-642b|1
+hsa-miR-197|1
+hsa-miR-4708-3p|1
+hsa-miR-1253|1
+hsa-miR-4709-3p|1
+hsa-miR-4642|1
+hsa-miR-3145-3p|1
+hsa-miR-4252|1
+hsa-miR-3925-5p|1
+hsa-miR-4503|1
+hsa-miR-1224-5p|1
+hsa-miR-4751|1
+hsa-miR-3928|1
+hsa-miR-874|1
+hsa-miR-3120-5p|1
+hsa-miR-873|1
+hsa-miR-3672|1
+hsa-miR-3160-3p|1
+hsa-miR-508-5p|1
+hsa-miR-4474-3p|1
+hsa-miR-4722-3p|1
+hsa-miR-4728-5p|1
+hsa-miR-4646-5p|1
+hsa-miR-4443|1
+hsa-miR-4674|1
+hsa-miR-635|1
+hsa-miR-510|1
+hsa-miR-3909|1
+hsa-miR-219-1-3p|1
+hsa-miR-4724-3p|1
+hsa-miR-943|1
+hsa-miR-3605-5p|1
+hsa-miR-1267|1
+hsa-miR-4694-5p|1
+hsa-miR-1289|1
+hsa-miR-924|1
+hsa-miR-1292|1
+hsa-miR-4522|1
+hsa-miR-139-5p|1
+hsa-miR-498|1
+hsa-miR-340|1
+hsa-miR-561|1
+hsa-miR-129-5p|1
+hsa-miR-4803|1
+hsa-miR-2113|1
+hsa-miR-4307|1
+hsa-miR-569|1
+hsa-miR-1264|1
+hsa-miR-508-3p|1
+hsa-miR-4732-3p|1
+hsa-miR-145|1
+hsa-miR-1236|1
+hsa-miR-4753-3p|1
+hsa-miR-4768-5p|1
+hsa-miR-3182|1
+hsa-miR-4274|1
+hsa-miR-1184|1
+hsa-miR-3158-5p|1
+hsa-miR-3919|1
+hsa-miR-3942-3p|1
+hsa-miR-136|1
+hsa-miR-4502|1
+hsa-miR-4684-3p|1
+hsa-miR-5096|1
+hsa-miR-759|1
+hsa-miR-4318|1
+hsa-miR-4693-5p|1
+hsa-miR-4802-3p|1
+hsa-miR-4699-5p|1
+hsa-miR-3128|1
+hsa-miR-593|1
+hsa-miR-4303|1
+hsa-miR-4677-3p|1
+hsa-miR-4720-3p|1
+hsa-miR-1910|1
+hsa-miR-455-3p|1
+hsa-miR-4436a|1
+hsa-miR-4438|1
+hsa-miR-665|1
+hsa-miR-339-5p|1
+hsa-miR-4421|1
+hsa-miR-548s|1
+hsa-miR-4256|1
+hsa-miR-3157-3p|1
+hsa-miR-365|1
+hsa-miR-3674|1
+hsa-miR-4279|1
+hsa-miR-558|1
+hsa-miR-3161|1
+hsa-miR-3190|1
+hsa-miR-1343|1
+hsa-miR-516a-3p|1
+hsa-miR-1252|1
+hsa-miR-4656|1
+hsa-miR-1827|1
+hsa-miR-149|1
+hsa-miR-188-3p|1
+hsa-miR-4268|1
+hsa-miR-4691-5p|1
+hsa-miR-3146|1
+hsa-miR-1304|1
+hsa-miR-4520a-3p|1
+hsa-miR-4330|1
+hsa-miR-4779|1
+hsa-miR-4425|1
+hsa-miR-3135|1
+hsa-miR-934|1
+hsa-miR-28-3p|1
+hsa-miR-660|1
+hsa-miR-144|1
+hsa-miR-1183|1
+hsa-miR-410|1
+hsa-miR-513a-3p|1
+hsa-miR-548p|1
+hsa-miR-330-3p|1
+hsa-miR-137|1
+hsa-miR-4484|1
+hsa-miR-3065-3p|1
+hsa-miR-3663-3p|1
+hsa-miR-522|1
+hsa-miR-3977|1
+hsa-miR-4697-3p|1
+hsa-miR-3692|1
+hsa-miR-544b|1
+hsa-miR-3200-5p|1
+hsa-miR-1226|1
+hsa-miR-4519|1
+hsa-miR-1205|1
+hsa-miR-3678-3p|1
+hsa-miR-489|1
+hsa-miR-4762-3p|1
+hsa-miR-3177-5p|1
+hsa-miR-34c-3p|1
+hsa-miR-3194-5p|1
+hsa-miR-4718|1
+hsa-miR-3974|1
+hsa-miR-892a|1
+hsa-miR-4711-3p|1
+hsa-miR-337-3p|1
+hsa-miR-671-5p|1
+hsa-miR-216a|1
+hsa-miR-216b|1
+hsa-miR-4420|1
+hsa-miR-526b|1
+hsa-miR-3611|1
+hsa-miR-1261|1
+hsa-miR-4804-3p|1
+hsa-miR-4480|1
+hsa-miR-4700-3p|1
+hsa-miR-4459|1
+hsa-miR-4733-5p|1
+hsa-miR-4683|1
+hsa-miR-3651|1
+hsa-miR-3159|1
+hsa-miR-299-5p|1
+hsa-miR-552|1
+hsa-miR-626|1
+hsa-miR-297|1
+hsa-miR-4752|1
+hsa-miR-3688-5p|1
+hsa-miR-370|1
+hsa-miR-940|1
+hsa-miR-1909|1
+hsa-miR-3192|1
+hsa-miR-4446-3p|1
+hsa-miR-3064-5p|1
+hsa-miR-3194-3p|1
+hsa-miR-3679-3p|1
+hsa-miR-4763-5p|1
+hsa-miR-1243|1
+hsa-miR-4254|1
+hsa-miR-4790-3p|1
+hsa-miR-591|1
+hsa-miR-584|1
+hsa-miR-592|1
+hsa-miR-1291|1
+hsa-miR-627|1
+hsa-miR-711|1
+hsa-miR-3669|1
+hsa-miR-4471|1
+hsa-miR-296-5p|1
+hsa-miR-4313|1
+hsa-miR-3686|1
+hsa-miR-4698|1
+hsa-miR-3140-3p|1
+hsa-miR-323-3p|1
+hsa-miR-3978|1
+hsa-miR-586|1
+hsa-miR-3938|1
+hsa-miR-4650-3p|1
+hsa-miR-338-3p|1
+hsa-miR-4291|1
+hsa-miR-4302|1
+hsa-miR-4742-3p|1
+hsa-miR-4778-5p|1
+hsa-miR-3908|1
+hsa-miR-548v|1
+hsa-miR-4494|1
+hsa-miR-3667-3p|1
+hsa-miR-1279|1
+hsa-miR-431|1
+hsa-miR-375|1
+hsa-miR-3123|1
+hsa-miR-3620|1
+hsa-miR-578|1
+hsa-miR-581|1
+hsa-miR-4531|1
+hsa-miR-890|1
+hsa-miR-764|1
+hsa-miR-4795-5p|1
+hsa-miR-103b|1
+hsa-miR-331-3p|1
+hsa-miR-4695-5p|1
+hsa-miR-2861|1
+hsa-miR-4731-5p|1
+hsa-miR-4688|1
+hsa-miR-4758-3p|1
+hsa-miR-532-3p|1
+hsa-miR-4437|1
+hsa-miR-3188|1
+hsa-miR-485-5p|1
+hsa-miR-3152-5p|1
+hsa-miR-361-3p|1
+hsa-miR-3152-3p|1
+hsa-miR-1305|1
+hsa-miR-659|1
+hsa-miR-548k|1
+hsa-miR-4528|1
+hsa-miR-4261|1
+hsa-miR-4666-5p|1
+hsa-miR-889|1
+hsa-miR-622|1
+hsa-miR-491-3p|1
+hsa-miR-4316|1
+hsa-miR-4660|1
+hsa-miR-942|1
+hsa-miR-217|1
+hsa-miR-298|1
+hsa-miR-583|1
+hsa-miR-595|1
+hsa-miR-1284|1
+hsa-miR-556-3p|1
+hsa-miR-4769-3p|1
+hsa-miR-4733-3p|1
+hsa-miR-4766-3p|1
+hsa-miR-3121-5p|1
+hsa-miR-633|1
+hsa-miR-3166|1
+hsa-miR-3124-3p|1
+hsa-miR-4793-3p|1
+hsa-miR-4717-3p|1
+hsa-miR-3185|1
+hsa-miR-1256|1
+hsa-miR-3126-3p|1
+hsa-miR-4679|1
+hsa-miR-4717-5p|1
+hsa-miR-4753-5p|1
+hsa-miR-4521|1
+hsa-miR-4645-3p|1
+hsa-miR-892b|1
+hsa-miR-4327|1
+hsa-miR-501-5p|1
+hsa-miR-4689|1
+hsa-miR-4299|1
+hsa-miR-4456|1
+hsa-miR-3668|1
+hsa-miR-3935|1
+hsa-miR-1245|1
+hsa-miR-4461|1
+hsa-miR-2115|1
+hsa-miR-4742-5p|1
+hsa-miR-637|1
+hsa-miR-150|1
+hsa-miR-4713-5p|1
+hsa-miR-2467-5p|1
+hsa-miR-4682|1
+hsa-miR-661|1
+hsa-miR-4633-5p|1
+hsa-miR-1193|1
+hsa-miR-653|1
+hsa-miR-4772-5p|1
+hsa-miR-4455|1
+hsa-miR-3199|1
+hsa-miR-4789-5p|1
+hsa-miR-548g|1
+hsa-miR-4799-5p|1
+hsa-miR-3653|1
+hsa-miR-4694-3p|1
+hsa-miR-4709-5p|1
+hsa-miR-936|1
+hsa-miR-223|1
+hsa-miR-485-3p|1
+hsa-miR-623|1
+hsa-miR-3665|1
+hsa-miR-515-5p|1
+hsa-miR-1276|1
+hsa-miR-4761-5p|1
+hsa-miR-1206|1
+hsa-miR-4786-3p|1
+hsa-miR-2278|1
+hsa-miR-2116|1
+hsa-miR-616|1
+hsa-miR-138|1
+hsa-miR-129-3p|1
+hsa-miR-4687-5p|1
+hsa-miR-651|1
+hsa-miR-3664-5p|1
+hsa-miR-1231|1
+hsa-miR-346|1
+hsa-miR-556-5p|1
+hsa-miR-3145-5p|1
+hsa-miR-4540|1
+hsa-miR-7|1
+hsa-miR-576-3p|1
+hsa-miR-4314|1
+hsa-miR-765|1
+hsa-miR-4747-5p|1
+hsa-miR-3175|1
+hsa-miR-486-3p|1
+hsa-miR-3127-3p|1
+hsa-miR-2355-3p|1
+hsa-miR-371b-3p|1
+hsa-miR-3975|1
+hsa-miR-4703-3p|1
+hsa-miR-4774-3p|1
+hsa-miR-1258|1
+hsa-miR-4512|1
+hsa-miR-4253|1
+hsa-miR-615-5p|1
+hsa-miR-127-5p|1
+hsa-miR-4470|1
+hsa-miR-4263|1
+hsa-miR-3688-3p|1
+hsa-miR-4517|1
+hsa-miR-4762-5p|1
+hsa-miR-142-3p|1
+hsa-miR-3153|1
+hsa-miR-3925-3p|1
+hsa-miR-1248|1
+hsa-miR-4530|1
+hsa-miR-1245b-3p|1
+hsa-miR-3913-3p|1
+hsa-miR-31|1
+hsa-miR-4705|1
+hsa-miR-628-5p|1
+hsa-miR-630|1
+hsa-miR-4305|1
+hsa-miR-511|1
+hsa-miR-4684-5p|1
+hsa-miR-4504|1
+hsa-miR-542-3p|1
+hsa-miR-4768-3p|1
+hsa-miR-1303|1
+hsa-miR-4774-5p|1
+hsa-miR-4757-5p|1
+hsa-miR-500a|1
+hsa-miR-548u|1
+hsa-miR-649|1
+hsa-miR-3907|1
+hsa-miR-4680-5p|1
+hsa-miR-4777-5p|1
+hsa-miR-4691-3p|1
+hsa-miR-3670|1
+hsa-miR-3138|1
+hsa-miR-147|1
+hsa-miR-4755-3p|1
+hsa-miR-3202|1
+hsa-miR-4476|1
+hsa-miR-4292|1
+hsa-miR-378g|1
+hsa-miR-4649-3p|1
+hsa-miR-4284|1
+hsa-miR-939|1
+hsa-miR-491-5p|1
+hsa-miR-642a|1
+hsa-miR-4646-3p|1
+hsa-miR-4424|1
+hsa-miR-4638-3p|1
+hsa-miR-4436b-3p|1
+hsa-miR-876-3p|1
+hsa-miR-4489|1
+hsa-miR-3200-3p|1
+hsa-miR-520f|1
+hsa-miR-3671|1
+hsa-miR-4310|1
+hsa-miR-4325|1
+hsa-miR-182|1
+hsa-miR-3941|1
+hsa-miR-466|1
+hsa-miR-767-5p|1
+hsa-miR-2052|1
+hsa-miR-140-3p|1
+hsa-miR-4445|1
+hsa-miR-4280|1
+hsa-miR-3927|1
+hsa-miR-548m|1
+hsa-miR-4652-3p|1
+hsa-miR-634|1
+hsa-miR-323b-3p|1
+hsa-miR-4281|1
+hsa-miR-425|1
+hsa-miR-3189-3p|1
+hsa-miR-502-5p|1
+hsa-miR-384|1
+hsa-miR-490-5p|1
+hsa-miR-549|1
+hsa-miR-4704-3p|1
+hsa-miR-1227|1
+hsa-miR-432|1
+hsa-miR-146b-3p|1
+hsa-miR-3135b|1
+hsa-miR-1246|1
+hsa-miR-4533|1
+hsa-miR-4794|1
+hsa-miR-3154|1
+hsa-miR-4326|1
+hsa-miR-3654|1
+hsa-miR-4320|1
+hsa-miR-4662a-3p|1
+hsa-miR-1273d|1
+hsa-miR-4423-3p|1
+hsa-miR-3126-5p|1
+hsa-miR-548t|1
+hsa-miR-4511|1
+hsa-miR-2053|1
+hsa-miR-3591-5p|1
+hsa-miR-4432|1
+hsa-miR-4686|1
+hsa-miR-3976|1
+hsa-miR-938|1
+hsa-miR-3127-5p|1
+hsa-miR-3918|1
+hsa-miR-2110|1
+hsa-miR-512-5p|1
+hsa-miR-122|1
+hsa-miR-328|1
+hsa-miR-369-3p|1
+hsa-miR-4729|1
+hsa-miR-421|1
+hsa-miR-188-5p|1
+hsa-miR-4446-5p|1
+hsa-miR-342-3p|1
+hsa-miR-224|1
+hsa-miR-412|1
+hsa-miR-4677-5p|1
+hsa-miR-1263|1
+hsa-miR-1286|1
+hsa-miR-4267|1
+hsa-miR-4505|1
+hsa-miR-2355-5p|1
+hsa-miR-4690-3p|1
+hsa-miR-3664-3p|1
+hsa-miR-4297|1
+hsa-miR-619|1
+hsa-miR-4793-5p|1
+hsa-miR-3945|1
+hsa-miR-4417|1
+hsa-miR-3179|1
+hsa-miR-3662|1
+hsa-miR-607|1
+hsa-miR-4735-5p|1
+hsa-miR-505|1
+hsa-miR-891b|1
+hsa-miR-155|1
+hsa-miR-2467-3p|1
+hsa-miR-3920|1
+hsa-miR-3915|1
+hsa-miR-4710|1
+hsa-miR-1976|1
+hsa-miR-4736|1
+hsa-miR-3136-3p|1
+hsa-miR-4764-3p|1
+hsa-miR-338-5p|1
+hsa-miR-4760-3p|1
+hsa-miR-4668-3p|1
+hsa-miR-888|1
+hsa-miR-202|1
+hsa-miR-4311|1
+hsa-miR-4708-5p|1
+hsa-miR-335|1
+hsa-miR-4650-5p|1
+hsa-miR-4433|1
+hsa-miR-3614-5p|1
+hsa-miR-577|1
+hsa-miR-3157-5p|1
+hsa-miR-599|1
+hsa-miR-4283|1
+hsa-miR-4294|1
+hsa-miR-1283|1
+hsa-miR-548c-3p|1
+hsa-miR-4775|1
+hsa-miR-568|1
+hsa-miR-544|1
+hsa-miR-377|1
+hsa-miR-4468|1
+hsa-miR-1972|1
+hsa-miR-618|1
+hsa-miR-1915|1
+hsa-miR-513a-5p|1
+hsa-miR-495|1
+hsa-miR-1208|1
+hsa-miR-802|1
+hsa-miR-4782-5p|1
+hsa-miR-922|1
+hsa-miR-4727-5p|1
+hsa-miR-4463|1
+hsa-miR-140-5p|1
+hsa-miR-4678|1
+hsa-miR-499a-5p|1
+hsa-miR-1273f|1
+hsa-miR-105|1
+hsa-miR-587|1
+hsa-miR-580|1
+hsa-miR-1224-3p|1
+hsa-miR-4469|1
+hsa-miR-4680-3p|1

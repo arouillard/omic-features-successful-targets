@@ -1,0 +1,2038 @@
+2,4,6-trichlorophenyl-4'-aminophenyl ether|1	2-(((3,5-dichlorophenyl)carbamoyl)oxy)-2-methyl-3-butenoic acid|1	4-hydroxybenzophenone|1	Chromans|1	Nafoxidine|1	p-tert-amylphenol|1	tetralin|1	3-benzylidene camphor|0.866025	oxybenzone|0.866025	phantolid|0.866025	Leptophos|0.866025	Phenylphosphonothioic Acid, 2-Ethyl 2-(4-Nitrophenyl) Ester|0.866025	chloropropylate|0.866025	dichlofenthion|0.866025	ethion|0.866025	ethyl bromophos|0.866025	tolclofos-methyl|0.866025	pendimethalin|0.774597	prothiophos|0.774597	isopropyl 4,4'-dibromobenzilate|0.707107	quinalphos|0.707107	isobutylparaben|0.774597	3',5'-dichloro-2-hydroxy-2-methylbut-3-enanilide|0.707107	galaxolide|0.707107	enzacamene|0.707107	di-n-octyl phthalate|0.774597	dicyclohexyl phthalate|0.774597	2,4-dihydroxybenzophenone|0.707107	2',3',4',5'-tetrachloro-4-biphenylol|0.707107
+gigantol|1	Durapatite|0.816497	Glycosides|0.816497	diarctigenin|0.816497	bis(3-hydroxyphenyl) diselenide|0.92582	Ferrosoferric Oxide|0.707107	T 614|0.707107	ZD 7155|0.707107	xyloglucan|0.707107	glyceryl-isoeugenol|0.730297	prunetin|0.771517	cacospongionolide B|0.730297	soyasaponin I|0.866025	flavokawain A|0.816497	petrosaspongiolide m|0.771517	eutigoside C|0.707107	nitroflurbiprofen|0.730297	CNB 001|0.771517	delphinidin 3-O-glucopyranoside|0.707107	pinitol|0.730297	paeonol|0.707107	5,6,7-trimethoxyflavone|0.738549	manoalide|0.707107	sorbinil|0.721688	septilin|0.707107	neoechinulin A|0.738549	Carthamus yellow|0.707107
+coralyne|1	meclocycline|1	methylbenzethonium|1	Digitoxigenin|0.92582	cephaelin|0.92582	lanatoside C|0.92582	Strophanthins|0.92582	Propidium|0.935414	alexidine|0.935414	Proscillaridin|0.857143	palmatine|0.881917	Methionine Sulfoximine|0.881917	Oxytetracycline|0.881917	Benzethonium|0.83666	Digoxigenin|0.845154	Dequalinium|0.797724
+yu ping feng san|1	molybdenum chloride|0.75	cardamonin|0.75	spantide II|0.75	beta-1,3-glucan|0.75	Gur|0.75	praeruptorin A|0.75
+5-methylfurtrethonium|1	furtrethonium|1	(4-(m-Chlorophenylcarbamoyloxy)-2-butynyl)trimethylammonium Chloride|0.866025	Gallamine Triethiodide|0.816497	5-(3-(3-hydroxyphenoxy)azetidin-1-yl)-5-methyl-2,2-diphenylhexanamide|0.894427	N-Methylscopolamine|0.894427	brucine N-oxide|0.894427	Quinuclidinyl Benzilate|0.894427	Pipecuronium|0.894427	tiotropium|0.816497	Crotalid Venoms|0.816497	Scopolamine Derivatives|0.894427	WIN 51708|0.75	WIN 62577|0.75	oxotremorine M|0.755929
+bismuth tripotassium dicitrate|1	ranitidine bismuth citrate|1	Ethylmercury Compounds|0.866025	GW0072|0.866025	orazipone|0.816497	butyloxycarbonyl-phenylalanyl-leucyl-phenylalanyl-leucyl-phenylalanine|0.75	catalpol|0.755929
+versalide|1	Lasofoxifene|0.866025
+Agglutinins|1	gamisopoonghwanghyul-tang|0.8	2-(4-((dimethylamino)carbonyl)-3-fluorophenyl)-alpha,alpha-dimethyl-N-1,3,4-thiadiazol-2-yl-5H-(1)benzopyrano(2,3-b)pyridin-5-acetamide|0.774597	5-2-(4-((ethylmethylamino)carbonyl)-3-fluorophenyl)-alpha,alpha-dimethyl-N-1,3,4-thiadiazol-2-yl-5H-(1)benzopyrano(2,3-b)pyridin-5-acetamide|0.774597	4-(3-Butoxy-4-methoxybenzyl)-2-imidazolidinone|0.745356
+benzophenone|1
+Dichlorodiphenyldichloroethane|1
+fenbuconazole|1
+sophocarpine|1
+praeruptorin E|1	lycorine|0.755929	praeruptorin C|0.755929
+monotropein|1
+N-(3-hydroxy-1-(naphthalen-1-yl)-1,8,11-trioxa-5-azatridecan-13-yl)-6-(2-(2-(4,4-difluoro-4,4a-dihydro-5-(thiophen-2-yl)-4-bora-3a,4a-diaza-s-indacene-3-yl)vinyl)phenoxyacetamido)hexanamide|1	broxaterol|1	CGP 20712A|0.866025	cyanopindolol|0.866025	3-(2-ethylphenoxy)-1-(1,2,3,4-tetrahydronaphth-1-ylamino)-2-propanol oxalate|0.774597	BRL 37344|0.774597
+di-n-hexyl phthalate|1	di-n-pentyl phthalate|0.942809	di-n-propylphthalate|0.875	diheptyl phthalate|0.875	dimethyl phthalate|0.801784	phthalic acid|0.755929
+phlorofucofuroeckol A|1	homoorientin|0.721688
+acetyl methyl tetramethyl tetralin|1
+cortisol succinate|1
+hexabrominated diphenyl ether 153|1	pentabrominated diphenyl ether 100|0.801784
+imisopasem manganese|1
+Pancuronium|1	rocuronium|0.953463	Vecuronium Bromide|0.909091
+indatraline|1	D-161 compound|0.866025	phenethylamine|0.816497	Octopamine|0.755929
+4-hydroxybenzyl isothiocyanate|1	iberin|0.866025	benzyl isothiocyanate|0.707107	4-(methylthio)-3-butenyl isothiocyanate|0.816497
+chromium nicotinic acid complex|1	acetoacetic acid|0.866025	4-(acetoxymethylnitrosamino)-1-(3-pyridyl)-1-butanone|0.75	t-butyloxycarbonyl-methionyl-leucyl-phenylalanine|0.75
+toxB protein, Clostridium difficile|1
+pimobendan|1
+homosalate|1
+1-hydroxy-2-naphthoic acid|1	17-hydroxyjolkinolide B|0.755929	sargachromanol G|0.737865
+fraxinellone|1
+Quartz|1
+Choline|1	Methionine|0.981509	Folic Acid|0.972685
+resolvin D1|1	resolvin D2|1	17-hydroxy-4,7,10,13,15,19-docosahexaenoic acid|0.904534
+2-chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo(b,e)(1,4)diazepine|1	Loxapine|1	8-fluoro-12-(4-methylpiperazin-1-yl)-6H-(1)benzothieno(2,3-b)(1,5)benzodiazepine|0.8
+L-826,141|1	trequinsin|1	Roflumilast|0.7396
+A 86929|1	Phenethylamines|0.894427	7-methyl-6,7,8,9,14,15-hexahydro-5H-benz(d)indolo(2,3-g)azecine|0.845154
+N-bromotaurine|1	N-chlorotaurine|1
+propylparaben|1	methylparaben|0.83666	butylparaben|0.858116
+scalaradial|1
+Oxprenolol|1	Acebutolol|0.845154	Pindolol|0.717137
+2,6-diaminohexanoic acid (4-(5-fluorobenzothiazol-2-yl)-2-methylphenyl)amide|1
+Propoxur|1	bendiocarb|0.771517	oxamyl|0.755929
+nectandrin-B|1
+labdanolic acid methyl ester|1
+Aldrin|1	nonachlor|0.755929
+Alum Compounds|1	Aluminum Hydroxide|0.774917	MF59 oil emulsion|0.708918
+arvelexin|1
+4-methylesculetin|1
+BRL 44408|1
+rossicaside B|1	oxidized-L-alpha-1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine|0.707107
+mean|1	stdv|0.760344
+malabaricone B|1	malabaricone C|1
+Benserazide|1	levodopa methyl ester|1
+1-(3',5'-dihydroxyphenoxy)-7-(2'',4'',6''-trihydroxyphenoxy)-2,4,9-trihydroxydibenzo-1,4,-dioxin|1	dieckol|1
+beta-Tocopherol|1	delta-tocopherol|1
+6-isopropoxy-9-oxoxanthene-2-carboxylic acid|1	AH 23848|0.984732
+3-acetyldeoxynivalenol|1	15-acetyldeoxynivalenol|0.92582
+demethoxycurcumin|1	bis(4-hydroxycinnamoyl)methane|0.922958
+huperzine A|1	timosaponin AIII|0.894427
+zopolrestat|1
+4-((4-(4-ethylphenyl)-2,2-dimethyl-(2H)-thiochromen-6-yl)ethynyl)benzoic acid|1	AGN 193109|0.875
+diacetyldichlorofluorescein|1	tricarbonyldichlororuthenium (II) dimer|0.845154
+Sumatriptan|1	Naproxen|0.815207
+2,4,4'-trichlorobiphenyl|1	2,5,2',5'-tetrachlorobiphenyl|0.811107
+sodium bisulfite|1	sodium sulfite|0.790569
+beta-hydroxyisovalerylshikonin|1	lucidone|0.790569
+n-dodecane|1	nonane|0.774597
+Tetrahydronaphthalenes|1	Indans|0.774597
+5,5-dimethyl-3-(3-fluorophenyl)-4-(4-methylsulfonyl)phenyl-2(5H)-furanone|1	Thromboxane B2|0.774597
+bolinaquinone|1
+ethyl-p-hydroxybenzoate|1
+Dextrorphan|1	Oxycodone|0.771517
+Acetic Acid|1	bromochloroacetic acid|0.763096
+tert-butylcatechol|1	4-methylcatechol|0.755929
+Clodronic Acid|1
+Ethionamide|1	Methapyrilene|0.753778
+E804 bisindole|1	lornoxicam|0.75
+Halogenated Diphenyl Ethers|1
+7-(2-(cyclopropylmethoxy)-6-hydroxyphenyl)-5-(3-piperidinyl)-1,4-dihydro-2H-pyrido(2,3-d)(1,3)oxazin-2-one|1
+1-((4-methylsulfonyl)phenyl)-3-trifluoromethyl-5-(4-fluorophenyl)pyrazole|1	DuP 697|0.730297
+1'-acetoxychavicol acetate|1	evodiamine|0.730251
+chromous chloride|1	lead chloride|0.725241
+Antigens|1	Quinoxalines|0.725241
+glucosamine 6-O-sulfate|1
+Aldicarb|1
+phthalic anhydride|1	trimellitic anhydride|0.720577
+tetrachlorodian|1	Polybrominated Biphenyls|0.720577
+captax|1	hexyl cinnamic aldehyde|0.717137
+3,4-Dihydroxyphenylacetic Acid|1	Homovanillic Acid|0.717137
+Particulate Matter|1	Vehicle Emissions|0.714827
+capecitabine|1	doxifluridine|0.714286
+5-(N-methyl-N-isobutyl)amiloride|1	Harmaline|0.714286
+N-(6-methylamino-3-nitrophenyl)-3-(3-indolyl)acrylamide|1	rimexolone|0.707107
+vesnarinone|1	Mexiletine|0.707107
+Dicofol|1
+tephrosin|1
+Tetradecanoylphorbol Acetate|1
+Theophylline|1
+Cycloheximide|1
+tert-Butylhydroperoxide|1
+Phenylephrine|1
+Paclitaxel|1
+monomethylarsonous acid|1
+pseudocumene|1
+caffeic acid phenethyl ester|1
+Quercetin|1
+Cadmium Chloride|1
+Zinc|1
+Carbon Tetrachloride|1
+Reactive Oxygen Species|1
+Estrone|1
+Mustard Gas|1
+olanzapine|1
+Streptozocin|1
+Butylated Hydroxyanisole|1
+Dibutyl Phthalate|1
+Active Hexose Correlated Compound|1
+Calcimycin|1
+N-Formylmethionine Leucyl-Phenylalanine|1
+undecane|1
+CD 437|1
+acetyl-11-ketoboswellic acid|1
+pifithrin|1
+N-acetylsphingosine|1
+MRK 003|1
+entinostat|1
+Dithiothreitol|1
+Riboflavin|1
+15-deoxy-delta(12,14)-prostaglandin J2|1
+Berberine|1
+alpha-Tocopherol|1
+Dactinomycin|1
+Azoxymethane|1
+gemcitabine|1
+BAY 11-7085|1
+nickel sulfate|1
+lipopolysaccharide, E coli O55-B5|1
+Asbestos, Crocidolite|1
+Cobalt|1
+anthra(1,9-cd)pyrazol-6(2H)-one|1
+Simvastatin|1
+W 7|1
+Apigenin|1
+sulforafan|1
+cyanoginosin LR|1
+tyrphostin AG 1478|1
+rottlerin|1
+gefitinib|1
+4-hydroxy-2-nonenal|1
+Endosulfan|1
+DDT|1
+2-Acetylaminofluorene|1
+Phenobarbital|1
+Ritonavir|1
+Isoproterenol|1
+Norepinephrine|1
+Dizocilpine Maleate|1
+Lead|1
+Ammonium Chloride|1
+Copper|1
+Ceramides|1
+zinc chloride|1
+Azathioprine|1
+bicalutamide|1
+N-(2-(4-bromocinnamylamino)ethyl)-5-isoquinolinesulfonamide|1
+Pertussis Toxin|1
+Hydroxyurea|1
+Metribolone|1
+Trientine|1
+Nanotubes, Carbon|1
+Diazinon|1
+ponatinib|1
+Benzene|1
+Plant Oils|1
+2,2',3',4,4',5-hexachlorobiphenyl|1
+Fluoxetine|1
+Paroxetine|1
+Arachidonic Acid|1
+Eicosapentaenoic Acid|1
+3,4,5,3',4'-pentachlorobiphenyl|1
+Diclofenac|1
+NAD|1
+2,4-Dichlorophenoxyacetic Acid|1
+Pravastatin|1
+cerivastatin|1
+Sodium Azide|1
+Carbofuran|1
+Propylthiouracil|1
+Sodium|1
+1,10-phenanthroline|1
+quinoline|1
+Environmental Pollutants|1
+N,N-diacetylcystine|1
+nivalenol|1
+epinastine|1
+Gold Sodium Thiomalate|1
+Gadolinium DTPA|1
+Ovalbumin|1
+Methanol|1
+N-((3-(aminomethyl)phenyl)methyl)ethanimidamide|1
+desflurane|1
+Ceftriaxone|1
+tetramethylthiourea|1
+Polyethyleneimine|1
+2-methoxyoestrone-3-O-sulphamate|1
+Vaccines, Virus-Like Particle|1
+monocyte locomotion inhibitory factor|1
+6-Aminonicotinamide|1
+Antigens, Plant|1
+Chalcones|1
+Gliclazide|1
+Chloranil|1
+Grape Seed Extract|1
+Ubiquinone|1
+Hesperidin|1
+cupric oxide|1
+bazedoxifene|1
+bafilomycin A|1
+Nitrogen Dioxide|1
+Bisoprolol|1
+Clenbuterol|1
+Terbutaline|1
+2-trans-4-trans-decadienal|1
+astaxanthine|1
+lipopolysaccharide A|1
+monascin|1
+curdlan|1
+butane-2,3-dione thiosemicarbazone oxime|1
+rifaximin|1
+aflatoxin B2|1
+Carnosine|1
+fullerene C60|1
+Adenosine|1
+Ribavirin|1
+Nitric Oxide Donors|1
+S-Nitrosoglutathione|1
+4-methylhistamine|1
+Dimaprit|1
+Acetylmuramyl-Alanyl-Isoglutamine|1
+Pam(3)CSK(4) peptide|1
+Isocyanates|1
+Cholera Toxin|1
+Ribomunyl|1
+OMDM-1 cpd|1
+malvidin-3-glucoside|1
+glutamyl-(2-(((3,4-dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)-2H-1-benzopyran-6-yl)oxy)carbonyl)-3-((2-(1H-indol-3-yl)ethyl)amino)-3-oxopropyl)-cysteinyl-glycine sodium salt|1
+endotoxin, Escherichia coli|1
+Roxithromycin|1
+isoeugenol|1
+Tosyllysine Chloromethyl Ketone|1
+Thiopental|1
+neocuproine|1
+ginsenoside Rh1|1
+phenylmethylpyrazolone|1
+Mimosine|1
+Triiodothyronine, Reverse|1
+cerous chloride|1
+fucoidan|1
+fexofenadine|1
+N-((2-(hydroxyaminocarbonyl)methyl)-4-methylpentanoyl)-3-(2'-naphthyl)alanylalanine, 2-aminoethylamide|1
+Monocrotaline|1
+Freund's Adjuvant|1
+Rolipram|1
+Uranium|1
+4-phenylenediamine|1
+Sodium Dodecyl Sulfate|1
+Dinitrochlorobenzene|1
+Toluene 2,4-Diisocyanate|1
+Dermatophagoides pteronyssinus antigen p 1|1
+GDC-0152|1
+Asbestos, Serpentine|1
+benzoquinone|1
+sodium bichromate|1
+Beclomethasone|1
+salmeterol|1
+CAP18 lipopolysaccharide-binding protein|1
+ethylisopropylamiloride|1
+Clonidine|1
+Emetine|1
+Digoxin|1
+Minocycline|1
+Triamcinolone|1
+pomalidomide|1
+N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride|1
+Aminosalicylic Acids|1
+Naphthalenes|1
+Gold|1
+Aminolevulinic Acid|1
+Flavanones|1
+2'-benzoyloxycinnamaldehyde|1
+PD 169316|1
+calycopterin|1
+Allethrin|1
+cadmium telluride|1
+Oligopeptides|1
+linsidomine|1
+Flavonoids|1
+NSC 689534|1
+Zineb|1
+Digitoxin|1
+pyrithione zinc|1
+benzoylcarbonyl-aspartyl-glutamyl-valyl-aspartyl-fluoromethyl ketone|1
+Cladribine|1
+dehydroxymethylepoxyquinomicin|1
+Anisomycin|1
+9-deoxy-delta-9-prostaglandin D2|1
+Prostaglandin D2|1
+Fatty Acids, Nonesterified|1
+Gemfibrozil|1
+Fenofibrate|1
+Cholesterol|1
+Cholesterol, Dietary|1
+anacardic acid|1
+Diosgenin|1
+3-(4-methylphenylsulfonyl)-2-propenenitrile|1
+SN50 peptide|1
+indole-3-carbinol|1
+alpha-naphthoflavone|1
+pregna-4,17-diene-3,16-dione|1
+7,8-diacetoxy-4-methylcoumarin|1
+saikosaponin|1
+4(2'-aminoethyl)amino-1,8-dimethylimidazo(1,2-a)quinoxaline|1
+LR-90|1
+arjunolic acid|1
+2,3,5-trimethyl-6-(12-hydroxy-5,10-dodecadiynyl)-1,4-benzoquinone|1
+Ginkgo biloba extract 761|1
+Excitatory Amino Acid Agents|1
+deguelin|1
+ursolic acid|1
+schizandrol B|1
+L 663536|1
+mycophenolate mofetil|1
+Glycyrrhizic Acid|1
+1,2-Dihydroxybenzene-3,5-Disulfonic Acid Disodium Salt|1
+manganese(III)-tetrakis(4-benzoic acid)porphyrin|1
+Chalcone|1
+garcinol|1
+ropinirole|1
+ciglitazone|1
+baicalein|1
+Catechin|1
+pterostilbene|1
+pyrrolidine dithiocarbamic acid|1
+epigallocatechin gallate|1
+Sulindac|1
+cobaltiprotoporphyrin|1
+tin protoporphyrin IX|1
+Pentoxifylline|1
+Ascorbic Acid|1
+Melatonin|1
+Cyclosporine|1
+polydatin|1
+Trinitrobenzenesulfonic Acid|1
+Zymosan|1
+Chromium|1
+diphenyleneiodonium|1
+vanadyl sulfate|1
+4-(4-fluorophenyl)-2-(4-hydroxyphenyl)-5-(4-pyridyl)imidazole|1
+Acetylcysteine|1
+Dexamethasone|1
+Raloxifene|1
+Lovastatin|1
+farnesyl pyrophosphate|1
+Bucladesine|1
+ferric oxide|1
+Formaldehyde|1
+beta Carotene|1
+bathocuproine sulfonate|1
+cupric chloride|1
+sildenafil|1
+naringenin|1
+Luteolin|1
+puerarin|1
+Emodin|1
+Coumestrol|1
+Estriol|1
+Hexachlorobenzene|1
+Masoprocol|1
+Chlorogenic Acid|1
+Ellagic Acid|1
+perilla alcohol|1
+2-tert-butylhydroquinone|1
+Selenomethionine|1
+allyl sulfide|1
+Oleanolic Acid|1
+4-amino-5-(4-methylphenyl)-7-(tert-butyl)pyrazolo(3,4-d)pyrimidine|1
+Phorbol 12,13-Dibutyrate|1
+Ditiocarb|1
+Maneb|1
+Peroxynitrous Acid|1
+calphostin C|1
+Lithocholic Acid|1
+tauroursodeoxycholic acid|1
+imatinib|1
+sorafenib|1
+beryllium sulfate|1
+Vitamin A|1
+1,3-bis(4-hydroxyphenyl)-4-methyl-5-(4-(2-piperidinylethoxy)phenol)-1H-pyrazole|1
+Bromocriptine|1
+8-Bromo Cyclic Adenosine Monophosphate|1
+Estrogens|1
+mono-(2-ethylhexyl)phthalate|1
+Dieldrin|1
+Lindane|1
+o,p'-DDT|1
+Chlorpyrifos|1
+Monocrotophos|1
+Tea|1
+aniline|1
+1-bromopropane|1
+cumene hydroperoxide|1
+Enalapril|1
+irbesartan|1
+PD 123319|1
+Desoxycorticosterone|1
+Sodium Chloride|1
+Atenolol|1
+ICI 118551|1
+Amphetamine|1
+Levodopa|1
+Clozapine|1
+Risperidone|1
+Lithium|1
+Cytarabine|1
+fucoxanthin|1
+Cholecalciferol|1
+Etoposide|1
+Topotecan|1
+Mitoxantrone|1
+soyasaponin Ab|1
+Peptidoglycan|1
+lipopolysaccharide, E. coli 026-B6|1
+prolinedithiocarbamate|1
+diphenyliodonium|1
+macrophage stimulatory lipopeptide 2|1
+Amino Acids, Peptides, and Proteins|1
+ferrous sulfate|1
+glucan phosphate|1
+dehydroglyasperin C|1
+CPS 49|1
+AM 251|1
+Ketanserin|1
+2,4,2',4'-tetrachlorobiphenyl|1
+atrasentan|1
+epicatechin gallate|1
+Oxytocin|1
+SK&F 81297|1
+allyl isothiocyanate|1
+2,3',4,4',5-pentachlorobiphenyl|1
+decabromobiphenyl ether|1
+Clioquinol|1
+estradiol 3-benzoate|1
+Dacarbazine|1
+Nocodazole|1
+silybin|1
+Diltiazem|1
+rimonabant|1
+Dronabinol|1
+manumycin|1
+Famotidine|1
+Ranitidine|1
+Ketamine|1
+Dihydrotestosterone|1
+Phosphatidic Acids|1
+1,2-bis(2-aminophenoxy)ethane N,N,N',N'-tetraacetic acid acetoxymethyl ester|1
+Egtazic Acid|1
+2-aminoethoxydiphenyl borate|1
+Iloprost|1
+Diethylnitrosamine|1
+2-chloroethyl ethyl sulfide|1
+Dicumarol|1
+LG 100268|1
+palbociclib|1
+alvocidib|1
+Amlodipine|1
+wogonin|1
+Mechlorethamine|1
+selenomethylselenocysteine|1
+Azacitidine|1
+Nitrogen Mustard Compounds|1
+glycitein|1
+aurin|1
+Palmitates|1
+Amiloride|1
+pentabromodiphenyl ether|1
+Xanthine|1
+Gentamicins|1
+Hydrogen Peroxide|1
+Diatrizoate|1
+1H-(1,2,4)oxadiazolo(4,3-a)quinoxalin-1-one|1
+Tocotrienols|1
+sodium nitrate|1
+Cytochalasin B|1
+Dietary Carbohydrates|1
+retinol palmitate|1
+cycloartenol|1
+Benzoyl Peroxide|1
+Pyrogallol|1
+Chitosan|1
+Chloroquine|1
+Mercaptoethanol|1
+Fatty Acids, Unsaturated|1
+fluvastatin|1
+erdosteine|1
+Indinavir|1
+Desoxycorticosterone Acetate|1
+Heparitin Sulfate|1
+PD 173074|1
+Oligomycins|1
+NCX 6560|1
+Semaxinib|1
+protoporphyrin IX|1
+spermine nitric oxide complex|1
+4-(3-(2-propyl-3-hydroxy-4-acetyl)phenoxy)propyloxyphenoxy acetic acid|1
+Probucol|1
+Calcium Chloride|1
+Magnesium Chloride|1
+ML 7|1
+Y 27632|1
+galangin|1
+ginsenoside Rg3|1
+Antimony Sodium Gluconate|1
+Biological Products|1
+2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine|1
+butein|1
+dimethoxycurcumin|1
+coumarin|1
+Cetirizine|1
+terbinafine|1
+Herbicides|1
+Styrene|1
+Sodium Nitrite|1
+Iodoacetamide|1
+Leukotriene D4|1
+2-(4-chloro-6-(2,3-dimethylphenylamino)pyrimidin-2-ylthio)octanoic acid|1
+alpha-pentyl-3-(2-quinolinylmethoxy)benzenemethanol|1
+phosalone|1
+iprodione|1
+(3-(4-(bis(2-chloroethyl)amino)phenyl)-3-propyl)carbamic acid 2-(6-(17-hydroxy-13-methyl-3-oxo-2,3,6,7,8,11,12,13,14,15,16,17-dodecahydro-1H-cyclopenta(a)phenanthren-11-yl)hexylamino)ethyl ester|1
+2,2-di(4-methacryloxyphenyl)propane|1
+fenarimol|1
+4-phenylphenol|1
+triclocarban|1
+Heptachlor Epoxide|1
+Tritolyl Phosphates|1
+enilconazole|1
+Toxaphene|1
+3,3'-dichlorobiphenyl|1
+2,2-bis(4-hydroxyphenyl)-1,1,1-trichloroethane|1
+royal jelly|1
+3,8-dihydroxy-6H-dibenzo(b,d)pyran-6-one|1
+cyhalothrin|1
+Endrin|1
+vinclozolin|1
+bis(4-hydroxyphenyl)sulfone|1
+Dichlorodiphenyl Dichloroethylene|1
+24-hydroxycholesterol|1
+4-hydroxyestradiol|1
+afimoxifene|1
+Toremifene|1
+Polychlorinated Biphenyls|1
+dong quai|1
+Androstenedione|1
+Methyltestosterone|1
+2,2',4,4'-tetrabromodiphenyl ether|1
+tetrabromobisphenol A|1
+3-xylene|1
+bromodichloromethane|1
+Parathion|1
+4,4'-bisphenol F|1
+Praziquantel|1
+Pentamidine|1
+mitragynine|1
+1-(3-chlorophenyl)piperazine|1
+Buspirone|1
+Amitriptyline|1
+Verapamil|1
+Desipramine|1
+Sertraline|1
+Linoleic Acid|1
+Ifosfamide|1
+Mangifera indica extract|1
+lamotrigine|1
+2-naphthol|1
+chrysene|1
+benz(a)anthracene|1
+phenanthrene|1
+2,2'-(hydroxynitrosohydrazono)bis-ethanamine|1
+2,4-dichlorophenol|1
+STO 609|1
+epoxomicin|1
+3,3'-diindolylmethane|1
+Ketoprofen|1
+Zearalenone|1
+Methylenebis(chloroaniline)|1
+efavirenz|1
+Triprolidine|1
+Clobetasol|1
+Nystatin|1
+potassium bromate|1
+mometasone furoate|1
+crizotinib|1
+Terfenadine|1
+KB R7785|1
+Uric Acid|1
+Piroxicam|1
+Chloramphenicol|1
+nefazodone|1
+Fluvoxamine|1
+rosuvastatin|1
+verlukast|1
+Cacodylic Acid|1
+N-Methyl-3,4-methylenedioxyamphetamine|1
+triphenyltin|1
+gossypetin|1
+LY 171883|1
+Cyanamide|1
+4-coumaric acid|1
+fenofibric acid|1
+monobutyl phthalate|1
+22-hydroxycholesterol|1
+TO-901317|1
+GW 501516|1
+Trichloroethylene|1
+Anthracenes|1
+delta-hexachlorocyclohexane|1
+topiramate|1
+gamma-Aminobutyric Acid|1
+Dimercaprol|1
+8-bromocyclic GMP|1
+N-(2(R)-2-(hydroxamidocarbonylmethyl)-4-methylpentanoyl)-L-tryptophan methylamide|1
+Desogestrel|1
+Ethinyl Estradiol|1
+dienogest|1
+Norethindrone|1
+Adenosine Diphosphate|1
+etonogestrel|1
+Phosphatidylserines|1
+Octreotide|1
+Danazol|1
+Estrogens, Conjugated (USP)|1
+imidazole|1
+azelaic acid|1
+chong-myung-tang|1
+Tacrine|1
+Dichlorvos|1
+Pyrilamine|1
+Methomyl|1
+Dimethoate|1
+Mecamylamine|1
+Acetylcholine|1
+Atropine|1
+memoquin|1
+Tropicamide|1
+Ethylnitrosourea|1
+Angiotensin-Converting Enzyme Inhibitors|1
+aluminum phosphide|1
+Glycerol|1
+Pyruvic Acid|1
+Fenoterol|1
+Putrescine|1
+Toxins, Biological|1
+anandamide|1
+Pyrazoles|1
+Aspartame|1
+1-(2-(1-adamantyl)ethyl)-1-pentyl-3-(3-(4-pyridyl)propyl)urea|1
+N-(3-methoxyphenyl)-4-chlorocinnamanilide|1
+lafutidine|1
+arachidonyl dopamine|1
+ropivacaine|1
+Barium|1
+Phosphatidylinositol 4,5-Diphosphate|1
+paricalcitol|1
+Deamino Arginine Vasopressin|1
+Dichlororibofuranosylbenzimidazole|1
+(1-(2-(bis(4-fluorophenyl)methoxy)ethyl)-4-(3-hydroxy-3-phenylpropyl) piperazinyl decanoate)|1
+sarizotan|1
+quinelorane|1
+Quinpirole|1
+Spiperone|1
+Quinolinic Acid|1
+vortioxetine|1
+venlafaxine|1
+Metoclopramide|1
+methoxyacetic acid|1
+Apomorphine|1
+Heroin|1
+Methylphenidate|1
+Terpenes|1
+aroclor 1260|1
+(2-(2',6'-dimethoxy)phenoxyethylamino)methylbenzo-1,4-dioxane|1
+Aristolochic Acids|1
+6-((2-(4-imidazolyl)ethyl)amino)heptanoic acid 4-toluidide|1
+Cisapride|1
+tecastemizole|1
+Tetrodotoxin|1
+MK0626|1
+Glycyrrhetinic Acid|1
+Pregnanolone|1
+9,10-phenanthrenequinone|1
+Diazepam|1
+Flunitrazepam|1
+Benzbromarone|1
+Thiourea|1
+Thiram|1
+Metanephrine|1
+tolcapone|1
+Fluorides|1
+2-(4-(2-carboxyethyl)phenethylamino)-5'-N-ethylcarboxamidoadenosine|1
+1,3-dipropyl-8-cyclopentylxanthine|1
+alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid|1
+Dextromethorphan|1
+Methyl Methanesulfonate|1
+bis(tri-n-butyltin)oxide|1
+Aurothioglucose|1
+Lactic Acid|1
+15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid|1
+Platelet Activating Factor|1
+Edetic Acid|1
+enterotoxin A, Staphylococcal|1
+diphenylcarboxylate|1
+T 0070907|1
+Levamisole|1
+FEC protocol|1
+Chloroform|1
+vinylidene chloride|1
+Silver Nitrate|1
+tamibarotene|1
+Thromboxane A2|1
+kallidin, des-Arg(10)-|1
+cloricromen|1
+allicin|1
+R 121919|1
+Anti-Inflammatory Agents, Non-Steroidal|1
+17-alpha-hydroxy-progesterone caproate|1
+beclomethasone 17-monopropionate|1
+Promethazine|1
+VX-745|1
+lipophosphonoglycan|1
+2-methyl-5-HT|1
+8-Hydroxy-2-(di-n-propylamino)tetralin|1
+dimethylarsinous acid|1
+Chromium Alloys|1
+Croton Oil|1
+Coal Ash|1
+WEB 2086|1
+mecoprop|1
+Phytoestrogens|1
+Nitrites|1
+mevastatin|1
+3-methylquercetin|1
+gallium arsenide|1
+propyl pyrazole triol|1
+Adjuvants, Immunologic|1
+Magnesium Hydroxide|1
+N-t-butyl-n'-tetradecyl-3-tetradecylaminopropionamidine|1
+Sialic Acids|1
+chromium mesoporphyrin|1
+tropisetron|1
+Neostigmine|1
+Oxazolone|1
+Picryl Chloride|1
+Methylene Chloride|1
+Coumarins|1
+INCB018424|1
+oxymatrine|1
+Lipid A|1
+5-dimethylamiloride|1
+resiquimod|1
+Carbamates|1
+beta-Glucans|1
+CpG ODN 1826|1
+imiquimod|1
+Polysaccharides|1
+helenalin|1
+adenosine 5'-O-(3-thiotriphosphate)|1
+amentoflavone|1
+6-Ketoprostaglandin F1 alpha|1
+Allopurinol|1
+N-(4-O-glycerol-3-methoxybenzyl)nonivamide|1
+Alprostadil|1
+Hydrolyzable Tannins|1
+S-methylisothiopseudouronium|1
+3,4-dihydroxyphenylethanol|1
+zileuton|1
+Erythromycin|1
+Air Pollutants|1
+Aluminum Oxide|1
+Cytochalasin D|1
+Methacholine Chloride|1
+lipopolysaccharide, Helicobacter pylori|1
+Anethole Trithione|1
+punarnavine|1
+Antigens, Dermatophagoides|1
+Chlorine|1
+terameprocol|1
+Ionomycin|1
+methyldithiocarbamate|1
+catechol|1
+Budesonide|1
+Leukotriene B4|1
+Albendazole|1
+Puromycin|1
+Antimycin A|1
+Prednisolone|1
+1-iodo-2,4-dinitrobenzene|1
+BXL628|1
+Adenosine-5'-(N-ethylcarboxamide)|1
+ammonium trichloro(dioxoethylene-O,O'-)tellurate|1
+n-tetradecane|1
+Xylenes|1
+Sulfonamides|1
+delphinidin|1
+polylactic acid-polyglycolic acid copolymer|1
+N,N-dimethylsphingosine|1
+aluminum maltolate|1
+baohuoside I|1
+mangostin|1
+Stilbenes|1
+usnic acid|1
+benzyloxycarbonyl-isoleucyl-glutamyl-threonyl-aspartic acid fluoromethyl ketone|1
+lead nitrate|1
+Doxycycline|1
+taurolithocholic acid 3-sulfate|1
+Misoprostol|1
+1-(2-cyano-3,12-dioxooleana-1,9-dien-28-oyl) imidazole|1
+trovafloxacin|1
+nymphayol|1
+flavanone|1
+Glycochenodeoxycholic Acid|1
+Busulfan|1
+Thiotepa|1
+Sorbitol|1
+Palmitic Acid|1
+Dietary Fats|1
+Fructose|1
+Triglycerides|1
+troglitazone|1
+Felodipine|1
+parthenolide|1
+15-deoxyprostaglandin J2|1
+goniothalamin|1
+Magnetite Nanoparticles|1
+licochalcone B|1
+Alloxan|1
+Taurine|1
+Auranofin|1
+azaspirane|1
+Niclosamide|1
+embelin|1
+1,2-Dimethylhydrazine|1
+hesperetin|1
+Diosmin|1
+brucine|1
+Sulfur Dioxide|1
+ferric nitrilotriacetate|1
+Diazoxide|1
+salvianolic acid A|1
+salvianolic acid B|1
+chromic chloride|1
+picolinic acid|1
+Kainic Acid|1
+tempol|1
+5,7-dihydroxy-6-methoxy-2-phenylchromen-4-one|1
+Indomethacin|1
+2,2-bis(4-glycidyloxyphenyl)propane|1
+Vitamin E|1
+Thioctic Acid|1
+Glutathione|1
+Staurosporine|1
+Tacrolimus|1
+alpha-cyano-(3,4-dihydroxy)-N-benzylcinnamide|1
+lipopolysaccharide, Escherichia coli 0111 B4|1
+acetovanillone|1
+piperine|1
+nickel chloride|1
+Iron|1
+SB 203580|1
+U 0126|1
+Calcitriol|1
+arsenic trioxide|1
+Cadmium|1
+Ethanol|1
+zoledronic acid|1
+Mevalonic Acid|1
+Manganese|1
+manganese chloride|1
+Citrinin|1
+cadmium acetate|1
+Patulin|1
+Zinc Sulfate|1
+2-chloro-5-nitrobenzanilide|1
+Hemin|1
+biochanin A|1
+daidzein|1
+morin|1
+caffeic acid|1
+myricetin|1
+Gallic Acid|1
+Dimethylnitrosamine|1
+ochratoxin A|1
+Methylmercury Compounds|1
+dihydrolipoic acid|1
+diallyl disulfide|1
+carnosol|1
+herbimycin|1
+NCX 4040|1
+gamma-Tocopherol|1
+triptolide|1
+xanthohumol|1
+sodium arsenate|1
+AG 1879|1
+mancozeb|1
+S-Nitroso-N-Acetylpenicillamine|1
+1-(4-((2-(2-aminopyrimidin-5-yl)-7-methyl-4-morpholinothieno(3,2-d)pyrimidin-6-yl)methyl)piperazin-1-yl)-2-hydroxypropan-1-one|1
+Butyrates|1
+decitabine|1
+trichostatin A|1
+dasatinib|1
+Protein Kinase Inhibitors|1
+romidepsin|1
+oxaliplatin|1
+geldanamycin|1
+monorden|1
+diethyl maleate|1
+Aluminum|1
+Dinoprost|1
+Simazine|1
+Diethylhexyl Phthalate|1
+Diethylstilbestrol|1
+decamethrin|1
+fenvalerate|1
+nordy|1
+Colchicine|1
+Griseofulvin|1
+Aldosterone|1
+Spironolactone|1
+Losartan|1
+Perindopril|1
+benazepril|1
+candesartan|1
+nebivolol|1
+Superoxides|1
+eplerenone|1
+carvedilol|1
+Dobutamine|1
+Dopamine|1
+Excitatory Amino Acid Agonists|1
+Iron-Dextran Complex|1
+dibenzoylmethane|1
+Vinblastine|1
+Methotrexate|1
+Bee Venoms|1
+zerumbone|1
+tetrandrine|1
+anethole|1
+lipoteichoic acid|1
+Sodium Salicylate|1
+fidarestat|1
+moxifloxacin|1
+Quinazolines|1
+Mn(III) 5,10,15,20-tetrakis(N-methylpyridinium-2-yl)porphyrin|1
+GW 1929|1
+sodium chromate(VI)|1
+Organothiophosphates|1
+Fentanyl|1
+cadmium sulfate|1
+Hypochlorous Acid|1
+lapatinib|1
+Phentolamine|1
+2,2',3,5',6-pentachlorobiphenyl|1
+myricitrin|1
+4'-N-benzoylstaurosporine|1
+Epoprostenol|1
+arachidonyltrifluoromethane|1
+NVP-AEW541|1
+methanandamide|1
+phosphoramidon|1
+ginsenoside Re|1
+1,2-naphthoquinone|1
+Cortisone|1
+ceric oxide|1
+arsenic acid|1
+sphingosine 1-phosphate|1
+7-ketocholesterol|1
+Suramin|1
+Uridine Triphosphate|1
+2-(2-chloro-4-iodophenylamino)-N-cyclopropylmethoxy-3,4-difluorobenzamide|1
+methyl-beta-cyclodextrin|1
+3-(2-hydroxy-4-(1,1-dimethylheptyl)phenyl)-4-(3-hydroxypropyl)cyclohexanol|1
+HU 211|1
+Urethane|1
+Thimerosal|1
+aluminum chloride|1
+titanium dioxide|1
+Morphine|1
+Potassium Chloride|1
+phosphatidylbutanol|1
+KN 62|1
+Calcium|1
+KN 93|1
+Dantrolene|1
+1-Methyl-3-isobutylxanthine|1
+Colforsin|1
+Cyclic AMP|1
+triethylene glycol dimethacrylate|1
+Silver|1
+Phytic Acid|1
+A 771726|1
+Cysteine|1
+Glucocorticoids|1
+Prednisone|1
+5,7-dimethoxyflavone|1
+temozolomide|1
+Methylnitrosourea|1
+indirubin|1
+tanshinone|1
+Organometallic Compounds|1
+Penicillamine|1
+Tunicamycin|1
+Isoflavones|1
+naphthalene|1
+Graphite|1
+Ammonia|1
+Bupropion|1
+arsenic trichloride|1
+CEP-11004|1
+Dichloroacetic Acid|1
+clinofibrate|1
+Enzyme Inhibitors|1
+Vitamin B 12|1
+Carnitine|1
+Iron, Dietary|1
+Amitrole|1
+Reserpine|1
+Methylprednisolone|1
+trans-10,cis-12-conjugated linoleic acid|1
+sodium bisulfide|1
+geranylgeraniol|1
+Proteoglycans|1
+ammonium acetate|1
+Hydroxyl Radical|1
+6-chloro-2,3,4,9-tetrahydro-1H-carbazole-1-carboxamide|1
+arsenic disulfide|1
+Lopinavir|1
+Phenylbutyrates|1
+Naphthyridines|1
+orantinib|1
+SU 5402|1
+Carbonyl Cyanide p-Trifluoromethoxyphenylhydrazone|1
+everolimus|1
+1-hexacosanol|1
+5-(dimethylamino)-N-(3,4-dimethyl-5-isoxazolyl)-1-naphthalenesulfonamide|1
+tin mesoporphyrin|1
+JM 3100|1
+GW0742|1
+Zinc Acetate|1
+S-allylcysteine|1
+2-amino-3,8-dimethylimidazo(4,5-f)quinoxaline|1
+Alendronate|1
+TBE 31|1
+benzyloxycarbonyl-isoleucyl-glutamyl(O-tert-butyl)-alanyl-leucinal|1
+loganin|1
+alpha-viniferin|1
+taxifolin|1
+diphenylarsinic acid|1
+methylmercuric chloride|1
+Ethoxyquin|1
+Isothiocyanates|1
+Tiopronin|1
+bucillamine|1
+chlorobenzene|1
+Fenbendazole|1
+Nitrendipine|1
+Asbestos|1
+Polycyclic Hydrocarbons, Aromatic|1
+Anthralin|1
+Cholic Acid|1
+4-biphenylamine|1
+Ampicillin|1
+nitroaspirin|1
+Heme|1
+naringin|1
+Flupenthixol|1
+montelukast|1
+metolachlor|1
+Aniline Compounds|1
+decursin|1
+tributyl phosphate|1
+fludioxonil|1
+2-phenylphenol|1
+triphenyl phosphate|1
+triadimefon|1
+propiconazole|1
+Benomyl|1
+5,11-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol|1
+icaritin|1
+Phenols|1
+tibolone|1
+4-nonylphenol|1
+4-octylphenol|1
+25-hydroxycholesterol|1
+zearalenol|1
+Androstenediol|1
+Dehydroepiandrosterone|1
+Promegestone|1
+Cortodoxone|1
+Fadrozole|1
+Phenol|1
+Fenitrothion|1
+adefovir dipivoxil|1
+Trazodone|1
+norfluoxetine|1
+1,4-naphthoquinone|1
+1-naphthol|1
+cinnamic acid|1
+Buprenorphine|1
+Methoxsalen|1
+Ondansetron|1
+Yohimbine|1
+Chlorpromazine|1
+Omeprazole|1
+zafirlukast|1
+Cyclophosphamide|1
+Clotrimazole|1
+Ketoconazole|1
+Rifampin|1
+Warfarin|1
+pyridine|1
+pentachlorobenzene|1
+amitraz|1
+benzo(k)fluoranthene|1
+fluoranthene|1
+isoquercitrin|1
+2,3,4,7,8-pentachlorodibenzofuran|1
+alternariol|1
+2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide|1
+3,4,3',4'-tetrachlorobiphenyl|1
+Fenoprofen|1
+1-hydroxypyrene|1
+Farnesol|1
+Flurbiprofen|1
+Mefenamic Acid|1
+Zalcitabine|1
+Nevirapine|1
+Water Pollutants, Chemical|1
+erlotinib|1
+Furosemide|1
+Salicylates|1
+Sterols|1
+1-(5-Isoquinolinesulfonyl)-2-Methylpiperazine|1
+Clarithromycin|1
+6-ethylchenodeoxycholic acid|1
+GW 4064|1
+Bile Acids and Salts|1
+antibiotic G 418|1
+Erythrosine|1
+meloxicam|1
+Nelfinavir|1
+2,4,6-tribromophenol|1
+Miconazole|1
+Nafenopin|1
+Diglycerides|1
+diethyl phthalate|1
+butylbenzyl phthalate|1
+diisononyl phthalate|1
+dibutyldichlorotin|1
+tert-Butyl Alcohol|1
+Isoflurane|1
+Fendiline|1
+gabapentin|1
+felbamate|1
+alpha-hexachlorocyclohexane|1
+Pentobarbital|1
+Menthol|1
+Bicuculline|1
+bosentan|1
+KT 5823|1
+ferric citrate|1
+NuvaRing|1
+staurosporine aglycone|1
+estradiol, norethindrone drug combination|1
+Contraceptives, Oral|1
+norethindrone acetate|1
+norgestimate, ethinyl estradiol drug combination|1
+calmidazolium|1
+testosterone enanthate|1
+aluminum lactate|1
+Oximes|1
+Isoflurophate|1
+methamidophos|1
+Trichlorfon|1
+piperidine|1
+DEET|1
+Organophosphorus Compounds|1
+Malathion|1
+O,O-diethyl O-3,5,6-trichloro-2-pyridyl phosphate|1
+Sarin|1
+Paraoxon|1
+Diphenhydramine|1
+Physostigmine|1
+Tubocurarine|1
+Tetrachloroethylene|1
+Toluene|1
+Bungarotoxins|1
+Carbachol|1
+Scopolamine Hydrobromide|1
+Pregnenolone|1
+S-Adenosylhomocysteine|1
+1-Deoxynojirimycin|1
+Bethanechol|1
+Methyl Parathion|1
+methoctramine|1
+Lisinopril|1
+trandolapril|1
+Ramipril|1
+Sotalol|1
+Nadolol|1
+Labetalol|1
+Spermidine|1
+Enalaprilat|1
+potassium chromate(VI)|1
+p-Methoxy-N-methylphenethylamine|1
+icatibant|1
+palmidrol|1
+virodhamine|1
+resiniferatoxin|1
+iodoresiniferatoxin|1
+3-(4-t-butylphenyl)-N-(2,3-dihydrobenzo(b)(1,4)dioxin-6-yl)acrylamide|1
+Carbon Dioxide|1
+Ruthenium Red|1
+Gadolinium|1
+Lanthanum|1
+5,8,11,14-Eicosatetraynoic Acid|1
+zonisamide|1
+molybdate|1
+Sulfates|1
+4-(2-(5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-naphthalenyl)-1-propenyl)benzoic acid|1
+Vitamin D|1
+alfacalcidol|1
+Phosphorus|1
+Phosphates|1
+3,5,5-trimethylhexanoylferrocene|1
+bromobenzene|1
+benzo(f)quinoline|1
+4,4'-Diisothiocyanostilbene-2,2'-Disulfonic Acid|1
+Flufenamic Acid|1
+Nitrates|1
+Chlorides|1
+Org 41841|1
+3-(4-(4-chlorophenyl-4-hydroxypiperidino)methyl)indole|1
+Piperidines|1
+Aprindine|1
+aripiprazole|1
+Guanosine Triphosphate|1
+stepholidine|1
+Fluphenazine|1
+mirtazapine|1
+quetiapine|1
+Sulpiride|1
+2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine|1
+Methiothepin|1
+tryptamine|1
+Nomifensine|1
+3-amino-1,4-dimethyl-5H-pyrido(4,3-b)indole|1
+Inositol 1,4,5-Trisphosphate|1
+Phosphatidylinositols|1
+Finasteride|1
+moxonidine|1
+Propafenone|1
+Phenoxybenzamine|1
+Lidocaine|1
+Tetraethylammonium|1
+Probenecid|1
+Astemizole|1
+Blood Glucose|1
+olive oil|1
+orlistat|1
+Meclofenamic Acid|1
+oxcarbazepine|1
+Chrysenes|1
+Dydrogesterone|1
+Mibefradil|1
+(N-propargyl-(3R) aminoindan-5-yl)-ethyl methyl carbamate|1
+N-((5-(3-(1-benzylpiperidin-4-yl)propoxy)-1-methyl-1H-indol-2-yl)methyl)-N-methylprop-2-yn-1-amine|1
+Phosphamidon|1
+5-amino-7-(2-phenylethyl)-2-(2-furyl)pyrazolo(4,3-e)-1,2,4-triazolo(1,5-c)pyrimidine|1
+Diethyl Pyrocarbonate|1
+N(6)-cyclopentyladenosine|1
+Thymine|1
+Methadyl Acetate|1
+Naltrexone|1
+Tramadol|1
+Codeine|1
+fumonisin B1|1
+nitrofen|1
+formic acid|1
+Ethylmaleimide|1
+8-oxo-7-hydrodeoxyguanosine|1
+Ethylene Glycol|1
+clobenpropit|1
+8-epi-prostaglandin F2alpha|1
+tetrachloroplatinate|1
+1,6-hexamethylene diisocyanate|1
+gadodiamide|1
+gadolinium chloride|1
+6-(4-fluorophenyl)-2,3-dihydro-5-(4-pyridinyl)imidazo(2,1-b)thiazole|1
+Aziridines|1
+Fluorocarbons|1
+desethylamiodarone|1
+hydroxyethyl methacrylate|1
+Huang Qi|1
+Gonadal Steroid Hormones|1
+Water Pollutants|1
+Ketotifen|1
+FD & C Yellow No. 6|1
+imidazolidinyl urea|1
+Crack Cocaine|1
+Gold Sodium Thiosulfate|1
+Glycosaminoglycans|1
+genipin|1
+Titanium|1
+eriodictyol|1
+K-12 lipopolysaccharide|1
+lipopeptidophosphoglycan|1
+perfluoro-n-nonanoic acid|1
+Biliverdine|1
+FK 565|1
+thieno(2,3-c)isoquinolin-5-one|1
+indirubin-3'-monoxime|1
+pelargonic acid|1
+Peptides|1
+arctigenin|1
+9,10-dihydro-2,5-dimethoxyphenanthrene-1,7-diol|1
+dimemorfan|1
+Propanil|1
+Triterpenes|1
+oleuropein|1
+dinitrobenzenesulfonic acid|1
+jasplakinolide|1
+Thioglycolates|1
+rhein|1
+Pergolide|1
+Isotretinoin|1
+1-Naphthylisothiocyanate|1
+alclometasone dipropionate|1
+enterotoxin B, staphylococcal|1
+Poly I-C|1
+Albuterol|1
+Polystyrenes|1
+Shiga Toxin 1|1
+citral|1
+gamma-sitosterol|1
+malvidin|1
+sirtinol|1
+esculetin|1
+Selegiline|1
+dioscin|1
+T-2 Toxin|1
+3-(5-(2,3-dichlorophenyl)-1H-tetrazol-1-yl)methylpyridine|1
+neohesperidin dihydrochalcone|1
+gedunin|1
+3-methyladenine|1
+AICA ribonucleotide|1
+Oleic Acid|1
+stearic acid|1
+pioglitazone|1
+splitomicin|1
+SC 560|1
+Galactose|1
+N-(N-(3,5-difluorophenacetyl)alanyl)phenylglycine tert-butyl ester|1
+Linoleic Acids, Conjugated|1
+tigecycline|1
+Saponins|1
+N,N,N',N'-tetrakis(2-pyridylmethyl)ethylenediamine|1
+Drugs, Chinese Herbal|1
+nimesulide|1
+lipoxin A4|1
+Metformin|1
+Nitric Oxide|1
+2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one|1
+Sirolimus|1
+Mifepristone|1
+fulvestrant|1
+Tamoxifen|1
+Acetaminophen|1
+Tobacco Smoke Pollution|1
+atorvastatin|1
+1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine|1
+Rotenone|1
+1-Methyl-4-phenylpyridinium|1
+isoliquiritigenin|1
+chelerythrine|1
+1,3-dimethylthiourea|1
+Dimethyl Sulfoxide|1
+sanguinarine|1
+diallyl trisulfide|1
+Glyburide|1
+aristolochic acid I|1
+beta-Naphthoflavone|1
+Nitroglycerin|1
+Chenodeoxycholic Acid|1
+vorinostat|1
+2-butenal|1
+Atrazine|1
+Chlordan|1
+Permethrin|1
+Corticosterone|1
+Pentachlorophenol|1
+perfluorodecanoic acid|1
+olmesartan|1
+telmisartan|1
+Metoprolol|1
+Prazosin|1
+lead acetate|1
+(5-formylfuran-2-yl)methyl 4-hydroxy-2-methylenebutanoate|1
+beta-ionone|1
+5S,12R,18R-trihydroxy-6Z,8E,10E,14Z,16E-eicosapentaenoic acid|1
+Shiga Toxin|1
+ethyl 6-(N-(2-chloro-4-fluorophenyl)sulfamoyl)cyclohex-1-ene-1-carboxylate|1
+calcium silicate|1
+S-ethyl glutathione|1
+tricyclodecane-9-yl-xanthogenate|1
+zaprinast|1
+Aminocaproic Acid|1
+3'-O-(4-benzoyl)benzoyladenosine 5'-triphosphate|1
+oleoylethanolamide|1
+puag-haad|1
+Soman|1
+Shiga Toxin 2|1
+adenosine-3',5'-cyclic phosphorothioate|1
+Baclofen|1
+ciclopirox|1
+ginsenoside Rd|1
+ifenprodil|1
+Raclopride|1
+SCH 23390|1
+tungsten carbide|1
+S-Adenosylmethionine|1
+SR 144528|1
+Acids|1
+Histamine|1
+Naloxone|1
+1-(6-((3-methoxyestra-1,3,5(10)-trien-17-yl)amino)hexyl)-1H-pyrrole-2,5-dione|1
+Piperonyl Butoxide|1
+Arecoline|1
+sulindac sulfone|1
+Phosphatidylcholines|1
+4-phenylbutyric acid|1
+9,10-Dimethyl-1,2-benzanthracene|1
+Arsenic|1
+13-hydroperoxy-9,11-octadecadienoic acid|1
+4-(4'-chlorobenzyloxy)benzyl nicotinate|1
+Betaine|1
+lenalidomide|1
+Fatty Acids|1
+Desmodium gangeticum extract|1
+tetrahydrocurcumin|1
+Fenoldopam|1
+1-hydroxy-2-oxo-3,3-bis(2-aminoethyl)-1-triazene|1
+Heparan Sulfate Proteoglycans|1
+NVP ADW742|1
+platycodin D|1
+Benzoquinones|1
+methyl 2-cyano-3,12-dioxoolean-1,9-dien-28-oate|1
+2,2'-azobis(2-amidinopropane)|1
+ginsenoside Rb1|1
+ferric chloride|1
+Mesalamine|1
+Halothane|1
+Nicorandil|1
+Deferoxamine|1
+ferric ammonium citrate|1
+PCB 180|1
+2,4,6-trichlorophenyl 4-nitrophenyl ether|1
+Hexylresorcinol|1
+Triclosan|1
+WAY-169916|1
+Mestranol|1
+alachlor|1
+8-prenylnaringenin|1
+Clomiphene|1
+ICI 164384|1
+Disulfiram|1
+Pesticides|1
+exemestane|1
+17-alpha-Hydroxyprogesterone|1
+mithramycin A|1
+tribromodiphenyl ether 28|1
+Thyroxine|1
+Triiodothyronine|1
+F2-Isoprostanes|1
+butachlor|1
+vanoxerine|1
+Alprazolam|1
+adinazolam|1
+Nicardipine|1
+Nifedipine|1
+Cannabidiol|1
+Lansoprazole|1
+diosmetin|1
+1-aminopyrene|1
+Zyflamend|1
+formononetin|1
+2-hydroxyestradiol|1
+ezetimibe|1
+Prostaglandins|1
+4,4'-diphenylmethane diisocyanate|1
+Methylene Blue|1
+Tetracycline|1
+Prostaglandins E|1
+etoricoxib|1
+telithromycin|1
+Taurodeoxycholic Acid|1
+Taurocholic Acid|1
+Epirubicin|1
+Insecticides|1
+Ouabain|1
+carbamylhydrazine|1
+Fatty Acids, Omega-3|1
+ZM 241385|1
+nandrolone decanoate|1
+GW 7647|1
+cyclo(Trp-Asp-Pro-Val-Leu)|1
+Cyclic GMP|1
+Pentosan Sulfuric Polyester|1
+estradiol valerate-dienogest|1
+Levonorgestrel|1
+clopidogrel|1
+KMUP 1|1
+estradiol dipropionate|1
+Dihydro-beta-Erythroidine|1
+Cholesterol, HDL|1
+Mevinphos|1
+Triazoles|1
+Fosinopril|1
+quinapril|1
+Spermine|1
+Inositol Phosphates|1
+Sodium Chloride, Dietary|1
+N-(4-hydroxyphenyl)arachidonylamide|1
+benzamil|1
+isopentenyl pyrophosphate|1
+Amikacin|1
+N-(2-chlorophenylpropyl)-1-(3-methoxyphenyl)ethylamine|1
+Dipyridamole|1
+Mazindol|1
+cyanazine|1
+voglibose|1
+Retinaldehyde|1
+scutellarin|1
+2-(1-(3-dimethylaminopropyl)-5-methoxyindol-3-yl)-3-(1H-indol-3-yl)maleimide|1
+Megestrol Acetate|1
+Enkephalin, D-Penicillamine (2,5)-|1
+pyridaben|1
+phenyl-N-tert-butylnitrone|1
+Adrenocorticotropic Hormone|1
+alpha-methylhistamine|1
+phorbol-12-myristate|1
+Carbocysteine|1
+Endotoxins|1
+Tungsten|1
+Polyethylene|1
+Dipyrone|1
+arzanol|1
+vadimezan|1
+calcitonin gene-related peptide (8-37)|1
+CGP 57380|1
+enterotoxin F, Staphylococcal|1
+MC1568|1
+mocetinostat|1
+tangeretin|1
+sesamin|1
+N-(3-(aminomethyl)benzyl)acetamidine|1
+Azithromycin|1
+diarylpropionitrile|1
+Latex|1
+DCB-SLE1|1
+Adenylate Cyclase Toxin|1
+Polymyxin B|1
+Vaticanol B|1
+Aminoimidazole Carboxamide|1
+ethyl N-allyl-N-(2-methyl-3-(4-(4-amidinophenoxycarbonyl)phenyl)propenoyl)aminoacetate methanesulfonate|1
+scoparone|1
+baicalin|1
+ginsenoside M1|1
+3,5-bis(2-fluorobenzylidene)piperidin-4-one|1
+Oligodeoxyribonucleotides|1
+Phenylbutazone|1
+Dust|1
+Betamethasone Valerate|1
+FK 706|1
+hydroxyhydroquinone|1
+formoterol|1
+24,25-Dihydroxyvitamin D 3|1
+Mebendazole|1
+pyrvinium|1
+Betamethasone|1
+Fludrocortisone|1
+Benzalkonium Compounds|1
+Sulfapyridine|1
+Ciprofloxacin|1
+Dihematoporphyrin Ether|1
+PS1145|1
+Scorpion Venoms|1
+geraniol|1
+5,10,15,20-tetrakis(4-sulfonatophenyl)porphyrinato iron(III) chloride|1
+oridonin|1
+3,4,5,4'-tetramethoxystilbene|1
+tetracycline CMT-3|1
+indioside D|1
+Ceruletide|1
+Deoxyglucose|1
+Eugenol|1
+2'-(4-chlorophenyl)-3-(4-chlorophenylidene)-5,10-dimethyl-12-methylene-decahydro-1,2-(1',3'-dioxocyclopenta(c))azuleno(4,5-b)furan-4,11-dione|1
+Methylnitronitrosoguanidine|1
+surfactin peptide|1
+fasudil|1
+Lipids|1
+Phycocyanin|1
+cobalt oxide|1
+Riluzole|1
+Vitamin K 3|1
+Melitten|1
+Humic Substances|1
+gingerol|1
+N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide|1
+zinc protoporphyrin|1
+Galactosamine|1
+Silymarin|1
+Zinc Oxide|1
+cilostazol|1
+Buthionine Sulfoximine|1
+Selenium|1
+Dextran Sulfate|1
+Rutin|1
+Carrageenan|1
+Acetaldehyde|1
+wortmannin|1
+Nicotine|1
+arsenite|1
+geranylgeranyl pyrophosphate|1
+Paraquat|1
+Copper Sulfate|1
+tetrathiomolybdate|1
+Equol|1
+ferulic acid|1
+ebselen|1
+Bilirubin|1
+lycopene|1
+4-((3-bromophenyl)amino)-6,7-dimethoxyquinazoline|1
+Go 6976|1
+Deoxycholic Acid|1
+benzyloxycarbonylleucyl-leucyl-leucine aldehyde|1
+tanespimycin|1
+Malondialdehyde|1
+Pyruvaldehyde|1
+Butyric Acid|1
+Niacinamide|1
+pimagedine|1
+Medroxyprogesterone Acetate|1
+Testosterone|1
+Heptachlor|1
+cyfluthrin|1
+7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide|1
+Benzo(a)pyrene|1
+Soot|1
+torsemide|1
+Dextroamphetamine|1
+Haloperidol|1
+4-(1H-imidazol-1-yl)retinoic acid|1
+Cisplatin|1
+Vincristine|1
+patchouli alcohol|1
+juzentaihoto|1
+Uridine Diphosphate|1
+bicyclol|1
+Enkephalin, Ala(2)-MePhe(4)-Gly(5)-|1
+N-(2-(4-(2-methoxyphenyl)-1-piperazinyl)ethyl)-N-(2-pyridinyl)cyclohexanecarboxamide|1
+Eicosanoids|1
+Ro 31-8220|1
+icariin|1
+cholest-5-en-3 beta,7 alpha-diol|1
+hexabromocyclododecane|1
+letrozole|1
+Homocysteine|1
+capsazepine|1
+Propofol|1
+Adenosine Triphosphate|1
+Sucrose|1
+1-Butanol|1
+Bisphenol A-Glycidyl Methacrylate|1
+methylselenic acid|1
+Carmustine|1
+Brefeldin A|1
+Flame Retardants|1
+N-nitrosomorpholine|1
+Hydrochloric Acid|1
+Dehydroascorbic Acid|1
+cannabidiol hydroxyquinone|1
+coenzyme Q10|1
+cis-9, trans-11-conjugated linoleic acid|1
+ciprofibrate|1
+ginsenoside Rg1|1
+5H-benzo(4,5)cyclohepta(1,2-b)pyridin-5-one|1
+temsirolimus|1
+Magnesium|1
+betulinic acid|1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide|1
+2-cyano-3,12-dioxooleana-1,9(11)-dien-28-oic acid ethyl amide|1
+gallium nitrate|1
+Ethacrynic Acid|1
+Acetyl Coenzyme A|1
+rebamipide|1
+BAY u9773|1
+Leukotriene E4|1
+1-oleoyl-2-acetoyl-sn-glycerol|1
+leflunomide|1
+2,4,5,2',5'-pentachlorobiphenyl|1
+tetramethrin|1
+Methiocarb|1
+2,2-(2-chlorophenyl-4'-chlorophenyl)-1,1-dichloroethene|1
+Phthalic Acids|1
+butylphen|1
+LY 353381|1
+amurensin G|1
+Zeranol|1
+2,2',4,4',5-brominated diphenyl ether|1
+Imidazoles|1
+Chlordecone|1
+27-hydroxycholesterol|1
+Phloretin|1
+4-cresol|1
+3-(2-(4-(3-chloro-2-methylphenyl)1-piperazinyl)ethyl)5,6-dimethoxy-1-(4-imidazolylmethyl)-1H-indazol dihydrochloride 3.5 hydrate|1
+neferine|1
+Imipramine|1
+Domperidone|1
+alpha-Linolenic Acid|1
+3-hydroxyflavone|1
+pyrene|1
+Dietary Sucrose|1
+Diuron|1
+6-formylindolo(3,2-b)carbazole|1
+Vanadium|1
+benzo(b)fluoranthene|1
+4-nitrophenol|1
+Ibuprofen|1
+Isoniazid|1
+Folfox protocol|1
+Bendroflumethiazide|1
+Sulfobromophthalein|1
+pimecrolimus|1
+Loratadine|1
+S-nitro-N-acetylpenicillamine|1
+12-Hydroxy-5,8,10,14-eicosatetraenoic Acid|1
+tetradecylselenoacetic acid|1
+tributyltin|1
+Phospholipids|1
+Enflurane|1
+sevoflurane|1
+3,4-Methylenedioxyamphetamine|1
+tiotidine|1
+Pentylenetetrazole|1
+4-aminobenzoyl-glycyl-prolyl-leucyl-alanine hydroxamic acid|1
+Gestodene|1
+ethinyl estradiol-desogestrel combination|1
+Contraceptives, Oral, Combined|1
+Dalteparin|1
+Progestins|1
+phosphatidylinositol 3,4,5-triphosphate|1
+tri-o-cresyl phosphate|1
+Fenthion|1
+Carbaryl|1
+Chlorpheniramine|1
+cytisine|1
+methyl arachidonylfluorophosphonate|1
+Piperazines|1
+Strychnine|1
+KT 5720|1
+Hydralazine|1
+Hydrochlorothiazide|1
+Cilazapril|1
+CGP 12177|1
+Alprenolol|1
+butaprost|1
+2-arachidonylglycerol|1
+Benzimidazoles|1
+N-acetyl-4-benzoquinoneimine|1
+Bicarbonates|1
+Ro 41-5253|1
+Niflumic Acid|1
+Methimazole|1
+Flunarizine|1
+manidipine|1
+tetrahydropalmatine|1
+paliperidone|1
+reboxetine|1
+Tyramine|1
+Serotonin|1
+desloratadine|1
+Midazolam|1
+mezerein|1
+Okadaic Acid|1
+Thymidine|1
+Acetylglucosamine|1
+S 28463|1
+lycium barbarum polysaccharide|1
+norisoboldine|1
+Staphylococcal Protein A|1
+rosmarinic acid|1
+withaferin A|1
+Fish Oils|1
+Mycotoxins|1
+astringin|1
+thymoquinone|1
+Hemagglutinins|1
+guggulu extract|1
+18alpha-glycyrrhetinic acid|1
+rofecoxib|1
+Ethinyl Estradiol-Norgestrel Combination|1
+osthol|1
+Picibanil|1
+fluticasone|1
+Triamcinolone Acetonide|1
+didecyldimethylammonium|1
+Sulfamethoxazole|1
+Trifluoperazine|1
+tripterine|1
+gamma-Linolenic Acid|1
+(6-(4-(2-piperidin-1-ylethoxy)phenyl))-3-pyridin-4-ylpyrazolo(1,5-a)pyrimidine|1
+Daunorubicin|1
+Bezafibrate|1
+rosiglitazone|1
+Clofibrate|1
+pirinixic acid|1
+Fenretinide|1
+Tosylphenylalanyl Chloromethyl Ketone|1
+honokiol|1
+Carboplatin|1
+salvin|1
+lithospermate B|1
+dexamethasone 21-phosphate|1
+Mycophenolic Acid|1
+1-nitropyrene|1
+6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid|1
+andrographolide|1
+Aspirin|1
+Dinoprostone|1
+fisetin|1
+Sodium Selenite|1
+Plant Preparations|1
+Mercuric Chloride|1
+Ozone|1
+Glucosamine|1
+Nickel|1
+cobaltous chloride|1
+Carbon Monoxide|1
+phenethyl isothiocyanate|1
+Ziram|1
+acetylleucyl-leucyl-norleucinal|1
+lactacystin|1
+Heparin|1
+Flutamide|1
+Mitotane|1
+Chlorodiphenyl (54% Chlorine)|1
+4-(N-methyl-N-nitrosamino)-1-(3-pyridyl)-1-butanone|1
+perfluorooctanoic acid|1
+Oxidopamine|1
+Pilocarpine|1
+Valproic Acid|1
+Thiosemicarbazones|1
+Sodium Fluoride|1
+benzo(a)pyrene 7,8-dihydrodiol|1
+latrunculin B|1
+Canertinib|1
+CPG-oligonucleotide|1
+Doxazosin|1
+Propolis|1
+Diquat|1
+Peroxides|1
+2,2',4,6,6'-pentachlorobiphenyl|1
+Dapsone|1
+beta-hexachlorocyclohexane|1
+Ivermectin|1
+Methadone|1
+lysophosphatidic acid|1
+sulindac sulfide|1
+acteoside|1
+leptomycin B|1
+chloroacetic acid|1
+Thapsigargin|1
+Puromycin Aminonucleoside|1
+Hyaluronic Acid|1
+1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid|1
+sunitinib|1
+Zidovudine|1
+Chondroitin Sulfates|1
+pamidronate|1
+styrene oxide|1
+allylpyrocatechol|1
+Leukotriene C4|1
+Oils, Volatile|1
+diisobutyl phthalate|1
+tris(1,3-dichloro-2-propyl)phosphate|1
+Testosterone Propionate|1
+moxestrol|1
+2,2',4,4'-tetrahydroxybenzophenone|1
+4-tert-octylphenol|1
+RU 58668|1
+Diarylheptanoids|1
+2-((R)-2-methylpyrrolidin-2-yl)-1H-benzimidazole-4-carboxamide|1
+aflatoxin G1|1
+Citalopram|1
+Clomipramine|1
+Quinidine|1
+Quinine|1
+mangiferin|1
+flavone|1
+Etodolac|1
+Hydrocortisone|1
+Dehydroepiandrosterone Sulfate|1
+Saquinavir|1
+Agmatine|1
+octanoic acid|1
+Clofibric Acid|1
+BQ 788|1
+CPU0213|1
+Vitamin K 2|1
+Cyproterone Acetate|1
+Win 55212-2|1
+1,25-dihydroxyvitamin D|1
+Phencyclidine|1
+brimonidine|1
+Lamivudine|1
+NADP|1
+3-Hydroxybutyric Acid|1
+2-(4-acetoxyphenyl)-2-chloro-N-methylethylamine|1
+hydrazine|1
+2-Propanol|1
+benzamide|1
+Anthocyanins|1
+protocatechuic acid|1
+Dinitrofluorobenzene|1
+donepezil|1
+4-(5-(4-chlorophenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl)benzenesulfonamide|1
+Melphalan|1
+Caffeine|1
+Amiodarone|1
+celecoxib|1
+3,3',4,5'-tetrahydroxystilbene|1
+Thalidomide|1
+Niacin|1
+Bleomycin|1
+dihydroartemisinin|1
+Curcumin|1
+Estradiol|1
+Genistein|1
+Oxygen|1
+Mercury|1
+shogaol|1
+bisindolylmaleimide I|1
+bisindolylmaleimide|1
+bortezomib|1
+Butylated Hydroxytoluene|1
+Vanadates|1
+bisphenol A|1
+Methoxychlor|1
+cypermethrin|1
+perfluorooctane sulfonic acid|1
+Asbestos, Amphibole|1
+valsartan|1
+Mitomycin|1
+Doxorubicin|1
+Alcohols|1
+6-methyl-2-(phenylethynyl)pyridine|1
+oxophenylarsine|1
+Grape Seed Proanthocyanidins|1
+Razoxane|1
+Diamide|1
+Epinephrine|1
+Stavudine|1
+Androgens|1
+Air Pollutants, Occupational|1
+Acrylamide|1
+2,4,5,2',4',5'-hexachlorobiphenyl|1
+nonylphenol|1
+Nortriptyline|1
+Docosahexaenoic Acids|1
+Carbamazepine|1
+Phenytoin|1
+Organoselenium Compounds|1
+norgestimate|1
+Urea|1
+Camptothecin|1
+cinnamic aldehyde|1
+tetramethylpyrazine|1
+Silicon Dioxide|1
+Progesterone|1
+Glucose|1
+chrysin|1
+kaempferol|1
+Ursodeoxycholic Acid|1
+2-(1H-indazol-4-yl)-6-(4-methanesulfonylpiperazin-1-ylmethyl)-4-morpholin-4-ylthieno(3,2-d)pyrimidine|1
+irinotecan|1
+Acrolein|1
+1,4-bis(2-(3,5-dichloropyridyloxy))benzene|1
+Propranolol|1
+furan|1
+Nimodipine|1
+Methylcholanthrene|1
+Potassium|1
+alitretinoin|1
+JP8 aviation fuel|1
+Lithium Chloride|1
+Polyphenols|1
+Nitroprusside|1
+Sulfasalazine|1
+Smoke|1
+chromium hexavalent ion|1
+docetaxel|1
+prochloraz|1
+Cimetidine|1
+hydroquinone|1
+Tetrachlorodibenzodioxin|1
+Thioacetamide|1
+Cocaine|1
+Methamphetamine|1
+Potassium Dichromate|1
+resveratrol|1
+Tretinoin|1
+sodium arsenite|1
+Capsaicin|1
+deoxynivalenol|1
+2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one|1
+Plant Extracts|1
+Fluorouracil|1
+Lipopolysaccharides|1
+Aflatoxin B1|1

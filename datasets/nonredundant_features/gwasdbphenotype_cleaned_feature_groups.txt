@@ -1,0 +1,149 @@
+mean|1	abnormality of limb bone morphology|0.911409	abnormality of finger|0.911409	abnormality of the hand|0.911409	abnormality of phalanx of finger|0.911409	abnormality of digit|0.911409	abnormality of the clavicle|0.911409	abnormality of the costochondral junction|0.911409	abnormality of the ribs|0.911409	costochondral joint sclerosis|0.911409	craniofacial osteosclerosis|0.911409	abnormality of the vertebrae|0.911409	calvarial osteosclerosis|0.911409	abnormality of the thorax|0.911409	abnormality of the rib cage|0.911409	clavicular sclerosis|0.911409	choroidal sclerosis|0.911409	vertebral body sclerosis|0.911409	generalized osteosclerosis|0.911409	cortical sclerosis|0.911409	anomaly of the limb diaphyses|0.911409	patchy sclerosis of radial diaphysis|0.911409	anomaly of the upper limb diaphyses|0.911409	increased density of long bones|0.911409	sclerosis of humeral diaphysis|0.911409	osteosclerosis of the ulna|0.911409	abnormality of the humerus|0.911409	abnormality of the forearm|0.911409	abnormality of the radius|0.911409	sclerosis of metaphyses of the upper limbs|0.911409	abnormality of upper limb metaphysis|0.911409	metaphyseal sclerosis|0.911409	abnormality of the metaphyses|0.911409	abnormality of the ulna|0.911409	abnormality of upper limb bone|0.911409	abnormality of forearm bone|0.911409	sclerotic forearm bones|0.911409	humeral sclerosis|0.911409	diaphyseal sclerosis of the upper limbs|0.911409	diaphyseal sclerosis|0.911409	abnormality of the humeral diaphysis|0.911409	abnormality of radial diaphysis|0.911409	abnormal diaphysis morphology|0.911409	abnormal cortical bone morphology|0.911409	diffuse mesangial sclerosis|0.911409	nephrosclerosis|0.911409	mesangial abnormality|0.911409	abnormality of long bone morphology|0.911409	sclerosis of finger phalanx|0.911409	patchy changes of bone mineral density|0.911409	sclerosis of foot bone|0.911409	patchy osteosclerosis|0.911409	sclerosis of hand bone|0.911409	increased bone mineral density|0.911409	sclerosis of skull base|0.911409	abnormality of the skull base|0.911409	urethral stenosis|0.911409	urethral sphincter sclerosis|0.911409	urethral obstruction|0.911409	abnormal appendicular skeleton morphology|0.911821	abnormality of the upper limb|0.911536	abnormality of limb bone|0.912042	abnormality of the skull|0.911568	abnormality of limbs|0.912549	abnormality of the nephron|0.911143	abnormality of the glomerulus|0.911143	abnormal renal morphology|0.911449	abnormal bone structure|0.918059	glomerulosclerosis|0.910635	abnormality of facial skeleton|0.910846	abnormality of the lower urinary tract|0.909373	abnormality of the urethra|0.909373	abnormal axial skeleton morphology|0.911728	abnormality of the upper arm|0.908862	abnormality of the choroid|0.906213	abnormality of skeletal morphology|0.917756	abnormality of the upper urinary tract|0.923741	abnormality of male external genitalia|0.876301	abnormal external genitalia|0.876301	abnormality of the genitourinary system|0.882049	abnormality of the male genitalia|0.8256	arteriosclerosis|0.910516	abnormality of head or neck|0.883187	abnormality of the skeletal system|0.843956	all|0.951117	abnormality of the vertebral column|0.827578	abnormality of the head|0.812379	abnormal genital system morphology|0.764594	abnormality of bone mineral density|0.773684	stdv|0.833154
+increased blood urea nitrogen (bun)|1	abnormalities of placenta or umbilical cord|0.996386	abnormality of the placenta|0.996386	abnormality of purine metabolism|0.995214	abnormality of nucleobase metabolism|0.995214	abnormality of the biliary system|0.991602	abnormality of prenatal development or birth|0.977509	leukemia|0.909878	azotemia|0.883295	abnormality of nitrogen compound homeostasis|0.865981	abnormal platelet count|0.851891	abnormality of the kidney|0.789924	abnormal hemoglobin|0.790595
+chronic colitis|1	inflammation of the large intestine|1	colitis|1	abnormality of the intestine|0.954733	functional abnormality of the gastrointestinal tract|0.874223	abnormality of the gastrointestinal tract|0.734973	crohn's disease|0.879324	abnormality of the large intestine|0.828357	morphological abnormality of the gastrointestinal tract|0.744952
+abnormality of the integument|1	generalized abnormality of skin|0.940381	abnormality of skin pigmentation|0.861823	abnormality of skin adnexa|0.935624	abnormality of skin morphology|0.904731	cutaneous photosensitivity|0.833794	abnormality of the hair|0.891687	abnormality of the eye|0.787678	abnormality of the skin|0.844136
+nervous tissue neoplasm|1	neuroepithelial neoplasm|1	neuroectodermal neoplasm|1	malignant neoplasm of the central nervous system|1	neoplasm of the central nervous system|0.983696	neoplasm of the nervous system|0.983696	abnormality of the glial cells|0.771677	neoplasm by histology|0.748398
+abnormal electrophysiology of sinoatrial node origin|1	sick sinus syndrome|1	heart block|1	dilated cardiomyopathy|0.965101	cardiomyopathy|0.789975	malformation of the heart and great vessels|0.740946	abnormal atrioventricular conduction|0.787748	arrhythmia|0.769134
+abnormality of the posterior segment of the eye|1	abnormality of the fundus|1	abnormality of the macula|0.837414	macular degeneration|0.837414	age-related macular degeneration|0.837414	abnormality of the retina|0.769545	abnormality of the globe|0.834682	abnormal eye morphology|0.834682
+abnormality of the hypothalamus-pituitary axis|1	abnormality of the pituitary gland|1	elevated follicle stimulating hormone|0.908182	hyperpituitarism|0.908182	gonadotropin excess|0.908182	abnormality of the anterior pituitary|0.951461
+neutropenia|1	abnormal neutrophil cell number|1	leukopenia|0.996757	abnormal leukocyte count|0.926863	abnormality of granulocytes|0.848363	abnormality of neutrophils|0.801991
+primary atrial arrhythmia|1	supraventricular tachycardia|1	atrial fibrillation|1	tachycardia|1	supraventricular arrhythmia|1
+abnormal neuron morphology|1	amyotrophic lateral sclerosis|1	atrophy/degeneration affecting the central nervous system|1	motor neuron atrophy|1	abnormal motor neuron morphology|1
+abnormalities of the peripheral arteries|1	arterial stenosis|1	abnormality of the coronary arteries|0.980563	abnormality of the systemic arterial tree|0.980132	coronary artery disease|0.893069
+genital neoplasm|1	gonadal neoplasm|0.942467	abnormality of the testis|0.847814	testicular neoplasm|0.745274	neoplasm of the genitourinary tract|0.91624
+neoplasm of the respiratory system|1	neoplasm of the lung|0.884844	abnormality of the respiratory system|0.803303	abnormal respiratory system morphology|0.72333	neoplasm by anatomical site|0.766471
+abnormality of the genital system|1
+abnormality of the female genitalia|1	menstrual irregularities|0.790808	puberty and gonadal disorders|0.755544	abnormal internal genitalia|0.833776	abnormality of female internal genitalia|0.725296
+abnormality of carbohydrate metabolism/homeostasis|1	diabetes mellitus|0.766654	type i diabetes mellitus|0.730313	abnormality of the endocrine system|0.793687	abnormal glucose homeostasis|0.750213
+abnormality of the prostate|1	prostate neoplasm|1	prostate cancer|1	abnormality of male internal genitalia|1
+acute myeloid leukemia|1	neoplasm of the colon|1	colon cancer|1	diarrhea|1
+short attention span|1	hyperactivity|1	attention deficit hyperactivity disorder|1	abnormality of movement|0.98276
+abnormality of the pharynx|1	neoplasia of the nasopharynx|1	abnormality of the nasopharynx|1	abnormality of the nose|0.741208
+abnormality of b cell physiology|1	abnormality of b cells|1	abnormal immunoglobulin level|0.996676	abnormality of cell physiology|0.711446
+abnormality of cells of the erythroid lineage|1	abnormality of bone marrow cell morphology|0.990835	abnormality of erythrocytes|0.835905
+abnormality of cardiac ventricle|1	abnormality of the left ventricle|1	ventricular hypertrophy|0.75428	left ventricular hypertrophy|0.75428
+abnormality of the oral cavity|1	abnormality of the tongue|0.738119	abnormality of taste sensation|0.738119	abnormality of the mouth|0.902417
+abnormality of the uvea|1	abnormality of the anterior segment of the eye|0.768792
+abnormality of central motor function|1	parkinsonism|1	abnormality of extrapyramidal motor function|1
+dyslexia|1	specific learning disability|1	neurodevelopmental abnormality|1
+breast carcinoma|1	neoplasm of the breast|1	abnormality of the breast|0.964388
+abnormality of the esophagus|1	esophageal neoplasm|0.985316	esophageal carcinoma|0.96424
+abnormality of the endometrium|1	endometrial carcinoma|1	uterine neoplasm|0.940524
+increased body weight|1	obesity|1	abnormality of body weight|0.911572
+abnormality of skin physiology|1	inflammatory abnormality of the skin|0.983436	psoriasis|0.924593
+abnormal gallbladder morphology|1	cholelithiasis|0.959321	abnormality of the gallbladder|0.863074
+abnormality of the menstrual cycle|1
+abnormality of the cerebral vasculature|1	abnormality of cerebral artery|0.77346	stroke|0.816428
+gastrointestinal inflammation|1
+abnormality of the urinary system physiology|1	nephropathy|0.842441	abnormal renal physiology|0.715804
+abdominal symptom|1	nausea and vomiting|0.796873	headache|0.714316
+bipolar affective disorder|1	mania|1
+ovarian cyst|1	polycystic ovaries|1
+lipid accumulation in hepatocytes|1	hepatic steatosis|1
+dementia|1	mental deterioration|1
+abnormality of circulating fibrinogen|1	abnormality of the common coagulation pathway|1
+abnormality of cation homeostasis|1	abnormality of ion homeostasis|1
+abnormal thrombosis|1	venous thrombosis|0.998674
+abnormal hair quantity|1	alopecia|0.98851
+shortened qt interval|1	prolonged qt interval|0.982302
+abnormality of refraction|1	myopia|0.976411
+cardiac arrest|1	sudden cardiac death|0.968521
+recurrent infections|1	recurrent viral infections|0.956203
+squamous cell carcinoma|1	neoplasm of the skin|0.941607
+cognitive impairment|1	abnormality of higher mental function|0.9364
+abnormality of transition element cation homeostasis|1	abnormality of iron homeostasis|0.931389
+sleep disturbance|1	hypersomnia|0.929422
+immunologic hypersensitivity|1	asthma|0.922923
+abnormal joint morphology|1	rheumatoid arthritis|0.915066
+glioma|1
+alzheimer disease|1	abnormality of nervous system morphology|0.899501
+acute lymphatic leukemia|1	acute leukemia|0.88788
+aortic dilatation|1	abnormality of the aorta|0.872298
+abnormality of circulating hormone level|1	fasting hypoglycemia|0.869521
+neoplasm of head and neck|1
+abnormality of thrombocytes|1
+abnormality of the level of lipoprotein cholesterol|1	abnormality of cholesterol metabolism|0.832678
+abnormality of the abdominal organs|1
+cerebral ischemia|1
+abnormality of the face|1
+lymphoma|1	abnormality of lymphocytes|0.774566
+abnormal emotion/affect behavior|1	depression|0.748992
+abnormality of myeloid leukocytes|1	abnormality of macrophages|0.722085
+abnormality of the urinary system|1
+type ii diabetes mellitus|1
+abnormality of lipid metabolism|1
+abnormality of the cardiovascular system|1
+abnormality of nervous system physiology|1
+congestive heart failure|1
+immunodeficiency|1
+morphological abnormality of the central nervous system|1
+abnormality of the ear|1
+abnormality of leukocytes|1
+abnormality of metabolism/homeostasis|1
+schizophrenia|1
+abnormality of blood and blood-forming tissues|1
+atherosclerosis|1
+psychosis|1
+abnormality of cardiac morphology|1
+myocardial infarction|1
+hearing impairment|1
+abnormality of the myocardium|1
+abnormality of the coagulation cascade|1
+abnormality of coagulation|1
+sleep-wake cycle disturbance|1
+abnormality of the uterus|1
+abnormality of humoral immunity|1
+arthritis|1
+hypertension|1
+abnormality of the nervous system|1
+hypothyroidism|1
+abnormality of the ovary|1
+aneurysm|1
+insulin resistance|1
+abnormality of renin-angiotensin system|1
+urinary tract neoplasm|1
+behavioral abnormality|1
+ischemic stroke|1
+hearing abnormality|1
+abnormality of the thyroid gland|1
+abnormality of the liver|1
+seizures|1
+autistic behavior|1
+abnormality of the vasculature|1
+vitiligo|1
+ulcerative colitis|1
+abnormality of reproductive system physiology|1
+abnormality of thyroid physiology|1
+biliary tract abnormality|1
+chronic hepatitis|1
+hepatitis|1
+chronic obstructive pulmonary disease|1
+abnormality of cardiovascular system physiology|1
+abnormality of the immune system|1
+vasculitis|1
+personality disorder|1
+obstructive lung disease|1
+retinopathy|1
+oral cleft|1
+abnormality of immune serum protein physiology|1
+abnormality of the abdomen|1
+abnormality of acid-base homeostasis|1
+abnormality of the cornea|1
+abnormality of vitamin metabolism|1
+osteoarthritis|1
+neoplasm of the large intestine|1
+abnormality of brain morphology|1
+anemia|1
+hematological neoplasm|1
+functional respiratory abnormality|1
+abnormality of body height|1
+neoplasm of the gastrointestinal tract|1
+abnormality of cellular immune system|1
+abnormal ekg|1
+abnormal eye physiology|1
+phenotypic abnormality|1
+abnormality of circulating protein level|1
+growth abnormality|1
+neoplasm|1
+abnormality of the lung|1
+abnormality of immune system physiology|1

@@ -1,0 +1,2118 @@
+mean|1	stdv|0.896787	integument|0.84158	hematopoietic system|0.804785	viscus|0.820162	blood|0.798305	endocrine gland|0.818891	other source|0.856209	cell culture|0.856317	gland|0.823745	epithelium|0.828322	trunk|0.824087	urogenital system|0.80905	excretory gland|0.805553	cardiovascular system|0.80591	whole body|0.803992	animal|0.803299	hematopoietic cell|0.758896	connective tissue|0.819951	organism form|0.822008	female reproductive system|0.79601	reproductive system|0.792875	tissues, cell types and enzyme sources|0.799899	head|0.792007	vascular system|0.804205	adenocarcinoma cell|0.734534	internal female genital organ|0.794957	respiratory system|0.805687	alimentary canal|0.792572	adult|0.807442	skeletal system|0.794109	central nervous system|0.765739	nervous system|0.767278	blood vessel|0.798155	urinary tract|0.779058	epithelial cell line|0.755659	lung|0.800161	leukocyte|0.737706	brain|0.758895	epithelioma cell|0.751705	carcinoma cell|0.750152	gastrointestinal tract|0.784697	carcinoma cell line|0.711939	lymphoid tissue|0.733927	female reproductive gland|0.754928	embryonic structure|0.795849	urinary system|0.774762	intestine|0.772809	digestive gland|0.745874	kidney|0.7662	heart|0.769557	large intestine|0.748175	muscular system|0.764558	thorax|0.754019	culture medium|0.820066	colon|0.722224	colorectum|0.73305	spinal cord|0.730843	endothelium|0.7357	vertebrate muscular system|0.756087	macrophage|0.721283	embryo|0.759035	blood vessel endothelium|0.720694	plant|0.764761	liver|0.721241	endothelial cell|0.717612	whole plant|0.773714	mucosa|0.774143	shoot|0.724123	uterus|0.729237	artery|0.719582	smooth muscle|0.720497	fibroblast|0.764509	skin|0.747658	epidermis|0.716051	epithelial cell|0.747938	stem|0.714566	abdomen|0.71864	primary culture|0.768283
+adenocarcinoma cell line|1	colonic cell line|0.73554	colonic cancer cell line|0.735264	intestinal cell line|0.738708	colorectal cancer cell line|0.726093	rectal cancer cell line|0.726295	rectal cell line|0.72622	colorectal cell line|0.726099	colorectal adenocarcinoma cell line|0.719823	colonic adenocarcinoma cell line|0.718198	breast|0.748571	breast cell line|0.770686	breast cancer cell line|0.768369	breast adenocarcinoma cell line|0.758459	breast cancer cell|0.70798	mcf-7 cell|0.711461	uterine cervix|0.75527	hela cell|0.708289
+peripheral blood|1	mononuclear cell|0.886669	marrow cell|0.812322	lymphoid cell|0.862849	lymphocyte|0.862912	blood cancer cell|0.790483	t-lymphocyte|0.845819	spleen|0.836526	hematopoietic cell line|0.786385	phagocyte|0.794553	leukemia cell|0.775511	bone marrow|0.758986	mononuclear phagocyte|0.799433	monocyte|0.799787	granulocyte|0.719197	lymph node|0.789206	leukemia cell line|0.749391	b-lymphocyte|0.718469	dendritic cell|0.75921	peripheral blood mononuclear cell|0.803259
+forebrain|1	limbic system|0.919779	telencephalon|0.965345	cerebral cortex|0.955168	cerebral hemisphere|0.961572	hippocampus|0.855767	brain stem|0.782473	cerebral lobe|0.91242	nerve|0.863769	neuron|0.865419	basal ganglion|0.765506	temporal lobe|0.876932	ganglion|0.802556	frontal lobe|0.730594	hindbrain|0.719076	diencephalon|0.732217
+vascular endothelium|1	endothelial cell line|0.842078	vascular endothelial cell|0.940059	huvec cell|0.795513	umbilical vein endothelial cell line|0.795495	umbilical vein|0.717596	connecting stalk|0.714262	umbilical vein endothelial cell|0.725048	microvascular endothelium|0.786696	vasculature|0.730154	microvascular endothelial cell|0.755841
+plumule|1	leaf|0.996987	hypocotyl|0.989993	plant embryo|0.987198	seed|0.960758	root|0.795029	seedling|0.943953	plant form|0.78691	fruit|0.72859	plant reproductive system|0.728528	storage tissue|0.732148	plant parenchyma|0.726649
+pleural fluid|1	myeloid leukemia cell line|0.794753	lymphoma cell|0.716476	lymphoma cell line|0.7182	promonocytic leukemia cell line|0.795974	u-937 cell|0.795974	chronic myeloid leukemia cell line|0.774092	k-562 cell|0.765494	pleura|0.781951
+colonic cancer cell|1	gastrointestinal cancer cell|0.97771	ht-29 cell|0.713797
+leg muscle|1	extensor|0.829576	quadriceps|0.767735	thigh|0.795802	skeletal muscle|0.77362	leg|0.764678	thigh muscle|0.859535	hindlimb|0.712808	soleus|0.809678	flexor|0.711409	gastrocnemius|0.794196
+muscle|1	cardiac muscle|0.773202	plant vessel|0.796241	muscle fibre|0.71696
+internal male genital organ|1	male reproductive system|0.948791	male reproductive gland|0.968126	prostate gland|0.748471	gonad|0.772873	testis|0.770801
+cochlear duct|1	spiral organ|0.977782	cochlea|0.951908	vestibular system|0.915946	vestibular labyrinth|0.915349	inner ear|0.875032	hair cell|0.904916	ear|0.768977	outer hair cell|0.711675
+macroglia|1	glial cell|0.933352	glia|0.930611	astroglia|0.949041	astroglial cell|0.950371	astrocyte|0.951122	oligodendrocyte|0.723663	oligodendroglia|0.722795
+renal corpuscle|1	nephron|0.775293	glomerular epithelium|0.748534	renal glomerular capsule|0.768441	capsular epithelium|0.711629	podocyte|0.709963	renal glomerulus|0.964125	mesangium|0.842205	mesangial cell|0.768306
+brain cell line|1	glioma cell|0.821855	glioblastoma cell line|0.724127	glioblastoma cell|0.70759	astrocytoma cell line|0.768122	brain cancer cell line|0.803869	astrocytoma cell|0.742384	glial cell line|0.868988	glioma cell line|0.848634
+corpus striatum|1	neostriatum|0.789752	midbrain|0.712822	nucleus lentiformis|0.737335
+small intestine|1	ileocecum|0.801785	ileum|0.779885	duodenum|0.767367	jejunum|0.727852	intestinal mucosa|0.723453
+aorta|1	vascular smooth muscle|0.784107	vascular smooth muscle cell|0.758499	aortic smooth muscle|0.716922	smooth muscle cell|0.746303
+blood plasma|1
+umbilical vein endothelium|1
+neutrophil|1	inflammatory cell|0.72721
+bone|1	periosteum|0.840787	osteogenic cell|0.834005	osteoblast|0.783793	cranium|0.741805	craniofacial region|0.7411
+hypothalamic nucleus|1	hypothalamus|0.809763	median nucleus of thalamus|0.741586	paraventricular nucleus|0.738258	thalamic nucleus|0.713784	preoptic area|0.869739	suprachiasmatic nucleus|0.799034
+adipocyte|1	white adipose tissue|0.990803	fat pad|0.990227	brown adipose tissue|0.980722	3t3-l1 cell|0.760216	adipose tissue|0.88948	preadipocyte|0.707349
+teratocarcinoma cell line|1	testicular cancer cell line|0.992159	embryonic carcinoma cell line|0.943467	teratocarcinoma cell|0.891838	testicular cancer cell|0.877048	testicular cell line|0.79612	p-19 cell|0.753693
+synovial tissue|1	synovium|0.954741	tendon sheath|0.953728	synoviocyte|0.755304	tendon|0.804481	synovia|0.744511	synovial fibroblast|0.726772
+myocardium|1	parenchyma|0.741939	heart ventricle|0.73834
+caco-2 cell|1
+aorta thoracica smooth muscle cell line|1	aorta smooth muscle cell line|0.996768	aorta cell line|0.996389	vascular smooth muscle cell line|0.98206	aorta thoracica smooth muscle|0.883706	a7r5 cell|0.855121
+lymphoblastic leukemia cell line|1	acute lymphoblastic leukemia cell line|0.998832	lymphocytic leukemia cell line|0.969807	t-lymphoblastic leukemia cell line|0.942985	lymphoblastoid cell line|0.821757	jurkat cell|0.799401
+metencephalon|1	hypophysis|0.802518	cerebellum|0.99348
+prostate cancer cell line|1	prostate gland cell line|0.995809	prostate gland cancer cell|0.814927	lncap cell|0.807169	pc-3 cell|0.770271
+lung cancer cell line|1	lung cell line|0.919769	non-small cell lung cancer cell line|0.87169	non-small cell lung adenocarcinoma cell line|0.794167	a-549 cell|0.793054	lung cancer cell|0.756094
+adrenal medulla|1	pheochromocytoma cell line|0.900402	pc-12 cell|0.898724	pheochromocytoma cell|0.812185	adrenal gland cancer cell|0.790558	adrenal gland|0.731668
+hra cell|1	ovarian serous adenocarcinoma cell line|0.844419	serous adenocarcinoma cell line|0.799594	cystadenocarcinoma cell line|0.921901	serous adenocarcinoma cell|0.759483	cystadenocarcinoma cell|0.753381
+acute myeloid leukemia cell line|1	hl-60 cell|0.923104
+respiratory epithelium|1	bronchoalveolar system|0.947348	bronchus|0.774979	bronchial epithelium|0.709015
+nonparenchymal liver cell|1	liver reticuloendothelial system|0.796125	reticuloendothelial system|0.774413	kupffer cell|0.768836	hepatic stellate cell|0.794197	pericyte|0.72786
+thalamus|1	amygdala|0.713017	avian pallium|0.712149
+fruit body|1	antheridium|0.945082	gametangium|0.955638	fungus|0.931805	spermatozoid|0.892773
+fibrosarcoma cell line|1	fibrosarcoma cell|0.953165	fibroblastoma cell|0.950542	ht-1080 cell|0.962251	sarcoma cell line|0.718919
+mature ovarian follicle|1	ovarian follicle|0.982898	immature ovarian follicle|0.92624	granulosa cell|0.925974	corpus luteum|0.732118
+brain microvascular endothelial cell line|1	human brain microvascular endothelial cell|0.964999	microvascular endothelial cell line|0.830283	brain endothelium cell line|0.925249	vascular endothelial cell line|0.806558
+stamen|1	phycobiont|0.968665	filament|0.968659	flower|0.780886	inflorescence|0.773183
+pituitary gland tumor cell line|1	pituitary gland cell line|0.996943	pituitary gland tumor cell|0.950826	att-20 cell|0.794524	gh3 cell|0.74781
+alveolus|1	alveolar sac|0.998384	alveolar cell|0.802859	alveolar wall|0.836996	alveolar epithelium|0.834141
+enamel organ|1	tooth germ|0.945491	alveolar bone|0.848163	ameloblast|0.886398	enamel epithelium|0.77633
+sympathetic ganglion|1	sympathetic chain|0.957091	cervical ganglion|0.896175	superior cervical ganglion|0.893956	sympathetic nervous system|0.707968
+epidermal cell|1	stratum spinosum|0.890302	keratinocyte|0.873175
+stele|1	vascular bundle|0.969609	xylem|0.835371	protoxylem|0.786861	vascular tissue|0.764753
+olfactory epithelium|1	nasal mucosa|0.889214	nose|0.882073	respiratory mucosa|0.846869	olfactory receptor neuron|0.724404
+germ layer|1	mesoderm|0.940279	mesenchyme|0.861911	ectoderm|0.763603
+choriocarcinoma cell line|1	chorionic cell line|0.999757	choriocarcinoma cell|0.820911	jeg-3 cell|0.764485	bewo cell|0.714235
+monocytic leukemia cell line|1	macrophage cell line|0.857381	raw-264.7 cell|0.845062	monocytic leukemia cell|0.797999	thp-1 cell|0.790224
+fibroblast cell line|1	embryonic fibroblast cell line|0.890808	nih-3t3 cell|0.812225	embryonic cell line|0.828029
+endometrial cancer cell line|1	endometrial cell line|0.982014	uterine cancer cell|0.721291	uterine adenocarcinoma cell line|0.803137	ishikawa cell|0.737823
+pancreatic cancer cell line|1	pancreatic cell line|0.987149	pancreatic adenocarcinoma cell line|0.75397	pancreatic cancer cell|0.766944	panc-1 cell|0.732504
+hepatoma cell line|1	hep-g2 cell|0.917343	hepatocyte|0.727716	liver cancer cell|0.793633	hepatoma cell|0.792899
+normoblast|1	erythroblast|0.769435	erythrocyte|0.916287	erythroid cell|0.716917	reticulocyte|0.768878
+forelimb|1	arm|0.754759	limb|0.937948
+aortic endothelial cell line|1	aorta endothelium|0.788573	aortic endothelial cell|0.787302	baec cell|0.823908
+thymic cortex|1	thymic medullary epithelium|0.799785	thymic medullary epithelial cell|0.796572	thymic medulla|0.757055	thymic stromal cell|0.713369
+ovary|1
+substantia nigra|1	pars compacta|0.757672	dopaminergic neuron|0.729027
+mda-mb-231 cell|1
+cecum cancer cell line|1	nci-h716 cell|1	intestinal cancer cell line|0.948644	intestinal cancer cell|0.882673
+endocrine pancreas|1	pancreatic islet|0.996065	pancreatic beta cell|0.950964	pancreas|0.801643
+antral mucosa|1	antropyloric mucosa|0.967473	g cell|0.896615	gastric antrum|0.862869
+sacrospinalis|1	longissimus|0.985187	abdominal muscle|0.877132	longissimus thoracis|0.823912
+mucous cell|1	mucous gland|0.946679	goblet cell|0.944097	villus|0.748347
+periglomerular cell|1	mitral cell|0.894882	mitral cell layer|0.854655	glomerular layer|0.876756
+medullary thyroid carcinoma cell|1	medullary thyroid carcinoma cell line|0.79597	medullary carcinoma cell|0.989289	tt cell|0.774889
+adenohypophysis|1	anterior lobe|0.992405	corticotropic cell|0.724338
+neck|1	throat|0.93131	thyroid gland|0.884672
+cingulate gyrus|1	cingulate cortex|0.949826	cerebral gyrus|0.843055	anterior cingulate cortex|0.752982
+fiber|1
+tunica intima vasorum|1	artery wall|0.990905	atherosclerotic plaque|0.752544	neointima|0.73365
+habenular nucleus|1	habenular trigone|0.999725	medial habenular nucleus|0.749459	habenula|0.708292
+gastric mucosa|1	stomach|0.760035	abomasum|0.972712	gastric gland|0.718905
+plant organ culture|1	plant culture|0.829107	hairy root culture|0.734438	root culture|0.887258
+sense organ|1	retina|0.793156	eye|0.912685
+visceral mass|1	ampulla|0.806814	water vascular system|0.806814	soft body part|0.807906
+periodontium|1	tooth|0.783655	gingiva|0.907933	periodontal ligament|0.728465
+subarachnoid space|1	cerebrospinal fluid|0.982788	choroid plexus|0.721878	spinal column|0.711358
+ovary adenocarcinoma cell line|1	ovary cancer cell line|0.791701	skov-3 cell|0.897236	ovary cancer cell|0.716343
+biliary epithelium|1	bile duct epithelium|0.899485	cholangiocyte|0.776364	bile duct|0.72433
+fibroblast-like synoviocyte|1	rheumatoid arthritis disease specific synovial tissue|0.733628	rheumatoid arthritis disease specific fibroblast-like synoviocyte|0.789808
+aortic smooth muscle cell|1
+pollen|1	microspore|0.734066	pollen mother cell|0.718073	microsporangium|0.924678
+myeloma cell line|1	multiple myeloma cell line|0.857175	myeloma cell|0.784191	bone marrow cancer cell|0.720995
+basal forebrain|1	medial septum|0.795388	diagonal band|0.787223	cholinergic neuron|0.764869
+abdominal adipose tissue|1	subcutaneous adipose tissue|0.736375	subcutis|0.722163	peritoneal cavity|0.863818
+bone marrow cell|1	blast cell|0.721184	plasma cell|0.755856
+extensor digitorum longus|1	foot|0.832855
+exocrine pancreas|1	pancreatic acinar cell|0.785791	exocrine acinar cell|0.751909	pancreatic duct|0.764341
+jaw|1	mandible|0.850846
+twitch muscle|1	slow twitch muscle fiber|0.781171	slow muscle|0.737681	skeletal muscle fiber|0.737728
+myoblast|1	myoblast cell line|0.758522	c2c12 cell|0.724517	myotube|0.737557
+meningioma cell|1	psammoma body|0.739896	psammomatous meningioma cell|0.739896	brain cancer cell|0.734925
+preosteoblast|1	osteogenic cell line|0.719224	mc3t3-e1 cell|0.718252
+spermatocyte|1	spermatid|0.734523	spermatogonium|0.729037	primary spermatocyte|0.707152
+fadu cell|1	hypopharyngeal squamous cell carcinoma cell line|1	hypopharyngeal carcinoma cell line|0.999814
+proximale tubular epithelium cell line|1	proximale tubular epithelium|0.996055	hk-2 cell|0.993898
+neuroepithelioma cell line|1	epithelioma cell line|0.999713	sk-n-mc cell|0.980244
+bone cancer cell line|1	bone cell line|0.998919	osteosarcoma cell line|0.979441
+dermatofibroma cell line|1	giant cell tumor cell line|0.996793	dermatofibroma cell|0.976928
+peripheral nerve sheath cancer cell|1	nerve sheath cancer cell|0.999966	malignant peripheral nerve sheath cancer cell|0.968097
+natural killer cell|1	large granular lymphocyte|0.997498	null cell|0.970152
+hand|1	finger|0.998457
+pre-t-lymphocyte|1	thymocyte|0.997806	thymus|0.960211
+sarcoma cell|1	skeletal muscle cancer cell|0.999981	bone cancer cell|0.956643
+ecv-304 cell|1	umbilical cord cell line|1	placental cell line|0.953513
+megasporangium|1	plant ovule|0.997277	megagametophyte|0.945136
+colorectal adenocarcinoma cell|1	rectal cancer cell|0.968756	colonic adenocarcinoma cell|0.952814
+renal medulla cell line|1	imcd cell|0.999391	collecting duct cell line|0.913144
+corolla|1	petal|0.974279	perianth|0.937441
+sporangiophore|1	sporangium|0.980329	floret|0.917457
+bladder transitional cell carcinoma cell line|1	transitional cell carcinoma cell line|0.993193	rt-4 cell|0.902554
+iris|1	iris smooth muscle|0.999811	iris sphincter muscle|0.886762
+sensillum trichodeum|1	seta|0.996354	sensillum|0.885696
+carpel|1	gynoecium|0.997948	style|0.876748
+lymphoblastic leukemia cell|1	acute lymphoblastic leukemia cell|0.997773	lymphocytic leukemia cell|0.876435
+gall bladder cancer cell line|1	gall bladder cell line|0.978104	gbc-sd cell|0.886971
+infundibulum|1	median eminence|0.956691	neurohypophysis|0.904494
+pancreatic ductal adenocarcinoma cell line|1	pancreatic ductal carcinoma cell|0.971917	capan-1 cell|0.877573
+tongue epithelium|1	taste bud|0.938371	tongue|0.908762
+lymphatic endothelium|1	lymphatic endothelial cell|0.945829	lymph vessel|0.900053
+mammary epithelium|1	mammary epithelial cell|0.940356	breast epithelium|0.894832
+culture condition:-grown cell|1	etiolated plant tissue|0.937114	apical hook|0.889679
+sertoli cell|1	supporting cell|0.912894	seminiferous tubule|0.906024
+j-774 cell|1	histiocytic lymphoma cell|0.964782	j-774a.1 cell|0.847671
+terminal bronchiole|1	clara cell|0.976121	bronchiole|0.826301
+pharyngeal cancer cell line|1	pharyngeal cell line|0.999439	nasopharyngeal carcinoma cell line|0.799326
+melanoma cell|1	skin cancer cell|0.993184	melanoma cell line|0.805544
+endogenous progenitor cell|1	endothelial progenitor cell|0.998696	peripheral blood cell|0.79629
+urinary bladder cancer cell line|1	urinary bladder cell line|0.999913	t-24 cell|0.788353
+olfactory lobe|1	olfactory bulb|0.998512
+gizzard|1	ventriculus|0.998543	gizzard smooth muscle|0.774749
+postcentral gyrus|1	somatosensory cortex|0.978675	parietal lobe|0.793204
+peripheral nerve|1	peripheral nervous system|0.890905	sensory cell|0.874747
+renal tubule|1	renal proximal tubule|0.882347
+vitreous chamber of the eye|1	vitreous humor|0.978447	chamber of the eye|0.774946
+chondrogenic cell|1	inner chondrogenic layer of perichondrium|0.995131	perichondrium|0.756882
+bronchogenic carcinoma cell|1	non-small cell lung cancer cell|0.904521
+mastocytoma cell line|1	p-815 cell|0.917281	mastocytoma cell|0.828646
+bmmc cell|1	mast cell line|0.881547	bone marrow cell line|0.857259
+retrocerebral complex|1	corpus cardiacum|0.884042	corpus allatum|0.844026
+tibialis|1	tibialis anterior|0.969654
+theca interna|1	theca folliculi|0.937418	theca cell|0.787126
+eccrine sweat gland|1	merocrine gland|0.999033	sweat gland|0.720324
+hippocampal pyramidal layer|1	pyramidal neuron|0.999818
+venom gland|1	venom apparatus|0.947067	venom|0.765589
+gastric cell line|1	gastric cancer cell line|0.981567	gastric cancer cell|0.724967
+pineal gland|1	epithalamus|0.902918	pinealocyte|0.801946
+brain endothelial cell|1	brain endothelium|0.958171	brain microvascular endothelial cell|0.744219
+hac cell|1	nci-h295r cell|0.853939	nci-h295 cell|0.846223
+follicular thyroid cancer cell line|1	ftc-133 cell|0.91662	follicular thyroid cancer cell|0.76657
+hematopoietic stem cell|1	adult stem cell|0.927355
+lateral ventricle|1	nucleus accumbens|0.783995	brain ventricle|0.896155
+cos cell|1	cv-1 cell|0.844172	cos-7 cell|0.834315
+cervical adenocarcinoma cell line|1
+medullary collecting duct|1	inner medullary collecting duct|0.924255	collecting duct|0.738508
+electric organ|1	tail|0.915061	electrocyte|0.745522
+atrium|1	right atrium|0.865399	left atrium|0.794086
+cartilage|1	chondrocyte|0.899051	articular cartilage|0.759772
+penis|1	external male genital organ|0.885686	prepuce|0.773072
+secondary oocyte|1	primary oocyte|0.858354	zona pellucida|0.793983
+bronchial epithelial cell|1
+oral squamous cell carcinoma cell line|1	head and neck squamous cell carcinoma cell line|0.723568	oral cancer cell line|0.922434
+sporozoan form|1	trophozoite|0.866188	protozoan form|0.778198
+placenta|1	trophoblast|0.72803	fetus|0.915466
+foreskin fibroblast cell line|1	hs-68 cell|0.879593	skin fibroblast cell line|0.760419
+corneal epithelium|1	corneal epithelial cell|0.864288	cornea|0.769041
+amnion epithelial cell line|1	fl cell|0.828107	amniotic cell line|0.789862
+metaphloem|1	protophloem|0.823946	phloem|0.791236
+inner ear vestibulum|1	saccule|0.867054	utricle|0.747867
+apical meristem|1	shoot tip|0.903831	root tip|0.707277
+odontoblast|1	dental pulp|0.885965	dentin|0.718264
+nucleus pulposus|1	intervertebral disc|0.862586	annulus fibrosus|0.731402
+blastula|1	blastocyst|0.748023
+osteoclast|1
+umbilical cord|1
+mesenchymal cell|1
+caudate putamen|1
+ovarian surface epithelium|1	ovary epithelium|0.873834	ovarian surface epithelial cell|0.710134
+visual cortex|1	occipital lobe|0.873125	striate cortex|0.707801
+vastus lateralis|1
+cranial nerve|1	vagus nerve|0.818082	trigeminal nerve|0.742444
+neuroblastoma cell|1	neuroblastoma cell line|0.803105	sh-sy5y cell|0.741028
+pre-b acute lymphoblastic leukemia cell line|1	nalm-6 cell|0.79204	pre-b acute lymphoblastic leukemia cell|0.741613
+eosinophilic leukemia cell|1	eosinophilic leukemia cell line|0.789292	eol-1 cell|0.725322
+supraoptic nucleus|1
+pulmonary artery endothelial cell line|1	bpaec cell|0.754149	hpaec cell|0.728982
+microglia|1
+oral epithelium|1	oral epithelial cell|0.738146	oral mucosa|0.731794
+uterine endometrium|1
+u-87mg cell|1
+intestinal epithelium|1
+stria terminalis|1
+cochlear ganglion|1	modiolus|1
+22rv-1 cell|1	cwr-22 cell|1
+gastrinoma cell|1	pancreatic islet cancer cell|1
+fungus form|1	thallus|1
+acute megakaryocytic leukemia cell line|1	cmk cell|1
+nasal squamous cell carcinoma cell line|1	rpmi-2650 cell|1
+henles loop cell line|1	talh cell|1
+interrenal cell|1	interrenal gland|1
+t-47 cell|1	t-47d cell|1
+c6 glioma cell|1	osteoclastoma cell|0.999982
+amyloid plaque|1	alzheimer disease specific cell type|0.999645
+lamina epithelialis mucosa|1	submucosal gland|0.999553
+hep-2 cell|1	laryngeal cell line|0.999446
+spinal ganglion|1	peripheral ganglion|0.999203
+htc cell|1	hepatoma ascites cell line|0.999053
+cervical squamous cell carcinoma cell line|1	siha cell|0.997845
+neuropil|1	deutocerebrum|0.997645
+latex|1	laticifer|0.997485
+t-lymphocyte cell line|1	pbmc cell line|0.997389
+embryonic kidney cell line|1	hek-293 cell|0.99706
+adrenal cortex cell line|1	y-1 cell|0.996231
+renal epithelium cell line|1	rk-13 cell|0.995357
+mammary gland cell line|1	mammary gland tumor cell line|0.994918
+embryoid body|1	germ cell cancer cell|0.993651
+ankle joint|1	hinge joint|0.993177
+cervical mucosa|1	decidua|0.992431
+silique|1	fruit capsule|0.992224
+external female genital organ|1	female pudendum|0.992125
+myelencephalon|1	medulla oblongata|0.991888
+trigeminal ganglion|1	cranial ganglion|0.991648
+apud cell|1	enteroendocrine cell|0.990274
+umbilical artery endothelium|1	umbilical artery endothelial cell|0.989765
+enteric plexus|1	myenteric plexus|0.98927
+thymoma cell|1	thymic cancer cell|0.989023
+breast invasive ductal carcinoma cell|1	mammary ductal carcinoma cell|0.988776
+swim bladder|1	gas bladder|0.988548
+epiblast|1	germinal disc|0.985295
+tongue cancer cell line|1	tongue cell line|0.980254
+cervical cell line|1	cervical cancer cell line|0.977087
+er-1 cell|1	erpp cell|0.976625
+m-07e cell|1	m-07 cell|0.976608
+vocal fold|1	glottis|0.976141
+burkitt lymphoma cell line|1	burkitt lymphoma cell|0.975432
+retinoblastoma cell|1	eye cancer cell|0.975329
+leaf epidermis|1	leaf lamina|0.971034
+saphenous vein endothelium|1	saphenous vein endothelial cell|0.968224
+esophageal cancer cell line|1	esophageal cell line|0.967963
+invertebrate mandible|1	mandibular incisor|0.966415
+corpus cavernosum clitoridis|1	corpus cavernosum penis|0.963497
+gut mucosa|1	gut cavity|0.962803
+hairy cell leukemia cell line|1	mo-b cell|0.962536
+vaginal cell line|1	hmv-ii cell|0.961412
+cns cell line|1	cad cell|0.959113
+antenna|1	antennal gland|0.956936
+thymus lymphoma cell line|1	bw-5147 cell|0.9549
+enteric nervous system|1	gut wall|0.953311
+ovary epithelium cell line|1	ovarian surface epithelial cell line|0.952004
+coelom|1	mesothelium|0.951491
+basal cell|1	stratum basale|0.950377
+adult t-cell lymphoma cell|1	t-cell lymphoma cell|0.948795
+cerebral artery|1	middle cerebral artery|0.94773
+elt-3 cell|1	uterine leiomyoma cell line|0.946501
+blood serum|1	serum|0.946331
+detrusor|1	bladder wall|0.944435
+neuroma cell|1	neurilemoma cell|0.943567
+mandibular condyle|1	mandibular ramus|0.938969
+lateral geniculate nucleus|1	lateral geniculate body|0.938423
+ewing's sarcoma cell|1	ewing's family tumor cell|0.938331
+left ventricle|1
+leydig cell line|1	tm-3 cell|0.937012
+sk-mel-28 cell|1	sk-mel cell|0.935736
+retinal ganglion cell|1	ganglion cell layer|0.935497
+bv-2 cell|1	microglial cell line|0.934491
+nci-h460 cell|1	large cell lung cancer cell line|0.933975
+iliac artery endothelial cell|1	iliac artery endothelium|0.929626
+cribriform plate|1	ethmoid bone|0.929479
+ring stage|1	erythrocytic stage|0.92874
+renal cancer cell line|1	renal cell carcinoma cell line|0.928335
+bundle sheath|1	bundle sheath cell|0.927891
+pacemaker cell|1	sinus node|0.925977
+renal pyramid|1	renal papilla|0.924932
+glomerular endothelial cell|1	glomerular endothelium|0.924629
+capillary endothelial cell|1	capillary endothelium|0.924611
+nidopallium|1	high vocal center|0.921602
+vascular cancer cell|1	hemangioendothelioma cell|0.921597
+arterial endothelial cell|1	arterial endothelium|0.920871
+coelomocyte|1	coelomic fluid|0.91905
+pulmonary artery endothelial cell|1	pulmonary artery endothelium|0.918683
+oxyntic cell|1
+iec-6 cell|1	small intestine cell line|0.916434
+respiratory epithelium cell line|1	bronchial epithelial cell line|0.915483
+venous endothelial cell|1	venous endothelium|0.914757
+chorion|1	chorionic villus|0.913195
+mucilage|1	plant mucous cell|0.91235
+retinal ganglion cell line|1	rgc-5 cell|0.910037
+nci-h226br cell|1	nci-h226 cell|0.909288
+l-929 cell|1	supportive connective tissue|0.908872
+sertoli cell line|1	tm-4 cell|0.908241
+gastric adenocarcinoma cell line|1	ags cell|0.907046
+diaphragm|1	thorax muscle|0.90375
+coronary artery smooth muscle cell|1	coronary artery smooth muscle|0.901803
+follicular dendritic cell|1	lymphoid follicle|0.899354
+cardiac purkinje fiber|1	cardiac muscle fiber|0.899304
+amnion epithelium|1	amnion epithelial cell|0.897504
+autonomic nervous system|1
+laterodorsal thalamic nucleus|1	pulvinar|0.895431
+adipocyte cell line|1	preadipocyte cell line|0.894478
+esophageal squamous cell carcinoma cell|1	esophageal cancer cell|0.893592
+bhk cell|1	bhk-21 cell|0.890988
+globus pallidus|1
+l-6 myoblast cell|1	skeletal muscle cell line|0.886454
+amniotic cavity|1	amniotic fluid|0.885908
+gingival cell line|1	hgf cell|0.885486
+hacat cell|1	keratinocyte cell line|0.885169
+non-hodgkin lymphoma cell line|1	mantle cell lymphoma cell|0.882793
+plant tumor tissue|1	hairy root|0.881607
+talus|1	tarsal bone|0.88121
+act-1 cell|1	anaplastic thyroid cancer cell line|0.879691
+tracheobronchial epithelial cell|1	tracheobronchial epithelium|0.878572
+myoepithelial cell|1	myoepithelium|0.87687
+mh1c1 cell|1	morris hepatoma cell|0.876501
+abdominal ganglion|1	visceral hump|0.876385
+cerebellar purkinje cell|1	cerebellar cortex|0.87567
+oc cell|1	plant cell line|0.875087
+branch|1	stolon|0.87447
+corneal fibroblast cell line|1	sirc cell|0.871566
+corneal cell line|1	hce cell|0.868792
+epibranchial|1	gill arch|0.867818
+nerve cord|1	ventral nerve cord|0.867668
+juxtaglomerular apparatus|1	juxtaglomerular cell|0.865069
+giant cell carcinoma cell|1	giant cell carcinoma cell line|0.863101
+luteal cell|1
+thyroid cell line|1	thyroid cancer cell line|0.860708
+arachnoid mater|1	leptomeninx|0.860655
+thyroid cartilage|1	laryngeal cartilage|0.860432
+acute myeloid leukemia cell|1	myeloid leukemia cell|0.85773
+conjunctiva|1	eyelid|0.8555
+buccal epithelial cell|1	buccal epithelium|0.85423
+lung epithelial cell|1	lung epithelium|0.852975
+gastric epithelial cell|1	gastric epithelium|0.849011
+inferior vena cava|1	vena cava|0.847517
+hamstring muscle|1	biceps|0.846511
+outer plexiform layer|1	horizontal cell|0.845694
+leydig cell|1	interstitial cell|0.844342
+archenteron|1	blastopore|0.839361
+lung squamous cell carcinoma cell line|1	sk-mes-1 cell|0.838258
+uterine leiomyosarcoma cell line|1	sk-ut-1b cell|0.836849
+heart endothelial cell|1	heart endothelium|0.833087
+imr-90 cell|1	fetal cell line|0.832142
+lens epithelium|1	lens|0.832103
+mesenteric lymph node|1	mesentery|0.831978
+ependymocyte|1	ependymal epithelium|0.83081
+cardiomyocyte cell line|1	cardiac muscle cell line|0.828297
+exocrine gland|1	salivary gland|0.827282
+erythroleukemia cell line|1	erythroleukemia cell|0.824842
+rbl-1 cell|1	basophilic leukemia cell line|0.824665
+hodgkin lymphoma cell line|1	km-h2 cell|0.824233
+hmepc cell|1	mammary epithelial cell line|0.817086
+s2 cell|1	hybridoma cell line|0.816957
+uterine endometrial cancer cell|1
+bud|1	limb bud|0.814994
+inflorescence meristem|1	plant primordium|0.814687
+growth phase culture|1	stationary phase culture|0.813738
+peritoneum|1
+squamous cell carcinoma cell line|1
+root nodule|1
+olfactory tract|1	anterior olfactory nucleus|0.798728
+oocyte|1	germ cell|0.79862
+leiomyosarcoma cell line|1	ddt1-mf-2 cell|0.798529
+megakaryocyte|1	megakaryoblast|0.797894
+cerebellar granule cell|1	granule cell|0.792595
+retinoblastoma cell line|1	y-79 cell|0.79222
+ewing's sarcoma family tumor cell line|1	ewing's sarcoma cell line|0.791157
+small intestine epithelium|1	enterocyte|0.78578
+inferior olivary complex|1	oliva|0.783967
+gastric fundus|1	fundic mucosa|0.783915
+anaplastic large cell lymphoma cell|1	anaplastic large cell lymphoma cell line|0.782952
+submandibular ganglion|1	parasympathetic ganglion|0.782685
+right ventricle|1
+ink|1	ink gland|0.778358
+fourth ventricle|1	ventricular zone|0.778151
+cyst|1	body wall|0.774541
+embryonic neural stem cell|1	neural stem cell|0.774181
+fin|1	pectoral fin|0.774122
+mouth|1
+wing|1	feather|0.772473
+hip|1	hip joint|0.769963
+medial geniculate nucleus|1	medial geniculate body|0.767212
+rhabdomyosarcoma cell|1	rhabdomyosarcoma cell line|0.766613
+coronary artery|1
+b-lymphoblastoma cell|1	b-lymphoblastoid cell line|0.765953
+invertebrate muscular system|1	flight muscle|0.765421
+bxpc-3 cell|1
+cervicovaginal fluid|1	uterine fluid|0.763457
+bronchial smooth muscle cell|1	bronchial smooth muscle|0.762894
+zona glomerulosa|1	adrenal cortex|0.755505
+caudate nucleus|1
+bronchoalveolar lavage|1
+mm-1 cell|1	mm1-s cell|0.752756
+human lens epithelial cell line|1	lens epithelial cell line|0.749518
+colonic epithelial cell|1	colonic epithelium|0.749028
+rheumatoid arthritis disease specific synovial fibroblast|1
+vegetative cell|1	mitotic cell|0.74854
+stigma|1	corn silk|0.747231
+secondary spermatocyte|1
+circular smooth muscle|1	muscular coat|0.745344
+spinal root|1	spinal nerve|0.744557
+uterine adenocarcinoma cell|1
+alveolar cell type ii|1
+peripheral primitive neuroectodermal tumor cell|1	primitive neuroectodermal tumor cell line|0.741872
+dermal fibroblast|1	skin fibroblast|0.741789
+visceral endoderm|1	extraembryonic tissue|0.740168
+amnion|1	fetal membrane|0.737704
+pleomorphic adenoma cell|1	salivary gland cancer cell|0.73659
+ovary cell line|1	cho cell|0.734039
+cecum|1
+mesothelioma cell|1	mesothelioma cell line|0.732722
+photoreceptor|1
+chronic lymphocytic leukemia cell|1	b-cell chronic lymphocytic leukemia cell|0.730026
+rpmi-8226 cell|1
+pancreatic juice|1	digestive juice|0.727014
+sf-9 cell|1	sf-21 cell|0.726784
+primitive neuroectodermal tumor cell|1	neuroectodermal tumor cell|0.72667
+oil gland|1	oil secretion|0.726527
+pro-b-lymphocyte|1	pre-b-lymphocyte|0.726136
+helper t-lymphocyte|1	regulatory t-lymphocyte|0.723892
+eosinophil|1
+blastomere|1	morula|0.721879
+chondrosarcoma cell line|1	sw-1353 cell|0.719971
+cerebrovascular cell|1	cerebrovascular system|0.719405
+retinal pigment epithelium cell|1	retinal pigment epithelium|0.718449
+junctional zone|1	spongiotrophoblast|0.718214
+flower bud|1	plant bud|0.71732
+hog cell|1	oligodendroglioma cell line|0.716731
+apocrine gland|1	apocrine sweat gland|0.716646
+ascites|1
+masseter|1	cheek|0.715378
+cerebrovascular endothelium|1	cerebrovascular endothelial cell|0.715357
+peripheral blood lymphocyte|1
+urinary bladder|1	bladder|0.713844
+trypanosomoid form|1	promastigote|0.713103
+multiple myeloma cell|1
+myeloid progenitor cell|1
+inner dental epithelium|1
+glossopharyngeal nerve|1	carotid sinus nerve|0.711688
+neural plate|1
+meninx|1	dura mater|0.710166
+parathyroid gland|1	parathyroid hormone secreting cell|0.709552
+inner medullary collecting duct cell|1
+cortical collecting duct|1	cortical collecting duct cell|0.708075
+kidney cell line|1
+juvenile|1
+neuroblast|1
+urine|1
+joint|1
+neonate|1
+liver cell line|1
+corpus callosum|1
+superior mesenteric artery|1
+respiratory epithelium cell|1
+semen|1
+breast epithelial cell|1
+gut|1
+epididymis|1
+gall bladder|1
+interneuron|1
+neocortex|1
+choroid|1
+sebocyte|1
+purkinje layer|1
+aorta thoracica|1
+abdominal aorta|1
+femoral artery|1
+blood platelet|1
+alveolar macrophage|1
+germinal epithelium|1
+femur|1
+temporomandibular joint|1
+wi-38 cell|1
+bt-474 cell|1
+caki-1 cell|1
+langerhans cell|1
+t-lymphoma cell line|1
+myeloid cell line|1
+midgut|1
+fruit juice|1
+ar4-2j cell|1
+motoneuron|1
+dorsal striatum|1
+locus ceruleus|1
+branchial arch|1
+palate|1
+gonocyte|1
+sk-n-be(2) cell|1
+cotyledon|1
+stoma|1
+biofilm|1
+bacteroid|1
+primary cell|1
+rectum|1
+capillary|1
+u-251 mg cell|1
+bone marrow-derived macrophage|1
+adipose-derived stem cell|1
+primary cell line|1
+oral cancer cell|1
+gastric adenocarcinoma cell|1
+sk-hep-1 cell|1
+monocyte-derived dendritic cell|1
+culture condition:antigen-presenting cell|1
+histiocyte|1
+b-lymphoma cell line|1
+b-cell lymphoma cell|1
+body wall muscle|1
+sartorius|1
+gill|1
+juice|1
+reticulum|1
+gravid adult|1
+pancreatic beta cell line|1
+sciatic nerve|1
+cornu ammonis|1
+motor cortex|1
+ciliary body|1
+tooth enamel|1
+incisor|1
+mesenchymal epithelium|1
+primitive endoderm|1
+embryonic stem cell line|1
+blastema|1
+neurula|1
+ascidian|1
+ok cell|1
+merozoite|1
+cestode|1
+oropharynx|1
+esophageal epithelium|1
+ehrlich ascites carcinoma cell|1
+a-9 cell|1
+medulloblastoma cell|1
+internal iliac artery|1
+stratum corneum|1
+ng-108-15 cell|1
+neurosecretory cell|1
+sk-mel-5 cell|1
+glycogen cell|1
+aleurone layer|1
+endosperm|1
+neuro-2a cell|1
+cho-k1 cell|1
+uveal melanoma cell|1
+natural killer cell line|1
+geo cell|1
+submucosa|1
+lung fibroblast|1
+renal artery|1
+aspc-1 cell|1
+astroblast|1
+colonic mucosa|1
+duodenal mucosa|1
+cos-1 cell|1
+umr-106 cell|1
+osteocyte|1
+conjunctival epithelium|1
+decidual cell|1
+endometrial stromal cell|1
+trophoblast cell line|1
+oviduct|1
+ovarian cumulus cell|1
+spermatozoon|1
+mantle|1
+scrotum|1
+bt-549 cell|1
+large cell carcinoma cell|1
+nasopharyngeal carcinoma cell|1
+kato-iii cell|1
+plc-prf-5 cell|1
+larynx|1
+a-2780 cell|1
+l-1210 cell|1
+brain microvessel endothelial cell|1
+leiomyoma cell|1
+pulmonary artery smooth muscle cell|1
+nrk cell|1
+kasumi-1 cell|1
+promyelocytic leukemia cell line|1
+tonsil|1
+th2 cell|1
+palatine tonsil|1
+dt-40 cell|1
+pre-b-lymphocyte cell line|1
+rosette|1
+ut-7 cell|1
+bone marrow stromal cell line|1
+myeloblast|1
+sickle cell|1
+ghost|1
+carcass|1
+fast twitch muscle fiber|1
+adductor|1
+abductor|1
+right middle cerebral artery|1
+a-431 cell|1
+yolk sac|1
+culture filtrate|1
+rumen|1
+rumen epithelium|1
+nhbe cell|1
+saliva|1
+sublingual gland|1
+hose cell|1
+orbit|1
+pia mater|1
+uterine luminal fluid|1
+epididymal fluid|1
+corpus epididymis|1
+seminal plasma|1
+seminal vesicle|1
+femoral muscle|1
+gastric juice|1
+proventriculus|1
+duodenal gland|1
+bile|1
+left colon|1
+colon descendens|1
+anus|1
+semicircular canal|1
+plantlet|1
+stellate ganglion|1
+cerebral white matter|1
+optic lobe|1
+chromaffin cell|1
+tegmentum|1
+dopaminergic system|1
+insular cortex|1
+infralimbic cortex|1
+ventral midbrain|1
+motor trigeminal nucleus|1
+urinary bladder smooth muscle|1
+retinal pigment epithelium cell line|1
+optic cup|1
+chondroclast|1
+foregut|1
+embryonic stem cell|1
+endomesoderm|1
+ceratobranchial|1
+stomodeum|1
+seminoma cell|1
+renal distal tubule|1
+henles loop|1
+intercalated cell|1
+salt gland|1
+oocyst|1
+bradyzoite|1
+scolex|1
+cervical epithelium|1
+hepatoblastoma cell|1
+fao cell|1
+aortic root|1
+thyroid follicle|1
+a-172 cell|1
+sk-n-be(2)c cell|1
+ml-2 cell|1
+umbilical artery smooth muscle|1
+hsc-t6 cell|1
+stratum granulosum|1
+sebaceous gland|1
+buccal mucosa|1
+centrum semiovale|1
+krebs ascites cell|1
+detroit 562 cell|1
+hybridoma cell|1
+pc-14 cell|1
+brl-3a cell|1
+atdc-5 cell|1
+metatarsal bone|1
+liposarcoma cell line|1
+liposarcoma cell|1
+hme cell|1
+hypodermis|1
+hfl-1 cell|1
+ovarian theca-interstitial cell|1
+trichome|1
+leaf base|1
+cell suspension culture|1
+mesocarp|1
+chemostat culture|1
+astrocyte cell line|1
+husk|1
+compound eye|1
+wing disc|1
+oviductal ampulla|1
+adenoma cell|1
+ovca-432 cell|1
+mt-4 cell|1
+h9 cell|1
+caryopsis|1
+gastrointestinal stromal tumor cell|1
+c-81 cell|1
+cerebral subcortex|1
+j774.2 cell|1
+superior frontal gyrus|1
+regio parietalis capitis|1
+microsporidian|1
+chop cell|1
+sgs cell|1
+chronic myeloid leukemia cell|1
+needle|1
+myofibroblast|1
+stellate cell|1
+coronary artery endothelial cell|1
+miapaca-2 cell|1
+dld-1 cell|1
+parenchymal cell|1
+peritoneal macrophage|1
+peritoneal fluid|1
+gut epithelium|1
+paneth cell|1
+iec-18 cell|1
+adipose-derived stromal cell|1
+culture condition|1
+cancellous bone|1
+epiphyseal growth plate|1
+saos-2 cell|1
+nhost cell|1
+osteoblast cell line|1
+hfob cell|1
+bone marrow stromal stem cell|1
+gingival fibroblast|1
+knee|1
+aortic valve|1
+cytotrophoblast|1
+syncytiotrophoblast|1
+follicular fluid|1
+somatic cell|1
+fascicle|1
+large cell neuroendocrine carcinoma cell|1
+bt-20 cell|1
+hbl-100 cell|1
+hec-1-a cell|1
+cervical carcinoma cell|1
+caski cell|1
+cne-2 cell|1
+bgc-823 cell|1
+hep-3b cell|1
+achn cell|1
+kidney cancer cell|1
+msto-211h cell|1
+urinary bladder cancer cell|1
+transitional cell carcinoma cell|1
+mef cell|1
+colo-201 cell|1
+molt-3 cell|1
+lung endothelium|1
+porcine aortic endothelial cell|1
+rpaec cell|1
+human bladder microvascular endothelial cell|1
+saphenous vein endothelial cell line|1
+liver sinusoidal endothelial cell|1
+myometrial cell line|1
+nrk-52e cell|1
+pleural mesothelium|1
+peritoneal dialysis fluid|1
+nb-4 cell|1
+premonocyte|1
+lymph|1
+bone marrow-derived dendritic cell|1
+myeloid dendritic cell|1
+interdigitating reticulum cell|1
+reh cell|1
+nhl-b cell|1
+mo-t cell|1
+wehi-3 cell|1
+peripheral blood stem cell|1
+hel cell|1
+mel cell|1
+bc3h1 cell|1
+satellite cell|1
+epitrochlearis|1
+forelimb muscle|1
+left middle cerebral artery|1
+superior vena cava|1
+hepatopancreas|1
+gill filament|1
+egg|1
+fetal serum|1
+culture fluid|1
+nectar|1
+berry|1
+forestomach|1
+submandibular gland|1
+dental plaque|1
+parotid acinar cell|1
+harderian gland|1
+nmumg cell|1
+cfpac-1 cell|1
+mono-mac-6 cell|1
+p-388d1 cell|1
+hmc-1 cell|1
+intestinal wall|1
+osteophyte|1
+glandular epithelium|1
+uterine epithelium|1
+uterine gland|1
+allantois|1
+prostasome|1
+insulinoma cell|1
+gastrointestinal endocrine cell|1
+intestinal juice|1
+pyloric stomach|1
+carcinoid cell|1
+bile ductule|1
+adult liver stem cell|1
+hindgut|1
+colon transversum|1
+colon ascendens|1
+colon sigmoideum|1
+stria vascularis|1
+rootlet|1
+trigeminal nucleus|1
+non-neuronal cell|1
+striatal neuron|1
+pars reticulata|1
+subthalamic nucleus|1
+nucleus solitarius|1
+infundibular nucleus|1
+lateral septal area|1
+septal area|1
+claustrum|1
+entorhinal cortex|1
+entorhinal area|1
+retrosplenial region|1
+bipolar cell|1
+amacrine cell|1
+accessory olfactory bulb|1
+external plexiform layer|1
+inferior vestibular nucleus|1
+prelimbic cortex|1
+corpus albicans|1
+cortical amygdaloid nucleus|1
+nerve trunk|1
+neuroepithelial cell|1
+subventricular zone|1
+rostral migratory stream|1
+embryonic brain|1
+olfactory cortex|1
+cerebral peduncle|1
+b-50 cell|1
+neuronal cell line|1
+ventral posterior nucleus|1
+lateral amygdaloid nucleus|1
+vallate papilla|1
+stomach smooth muscle|1
+tracheal smooth muscle|1
+tracheal smooth muscle cell|1
+ophthalmic nerve|1
+vas deferens|1
+nucleus preopticus|1
+hyalocyte|1
+ciliary muscle|1
+reticulum trabeculare|1
+lens nucleus|1
+lens cortex|1
+trabecula|1
+small intestine mucosa|1
+ros-17/2.8 cell|1
+forearm|1
+lumbar spine|1
+hos cell|1
+interalveolar septum|1
+2t3 cell|1
+molaris|1
+dental follicle|1
+ameloblastoma cell|1
+odontoclast|1
+preosteoclast|1
+foreign-body giant cell|1
+mesonephron|1
+metanephron|1
+neural crest|1
+auditory vesicle|1
+gastrula|1
+dorsal lip|1
+animal cap|1
+blastoderm|1
+embryonic axis|1
+renal epithelium|1
+macula densa|1
+llc-pk1 cell|1
+pars recta|1
+axenic culture|1
+schizont|1
+amastigote|1
+epimastigote|1
+bloodstream form|1
+metacestode|1
+cervical epithelial cell|1
+cervical canal|1
+portio vaginalis cervicis|1
+endocervix|1
+esophageal squamous cell carcinoma cell line|1
+mca-rh7777 cell|1
+fm3a cell|1
+ben cell|1
+ca-77 cell|1
+frtl-5 cell|1
+nthy-ori 3-1 cell|1
+thyroid nodule|1
+papillary thyroid cancer cell line|1
+h9c2 cell|1
+cardiomyoblast|1
+small cell lung cancer cell line|1
+lan-1 cell|1
+wrl-68 cell|1
+lm3 cell|1
+common penile artery|1
+vaginal smooth muscle|1
+anterior cardinal vein|1
+a-673 cell|1
+hepatic stellate cell line|1
+lx-2 cell|1
+external iliac artery|1
+hair shaft|1
+hair follicle outer root sheath|1
+skin stem cell|1
+hair root|1
+decidua basalis|1
+decidua parietalis|1
+synovial cell line|1
+hodgkin lymphoma cell|1
+brain myelin|1
+olfactory ensheathing cell|1
+c-127 cell|1
+a-204 cell|1
+basophilic leukemia cell|1
+llc-rk1 cell|1
+daltons lymphoma cell|1
+paw|1
+v-79 cell|1
+hepa-1c1c7 cell|1
+feather vane|1
+te-671 cell|1
+embryonic blood|1
+angioblast|1
+hallux|1
+tibial chondrocyte|1
+bg-1 cell|1
+hbe cell|1
+nhdf cell|1
+tentacle|1
+antennal lobe|1
+pith|1
+rle-6tn cell|1
+j-774.1 cell|1
+ulcer tissue|1
+3-ll cell|1
+lewis lung carcinoma cell line|1
+lewis lung carcinoma cell|1
+nape|1
+plasmacytoma cell|1
+plasmacytoma cell line|1
+genital mucosa|1
+rpmi-8866 cell|1
+jb6 cell|1
+wss-1 cell|1
+melanophore|1
+mewo cell|1
+exoerythrocytic stage|1
+m1 melanoma cell|1
+retinal cell line|1
+mueller cell|1
+ectoplacental cone|1
+carcinosarcoma cell|1
+serous gland|1
+corpus amylaceum|1
+iliopsoas muscle|1
+n18tg2 cell|1
+secondary root|1
+pericycle|1
+endodermis|1
+rind|1
+leaf primordium|1
+sieve tube|1
+guard cell|1
+anther|1
+stolon tip|1
+spikelet|1
+kc cell|1
+skin mucus|1
+albedo|1
+flavedo|1
+eahy 926 cell|1
+trunk kidney|1
+head kidney|1
+planktonic cell|1
+elementary body|1
+reticulate body|1
+hela-229 cell|1
+shell gland|1
+nurse cell|1
+sternocleidomastoid muscle|1
+neural arch|1
+scapula|1
+lower epidermis|1
+mda-mb-435s cell|1
+oviduct epithelial cell line|1
+oviduct epithelium|1
+sklu-1 cell|1
+renal clear cell|1
+10t1/2 cell|1
+igrov-1 cell|1
+gt1 cell|1
+testicular vein|1
+t-lymphoblastoid cell line|1
+t-lymphoblastoma cell|1
+ookinete|1
+lacteal cyst|1
+rcho-1 cell|1
+mfm-223 cell|1
+glans penis|1
+minor vestibular gland|1
+pnt-2 cell|1
+lncap-c4-2b cell|1
+capillary pericyte|1
+cem-vbl100 cell|1
+papilloma cell|1
+nc37 cell|1
+ntera-2 cell|1
+tera-2 cell|1
+uroepithelial cell line|1
+gamg cell|1
+b-16 cell|1
+tail muscle|1
+imago|1
+adf cell|1
+medial temporal lobe|1
+blm cell|1
+s-180 cell|1
+salivary gland cell line|1
+submandibular gland cell line|1
+foot sole|1
+alveolar macrophage cell line|1
+jurkat e-6.1 cell|1
+nephrocyte|1
+mda-mb-436 cell|1
+pharyngeal mucosa|1
+g-361 cell|1
+schneider-2 cell|1
+renal glomerular cell line|1
+tectum mesencephali|1
+beas-2b cell|1
+amoeba|1
+papillary renal cell carcinoma cell|1
+m12 prostate cancer cell|1
+hek-293a cell|1
+g-401 cell|1
+marrow|1
+uroepithelium|1
+scale|1
+human aortic endothelial cell|1
+mesenteric artery|1
+t-98g cell|1
+u-373mg cell|1
+lung epithelium cell line|1
+polymorphonuclear neutrophil|1
+polymorphonuclear leukocyte|1
+colonocyte|1
+calvarium|1
+endochondral bone|1
+gingival epithelium|1
+keratocyte|1
+extravillous trophoblast|1
+uterine wall|1
+granulosa cell line|1
+seminiferous epithelium|1
+mda-mb-468 cell|1
+sk-br-3 cell|1
+mda-mb-361 cell|1
+calu-1 cell|1
+hypopharynx|1
+chang cell|1
+a-375 cell|1
+nci-h929 cell|1
+a-498 cell|1
+ej cell|1
+colo-205 cell|1
+kb cell|1
+cem cell|1
+soft tissue sarcoma cell|1
+soft tissue sarcoma cell line|1
+mural cell|1
+chorioallantois|1
+arterial smooth muscle|1
+nrk-49f cell|1
+alveolar epithelial cell line|1
+peritoneal mesothelium|1
+acute promyelocytic leukemia cell|1
+promyelocytic leukemia cell|1
+th1 cell|1
+adult t-cell lymphoma cell line|1
+daudi cell|1
+molt-4 cell|1
+im-9 cell|1
+follicular lymphoma cell|1
+follicular dendritic cell line|1
+megakaryocyte cell line|1
+cancer stem cell|1
+tf-1 cell|1
+lymphoid progenitor cell|1
+32d cell|1
+tongue muscle|1
+rectus femoris|1
+flexor digitorum profundus|1
+laryngeal muscle|1
+biceps brachii|1
+venous system|1
+atrial appendage|1
+pulmonary vein|1
+pericardial fluid|1
+hemolymph|1
+meconium|1
+omasum|1
+nci-h292 cell|1
+nasal polyp|1
+mucous acinar cell|1
+serous cell|1
+submandibular gland duct|1
+salivary gland epithelium|1
+tear gland|1
+middle ear|1
+outer ear|1
+ovarian epithelial cell|1
+iose cell|1
+subcutaneous tissue|1
+fascia|1
+dorsum|1
+subdural space|1
+perivascular astrocyte|1
+cervical mucus|1
+bulbourethral gland|1
+caput epididymis|1
+coagulating gland|1
+accessory sex gland|1
+pancreatic alpha cell line|1
+sk-n-mc-ixc cell|1
+brockmann body|1
+beta-tc3 cell|1
+gastric corpus|1
+neuroendocrine cell|1
+gastric ulcer|1
+pyloric region|1
+duodenal juice|1
+bile canaliculus|1
+gall bladder epithelium|1
+anal canal|1
+inner hair cell|1
+dentate gyrus|1
+medium spiny neuron|1
+ventral globus pallidus|1
+dorsal raphe nucleus|1
+ventromedial hypothalamic nucleus|1
+neural lobe|1
+medial amygdaloid nucleus|1
+bed nucleus of stria terminalis|1
+periventricular nucleus of hypothalamus|1
+laterodorsal tegmental nucleus|1
+meynert's basal nucleus|1
+piriform area|1
+cerebellar nucleus|1
+lateral vestibular nucleus|1
+molecular layer|1
+neostriatal neuron|1
+dorsal globus pallidus|1
+lateral habenular nucleus|1
+retinal stem cell|1
+basis pedunculi cerebri|1
+fibre tract|1
+medial longitudinal fasciculus|1
+adenohypophysis tumor cell|1
+pars distalis|1
+posterior lobe|1
+gonadotrophic cell|1
+extrastriate cortex|1
+nucleus reuniens|1
+lateral posterior nucleus|1
+tenia tecta|1
+parahippocampal region|1
+epiglottis|1
+longitudinal smooth muscle|1
+tracheal mucosa|1
+iris dilator muscle|1
+agranular insular cortex|1
+nucleus taeniae|1
+hyperpallium|1
+lateral dorsal nucleus|1
+synganglion|1
+ocellus|1
+anterior chamber of the eye|1
+lens fiber|1
+ros cell|1
+colon-26 cell|1
+dental papilla|1
+tooth bud|1
+lung bud|1
+blastodisc|1
+wing bud|1
+anal fin|1
+thyroid primordium|1
+distal tip|1
+urinary bladder epithelium|1
+xenopus a6 cell|1
+principal cell|1
+sporozoite|1
+trypomastigote|1
+procyclic form|1
+kinetoplastid|1
+pharynx|1
+esophageal squamous epithelium|1
+adenoid|1
+plant collar|1
+novikoff hepatoma cell|1
+parenchyma of thyroid gland|1
+wro cell|1
+smmc-7721 cell|1
+gall bladder cancer cell|1
+cholangiocarcinoma cell|1
+bile duct cell line|1
+mz-cha-1 cell|1
+nci-h69 cell|1
+be(2)-m17 cell|1
+sk-n-dz cell|1
+anococcygeus muscle|1
+carotid artery endothelium|1
+resting cell|1
+neural crest-derived stem cell|1
+choriodecidua|1
+amniochorion|1
+iliac artery|1
+inferior mesenteric artery|1
+inferior mesenteric vein|1
+rectal adenocarcinoma cell|1
+sweat|1
+skin epithelium|1
+hair follicle|1
+epithelial stem cell|1
+uropygial gland|1
+meibomian gland|1
+sebaceous gland cell line|1
+lip|1
+tr-146 cell|1
+s-49 cell|1
+primary effusion lymphoma cell line|1
+bl-41 cell|1
+bjab cell|1
+b95-8 cell|1
+karpas-299 cell|1
+velum|1
+neurofibroma cell|1
+schwann cell line|1
+perineurium|1
+neurilemoma cell line|1
+oviductal fluid|1
+calu-3 cell|1
+hpac cell|1
+mdck-2 cell|1
+caco-2/bbe cell|1
+caco-2/15 cell|1
+respiratory bronchiole|1
+daltons lymphoma ascites|1
+ll24 cell|1
+nci-h322 cell|1
+liver epithelial cell line|1
+h4-ii-e-c3 cell|1
+nci-h526 cell|1
+kaposi's sarcoma cell|1
+ks-imm cell|1
+cardinal vein|1
+posterior amygdala|1
+zona fasciculata|1
+adrenocortical carcinoma cell line|1
+toe|1
+c3h10t1/2 cell|1
+sternal cartilage|1
+tibial cartilage|1
+8305c cell|1
+synovial sarcoma cell|1
+cone|1
+rectal gland|1
+ocm-1 cell|1
+kms-11 cell|1
+endometrioma cell|1
+nci-h1299 cell|1
+oci-aml2 cell|1
+calu-6 cell|1
+ca-46 cell|1
+b-lymphoblast cell line|1
+pc-3m cell|1
+pedal ganglion|1
+larval brain|1
+scc-25 cell|1
+pa-1 cell|1
+vesicular gland|1
+hn cell|1
+kmbc cell|1
+hippocampal cell line|1
+cervical adenocarcinoma cell|1
+es-d3 cell|1
+nuchal ligament|1
+arh-77 cell|1
+j558l cell|1
+chago-k-1 cell|1
+melanocyte cell line|1
+mel-ab cell|1
+neural crest cell line|1
+amelanotic melanoma cell|1
+malme-3m cell|1
+nrp-154 cell|1
+chorionic epithelium|1
+labyrinthine zone|1
+chorionic plate|1
+ovca-433 cell|1
+caba i cell|1
+pleural mesothelioma cell line|1
+root primordium|1
+adventitious root|1
+true leaf|1
+bract|1
+inflorescence stalk|1
+stipule|1
+cambium|1
+tuber|1
+mesophyll|1
+leaf disc|1
+seed coat|1
+petiole|1
+gametophyte|1
+secretion|1
+exocarp|1
+small saphenous vein|1
+sclerenchyma|1
+immobilized cell|1
+intestine-407 cell|1
+stinger|1
+pharyngeal epithelium|1
+ecc-1 cell|1
+pr cell|1
+oe-e6/e7 cell|1
+scent gland|1
+vitelline membrane|1
+es-2 cell|1
+mammary duct|1
+mcf-10a cell|1
+r1 cell|1
+hpb-all cell|1
+gt1-7 cell|1
+myoma cell|1
+rhinencephalon|1
+nhek cell|1
+molt cell|1
+rheumatoid arthritis disease specific synovial fluid|1
+th-1 cell line|1
+gut juice|1
+i-cell|1
+lama-84 cell|1
+mb-02 cell|1
+serosal mast cell|1
+ailncap cell|1
+hek-293 tet-on 3g cell|1
+gubernaculum testis|1
+prostate adenocarcinoma cell line|1
+prostatic urethra|1
+ejaculatory duct|1
+umbilical vein smooth muscle|1
+pulmonary artery smooth muscle cell line|1
+4t1 cell|1
+eue cell|1
+d-407 cell|1
+kb-3-1 cell|1
+nt2-n cell|1
+hrt-18 cell|1
+nci-h82 cell|1
+mkn-45 cell|1
+namalwa cell|1
+endothelioma cell line|1
+clear cell adenocarcinoma cell|1
+urotsa cell|1
+ovarian fluid|1
+regio orbitalis|1
+intraparietal sulcus|1
+inferior frontal gyrus|1
+parahippocampal gyrus|1
+neural stem cell line|1
+stratum germinativum|1
+ns20y cell|1
+balb/3t3-t cell|1
+yoshida sarcoma cell|1
+smg-c6 cell|1
+vestibulocochlear nerve|1
+meningothelial meningioma cell|1
+thce cell|1
+skw6.4 cell|1
+k-562r cell|1
+hd-11 cell|1
+mono-mac-1 cell|1
+tuberous root|1
+intraocular melanoma cell|1
+cytotoxic t-lymphocyte cell line|1
+lim1863 cell|1
+bnl cl.2 cell|1
+ke-37 cell|1
+venom duct|1
+spinal muscle|1
+alpha-motoneuron|1
+a-253 cell|1
+caov-3 cell|1
+ic-21 cell|1
+mgc-803 cell|1
+mv4-11 cell|1
+red bone marrow|1
+n1-s1 cell|1
+prostate gland intraepithelial neoplasia cell line|1
+na cell|1
+cerebral giant cell|1
+253j cell|1
+hepa 1-6 cell|1
+rag cell|1
+oligodendroglioma cell|1
+balb/3t3 cell|1
+tsa cell|1
+tall-104 cell|1
+silk gland|1
+m5076 cell|1
+pericardial mesothelium|1
+cmt-93 cell|1
+hcc-827 cell|1
+lung adenocarcinoma cell|1
+blood clot|1
+ovcar-3 cell|1
+ileal mucosa|1
+coculture|1
+chondroblast|1
+osteosarcoma cell|1
+epiphysis|1
+mrc-5 cell|1
+theca externa|1
+nipple|1
+mda-mb-453 cell|1
+kle cell|1
+c-33a cell|1
+u-266 cell|1
+ht-1197 cell|1
+hek-293t cell|1
+hct-8 cell|1
+human lung microvascular endothelial cell|1
+dermal microvascular endothelial cell|1
+saphenous vein|1
+myometrium|1
+thymic epithelium|1
+thymic dendritic cell|1
+pro-b-lymphocyte cell line|1
+t-lymphoblast|1
+b-lymphoblastoid cell|1
+cord blood stem cell|1
+striated muscle cell|1
+psoas|1
+gracilis muscle|1
+adductor longus|1
+hepatic artery|1
+arterial system|1
+posterior midgut|1
+tadpole|1
+pyloric cecum|1
+nymph|1
+egg white|1
+nectary|1
+nasal cavity|1
+tear|1
+lacrimal gland acinar cell|1
+hey cell|1
+capan-2 cell|1
+amoebocyte|1
+pleural cavity|1
+air pouch|1
+mac-1 cell|1
+conceptus|1
+glucagonoma cell|1
+rinm5f cell|1
+hit-t15 cell|1
+intestinal gland|1
+neuroendocrine tumor cell line|1
+biliary epithelial cell|1
+right colon|1
+bony labyrinth|1
+anterior horn|1
+ventral striatum|1
+paraventricular nucleus of hypothalamus|1
+pars intermedia|1
+medial vestibular nucleus|1
+superior vestibular nucleus|1
+perirhinal cortex|1
+stratum lucidum|1
+hypoglossal nerve|1
+anterior commissure|1
+melanotroph|1
+gastrointestinal smooth muscle|1
+respiratory smooth muscle|1
+arcopallium|1
+robust nucleus of arcopallium|1
+retinal cone|1
+stellate reticulum|1
+neural tube|1
+tail bud|1
+pharyngeal organ|1
+endostyle|1
+renal inner medulla|1
+connecting tubule cell|1
+medullary collecting duct cell|1
+tachyzoite|1
+metacyclic form|1
+cysticercus|1
+gastroesophageal junction|1
+cardia|1
+oe-21 cell|1
+adenoid cystic carcinoma cell|1
+salivary duct|1
+mucoepidermoid carcinoma cell|1
+macrophage foam cell|1
+vero cell|1
+pk-15 cell|1
+exoskeleton|1
+thyroid cancer cell|1
+papillary thyroid cancer cell|1
+b-cpap cell|1
+t-hsc/cl-6 cell|1
+cholangiocarcinoma cell line|1
+glc-82 cell|1
+daoy cell|1
+medulloblastoma cell line|1
+sh-ep cell|1
+lan-5 cell|1
+a7 cell|1
+mhcc-97 cell|1
+arrector pili muscle|1
+l-428 cell|1
+olfactory nerve|1
+nerve sheath|1
+neurolemma|1
+lymphosarcoma cell|1
+bmn cell|1
+pt-k2 cell|1
+rbl-2h3 cell|1
+16-hbe14o cell|1
+renal tubule epithelium|1
+dorsal aorta|1
+sprout|1
+claw|1
+foot muscle|1
+rko cell|1
+colo-320 cell|1
+mst cell|1
+km-3 cell|1
+laryngeal cancer cell|1
+eheb cell|1
+subesophageal ganglion|1
+tritocerebrum|1
+protocerebrum|1
+cerebral ganglion|1
+sw-948 cell|1
+gref-x cell|1
+basal cell carcinoma cell|1
+hs-578bst cell|1
+mpc-11 cell|1
+nasopharyngeal tonsil|1
+epidermal cell line|1
+melan-a cell|1
+trophoblast giant cell|1
+trophoblast stem cell|1
+hepatoma ascites cell|1
+human cardiac microvascular endothelial cell|1
+crown gall|1
+coleoptile|1
+frond|1
+stipe|1
+endocarp|1
+somatic embryo|1
+protonema|1
+ns-0 cell|1
+ovariole|1
+imaginal disc|1
+insect tracheal system|1
+external carotid artery|1
+zr-75-30 cell|1
+f5 meningioma cell|1
+meningioma cell line|1
+friend erythroleukemia cell line|1
+wm-115 cell|1
+peer cell|1
+ovarian cyst|1
+alphat3-1 cell|1
+hut-78 cell|1
+hsc-3 cell|1
+bhy cell|1
+metacercaria|1
+lapc4 cell|1
+prostate adenocarcinoma cell|1
+male urethra|1
+prostate gland stromal cell|1
+ct-26 cell|1
+kb-v1 cell|1
+p-388 cell|1
+nhm cell|1
+bph-1 cell|1
+skin carcinoma cell line|1
+molt-16 cell|1
+mdbk cell|1
+cess cell|1
+mandibular nerve|1
+twig|1
+middle frontal gyrus|1
+miapaca cell|1
+rt-112 cell|1
+bc-1 cell|1
+cuticle|1
+photophore|1
+empyema fluid|1
+ib3-1 cell|1
+tracheal cell line|1
+j-82 cell|1
+hs-683 cell|1
+iomm-lee cell|1
+disc|1
+143b cell|1
+hscc cell|1
+b-cell leukemia cell|1
+occipital pole|1
+headfoot|1
+preputial gland|1
+ray cell|1
+rn-46a cell|1
+sp2/0-ag14 cell|1
+fd-2 cell|1
+lad-2 cell|1
+brain cortex cell line|1
+sw-403 cell|1
+keloid|1
+lovo cell|1
+jejunal mucosa|1
+columnar cell|1
+mesenchymal stromal cell|1
+antler|1
+chondrosarcoma cell|1
+chondrocyte cell line|1
+meniscus|1
+lung fibroblast cell line|1
+cytotrophoblastic cell|1
+jar cell|1
+cytotrophoblast cell line|1
+spindle cell|1
+zr-75-1 cell|1
+hec-1-b cell|1
+tongue cancer cell|1
+plhc-1 cell|1
+non-hodgkin lymphoma cell|1
+renal cell carcinoma cell|1
+ht-1376 cell|1
+widr cell|1
+retinal microvascular endothelial cell|1
+c81-61 cell|1
+svec4-10 cell|1
+myometrial cell|1
+peyer's gland|1
+venule|1
+lymphoid dendritic cell|1
+plasmacytoid t-lymphocyte|1
+submandibular lymph node|1
+el-4 cell|1
+ht-2 cell|1
+ba/f3 cell|1
+jy cell|1
+acute megakaryoblastic leukemia cell line|1
+immature cell|1
+kg-1 cell|1
+leukemic stem cell|1
+longissimus lumborum|1
+pectoral muscle|1
+biceps femoris|1
+semitendinosus|1
+head muscle|1
+gluteal muscle|1
+intercostal muscle|1
+epitrochlearis muscle|1
+endocardium|1
+pericardium|1
+nbt-ii cell|1
+n1e-115 cell|1
+malpighian tubule|1
+fat body|1
+commercial preparation|1
+aerial part|1
+vomeronasal organ|1
+bronchial mucosa|1
+serous acinar cell|1
+labial gland|1
+epithelial ovarian cancer cell|1
+groin|1
+endometrial gland|1
+vaginal fluid|1
+min-6 cell|1
+enterochromaffin-like cell|1
+gastroduodenal mucosa|1
+pyloric mucosa|1
+gastric corpus mucosa|1
+muscularis mucosa|1
+nerve plexus|1
+striatonigral neuron|1
+olfactory tubercle|1
+zona incerta|1
+fascia dentata|1
+inner plexiform layer|1
+internal plexiform layer|1
+pons|1
+posterior hypothalamic nucleus|1
+medial entorhinal cortex|1
+lateral entorhinal cortex|1
+colon muscle|1
+urethra|1
+mesopallium|1
+neural retina|1
+chorion frondosum|1
+pulp|1
+outer dental epithelium|1
+trophectoderm|1
+notochord|1
+tubercle|1
+dorsal fin|1
+embryonic germ cell|1
+initial collecting tubule|1
+nasopharynx|1
+nasopharynx epithelium|1
+barrett's esophagus|1
+esophagus|1
+pterygium|1
+carotid atherosclerotic plaque|1
+aro cell|1
+hn-30 cell|1
+small cell lung cancer cell|1
+sk-n-as cell|1
+cavernous artery|1
+carotid artery endothelial cell|1
+plb-985 cell|1
+stratified epithelium|1
+dermal papilla|1
+sebum|1
+cholesteatoma tissue|1
+submerged culture|1
+a-2058 cell|1
+distal tubular epithelium|1
+t-84 cell|1
+huh-7 cell|1
+clove|1
+nctc-2544 cell|1
+uterine sarcoma cell|1
+nci cell|1
+u-138mg cell|1
+ln-18 cell|1
+hairy cell leukemia cell|1
+neurohemal organ|1
+hs-sultan cell|1
+mopc-315 cell|1
+bursa of fabricius|1
+tcmk-1 cell|1
+byssus|1
+melanoblast|1
+mel-juso cell|1
+hel-92.1.7 cell|1
+secretory trichome|1
+root cap|1
+scutellum|1
+epicotyl|1
+primary root|1
+p3x63ag8 cell|1
+pod|1
+nephroblastoma cell|1
+gill raker|1
+mda-mb-435 cell|1
+swine testicular cell line|1
+rpmi-7951 cell|1
+hs-294t cell|1
+sw-626 cell|1
+lbetat2 cell|1
+hela-magi cell|1
+sup-t1 cell|1
+microfilarial stage|1
+palpus|1
+wart|1
+sw-1116 cell|1
+cce cell|1
+ku-812f cell|1
+vcap cell|1
+periurethral tissue|1
+pnt-1a cell|1
+prec cell|1
+fibrocarcinoma cell|1
+myofibroblast cell line|1
+hep-3 cell|1
+wish cell|1
+brain capillary endothelial cell line|1
+endothelioma cell|1
+as-30d cell|1
+encysting cell|1
+posterior cingulate cortex|1
+anterior pharynx|1
+rm-1 cell|1
+regio oralis|1
+colonic epithelium cell line|1
+umr-108 cell|1
+nucleus dentatus|1
+nsc-34 cell|1
+nci-h441 cell|1
+yt cell|1
+hi-5 cell|1
+nr-8383 cell|1
+venom sac|1
+anaplastic astrocytoma cell|1
+acute nonlymphoblastic leukemia cell|1
+posterior pharynx|1
+lx-1 cell|1
+siphon|1
+ma-1 cell|1
+nci-h1975 cell|1
+pulmonary artery|1
+arteriole|1
+sw-480 cell|1
+b16-f10 cell|1
+tibia|1
+long bone|1
+u2-os cell|1
+mg-63 cell|1
+gingival fluid|1
+villous trophoblast|1
+amniocyte|1
+gametocyte|1
+peritubular cell|1
+squamous cell carcinoma cell|1
+sgc-7901 cell|1
+bladder transitional cell carcinoma cell|1
+5637 cell|1
+embryonic fibroblast|1
+hct-15 cell|1
+ccrf-cem cell|1
+corm|1
+dermal dendritic cell|1
+ctll-2 cell|1
+b-lymphoblast|1
+dami cell|1
+mature cell|1
+umbilical cord blood cell|1
+kg-1a cell|1
+intramuscular adipose tissue|1
+semimembranosus|1
+renal vein|1
+jugular vein|1
+swiss-3t3 cell|1
+egg yolk|1
+placental membrane|1
+rhizome|1
+honey|1
+ruminal fluid|1
+sputum|1
+nasal lavage fluid|1
+colo-357 cell|1
+vagina|1
+cauda epididymis|1
+pancreatic alpha cell|1
+vermiform appendix|1
+endopeduncular nucleus|1
+central amygdaloid nucleus|1
+substantia innominata|1
+vestibular nucleus|1
+phrenic nerve|1
+neuroepithelium|1
+basal telencephalon|1
+pars tuberalis|1
+intestinal muscle|1
+carotid body|1
+posterior nuclear complex of thalamus|1
+ciliary epithelium|1
+retinal rod|1
+endoderm|1
+anterior visceral endoderm|1
+tail fin|1
+renal outer medulla|1
+cheek pouch|1
+keratocyst|1
+hepatoblastoma cell line|1
+coronary atherosclerotic plaque|1
+infected cell|1
+imr-32 cell|1
+olfactory organ|1
+rfl-6 cell|1
+clitoris|1
+wound fluid|1
+corneocyte|1
+bulb|1
+h4 neuroglioma cell|1
+ascites tumor cell|1
+schistosomulum|1
+v-79-4 cell|1
+common cardinal vein|1
+adrenocortical carcinoma cell|1
+leiomyosarcoma cell|1
+ht-22 cell|1
+ovca-5 cell|1
+angiomyolipoma cell|1
+b16-f1 cell|1
+hippocampus minor|1
+mat-ly-lu cell|1
+pleural mesothelioma cell|1
+hl-1 cell|1
+radicle|1
+callus culture|1
+tissue culture|1
+pericarp|1
+parotid gland duct|1
+vomeronasal nerve|1
+jejunal epithelium|1
+sw-48 cell|1
+ku-812 cell|1
+prostate epithelium cell line|1
+ovotestis|1
+epicuticle|1
+glioblastoma multiforme cell|1
+umbilical smooth muscle|1
+bl-3 cell|1
+hepatic cecum|1
+cx-1 cell|1
+memory t-lymphocyte|1
+splenocyte|1
+granulation tissue|1
+microvessel|1
+sw-620 cell|1
+bronchiolar epithelium|1
+htr-8/svneo cell|1
+m cell|1
+sas cell|1
+ls-174t cell|1
+pulmonary microvascular endothelial cell|1
+uterine leiomyoma cell|1
+lymphoblast|1
+skeletal muscle cell|1
+extraocular muscle|1
+mesenteric vein|1
+superior mesenteric vein|1
+interventricular septum|1
+rat-2 cell|1
+airway fluid|1
+parotid gland|1
+cervical spine|1
+vaginal epithelium|1
+gastric pit|1
+neuroendocrine tumor cell|1
+colorectal mucosa|1
+ureter|1
+catecholaminergic neuron|1
+midbrain central gray|1
+raphe nucleus|1
+area postrema|1
+rostral ventrolateral medulla|1
+epineurium|1
+pituicyte|1
+subcommissural organ|1
+vibrissa|1
+daphnid|1
+osteoclast stem cell|1
+germ|1
+somite|1
+renal medulla|1
+l-5178-y cell|1
+1321-n1 cell|1
+hgc-27 cell|1
+arteria profunda penis|1
+neuroepithelioma cell|1
+scalp|1
+non-myelinating schwann cell|1
+fdcp-1 cell|1
+ls-180 cell|1
+uterine leiomyosarcoma cell|1
+eyestalk|1
+pupa|1
+tby-2 cell|1
+procambium|1
+eggshell|1
+bph cell|1
+kbv200 cell|1
+flagellate|1
+pancreatic delta cell|1
+cervical intraepithelial neoplasia cell|1
+colorectal cancer cell|1
+cell lysate|1
+vascular cell|1
+synovial cell|1
+hs-578t cell|1
+oral squamous cell carcinoma cell|1
+germinal center|1
+plasmacytoid dendritic cell|1
+raji cell|1
+meg-01 cell|1
+renal parenchyma|1
+internal carotid artery|1
+portal vein|1
+fibula|1
+thoracic spine|1
+uterine horn|1
+ins-1 cell|1
+inner nuclear layer|1
+auditory cortex|1
+parasympathetic nervous system|1
+arpe-19 cell|1
+calcaneal bone|1
+f-9 cell|1
+interdigit|1
+connecting tubule|1
+protoscolex|1
+oe-33 cell|1
+anaplastic thyroid cancer cell|1
+ovum|1
+brl cell|1
+zona reticulata|1
+hc-11 cell|1
+cotton fibre|1
+callus|1
+great saphenous vein|1
+phellem|1
+enrichment culture|1
+mucosal mast cell|1
+blood vessel wall|1
+bone marrow stem cell|1
+a10 cell|1
+lamina propria|1
+b-lymphocyte cell line|1
+70z/3 cell|1
+myelocyte|1
+myelomonocytic leukemia cell|1
+hemocyte|1
+secretory cell|1
+glandular stomach|1
+subiculum|1
+pontine nucleus|1
+gh4-c1 cell|1
+tanycyte|1
+cementum|1
+ureteric bud|1
+myotome|1
+tailbud stage|1
+esophageal mucosa|1
+sternum|1
+cardiofibroblast|1
+peritoneal exudate|1
+bone marrow stromal cell|1
+stromal cell|1
+sclera|1
+heart valve|1
+gastric epithelium cell line|1
+high endothelial venule|1
+ramos cell|1
+vein|1
+pelvis|1
+basophil|1
+tracheal epithelium|1
+renal cortex|1
+thyroid epithelial cell|1
+ml-1 cell|1
+myelinating schwann cell|1
+hela-s3 cell|1
+meiotic cell|1
+mdck cell|1
+periderm|1
+vas efferens|1
+mesenchymal stem cell|1
+t-cell acute lymphoblastic leukemia cell|1
+fast muscle|1
+loin|1
+granule cell layer|1
+zygote|1
+floor plate|1
+lymphoblastoma cell|1
+apical bud|1
+meristem|1
+du-145 cell|1
+cytotoxic t-lymphocyte|1
+wehi-231 cell|1
+mast cell|1
+erythroid progenitor cell|1
+umbilical artery|1
+hair|1
+lung adenocarcinoma cell line|1
+prostate gland epithelium|1
+cell property|1
+squamous epithelium|1
+larva|1
+prefrontal cortex|1
+spike|1
+dermis|1
+crypt|1
+cerebral gray matter|1
+sk-n-sh cell|1
+trachea|1
+primordium|1
+schwann cell|1
+optic nerve|1
+foam cell|1
+umbilical cord blood|1
+melanocyte|1
+culture supernatant|1
+lymphoid cell line|1
+carotid artery|1
+cerebral cortical neuron|1
+pronephros|1
+mammary gland|1

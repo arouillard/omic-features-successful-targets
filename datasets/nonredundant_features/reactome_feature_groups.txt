@@ -1,0 +1,160 @@
+FRS-mediated FGFR2 signaling|1	FRS-mediated FGFR4 signaling|1	FRS-mediated FGFR3 signaling|1	FRS-mediated FGFR1 signaling|1	GRB2 events in EGFR signaling|0.997879	SHC1 events in EGFR signaling|0.997879	SHC1 events in ERBB4 signaling|0.997879	SOS-mediated signalling|0.997879	RAF/MAP kinase cascade|0.997879	ARMS-mediated activation|0.989493	Frs2-mediated activation|0.98743	Interleukin receptor SHC signaling|0.977302	Signalling to p38 via RIT and RIN|0.989493	MAPK1/MAPK3 signaling|0.989572	Prolonged ERK activation events|0.983341	Signaling by Leptin|0.985491	VEGFR2 mediated cell proliferation|0.971373	Interleukin-2 signaling|0.963633	Signalling to RAS|0.975314	Interleukin-3, 5 and GM-CSF signaling|0.950902	Signalling to ERKs|0.961727	Signaling by SCF-KIT|0.852147	Signaling by ERBB4|0.845666	Downstream signaling of activated FGFR2|0.846951	Downstream signaling of activated FGFR4|0.846951	Downstream signaling of activated FGFR3|0.846951	Signaling by FGFR4|0.843115	Downstream signaling of activated FGFR1|0.843115	Signaling by FGFR3|0.841848	Signaling by FGFR1|0.838082	Downstream signal transduction|0.831915	IRS-mediated signalling|0.911584	Insulin receptor signalling cascade|0.906807	DAP12 signaling|0.828279	NCAM signaling for neurite out-growth|0.937931	Signaling by EGFR|0.815346	DAP12 interactions|0.810791	Signaling by FGFR2|0.808542	Signaling by PDGF|0.805203	Signaling by FGFR|0.803	NGF signalling via TRKA from the plasma membrane|0.794365	Fc epsilon receptor (FCERI) signaling|0.771011	IRS-related events triggered by IGF1R|0.905232	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)|0.905232	IGF1R signaling cascade|0.905232	MAPK family signaling cascades|0.911584	FCERI mediated MAPK activation|0.896738	VEGFA-VEGFR2 Pathway|0.855139	Signaling by VEGF|0.844646	Signaling by Insulin receptor|0.871116	mean|0.725341	Signalling by NGF|0.724185	Signaling by Interleukins|0.775913	Gastrin-CREB signalling pathway via PKC and MAPK|0.735987
+PI-3K cascade:FGFR1|1	PI-3K cascade:FGFR3|1	PI3K events in ERBB4 signaling|1	PIP3 activates AKT signaling|1	PI-3K cascade:FGFR4|1	PI-3K cascade:FGFR2|1	GAB1 signalosome|0.987927	PI3K/AKT activation|0.987927	Negative regulation of the PI3K/AKT network|0.858898	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling|0.82482	Role of LAT2/NTAL/LAB on calcium mobilization|0.862498	PI3K/AKT Signaling in Cancer|0.839594	Downstream signaling events of B Cell Receptor (BCR)|0.79713	Signaling by the B Cell Receptor (BCR)|0.72052
+Toll Like Receptor 2 (TLR2) Cascade|1	Toll Like Receptor TLR6:TLR2 Cascade|1	Toll Like Receptor TLR1:TLR2 Cascade|1	MyD88:Mal cascade initiated on plasma membrane|1	Activated TLR4 signalling|0.906327	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation|0.915497	Toll Like Receptor 7/8 (TLR7/8) Cascade|0.904663	MyD88 dependent cascade initiated on endosome|0.904663	Toll Like Receptor 9 (TLR9) Cascade|0.889108	Toll Like Receptor 4 (TLR4) Cascade|0.868388	TRIF-mediated TLR3/TLR4 signaling|0.8151	Toll Like Receptor 3 (TLR3) Cascade|0.8151	MyD88-independent TLR3/TLR4 cascade|0.8151	Toll-Like Receptors Cascades|0.810643
+Gamma-carboxylation, transport, and amino-terminal cleavage of proteins|1	Gamma-carboxylation of protein precursors|0.953463	Removal of aminoterminal propeptides from gamma-carboxylated proteins|0.953463	Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus|0.904534
+Constitutive Signaling by Aberrant PI3K in Cancer|1
+ER to Golgi Anterograde Transport|1	Transport to the Golgi and subsequent modification|0.899245	Asparagine N-linked glycosylation|0.71119	COPII (Coat Protein 2) Mediated Vesicle Transport|0.720475
+Phospholipase C-mediated cascade; FGFR2|1	Phospholipase C-mediated cascade: FGFR1|0.937704	Phospholipase C-mediated cascade; FGFR3|0.926071
+Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)|1	PPARA activates gene expression|0.986984	Fatty acid, triacylglycerol, and ketone body metabolism|0.722857
+Transmission across Chemical Synapses|1	Neuronal System|0.837255	Neurotransmitter Receptor Binding And Downstream Transmission In The  Postsynaptic Cell|0.820357
+Class A/1 (Rhodopsin-like receptors)|1	GPCR ligand binding|0.850056	Peptide ligand-binding receptors|0.772996
+Signaling by GPCR|1	GPCR downstream signaling|0.87224	Signal Transduction|0.724653
+HIV Infection|1	HIV Life Cycle|0.798995	Infectious disease|0.794346
+Axon guidance|1	Developmental Biology|0.809454
+Formation of Fibrin Clot (Clotting Cascade)|1	Common Pathway of Fibrin Clot Formation|0.751068	Intrinsic Pathway of Fibrin Clot Formation|0.751068
+stdv|1
+Diseases associated with the TLR signaling cascade|1	Diseases of Immune System|1
+Apoptosis|1	Programmed Cell Death|0.990923
+Platelet degranulation|1	Response to elevated platelet cytosolic Ca2+|0.977008
+SUMOylation|1	SUMO E3 ligases SUMOylate target proteins|0.974933
+G beta:gamma signalling through PI3Kgamma|1	G-protein beta:gamma signalling|0.970143
+Incretin synthesis, secretion, and inactivation|1	Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)|0.932505
+Vesicle-mediated transport|1	Membrane Trafficking|0.922064
+Retinoid metabolism and transport|1	Metabolism of fat-soluble vitamins|0.907485
+G1/S Transition|1	Mitotic G1-G1/S phases|0.907485
+Cell Cycle, Mitotic|1	Cell Cycle|0.903647
+Metabolism of steroid hormones|1	Steroid hormones|0.90045
+CLEC7A (Dectin-1) signaling|1	C-type lectin receptors (CLRs)|0.893525
+Activation of gene expression by SREBF (SREBP)|1	Regulation of cholesterol biosynthesis by SREBP (SREBF)|0.873863
+Elastic fibre formation|1	Molecules associated with elastic fibres|0.855399
+Integrin alphaIIb beta3 signaling|1	Platelet Aggregation (Plug Formation)|0.854242
+Integration of energy metabolism|1	Regulation of insulin secretion|0.852803
+Nitric oxide stimulates guanylate cyclase|1	cGMP effects|0.848528
+Hyaluronan uptake and degradation|1	Hyaluronan metabolism|0.840168
+RHO GTPase Effectors|1	Signaling by Rho GTPases|0.83356
+Muscle contraction|1	Cardiac conduction|0.830876
+Phase 1 - Functionalization of compounds|1	Cytochrome P450 - arranged by substrate type|0.820922
+BMAL1:CLOCK,NPAS2 activates circadian gene expression|1	Circadian Clock|0.816497
+Metabolism of water-soluble vitamins and cofactors|1	Metabolism of vitamins and cofactors|0.813733
+Amine compound SLC transporters|1	Na+/Cl- dependent neurotransmitter transporters|0.795822
+Cytokine Signaling in Immune system|1
+Eicosanoid ligand-binding receptors|1	Prostanoid ligand receptors|0.774597
+Lipoprotein metabolism|1	HDL-mediated lipid transport|0.747545
+Glycosphingolipid metabolism|1	Sphingolipid metabolism|0.744348
+Innate Immune System|1	Immune System|0.722431
+E2F mediated regulation of DNA replication|1	G1/S-Specific Transcription|0.717741
+Gene Expression|1
+SLC-mediated transmembrane transport|1
+Metabolism|1
+Metabolism of proteins|1
+Organelle biogenesis and maintenance|1
+Hemostasis|1
+Biological oxidations|1
+Disease|1
+Cellular responses to stress|1
+Stimuli-sensing channels|1
+Amine ligand-binding receptors|1
+Chemokine receptors bind chemokines|1
+Signaling by Retinoic Acid|1
+Collagen degradation|1
+Chondroitin sulfate/dermatan sulfate metabolism|1
+HS-GAG degradation|1
+Gamma carboxylation, hypusine formation and arylsulfatase activation|1
+Class B/2 (Secretin family receptors)|1
+RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways|1
+Metabolism of amino acids and derivatives|1
+Dopamine clearance from the synaptic cleft|1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)|1
+Peptide hormone metabolism|1
+Hormone ligand-binding receptors|1
+Synthesis of Lipoxins (LX)|1
+Non-integrin membrane-ECM interactions|1
+EPHB-mediated forward signaling|1
+L1CAM interactions|1
+Dissolution of Fibrin Clot|1
+Binding and entry of HIV virion|1
+Serotonin receptors|1
+G alpha (i) signalling events|1
+Class C/3 (Metabotropic glutamate/pheromone receptors)|1
+GABA receptor activation|1
+TNFR2 non-canonical NF-kB pathway|1
+Interleukin-6 family signaling|1
+Regulation of IFNA signaling|1
+Costimulation by the CD28 family|1
+Signal transduction by L1|1
+Regulation of TP53 Activity|1
+Cellular Senescence|1
+Basigin interactions|1
+Cell surface interactions at the vascular wall|1
+Surfactant metabolism|1
+Purine catabolism|1
+Purine metabolism|1
+Metabolism of Angiotensinogen to Angiotensins|1
+Synthesis, secretion, and deacylation of Ghrelin|1
+Arachidonic acid metabolism|1
+Chylomicron-mediated lipid transport|1
+Signaling by TGF-beta Receptor Complex|1
+Extrinsic Pathway of Fibrin Clot Formation|1
+Platelet activation, signaling and aggregation|1
+Early Phase of HIV Life Cycle|1
+Histamine receptors|1
+Nucleotide-like (purinergic) receptors|1
+Potassium Channels|1
+GPVI-mediated activation cascade|1
+TNFs bind their physiological receptors|1
+Activation of NMDA receptor upon glutamate binding and postsynaptic events|1
+Unblocking of NMDA receptor, glutamate binding and activation|1
+SALM protein interactions at the synapse|1
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell|1
+FCERI mediated Ca+2 mobilization|1
+Nuclear signaling by ERBB4|1
+Amyloid fiber formation|1
+Ligand-gated ion channel transport|1
+Glucose metabolism|1
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)|1
+Degradation of the extracellular matrix|1
+CS/DS degradation|1
+Post-translational protein modification|1
+Dopamine receptors|1
+Muscarinic acetylcholine receptors|1
+Ca2+ activated K+ channels|1
+Signal amplification|1
+Neurotransmitter Release Cycle|1
+Neurotransmitter Clearance In The Synaptic Cleft|1
+Disorders of transmembrane transporters|1
+Diseases of metabolism|1
+Activation of Matrix Metalloproteinases|1
+Cargo concentration in the ER|1
+Adrenoceptors|1
+Glucagon-type ligand receptors|1
+Interleukin-1 signaling|1
+Signaling by FGFR in disease|1
+Nuclear Receptor transcription pathway|1
+Integrin cell surface interactions|1
+G alpha (q) signalling events|1
+Transcriptional regulation of white adipocyte differentiation|1
+Visual phototransduction|1
+Extracellular matrix organization|1
+Glycosaminoglycan metabolism|1
+Heparan sulfate/heparin (HS-GAG) metabolism|1
+EPH-Ephrin signaling|1
+Phase 0 - rapid depolarisation|1
+Platelet homeostasis|1
+G alpha (12/13) signalling events|1
+Lipid digestion, mobilization, and transport|1
+G alpha (s) signalling events|1
+Interferon gamma signaling|1
+Transcriptional Regulation by TP53|1
+Metabolism of lipids and lipoproteins|1
+Metabolism of nucleotides|1
+Diseases of signal transduction|1
+Opioid Signalling|1
+PI3K Cascade|1
+Ion channel transport|1
+Interferon Signaling|1
+Generic Transcription Pathway|1
+Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds|1
+Adaptive Immune System|1
+Interferon alpha/beta signaling|1
+Transmembrane transport of small molecules|1
+Metabolism of carbohydrates|1

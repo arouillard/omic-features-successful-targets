@@ -1,0 +1,1213 @@
+rna biosynthetic process|1	nucleobase-containing compound biosynthetic process|0.954013	aromatic compound biosynthetic process|0.941524	heterocycle biosynthetic process|0.942352	nucleic acid-templated transcription|0.955181	transcription, dna-templated|0.954974	macromolecule biosynthetic process|0.911427	rna metabolic process|0.892941	cellular nitrogen compound biosynthetic process|0.933681	organic cyclic compound biosynthetic process|0.923053	cellular macromolecule biosynthetic process|0.896236	regulation of rna metabolic process|0.793961	regulation of rna biosynthetic process|0.801912	regulation of nucleic acid-templated transcription|0.80006	regulation of transcription, dna-templated|0.801397	regulation of cellular macromolecule biosynthetic process|0.770543	regulation of macromolecule biosynthetic process|0.763359	regulation of nucleobase-containing compound metabolic process|0.759709	nucleobase-containing compound metabolic process|0.791866	heterocycle metabolic process|0.774351	cellular aromatic compound metabolic process|0.773249	organic cyclic compound metabolic process|0.753246	cellular nitrogen compound metabolic process|0.750633	regulation of cellular biosynthetic process|0.746682	nucleic acid metabolic process|0.832953	nitrogen compound metabolic process|0.718669	regulation of gene expression|0.748855	regulation of biosynthetic process|0.742768	cellular biosynthetic process|0.808731	organic substance biosynthetic process|0.795134	biosynthetic process|0.787763	regulation of nitrogen compound metabolic process|0.73647
+regulation of metabolic process|1	regulation of cellular metabolic process|0.932671	regulation of primary metabolic process|0.907307	regulation of macromolecule metabolic process|0.909269	stdv|0.764358	mean|0.727155	regulation of biological process|0.789714	regulation of cellular process|0.772196	biological regulation|0.771378	positive regulation of metabolic process|0.710707
+regulation of cyclic nucleotide biosynthetic process|1	regulation of nucleotide biosynthetic process|0.985184	regulation of purine nucleotide biosynthetic process|0.985184	positive regulation of cyclic nucleotide biosynthetic process|0.870388	positive regulation of nucleotide biosynthetic process|0.857619	positive regulation of purine nucleotide biosynthetic process|0.857619	positive regulation of cyclic nucleotide metabolic process|0.833681	regulation of cyclic nucleotide metabolic process|0.934972	regulation of camp biosynthetic process|0.925235	positive regulation of nucleotide metabolic process|0.818792	positive regulation of purine nucleotide metabolic process|0.818792	regulation of purine nucleotide metabolic process|0.894427	positive regulation of camp biosynthetic process|0.792961	regulation of camp metabolic process|0.880473	regulation of nucleotide metabolic process|0.883779	positive regulation of camp metabolic process|0.7615	regulation of cyclase activity|0.802925	regulation of lyase activity|0.793801	regulation of adenylate cyclase activity|0.758787
+ribonucleotide biosynthetic process|1	ribose phosphate biosynthetic process|0.984962	purine-containing compound biosynthetic process|0.878889	purine ribonucleotide biosynthetic process|0.94462	purine nucleotide biosynthetic process|0.928743	purine nucleoside biosynthetic process|0.728232	purine ribonucleoside biosynthetic process|0.728232	purine ribonucleotide metabolic process|0.745985	ribonucleotide metabolic process|0.802225	ribonucleoside biosynthetic process|0.785435	purine nucleotide metabolic process|0.708847	ribose phosphate metabolic process|0.772224	nucleoside biosynthetic process|0.752618	glycosyl compound biosynthetic process|0.74922	ribonucleoside monophosphate biosynthetic process|0.718563	nucleotide biosynthetic process|0.820716	nucleoside phosphate biosynthetic process|0.818598
+positive regulation of macromolecule metabolic process|1	positive regulation of nitrogen compound metabolic process|0.787559	positive regulation of rna biosynthetic process|0.722264	positive regulation of rna metabolic process|0.732674	positive regulation of nucleic acid-templated transcription|0.714063	positive regulation of transcription, dna-templated|0.714063	positive regulation of macromolecule biosynthetic process|0.768544	positive regulation of cellular biosynthetic process|0.743446	positive regulation of nucleobase-containing compound metabolic process|0.752744	positive regulation of biosynthetic process|0.748887	positive regulation of gene expression|0.778605	positive regulation of cellular metabolic process|0.924201	positive regulation of protein metabolic process|0.718761	positive regulation of biological process|0.707181	positive regulation of cellular process|0.748664
+negative regulation of macromolecule biosynthetic process|1	negative regulation of cellular biosynthetic process|0.966964	negative regulation of nucleobase-containing compound metabolic process|0.910623	negative regulation of biosynthetic process|0.96867	negative regulation of nitrogen compound metabolic process|0.888307	negative regulation of gene expression|0.888211	negative regulation of rna biosynthetic process|0.931012	negative regulation of rna metabolic process|0.915919	negative regulation of cellular macromolecule biosynthetic process|0.967935	negative regulation of macromolecule metabolic process|0.779462	negative regulation of nucleic acid-templated transcription|0.924399	negative regulation of transcription, dna-templated|0.909103	negative regulation of cellular metabolic process|0.759077	negative regulation of transcription from rna polymerase ii promoter|0.760552	negative regulation of metabolic process|0.720656
+pattern recognition receptor signaling pathway|1	toll-like receptor 4 signaling pathway|0.828079	toll-like receptor signaling pathway|0.92582	innate immune response-activating signal transduction|0.992933	myd88-independent toll-like receptor signaling pathway|0.75119	trif-dependent toll-like receptor signaling pathway|0.736788	toll-like receptor 3 signaling pathway|0.755929	activation of innate immune response|0.969328	myd88-dependent toll-like receptor signaling pathway|0.755929	toll-like receptor 2 signaling pathway|0.717137	toll-like receptor tlr1:tlr2 signaling pathway|0.707107	toll-like receptor tlr6:tlr2 signaling pathway|0.707107	positive regulation of innate immune response|0.867576	positive regulation of defense response|0.720082	regulation of innate immune response|0.746839
+cellular macromolecule metabolic process|1	cellular metabolic process|0.873286	primary metabolic process|0.866123	cellular process|0.708597	organic substance metabolic process|0.856344	macromolecule metabolic process|0.946673	metabolic process|0.802237
+cellular cation homeostasis|1	cellular ion homeostasis|0.985506	cation homeostasis|0.915702	inorganic ion homeostasis|0.903622	metal ion homeostasis|0.885263	ion homeostasis|0.879148	cellular divalent inorganic cation homeostasis|0.832963	cellular chemical homeostasis|0.916651	divalent inorganic cation homeostasis|0.807863	cellular calcium ion homeostasis|0.816497	calcium ion homeostasis|0.80343	cellular metal ion homeostasis|0.957105	cellular homeostasis|0.820218	chemical homeostasis|0.721039
+regulation of t cell activation|1	positive regulation of leukocyte cell-cell adhesion|0.841076	positive regulation of t cell activation|0.845841	positive regulation of homotypic cell-cell adhesion|0.83639	regulation of leukocyte cell-cell adhesion|0.988024	positive regulation of lymphocyte activation|0.755819	regulation of lymphocyte activation|0.862092	regulation of homotypic cell-cell adhesion|0.970839	positive regulation of cell-cell adhesion|0.776197	positive regulation of leukocyte activation|0.72583	positive regulation of cell activation|0.71037	regulation of cell-cell adhesion|0.864708	regulation of leukocyte activation|0.800391	regulation of cell activation|0.769916
+regulation of protein phosphorylation|1	positive regulation of phosphorylation|0.779052	regulation of protein modification process|0.887094	positive regulation of protein phosphorylation|0.836424	regulation of phosphorylation|0.907432	positive regulation of protein modification process|0.753808	regulation of kinase activity|0.820811	positive regulation of phosphate metabolic process|0.738734	positive regulation of phosphorus metabolic process|0.738734	regulation of protein kinase activity|0.837604	regulation of phosphate metabolic process|0.839193	regulation of phosphorus metabolic process|0.835423	regulation of transferase activity|0.770792	regulation of cellular protein metabolic process|0.727142
+positive regulation of lyase activity|1	positive regulation of cyclase activity|0.955882	positive regulation of adenylate cyclase activity|0.899346
+positive regulation of kinase activity|1	positive regulation of protein kinase activity|0.974576	positive regulation of transferase activity|0.916405	positive regulation of protein serine/threonine kinase activity|0.732219	activation of protein kinase activity|0.723945
+positive regulation of transcription from rna polymerase ii promoter|1	regulation of transcription from rna polymerase ii promoter|0.7548
+negative regulation of cyclic nucleotide biosynthetic process|1	negative regulation of nucleotide biosynthetic process|0.971825	negative regulation of purine nucleotide biosynthetic process|0.971825	negative regulation of camp biosynthetic process|0.985184	negative regulation of cyclic nucleotide metabolic process|0.945905	negative regulation of camp metabolic process|0.930408	negative regulation of purine nucleotide metabolic process|0.879049	negative regulation of cyclase activity|0.857493	negative regulation of nucleotide metabolic process|0.850532	negative regulation of adenylate cyclase activity|0.840168	negative regulation of lyase activity|0.840841
+purine-containing compound metabolic process|1	ribonucleoside metabolic process|0.737162	purine ribonucleoside metabolic process|0.786796	purine nucleoside metabolic process|0.794325	nucleoside metabolic process|0.728695	nucleobase-containing small molecule metabolic process|0.742094
+purine nucleoside monophosphate biosynthetic process|1	purine ribonucleoside monophosphate biosynthetic process|1	nucleoside monophosphate biosynthetic process|0.858778	ribonucleoside monophosphate metabolic process|0.764303	purine ribonucleoside monophosphate metabolic process|0.823505	nucleoside monophosphate metabolic process|0.7258	purine nucleoside monophosphate metabolic process|0.818813
+nucleotide metabolic process|1	nucleoside phosphate metabolic process|0.991769	organophosphate metabolic process|0.718164
+positive regulation of cellular protein metabolic process|1	regulation of protein metabolic process|0.733449
+lymphocyte activation|1	leukocyte cell-cell adhesion|0.753456	homotypic cell-cell adhesion|0.714354	lymphocyte aggregation|0.803721	t cell activation|0.807749	t cell aggregation|0.807749	leukocyte aggregation|0.791987	leukocyte activation|0.899455	lymphocyte differentiation|0.750956	cell activation|0.722058
+positive regulation of cysteine-type endopeptidase activity|1	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process|0.96272	positive regulation of endopeptidase activity|0.961671	positive regulation of peptidase activity|0.924211	regulation of cysteine-type endopeptidase activity|0.774597	activation of cysteine-type endopeptidase activity|0.850633	activation of cysteine-type endopeptidase activity involved in apoptotic process|0.82146	zymogen activation|0.79458	regulation of cysteine-type endopeptidase activity involved in apoptotic process|0.736097
+regulation of protein import into nucleus|1	regulation of intracellular protein transport|0.795557	regulation of nucleocytoplasmic transport|0.895622	positive regulation of nucleocytoplasmic transport|0.718517	regulation of protein localization to nucleus|0.950586	positive regulation of protein import into nucleus|0.752773	positive regulation of protein localization to nucleus|0.723568	regulation of protein targeting|0.907841	regulation of transcription factor import into nucleus|0.730297
+negative regulation of peptidase activity|1	negative regulation of endopeptidase activity|0.981565	regulation of endopeptidase activity|0.768743	regulation of peptidase activity|0.7778	negative regulation of proteolysis|0.861611	negative regulation of protein processing|0.843231	regulation of protein processing|0.799052	negative regulation of hydrolase activity|0.79558
+regulation of cell motility|1	regulation of cell migration|0.973976	positive regulation of cell motility|0.739076	positive regulation of cellular component movement|0.728865	positive regulation of locomotion|0.725732	positive regulation of cell migration|0.730922	regulation of cellular component movement|0.967418	regulation of locomotion|0.955249
+negative regulation of t cell activation|1	negative regulation of leukocyte cell-cell adhesion|0.966092	negative regulation of homotypic cell-cell adhesion|0.935414	negative regulation of lymphocyte activation|0.828417	negative regulation of t cell proliferation|0.755929	negative regulation of leukocyte activation|0.763763	negative regulation of cell activation|0.720082	negative regulation of cell-cell adhesion|0.787064
+positive regulation of cell communication|1	positive regulation of signaling|0.991874	regulation of signal transduction|0.714293	regulation of signaling|0.722022	regulation of cell communication|0.725237	positive regulation of signal transduction|0.95283	positive regulation of intracellular signal transduction|0.752299	positive regulation of response to stimulus|0.840872
+regulation of cd4-positive, alpha-beta t cell activation|1	regulation of alpha-beta t cell differentiation|0.75734	regulation of cd4-positive, alpha-beta t cell differentiation|0.933257	positive regulation of cd4-positive, alpha-beta t cell differentiation|0.803219	regulation of t-helper cell differentiation|0.861357	positive regulation of cd4-positive, alpha-beta t cell activation|0.861357	positive regulation of t-helper cell differentiation|0.718421	regulation of alpha-beta t cell activation|0.712879
+positive regulation of neurogenesis|1	regulation of neurogenesis|0.749136	regulation of neuron differentiation|0.707798	positive regulation of neuron differentiation|0.880436	positive regulation of nervous system development|0.953172	regulation of nervous system development|0.710092	positive regulation of cell development|0.885557	positive regulation of neuron projection development|0.723526
+positive regulation of intracellular protein transport|1	positive regulation of cytoplasmic transport|0.736555	positive regulation of intracellular transport|0.785988	positive regulation of cellular protein localization|0.835759
+cation transport|1	inorganic cation transmembrane transport|0.762001	ion transmembrane transport|0.717508	cation transmembrane transport|0.805625	inorganic ion transmembrane transport|0.71482	ion transport|0.806668	metal ion transport|0.859857	monovalent inorganic cation transport|0.736163
+entry into cell of other organism involved in symbiotic interaction|1	entry into host|1	entry into host cell|1	entry into other organism involved in symbiotic interaction|1	movement in environment of other organism involved in symbiotic interaction|1	movement in host environment|1	viral entry into host cell|0.968904
+positive regulation of phospholipase activity|1	positive regulation of phospholipase c activity|0.905822	regulation of phospholipase c activity|0.891991	regulation of phospholipase activity|0.946864	positive regulation of lipase activity|0.941469	activation of phospholipase c activity|0.847319	regulation of lipase activity|0.870219
+regulation of mononuclear cell proliferation|1	regulation of lymphocyte proliferation|0.996983	positive regulation of mononuclear cell proliferation|0.821401	positive regulation of lymphocyte proliferation|0.817725	positive regulation of leukocyte proliferation|0.814321	regulation of leukocyte proliferation|0.982403	regulation of t cell proliferation|0.857286
+peptide hormone secretion|1	peptide secretion|0.982607	hormone secretion|0.894427	peptide transport|0.875856	hormone transport|0.852803	amide transport|0.780189	insulin secretion|0.801784
+positive regulation of stress-activated mapk cascade|1	positive regulation of jnk cascade|0.940371	regulation of jnk cascade|0.804337	positive regulation of stress-activated protein kinase signaling cascade|0.995893	regulation of stress-activated mapk cascade|0.831522	regulation of stress-activated protein kinase signaling cascade|0.829156	positive regulation of jun kinase activity|0.710023
+negative regulation of blood coagulation|1	negative regulation of hemostasis|1	regulation of blood coagulation|0.733799	regulation of hemostasis|0.733799	negative regulation of coagulation|0.966092	regulation of coagulation|0.711354	negative regulation of wound healing|0.916515
+regulation of actin filament length|1	regulation of actin polymerization or depolymerization|0.995927	regulation of actin filament polymerization|0.923936	regulation of protein polymerization|0.840108	regulation of cellular component size|0.853118	regulation of actin cytoskeleton organization|0.714404	regulation of anatomical structure size|0.725011
+glycosyl compound metabolic process|1
+negative regulation of protein phosphorylation|1	negative regulation of phosphorylation|0.894427	negative regulation of kinase activity|0.81828	negative regulation of protein kinase activity|0.842701	negative regulation of protein modification process|0.806811	negative regulation of phosphate metabolic process|0.778841	negative regulation of phosphorus metabolic process|0.778841
+positive regulation of chemotaxis|1	positive regulation of leukocyte chemotaxis|0.796628	regulation of leukocyte chemotaxis|0.759883	regulation of chemotaxis|0.877707	positive regulation of behavior|0.927094	positive regulation of leukocyte migration|0.710806	regulation of behavior|0.753861
+positive regulation of alpha-beta t cell differentiation|1	positive regulation of t cell differentiation|0.752773	positive regulation of alpha-beta t cell activation|0.859727
+positive regulation of cardiac muscle tissue development|1	positive regulation of cardiac muscle tissue growth|0.877058	positive regulation of heart growth|0.800641	positive regulation of muscle organ development|0.768706	positive regulation of striated muscle tissue development|0.768706	positive regulation of muscle tissue development|0.760117	regulation of cardiac muscle tissue development|0.751809
+negative regulation of ion transmembrane transporter activity|1	negative regulation of ion transmembrane transport|0.843527	negative regulation of transmembrane transport|0.785281	negative regulation of calcium ion transmembrane transport|0.716599	negative regulation of calcium ion transmembrane transporter activity|0.716599	negative regulation of transporter activity|0.906765	negative regulation of cation channel activity|0.735215
+positive regulation of leukocyte mediated immunity|1	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains|0.737584	positive regulation of adaptive immune response|0.721605	regulation of lymphocyte mediated immunity|0.741708	positive regulation of lymphocyte mediated immunity|0.901388	regulation of leukocyte mediated immunity|0.781465	positive regulation of immune effector process|0.761387
+regulation of cellular localization|1	regulation of protein transport|0.736559	regulation of establishment of protein localization|0.768171	regulation of protein localization|0.784772	regulation of secretion by cell|0.756024	regulation of secretion|0.732323	regulation of transport|0.771877
+regulation of mast cell activation involved in immune response|1	regulation of mast cell degranulation|1	regulation of leukocyte degranulation|0.891133	regulation of myeloid leukocyte mediated immunity|0.904534	regulation of regulated secretory pathway|0.83205	regulation of mast cell activation|0.891133
+transport|1	organic substance transport|0.715732	establishment of localization|0.985729	localization|0.944006	single-organism localization|0.875589	single-organism transport|0.895169
+positive regulation of collagen metabolic process|1	positive regulation of collagen biosynthetic process|0.978019	regulation of collagen biosynthetic process|0.899647	regulation of collagen metabolic process|0.861357	positive regulation of multicellular organismal metabolic process|0.875595	regulation of multicellular organismal metabolic process|0.767948
+detection of light stimulus|1	phototransduction|0.947331	detection of visible light|0.929111	detection of external stimulus|0.82717	phototransduction, visible light|0.857346	detection of abiotic stimulus|0.820008
+regulation of glucan biosynthetic process|1	regulation of glycogen biosynthetic process|1	regulation of glycogen metabolic process|0.910259	regulation of polysaccharide biosynthetic process|0.910259	regulation of polysaccharide metabolic process|0.841021	positive regulation of glycogen biosynthetic process|0.719195
+granulocyte chemotaxis|1	myeloid leukocyte migration|0.819178	granulocyte migration|0.971825	neutrophil migration|0.897588	neutrophil chemotaxis|0.918225	leukocyte chemotaxis|0.717741
+protein transport|1	establishment of protein localization|0.969519	protein localization|0.882389	macromolecule localization|0.879102	intracellular protein transport|0.766193
+regulation of insulin secretion|1	regulation of protein secretion|0.709196	regulation of peptide hormone secretion|0.948404	regulation of peptide secretion|0.936103	regulation of peptide transport|0.852347	regulation of hormone secretion|0.845154
+regulation of programmed cell death|1	negative regulation of programmed cell death|0.776256	regulation of apoptotic process|0.996208	negative regulation of apoptotic process|0.771365	regulation of cell death|0.975566	negative regulation of cell death|0.760039
+regulation of chromatin modification|1	regulation of histone modification|0.981817	regulation of chromatin organization|0.974022	positive regulation of chromatin modification|0.741316	positive regulation of histone modification|0.735215	regulation of chromosome organization|0.774597
+purine nucleotide catabolic process|1	purine ribonucleotide catabolic process|0.801784	ribonucleotide catabolic process|0.787336	purine-containing compound catabolic process|0.935414	nucleotide catabolic process|0.843721	nucleoside phosphate catabolic process|0.791748
+regulation of phosphatidylinositol 3-kinase activity|1	positive regulation of phosphatidylinositol 3-kinase activity|0.849837	positive regulation of lipid kinase activity|0.818923	regulation of lipid kinase activity|0.914991	positive regulation of phospholipid metabolic process|0.722222	regulation of phospholipid metabolic process|0.824163
+regulation of tyrosine phosphorylation of stat protein|1	positive regulation of tyrosine phosphorylation of stat protein|0.934199	positive regulation of jak-stat cascade|0.842624	positive regulation of tyrosine phosphorylation of stat3 protein|0.738549	regulation of tyrosine phosphorylation of stat3 protein|0.797724	regulation of jak-stat cascade|0.814034
+cytosolic calcium ion homeostasis|1	positive regulation of cytosolic calcium ion concentration|0.922404
+regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains|1	regulation of adaptive immune response|0.957427
+protein metabolic process|1	cellular protein modification process|0.804625	protein modification process|0.804625	macromolecule modification|0.783949	cellular protein metabolic process|0.897493
+immune response-regulating signaling pathway|1	immune response-activating signal transduction|0.859538	activation of immune response|0.799828	immune response-regulating cell surface receptor signaling pathway|0.862427	regulation of immune response|0.74259	fc receptor signaling pathway|0.734712
+regulation of cell development|1	regulation of cell differentiation|0.707632
+regulation of heart growth|1	regulation of cardiac muscle tissue growth|0.919866	regulation of organ growth|0.730922
+response to endogenous stimulus|1	cellular response to endogenous stimulus|0.746924	response to organic substance|0.77141	response to organonitrogen compound|0.779338	response to nitrogen compound|0.755996	response to hormone|0.808507
+tube morphogenesis|1	morphogenesis of a branching epithelium|0.741153	morphogenesis of a branching structure|0.723398	morphogenesis of an epithelium|0.822073	branching morphogenesis of an epithelial tube|0.7808	tissue morphogenesis|0.741238
+regulation of isotype switching|1	regulation of immunoglobulin mediated immune response|0.760886	regulation of b cell mediated immunity|0.751068	positive regulation of isotype switching|0.797724	regulation of immunoglobulin production|0.723747	positive regulation of dna recombination|0.746203
+positive regulation of cell adhesion|1	regulation of cell adhesion|0.7711
+heterocycle catabolic process|1	cellular nitrogen compound catabolic process|0.97907	aromatic compound catabolic process|0.95945	organic cyclic compound catabolic process|0.956313	nucleobase-containing compound catabolic process|0.944999
+multicellular organismal macromolecule metabolic process|1	collagen metabolic process|0.966092	multicellular organismal metabolic process|0.983739	multicellular organismal catabolic process|0.925038	collagen catabolic process|0.906765
+cellular glucan metabolic process|1	glucan metabolic process|1	glycogen metabolic process|0.990521	cellular polysaccharide metabolic process|0.876422	polysaccharide metabolic process|0.840635
+macromolecular complex remodeling|1	plasma lipoprotein particle remodeling|1	protein-lipid complex remodeling|1	plasma lipoprotein particle organization|0.861357	protein-lipid complex subunit organization|0.834847
+cellular polysaccharide catabolic process|1	glucan catabolic process|0.973329	glycogen catabolic process|0.945905	polysaccharide catabolic process|0.95119	cellular carbohydrate catabolic process|0.809427
+negative regulation of sequestering of calcium ion|1	release of sequestered calcium ion into cytosol|1	regulation of sequestering of calcium ion|0.970143	calcium ion transport into cytosol|0.852803	cytosolic calcium ion transport|0.843274
+cell-cell signaling|1	single organism signaling|0.979366	signaling|0.978721	cell communication|0.898385	synaptic transmission|0.784465
+protein import into nucleus|1	single-organism nuclear import|1	nuclear import|0.972217	protein import|0.82654	protein localization to nucleus|0.818476
+cellular protein localization|1	cellular macromolecule localization|0.994817	cellular localization|0.920924	single-organism cellular localization|0.775905	protein localization to organelle|0.788916
+positive regulation of mesonephros development|1	regulation of mesonephros development|0.919866	regulation of branching involved in ureteric bud morphogenesis|0.844653	positive regulation of branching involved in ureteric bud morphogenesis|0.92932	positive regulation of kidney development|0.751068
+regulation of cellular amino acid metabolic process|1	regulation of cellular amine metabolic process|0.977637	positive regulation of cellular amino acid metabolic process|0.783834	positive regulation of cellular amine metabolic process|0.777416	regulation of cellular ketone metabolic process|0.898362
+cellular response to nutrient levels|1	cellular response to extracellular stimulus|0.917859	cellular response to starvation|0.919526	response to starvation|0.821281	cellular response to external stimulus|0.759911
+glycosaminoglycan metabolic process|1	aminoglycan metabolic process|0.973169	glycosaminoglycan biosynthetic process|0.78811	aminoglycan biosynthetic process|0.784199	mucopolysaccharide metabolic process|0.866921
+positive regulation of reactive oxygen species biosynthetic process|1	positive regulation of nitric oxide biosynthetic process|0.972598	regulation of nitric oxide biosynthetic process|0.848376	regulation of reactive oxygen species biosynthetic process|0.835532	positive regulation of reactive oxygen species metabolic process|0.71686
+positive regulation of b cell mediated immunity|1	positive regulation of immunoglobulin mediated immune response|1
+unsaturated fatty acid metabolic process|1	arachidonic acid metabolic process|0.770752	fatty acid derivative metabolic process|0.922998	icosanoid metabolic process|0.922998	long-chain fatty acid metabolic process|0.728675
+positive regulation of t cell proliferation|1
+regulation of cardiac muscle hypertrophy|1	regulation of muscle hypertrophy|0.981981	positive regulation of cardiac muscle hypertrophy|0.745356	positive regulation of muscle hypertrophy|0.745356	regulation of muscle adaptation|0.854242
+regulation of response to stimulus|1
+organic substance catabolic process|1	cellular catabolic process|0.858322	macromolecule catabolic process|0.771416	catabolic process|0.931174	cellular macromolecule catabolic process|0.709404
+response to external biotic stimulus|1	response to other organism|0.840974	response to biotic stimulus|0.97774	defense response to other organism|0.720928	response to external stimulus|0.726168
+positive regulation of map kinase activity|1	regulation of map kinase activity|0.848693	activation of mapk activity|0.821436	positive regulation of mapk cascade|0.711437
+positive regulation of immune response|1	positive regulation of immune system process|0.806012
+ethanolamine-containing compound metabolic process|1	cellular amine metabolic process|0.803219	cellular biogenic amine metabolic process|0.803219	amine metabolic process|0.775567	phosphatidylcholine metabolic process|0.873212
+positive regulation of catalytic activity|1	regulation of catalytic activity|0.809866	positive regulation of hydrolase activity|0.759592	positive regulation of molecular function|0.921112	regulation of molecular function|0.736749
+multicellular organismal reproductive behavior|1	multi-organism reproductive behavior|0.856349	reproductive behavior|0.829156	maternal behavior|0.768706	parental behavior|0.768706
+positive regulation of lymphocyte differentiation|1	positive regulation of leukocyte differentiation|0.789181	regulation of t cell differentiation|0.746684	regulation of lymphocyte differentiation|0.766014
+inorganic anion transmembrane transport|1	chloride transport|0.789647	chloride transmembrane transport|0.826394	inorganic anion transport|0.840771	anion transmembrane transport|0.759911
+intracellular transport|1	single-organism intracellular transport|0.896154	establishment of localization in cell|0.862263	cytoplasmic transport|0.718239
+macromolecular complex assembly|1	protein complex assembly|0.908063	protein complex subunit organization|0.751448	macromolecular complex subunit organization|0.741655	cellular component assembly|0.811438
+cellular response to organic substance|1	cellular response to chemical stimulus|0.894117	cellular response to oxygen-containing compound|0.74228
+cellular response to peptide|1	cellular response to organonitrogen compound|0.720082	cellular response to peptide hormone stimulus|0.963624	response to peptide hormone|0.727342	response to peptide|0.740299
+regulation of neuron projection development|1	regulation of cell projection organization|0.83957
+regulation of protein serine/threonine kinase activity|1
+immune response-activating cell surface receptor signaling pathway|1	antigen receptor-mediated signaling pathway|0.807424
+monocarboxylic acid metabolic process|1	oxoacid metabolic process|0.724006	carboxylic acid metabolic process|0.775429	organic acid metabolic process|0.716391	fatty acid metabolic process|0.7654
+regulation of intracellular signal transduction|1
+modulation of growth of symbiont involved in interaction with host|1	negative regulation of growth of symbiont in host|1	negative regulation of growth of symbiont involved in interaction with host|1	regulation of growth of symbiont in host|1
+cell death|1	programmed cell death|0.974428	death|0.996512	apoptotic process|0.954799
+symbiosis, encompassing mutualism through parasitism|1	viral process|1	multi-organism cellular process|0.995873	interspecies interaction between organisms|0.923413
+chordate embryonic development|1	embryo development ending in birth or egg hatching|0.990991	in utero embryonic development|0.990825	embryo development|0.917773
+endocrine process|1	regulation of systemic arterial blood pressure by hormone|1	regulation of systemic arterial blood pressure mediated by a chemical signal|1	regulation of systemic arterial blood pressure|0.898027
+blood coagulation|1	coagulation|1	hemostasis|0.994655	regulation of body fluid levels|0.88234
+arachidonic acid secretion|1	icosanoid secretion|1	fatty acid derivative transport|0.935414	icosanoid transport|0.935414
+negative regulation of lymphocyte proliferation|1	negative regulation of mononuclear cell proliferation|1	negative regulation of leukocyte proliferation|0.971286
+negative regulation of cell motility|1	negative regulation of cellular component movement|0.966442	negative regulation of cell migration|0.980794	negative regulation of locomotion|0.916615
+response to hexose|1	response to monosaccharide|0.977824	response to glucose|0.976795	response to carbohydrate|0.901905
+embryonic appendage morphogenesis|1	embryonic limb morphogenesis|1	appendage morphogenesis|0.925078	limb morphogenesis|0.925078
+catechol-containing compound catabolic process|1	catecholamine catabolic process|1	phenol-containing compound catabolic process|0.92582	dopamine catabolic process|0.912871
+nicotinamide nucleotide metabolic process|1	pyridine nucleotide metabolic process|1	pyridine-containing compound metabolic process|0.932123	oxidoreduction coenzyme metabolic process|0.89612
+negative regulation of cell communication|1	negative regulation of signaling|0.992947	negative regulation of signal transduction|0.951448	negative regulation of response to stimulus|0.882765
+acylglycerol catabolic process|1	neutral lipid catabolic process|1	triglyceride catabolic process|0.912871	glycerolipid catabolic process|0.909718
+male gamete generation|1	spermatogenesis|0.998524	gamete generation|0.952059	multicellular organismal reproductive process|0.847479
+hexose transport|1	monosaccharide transport|0.986577	glucose transport|0.993127	carbohydrate transport|0.810961
+mesonephric tubule development|1	mesonephric epithelium development|0.988826	ureteric bud development|0.953463	kidney epithelium development|0.842424
+diterpenoid metabolic process|1	terpenoid metabolic process|0.945313	retinoid metabolic process|0.963624	isoprenoid metabolic process|0.869918
+positive regulation of blood coagulation|1	positive regulation of hemostasis|1	positive regulation of coagulation|0.96225	positive regulation of wound healing|0.762493
+negative regulation of neurogenesis|1	negative regulation of nervous system development|0.956183	negative regulation of cell development|0.89257	negative regulation of neuron differentiation|0.872019
+positive regulation of cgmp biosynthetic process|1	positive regulation of cgmp metabolic process|0.948683	regulation of cgmp biosynthetic process|0.948683	regulation of cgmp metabolic process|0.816497
+positive regulation of fever generation|1	positive regulation of heat generation|0.935414	regulation of fever generation|0.935414	regulation of heat generation|0.83666
+negative regulation of peptide hormone secretion|1	negative regulation of peptide secretion|0.986013	negative regulation of insulin secretion|0.941124	negative regulation of hormone secretion|0.770208
+divalent metal ion transport|1	calcium ion transport|0.955925	divalent inorganic cation transport|0.991489	calcium ion transmembrane transport|0.731083
+mononuclear cell proliferation|1	lymphocyte proliferation|0.988165	leukocyte proliferation|0.966471	t cell proliferation|0.719477
+cell motility|1	cell migration|0.956222	locomotion|0.926605	movement of cell or subcellular component|0.762341
+fear response|1	behavioral defense response|0.933257	behavioral fear response|0.933257	multicellular organismal response to stress|0.757677
+carboxylic acid catabolic process|1	organic acid catabolic process|1	cellular amino acid catabolic process|0.753937	small molecule catabolic process|0.870041
+carboxylic acid biosynthetic process|1	organic acid biosynthetic process|1	monocarboxylic acid biosynthetic process|0.807126	small molecule biosynthetic process|0.812572
+single-organism process|1	single-organism cellular process|0.915524
+regulation of protein ubiquitination|1	positive regulation of protein modification by small protein conjugation or removal|0.808411	regulation of protein modification by small protein conjugation or removal|0.959894	positive regulation of protein ubiquitination|0.837509
+glycerophospholipid metabolic process|1	glycerolipid metabolic process|0.881036	phospholipid metabolic process|0.890425	glycerolipid biosynthetic process|0.824563
+fatty acid derivative biosynthetic process|1	icosanoid biosynthetic process|1	leukotriene biosynthetic process|0.716599	unsaturated fatty acid biosynthetic process|0.872615
+regulation of catecholamine uptake involved in synaptic transmission|1	regulation of dopamine uptake involved in synaptic transmission|1	regulation of neurotransmitter uptake|0.83205	regulation of synaptic transmission, dopaminergic|0.75
+glycolipid metabolic process|1	liposaccharide metabolic process|0.988826	membrane lipid metabolic process|0.751068	glycosphingolipid metabolic process|0.825723
+positive regulation of leukocyte mediated cytotoxicity|1	positive regulation of cell killing|0.929981	regulation of leukocyte mediated cytotoxicity|0.852803	regulation of cell killing|0.7698
+cell projection morphogenesis|1	cell part morphogenesis|0.957964	neuron projection morphogenesis|0.865378	cellular component morphogenesis|0.716816
+organic acid transport|1	carboxylic acid transport|0.995717	organic anion transport|0.830822	amino acid transport|0.713125
+catechol-containing compound metabolic process|1	catecholamine metabolic process|1	dopamine metabolic process|0.821584	phenol-containing compound metabolic process|0.716115
+regulation of carbohydrate metabolic process|1	regulation of glucose metabolic process|0.813617	regulation of cellular carbohydrate metabolic process|0.971423	regulation of carbohydrate biosynthetic process|0.741145
+negative regulation of neuron death|1	regulation of neuron apoptotic process|0.779933	negative regulation of neuron apoptotic process|0.91878	regulation of neuron death|0.823659
+vascular process in circulatory system|1	regulation of blood vessel size|0.864285	regulation of tube size|0.857398	circulatory system process|0.799038
+negative regulation of phosphatase activity|1	negative regulation of dephosphorylation|0.956814	regulation of phosphatase activity|0.822851	regulation of dephosphorylation|0.732933
+single organismal cell-cell adhesion|1	single organism cell adhesion|0.973574
+regulation of wound healing|1
+positive regulation of ion transmembrane transport|1	positive regulation of ion transmembrane transporter activity|0.8	positive regulation of transmembrane transport|0.96225	positive regulation of transporter activity|0.747359
+regulation of glycolytic process|1	regulation of carbohydrate catabolic process|0.891133	regulation of cellular carbohydrate catabolic process|0.891133	positive regulation of glycolytic process|0.720082
+regulation of renal sodium excretion|1	regulation of excretion|0.938083	regulation of renal system process|0.792825	positive regulation of renal sodium excretion|0.768706
+catechol-containing compound biosynthetic process|1	catecholamine biosynthetic process|1	dopamine biosynthetic process|0.766965	phenol-containing compound biosynthetic process|0.728869
+cell cycle g1/s phase transition|1	g1/s transition of mitotic cell cycle|1	mitotic cell cycle phase transition|0.74398	cell cycle phase transition|0.738549
+purinergic receptor signaling pathway|1	g-protein coupled purinergic nucleotide receptor signaling pathway|0.720082	purinergic nucleotide receptor signaling pathway|0.881917	g-protein coupled purinergic receptor signaling pathway|0.860663
+lymphocyte activation involved in immune response|1	leukocyte activation involved in immune response|0.848953	cell activation involved in immune response|0.845154	t cell activation involved in immune response|0.766485
+developmental process|1	cellular developmental process|0.729694	single-organism developmental process|0.954422	anatomical structure development|0.769116
+regulation of tumor necrosis factor superfamily cytokine production|1	regulation of tumor necrosis factor production|0.981981	positive regulation of tumor necrosis factor superfamily cytokine production|0.740013	positive regulation of tumor necrosis factor production|0.723747
+learning or memory|1	cognition|0.931891	single-organism behavior|0.743689	learning|0.768706
+neurotransmitter secretion|1	regulation of neurotransmitter levels|0.856349	neurotransmitter transport|0.832414	signal release|0.753487
+negative regulation of transferase activity|1
+regulation of developmental process|1	regulation of multicellular organismal development|0.840745	regulation of multicellular organismal process|0.750721
+cyclic nucleotide catabolic process|1	camp catabolic process|0.939336
+associative learning|1	visual learning|0.846415	visual behavior|0.805501
+cellular response to glucocorticoid stimulus|1	cellular response to dexamethasone stimulus|0.716599	cellular response to corticosteroid stimulus|0.974022	response to dexamethasone|0.717496
+cellular response to nitrogen compound|1
+positive regulation of protein polymerization|1	positive regulation of protein complex assembly|0.730297	positive regulation of actin filament polymerization|0.920447
+negative regulation of cellular process|1	negative regulation of biological process|0.960052
+regulation of leukocyte migration|1
+regulation of leukocyte differentiation|1	regulation of hemopoiesis|0.876574
+positive regulation of peptidyl-tyrosine phosphorylation|1	regulation of peptidyl-tyrosine phosphorylation|0.857584
+regulation of cytoplasmic transport|1	regulation of intracellular transport|0.849993
+response to chemical|1	response to oxygen-containing compound|0.734144
+cell chemotaxis|1	chemotaxis|0.770552	taxis|0.770552
+immune response|1	innate immune response|0.819875	defense response|0.738902	immune system process|0.780637
+phosphorylation|1	phosphate-containing compound metabolic process|0.752101	phosphorus metabolic process|0.742889	protein phosphorylation|0.839543
+positive regulation of hemopoiesis|1	positive regulation of myeloid cell differentiation|0.71686
+negative regulation of protein serine/threonine kinase activity|1	negative regulation of map kinase activity|0.78203
+positive regulation of cell differentiation|1	positive regulation of developmental process|0.855384
+regulation of glial cell differentiation|1	positive regulation of glial cell differentiation|0.726844	regulation of gliogenesis|0.857969	regulation of oligodendrocyte differentiation|0.726844
+regulation of production of molecular mediator of immune response|1	positive regulation of production of molecular mediator of immune response|0.814034	regulation of cytokine production involved in immune response|0.783874
+cyclic nucleotide metabolic process|1	cyclic nucleotide biosynthetic process|0.767649	cyclic purine nucleotide metabolic process|0.755929	camp metabolic process|0.779194
+regulation of ion transport|1	regulation of ion transmembrane transport|0.7887	regulation of transmembrane transport|0.7792	regulation of metal ion transport|0.729038
+positive regulation of protein catabolic process|1	positive regulation of catabolic process|0.832508	positive regulation of cellular catabolic process|0.715943	regulation of protein catabolic process|0.745356
+organelle organization|1	cellular component organization|0.721652	cellular component organization or biogenesis|0.719206	single-organism organelle organization|0.85136
+regulation of cellular protein localization|1
+positive regulation of cell projection organization|1
+positive regulation of protein secretion|1	positive regulation of secretion by cell|0.782126	positive regulation of secretion|0.742398	positive regulation of protein transport|0.751125
+positive regulation of organic acid transport|1	regulation of icosanoid secretion|0.713477	regulation of organic acid transport|0.760117	positive regulation of anion transport|0.728431
+negative regulation of protein secretion|1	negative regulation of secretion by cell|0.759203	negative regulation of secretion|0.718003	negative regulation of protein transport|0.718003
+positive regulation of glucose metabolic process|1	positive regulation of cellular carbohydrate metabolic process|0.754298	positive regulation of carbohydrate metabolic process|0.712525	positive regulation of glycogen metabolic process|0.717741
+positive regulation of calcidiol 1-monooxygenase activity|1	positive regulation of vitamin d biosynthetic process|1	positive regulation of vitamin metabolic process|1
+regulation of striated muscle tissue development|1	regulation of muscle tissue development|0.994723	regulation of muscle organ development|0.989529
+positive regulation of programmed cell death|1	positive regulation of apoptotic process|0.995368	positive regulation of cell death|0.982013
+axon ensheathment|1	ensheathment of neurons|1	myelination|0.9759
+response to decreased oxygen levels|1	response to hypoxia|0.991735	response to oxygen levels|0.96862
+negative regulation of blood vessel morphogenesis|1	negative regulation of angiogenesis|0.984732	negative regulation of vasculature development|0.971008
+acylglycerol metabolic process|1	neutral lipid metabolic process|0.994667	triglyceride metabolic process|0.956022
+cellular response to decreased oxygen levels|1	cellular response to hypoxia|0.99043	cellular response to oxygen levels|0.959715
+regulation of transmembrane transporter activity|1	regulation of ion transmembrane transporter activity|0.986842	regulation of transporter activity|0.96295
+cellular potassium ion transport|1	potassium ion transmembrane transport|1	potassium ion transport|0.923227
+negative regulation of complement activation|1	negative regulation of protein activation cascade|1	negative regulation of humoral immune response|0.894427
+cellular response to molecule of bacterial origin|1	cellular response to lipopolysaccharide|0.951972	cellular response to biotic stimulus|0.92582
+desensitization of g-protein coupled receptor protein signaling pathway|1	negative adaptation of signaling pathway|1	adaptation of signaling pathway|0.866025
+detection of temperature stimulus involved in sensory perception|1	detection of temperature stimulus involved in sensory perception of pain|1	detection of temperature stimulus|0.845154
+positive regulation of peptide hormone secretion|1	positive regulation of peptide secretion|0.971423	positive regulation of hormone secretion|0.835414
+epidermal growth factor receptor signaling pathway|1	erbb signaling pathway|0.992434	fibroblast growth factor receptor signaling pathway|0.805639
+cardiac muscle tissue morphogenesis|1	muscle tissue morphogenesis|0.915811	ventricular cardiac muscle tissue morphogenesis|0.877058
+negative regulation of nuclear division|1	negative regulation of mitotic nuclear division|0.896421	negative regulation of cell division|0.894427
+response to organophosphorus|1	response to purine-containing compound|0.91411	response to camp|0.869657
+hexose metabolic process|1	monosaccharide metabolic process|0.895481	glucose metabolic process|0.887826
+sterol homeostasis|1	cholesterol homeostasis|0.991632	lipid homeostasis|0.786484
+multi-multicellular organism process|1	multi-organism reproductive process|0.92807	female pregnancy|0.843721
+regulation of complement activation|1	regulation of protein activation cascade|0.980581	regulation of humoral immune response|0.790569
+regulation of interleukin-1 production|1	regulation of interleukin-1 beta production|0.95119	positive regulation of interleukin-1 production|0.816497
+detection of stimulus involved in sensory perception|1	detection of chemical stimulus|0.913981	detection of stimulus|0.852803
+regulation of calcium ion transmembrane transport|1	regulation of calcium ion transmembrane transporter activity|1	regulation of cation channel activity|0.764455
+positive regulation of chromosome organization|1
+regulation of actin filament-based process|1	regulation of cytoskeleton organization|0.79078
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand|1	negative regulation of signal transduction in absence of ligand|1	regulation of extrinsic apoptotic signaling pathway in absence of ligand|0.755929
+positive regulation of bone remodeling|1	positive regulation of bone resorption|1	positive regulation of tissue remodeling|0.748331
+regulation of vitamin d biosynthetic process|1	regulation of calcidiol 1-monooxygenase activity|0.881917	regulation of vitamin metabolic process|0.866025
+regulation of bone remodeling|1	regulation of bone resorption|0.903211	regulation of tissue remodeling|0.831209
+secretion by tissue|1	body fluid secretion|0.92582	lactation|0.806226
+positive regulation of positive chemotaxis|1	regulation of positive chemotaxis|0.978945	induction of positive chemotaxis|0.751809
+artery smooth muscle contraction|1	tonic smooth muscle contraction|0.942809	vascular smooth muscle contraction|0.784465
+intraspecies interaction between organisms|1	social behavior|1	multi-organism behavior|0.720082
+er-nucleus signaling pathway|1	endoplasmic reticulum unfolded protein response|0.953939	response to endoplasmic reticulum stress|0.76133
+regulation of angiogenesis|1	regulation of vasculature development|0.958058	positive regulation of angiogenesis|0.753937
+negative regulation of cellular protein metabolic process|1	negative regulation of protein metabolic process|0.957374
+regulation of symbiosis, encompassing mutualism through parasitism|1	regulation of viral process|0.94677	regulation of multi-organism process|0.763598
+striated muscle cell development|1	muscle cell development|0.919866	muscle fiber development|0.78817
+regulation of sensory perception|1	regulation of sensory perception of pain|1	regulation of neurological system process|0.707107
+positive regulation of gtpase activity|1	regulation of gtpase activity|0.966092
+embryonic skeletal system morphogenesis|1	skeletal system morphogenesis|0.875417	embryonic organ morphogenesis|0.823217
+stress-activated mapk cascade|1	mapk cascade|0.709221	stress-activated protein kinase signaling cascade|0.988304
+histamine transport|1	histamine secretion|0.904534	azole transport|0.781736
+regulation of nuclear division|1	regulation of mitotic nuclear division|0.911636	regulation of cell division|0.774074
+defense response to bacterium|1	response to bacterium|0.941281
+positive regulation of interferon-alpha production|1	positive regulation of interferon-beta production|0.709208	regulation of interferon-alpha production|0.966092
+regulation of catabolic process|1	regulation of cellular catabolic process|0.935606
+regulation of monooxygenase activity|1	regulation of oxidoreductase activity|0.805387	regulation of nitric-oxide synthase activity|0.866025
+positive regulation of bone mineralization|1	regulation of bone mineralization|0.712525	positive regulation of biomineral tissue development|0.957427
+negative regulation of steroid biosynthetic process|1	negative regulation of lipid biosynthetic process|0.716115	negative regulation of steroid metabolic process|0.953463
+secretion by cell|1	secretion|0.902971	exocytosis|0.756141
+positive regulation of mesenchymal cell proliferation|1	positive regulation of stem cell proliferation|0.733017	regulation of mesenchymal cell proliferation|0.92582
+negative regulation of inflammatory response|1	negative regulation of response to wounding|0.801459	negative regulation of defense response|0.856349
+regulation of superoxide anion generation|1	positive regulation of superoxide anion generation|0.852803	regulation of superoxide metabolic process|0.8044
+sterol metabolic process|1	cholesterol metabolic process|0.943799	steroid metabolic process|0.713125
+single organism reproductive process|1	reproductive process|0.927444	developmental process involved in reproduction|0.723858
+complement activation|1	complement activation, classical pathway|0.830949	protein activation cascade|0.816497
+regulation of hormone biosynthetic process|1	regulation of steroid hormone biosynthetic process|0.786796	regulation of hormone metabolic process|0.850963
+neurological system process|1	system process|0.817996	sensory perception|0.816497
+negative regulation of amino acid transport|1	negative regulation of glutamate secretion|0.881917	negative regulation of organic acid transport|0.75
+monovalent inorganic cation homeostasis|1	regulation of ph|0.820922	cellular monovalent inorganic cation homeostasis|0.807573
+regulation of wnt signaling pathway|1	regulation of canonical wnt signaling pathway|0.877058	positive regulation of wnt signaling pathway|0.745617
+phospholipase c-activating g-protein coupled acetylcholine receptor signaling pathway|1	adenylate cyclase-inhibiting g-protein coupled acetylcholine receptor signaling pathway|0.912871	g-protein coupled acetylcholine receptor signaling pathway|0.707107
+negative regulation of hemopoiesis|1	negative regulation of leukocyte differentiation|0.83205	negative regulation of myeloid cell differentiation|0.784465
+regulation of glucocorticoid biosynthetic process|1	regulation of glucocorticoid metabolic process|0.881917
+regulation of jun kinase activity|1
+fc-epsilon receptor signaling pathway|1
+energy derivation by oxidation of organic compounds|1	energy reserve metabolic process|0.886194	generation of precursor metabolites and energy|0.722397
+hormone metabolic process|1	regulation of hormone levels|0.824515	cellular hormone metabolic process|0.782881
+positive regulation of b cell proliferation|1	regulation of b cell proliferation|0.83205	positive regulation of b cell activation|0.774597
+regulation of epithelial cell migration|1	regulation of endothelial cell migration|0.830455	positive regulation of epithelial cell migration|0.774597
+regulation of calcium ion transport into cytosol|1	positive regulation of calcium ion transport into cytosol|0.711934	regulation of release of sequestered calcium ion into cytosol|0.891359
+response to heat|1	response to temperature stimulus|0.821681	cellular response to heat|0.777029
+regulation of immune system process|1
+epithelial cell migration|1	endothelial cell migration|0.872464	ameboidal-type cell migration|0.72068
+cellular response to light stimulus|1	cellular response to radiation|0.822901	cellular response to uv|0.77008
+positive regulation of osteoblast differentiation|1	regulation of osteoblast differentiation|0.746059	positive regulation of ossification|0.843115
+positive regulation of gliogenesis|1
+positive regulation of organ growth|1
+positive regulation of immunoglobulin production|1
+catecholamine transport|1	dopamine transport|0.801784	monoamine transport|0.780189
+positive regulation of endothelial cell migration|1
+regulation of hydrolase activity|1
+regulation of fatty acid transport|1
+negative regulation of norepinephrine secretion|1	negative regulation of catecholamine secretion|0.784465	regulation of norepinephrine secretion|0.784465
+homeostatic process|1
+transmembrane transport|1
+regulation of response to wounding|1	regulation of inflammatory response|0.843721	regulation of response to external stimulus|0.722638
+regulation of blood circulation|1	regulation of heart contraction|0.825324	regulation of system process|0.739036
+positive regulation of sequence-specific dna binding transcription factor activity|1	regulation of sequence-specific dna binding transcription factor activity|0.798063	positive regulation of nf-kappab transcription factor activity|0.764272
+cardiac muscle cell differentiation|1	cardiocyte differentiation|0.845154	striated muscle cell differentiation|0.714286
+regulation of myeloid cell differentiation|1	regulation of myeloid leukocyte differentiation|0.798087
+positive regulation of receptor internalization|1	positive regulation of receptor-mediated endocytosis|0.735215	regulation of receptor internalization|0.816497
+positive regulation of striated muscle cell differentiation|1	positive regulation of muscle cell differentiation|0.772802	regulation of striated muscle cell differentiation|0.772802
+positive regulation of growth|1	positive regulation of developmental growth|0.778706	positive regulation of cell growth|0.764922
+regulation of mitochondrion degradation|1	regulation of autophagy|0.77404	regulation of mitochondrion organization|0.769083
+dna repair|1	cellular response to dna damage stimulus|0.784079	dna metabolic process|0.758288
+regulation of b cell activation|1
+regulation of glutamate secretion|1	regulation of amino acid transport|0.786796
+regulation of cell morphogenesis|1	regulation of cell morphogenesis involved in differentiation|0.779614	regulation of anatomical structure morphogenesis|0.738241
+response to virus|1	defense response to virus|0.796954
+positive regulation of epithelial to mesenchymal transition|1	regulation of epithelial to mesenchymal transition|0.713506	positive regulation of stem cell differentiation|0.797724
+positive regulation of multicellular organismal process|1
+positive regulation of nf-kappab import into nucleus|1	positive regulation of transcription factor import into nucleus|0.740013	regulation of nf-kappab import into nucleus|0.758288
+cellular response to stimulus|1	cellular response to stress|0.768692
+regulation of catecholamine secretion|1	regulation of amine transport|0.762001	regulation of dopamine secretion|0.726483
+response to estrogen|1	response to steroid hormone|0.713831	response to estradiol|0.774597
+protein localization to membrane|1	establishment of protein localization to membrane|0.733213
+myeloid cell apoptotic process|1	inflammatory cell apoptotic process|0.771517	neutrophil apoptotic process|0.707107
+response to reactive oxygen species|1	response to hydrogen peroxide|0.750276	response to oxidative stress|0.72789
+regulation of muscle cell differentiation|1
+positive regulation of oxidoreductase activity|1	positive regulation of monooxygenase activity|0.751068
+regulation of proteolysis|1
+organophosphate catabolic process|1
+regulation of cell cycle process|1	regulation of cell cycle|0.741381	regulation of mitotic cell cycle|0.721782
+negative regulation of myeloid leukocyte differentiation|1
+negative regulation of mitotic cell cycle|1	negative regulation of cell cycle process|0.724756
+regulation of interleukin-17 production|1	negative regulation of interleukin-17 production|0.723747	positive regulation of interleukin-17 production|0.723747
+negative regulation of ion transport|1
+regulation of defense response|1	regulation of response to stress|0.714074
+negative regulation of calcium ion transport|1
+inositol lipid-mediated signaling|1	phosphatidylinositol-mediated signaling|1
+lipoprotein localization|1	lipoprotein transport|1
+peptidyl-glutamic acid carboxylation|1	protein carboxylation|1
+positive regulation of adenylate cyclase activity involved in g-protein coupled receptor signaling pathway|1	regulation of adenylate cyclase activity involved in g-protein coupled receptor signaling pathway|1
+prostaglandin metabolic process|1	prostanoid metabolic process|1
+response to hyperoxia|1	response to increased oxygen levels|1
+axon guidance|1	neuron projection guidance|1
+cholesterol transport|1	sterol transport|1
+lysosome organization|1	lytic vacuole organization|1
+endochondral ossification|1	replacement ossification|1
+regulation of catecholamine metabolic process|1	regulation of dopamine metabolic process|1
+cartilage condensation|1	cell aggregation|1
+carbohydrate homeostasis|1	glucose homeostasis|1
+regulation of response to extracellular stimulus|1	regulation of response to nutrient levels|1
+hair cycle process|1	molting cycle process|1
+extracellular matrix organization|1	extracellular structure organization|0.99861
+cell adhesion|1	biological adhesion|0.997419
+cell-cell adhesion via plasma-membrane adhesion molecules|1	cell-cell adhesion|0.997337
+peptidyl-tyrosine modification|1	peptidyl-tyrosine phosphorylation|0.993443
+neurotrophin signaling pathway|1	neurotrophin trk receptor signaling pathway|0.992727
+lymphocyte costimulation|1	t cell costimulation|0.992509
+lipid oxidation|1	fatty acid oxidation|0.992157
+multicellular organismal process|1	single-multicellular organism process|0.990697
+muscle organ development|1	muscle structure development|0.99061
+nuclear transport|1	nucleocytoplasmic transport|0.98773
+negative regulation of cysteine-type endopeptidase activity|1	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process|0.986928
+sensory perception of sound|1	sensory perception of mechanical stimulus|0.984732
+response to isoquinoline alkaloid|1	response to morphine|0.980581
+regulation of epidermal growth factor receptor signaling pathway|1	regulation of erbb signaling pathway|0.980064
+regulation of interferon-gamma-mediated signaling pathway|1	regulation of response to interferon-gamma|0.978945
+positive regulation of erbb signaling pathway|1	positive regulation of epidermal growth factor receptor signaling pathway|0.978019
+negative regulation of tumor necrosis factor production|1	negative regulation of tumor necrosis factor superfamily cytokine production|0.972598
+regulation of circadian sleep/wake cycle|1	regulation of circadian sleep/wake cycle, sleep|0.971825
+response to lipopolysaccharide|1	response to molecule of bacterial origin|0.970643
+regulation of response to cytokine stimulus|1	regulation of cytokine-mediated signaling pathway|0.970143
+nitric oxide metabolic process|1	reactive nitrogen species metabolic process|0.966092
+carbohydrate catabolic process|1	single-organism carbohydrate catabolic process|0.965422
+regulation of dna-templated transcription in response to stress|1	regulation of transcription from rna polymerase ii promoter in response to stress|0.963624
+forebrain cell migration|1	telencephalon cell migration|0.96272
+response to extracellular stimulus|1	response to nutrient levels|0.961613
+positive regulation of granulocyte macrophage colony-stimulating factor production|1	regulation of granulocyte macrophage colony-stimulating factor production|0.960769
+regulation of response to oxidative stress|1	regulation of cellular response to oxidative stress|0.959166
+granulocyte activation|1	neutrophil activation|0.955533
+response to glucocorticoid|1	response to corticosteroid|0.954864
+regulation of biomineral tissue development|1
+cellular response to platelet-derived growth factor stimulus|1	response to platelet-derived growth factor|0.948683
+regulation of actin filament bundle assembly|1	regulation of stress fiber assembly|0.948683
+aminoglycan catabolic process|1	glycosaminoglycan catabolic process|0.94632
+regulation of postsynaptic membrane potential|1	regulation of excitatory postsynaptic membrane potential|0.945905
+defense response to protozoan|1	response to protozoan|0.945905
+cellular response to fibroblast growth factor stimulus|1	response to fibroblast growth factor|0.94054
+response to growth factor|1	cellular response to growth factor stimulus|0.939813
+cellular response to metal ion|1	cellular response to inorganic substance|0.937715
+cholesterol biosynthetic process|1	sterol biosynthetic process|0.935414
+urinary bladder smooth muscle contraction|1	urinary tract smooth muscle contraction|0.935414
+positive regulation of interferon-beta biosynthetic process|1	regulation of interferon-beta biosynthetic process|0.935414
+negative regulation of cytokine production involved in immune response|1	negative regulation of production of molecular mediator of immune response|0.92932
+sensory organ morphogenesis|1	eye morphogenesis|0.928841
+positive regulation vascular endothelial growth factor production|1	regulation of vascular endothelial growth factor production|0.928477
+negative regulation of epinephrine secretion|1	regulation of epinephrine secretion|0.92582
+positive regulation of killing of cells of other organism|1	regulation of killing of cells of other organism|0.92582
+positive regulation of protein dephosphorylation|1	regulation of protein dephosphorylation|0.92582
+male gonad development|1	gonad development|0.924211
+modification of morphology or physiology of other organism involved in symbiotic interaction|1	modification of morphology or physiology of other organism|0.920924
+positive regulation of tyrosine phosphorylation of stat5 protein|1	regulation of tyrosine phosphorylation of stat5 protein|0.917663
+chromatin modification|1	chromatin organization|0.916698
+actin cytoskeleton organization|1	actin filament-based process|0.916309
+transcription initiation from rna polymerase ii promoter|1	dna-templated transcription, initiation|0.916215
+positive regulation of neuron death|1	positive regulation of neuron apoptotic process|0.916125
+muscle contraction|1	muscle system process|0.913644
+negative regulation of carbohydrate metabolic process|1	negative regulation of cellular carbohydrate metabolic process|0.908295
+myeloid leukocyte mediated immunity|1	neutrophil mediated immunity|0.907485
+regulation of striated muscle contraction|1	regulation of cardiac muscle contraction|0.906327
+multicellular organismal water homeostasis|1	water homeostasis|0.906033
+positive regulation of inositol phosphate biosynthetic process|1	regulation of inositol phosphate biosynthetic process|0.904534
+adenylate cyclase-modulating g-protein coupled receptor signaling pathway|1	g-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger|0.904534
+alpha-amino acid catabolic process|1
+regulation of muscle system process|1	regulation of muscle contraction|0.895947
+sphingolipid metabolic process|1
+regulation of uterine smooth muscle contraction|1	positive regulation of uterine smooth muscle contraction|0.894427
+negative regulation of cytoplasmic transport|1	negative regulation of intracellular transport|0.893352
+signal transduction by phosphorylation|1
+regulation of pathway-restricted smad protein phosphorylation|1	positive regulation of pathway-restricted smad protein phosphorylation|0.890564
+membrane organization|1	single-organism membrane organization|0.889875
+negative regulation of catalytic activity|1	negative regulation of molecular function|0.889226
+positive regulation of cell cycle process|1	positive regulation of cell cycle|0.888418
+regulation of peptidyl-serine phosphorylation|1	positive regulation of peptidyl-serine phosphorylation|0.887151
+regulation of cardiac muscle cell contraction|1	regulation of actin filament-based movement|0.886405
+modification by symbiont of host morphology or physiology|1	modulation by virus of host morphology or physiology|0.886405
+fatty acid transport|1	long-chain fatty acid transport|0.885615
+regulation of i-kappab kinase/nf-kappab signaling|1	positive regulation of i-kappab kinase/nf-kappab signaling|0.885105
+negative regulation of cell differentiation|1	negative regulation of developmental process|0.883309
+cell maturation|1	developmental maturation|0.882735
+folic acid-containing compound metabolic process|1	pteridine-containing compound metabolic process|0.879883
+response to glucagon|1	cellular response to glucagon stimulus|0.877971
+positive regulation of mitotic nuclear division|1	positive regulation of nuclear division|0.877058
+lipid metabolic process|1	cellular lipid metabolic process|0.876642
+cofactor metabolic process|1	coenzyme metabolic process|0.876038
+transmembrane receptor protein tyrosine kinase signaling pathway|1	enzyme linked receptor protein signaling pathway|0.875436
+axis elongation|1	branch elongation of an epithelium|0.874475
+positive regulation of nitric-oxide synthase biosynthetic process|1	regulation of nitric-oxide synthase biosynthetic process|0.874475
+pigment biosynthetic process|1	pigment metabolic process|0.872872
+regulation of phosphatidylinositol 3-kinase signaling|1	positive regulation of phosphatidylinositol 3-kinase signaling|0.872103
+single-organism carbohydrate metabolic process|1	carbohydrate metabolic process|0.870205
+negative regulation of heart contraction|1	negative regulation of blood circulation|0.866025
+positive regulation of interferon-gamma biosynthetic process|1	regulation of interferon-gamma biosynthetic process|0.866025
+positive regulation of smooth muscle contraction|1	positive regulation of muscle contraction|0.866025
+regulation of chemokine biosynthetic process|1	positive regulation of chemokine biosynthetic process|0.866025
+cell morphogenesis|1	cell morphogenesis involved in differentiation|0.863911
+actin-mediated cell contraction|1	actin filament-based movement|0.863731
+regulation of localization|1
+positive regulation of heart contraction|1	positive regulation of heart rate|0.860663
+positive regulation of chemokine production|1	regulation of chemokine production|0.860663
+regulation of interleukin-8 production|1	positive regulation of interleukin-8 production|0.860233
+vitamin metabolic process|1	water-soluble vitamin metabolic process|0.860138
+behavior|1
+negative regulation of smooth muscle contraction|1	negative regulation of muscle contraction|0.858395
+regulation of stem cell proliferation|1
+response to light stimulus|1	response to radiation|0.856173
+cellular transition metal ion homeostasis|1	transition metal ion homeostasis|0.854113
+odontogenesis|1	odontogenesis of dentin-containing tooth|0.853913
+sensory organ development|1	eye development|0.85332
+negative regulation of glial cell differentiation|1	negative regulation of gliogenesis|0.852803
+cellular response to tumor necrosis factor|1	response to tumor necrosis factor|0.851631
+regulation of response to biotic stimulus|1	regulation of defense response to virus|0.849837
+regulation of kidney development|1
+response to amine|1	response to amphetamine|0.849837
+camp-mediated signaling|1	cyclic-nucleotide-mediated signaling|0.847791
+regulation of fibrinolysis|1	negative regulation of fibrinolysis|0.845154
+regulation of membrane protein ectodomain proteolysis|1	positive regulation of membrane protein ectodomain proteolysis|0.845154
+positive regulation of interleukin-23 production|1	regulation of interleukin-23 production|0.845154
+positive regulation of erk1 and erk2 cascade|1	regulation of erk1 and erk2 cascade|0.84466
+alcohol metabolic process|1	organic hydroxy compound metabolic process|0.844065
+positive regulation of endothelial cell proliferation|1	regulation of endothelial cell proliferation|0.843274
+positive regulation of t cell mediated immunity|1	regulation of t cell mediated immunity|0.843274
+response to inorganic substance|1	response to metal ion|0.842317
+sensory perception of chemical stimulus|1	sensory perception of smell|0.83887
+mitotic cell cycle process|1	cell cycle process|0.838421
+positive regulation of release of sequestered calcium ion into cytosol|1
+cellular response to estradiol stimulus|1	cellular response to estrogen stimulus|0.83666
+anion transport|1
+cell differentiation|1
+substantia nigra development|1	neural nucleus development|0.833616
+regulation of type i interferon production|1	positive regulation of type i interferon production|0.833333
+regulation of mapk cascade|1
+positive regulation of tyrosine phosphorylation of stat1 protein|1	regulation of tyrosine phosphorylation of stat1 protein|0.83205
+positive regulation of p38mapk cascade|1	regulation of p38mapk cascade|0.83205
+regulation of steroid biosynthetic process|1	regulation of steroid metabolic process|0.830174
+leukocyte differentiation|1
+positive regulation of immunoglobulin secretion|1	regulation of immunoglobulin secretion|0.829156
+regulation of sodium ion transport|1	regulation of sodium ion transmembrane transport|0.829156
+negative regulation of cell growth|1	negative regulation of growth|0.828804
+regulation of hair follicle development|1	regulation of hair cycle|0.82717
+cell-matrix adhesion|1	cell-substrate adhesion|0.826712
+regulation of cytokine production|1	positive regulation of cytokine production|0.826394
+regulation of lymphocyte apoptotic process|1	regulation of leukocyte apoptotic process|0.824621
+positive regulation of vasodilation|1	regulation of vasodilation|0.821584
+negative regulation of behavior|1	negative regulation of chemotaxis|0.821584
+alpha-amino acid metabolic process|1	cellular amino acid metabolic process|0.821183
+positive regulation of response to wounding|1	positive regulation of inflammatory response|0.82102
+positive regulation of phagocytosis|1	regulation of phagocytosis|0.816497
+positive regulation of activated t cell proliferation|1	regulation of activated t cell proliferation|0.816497
+regulation of interleukin-10 production|1	positive regulation of interleukin-10 production|0.816497
+regulation of interleukin-12 production|1	positive regulation of interleukin-12 production|0.816497
+regulation of interleukin-8 biosynthetic process|1	positive regulation of interleukin-8 biosynthetic process|0.816497
+regulation of interferon-beta production|1
+mitotic cell cycle|1	cell cycle|0.814854
+positive regulation of cytokine secretion|1	regulation of cytokine secretion|0.812939
+detection of mechanical stimulus involved in sensory perception|1	detection of mechanical stimulus|0.811503
+positive regulation of interferon-gamma production|1	regulation of interferon-gamma production|0.811312
+vacuolar transport|1	lysosomal transport|0.810885
+regulation of calcium ion transport|1
+positive regulation of protein kinase b signaling|1	regulation of protein kinase b signaling|0.809427
+neurotransmitter biosynthetic process|1	neurotransmitter metabolic process|0.808608
+transforming growth factor beta receptor signaling pathway|1	transmembrane receptor protein serine/threonine kinase signaling pathway|0.808249
+cgmp metabolic process|1	cgmp biosynthetic process|0.807573
+fatty acid biosynthetic process|1
+acute-phase response|1	acute inflammatory response|0.803219
+positive regulation of cytokine biosynthetic process|1	regulation of cytokine biosynthetic process|0.79835
+positive regulation of steroid biosynthetic process|1	positive regulation of steroid metabolic process|0.797724
+positive regulation of myeloid leukocyte differentiation|1
+establishment of protein localization to organelle|1
+protein oligomerization|1	protein homooligomerization|0.796166
+cell surface receptor signaling pathway|1	signal transduction|0.795617
+regulation of peptidyl-threonine phosphorylation|1	positive regulation of peptidyl-threonine phosphorylation|0.793492
+regulation of synapse assembly|1	regulation of synapse organization|0.793116
+b cell differentiation|1	b cell activation|0.793116
+regulation of interleukin-6 production|1	positive regulation of interleukin-6 production|0.792406
+artery morphogenesis|1	blood vessel morphogenesis|0.790569
+positive regulation of cytokinesis|1	regulation of cytokinesis|0.789076
+negative regulation of response to external stimulus|1
+negative regulation of intrinsic apoptotic signaling pathway|1	regulation of intrinsic apoptotic signaling pathway|0.787222
+cellular response to oxidative stress|1	cellular response to reactive oxygen species|0.787064
+regulation of fibroblast proliferation|1	positive regulation of fibroblast proliferation|0.785136
+regulation of ossification|1
+glutamate receptor signaling pathway|1	ionotropic glutamate receptor signaling pathway|0.784465
+alcohol biosynthetic process|1	organic hydroxy compound biosynthetic process|0.783874
+neuron-neuron synaptic transmission|1	synaptic transmission, glutamatergic|0.783604
+temperature homeostasis|1	multicellular organismal homeostasis|0.783349
+leukotriene metabolic process|1
+tissue homeostasis|1	anatomical structure homeostasis|0.781235
+adult locomotory behavior|1	adult behavior|0.781213
+negative regulation of lipid metabolic process|1
+cellular response to prostaglandin stimulus|1	response to prostaglandin|0.780189
+sodium ion transport|1	sodium ion transmembrane transport|0.779194
+positive regulation of smooth muscle cell proliferation|1	regulation of smooth muscle cell proliferation|0.777778
+adaptive immune response|1	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains|0.777593
+negative regulation of cell adhesion|1
+regulation of protein binding|1	regulation of binding|0.77625
+steroid hormone mediated signaling pathway|1	hormone-mediated signaling pathway|0.775984
+negative regulation of muscle cell apoptotic process|1	regulation of muscle cell apoptotic process|0.774597
+stem cell division|1	somatic stem cell division|0.774597
+regulation of cholesterol biosynthetic process|1	regulation of cholesterol metabolic process|0.774597
+negative regulation of extrinsic apoptotic signaling pathway|1	regulation of extrinsic apoptotic signaling pathway|0.772918
+regulation of protein tyrosine kinase activity|1	positive regulation of protein tyrosine kinase activity|0.772328
+positive regulation of calcium-mediated signaling|1	regulation of calcium-mediated signaling|0.771517
+organophosphate biosynthetic process|1
+regulation of translation|1	posttranscriptional regulation of gene expression|0.770866
+receptor internalization|1	receptor metabolic process|0.770846
+regulation of receptor-mediated endocytosis|1
+regulation of neuronal synaptic plasticity|1	regulation of long-term neuronal synaptic plasticity|0.763763
+lipid catabolic process|1	cellular lipid catabolic process|0.76256
+axonogenesis|1
+response to stimulus|1	response to stress|0.761842
+regulation of growth|1	regulation of cell growth|0.760327
+regulation of glucose import|1	regulation of glucose transport|0.760117
+response to insulin|1	cellular response to insulin stimulus|0.75976
+negative regulation of cellular response to growth factor stimulus|1	regulation of cellular response to growth factor stimulus|0.759699
+positive regulation of calcium ion import|1	regulation of calcium ion import|0.759555
+positive regulation of vascular endothelial growth factor receptor signaling pathway|1	regulation of vascular endothelial growth factor receptor signaling pathway|0.759555
+t cell differentiation|1
+cellular response to hormone stimulus|1
+striated muscle contraction|1	cardiac muscle contraction|0.758513
+response to retinoic acid|1	cellular response to retinoic acid|0.757677
+purine nucleobase metabolic process|1	nucleobase metabolic process|0.757317
+regulation of protein kinase c signaling|1	positive regulation of protein kinase c signaling|0.755929
+regulation of reactive oxygen species metabolic process|1
+negative regulation of anion transport|1
+positive regulation of binding|1	positive regulation of protein binding|0.754983
+regulation of response to food|1	regulation of appetite|0.753778
+negative regulation of amine transport|1
+negative regulation of immune effector process|1	negative regulation of immune response|0.751806
+second-messenger-mediated signaling|1	calcium-mediated signaling|0.751589
+negative regulation of binding|1	negative regulation of protein binding|0.751542
+response to cytokine|1	cellular response to cytokine stimulus|0.751416
+cellular response to interferon-gamma|1	response to interferon-gamma|0.75
+peristalsis|1	phasic smooth muscle contraction|0.75
+positive regulation of heterotypic cell-cell adhesion|1	regulation of heterotypic cell-cell adhesion|0.75
+response to fatty acid|1	cellular response to fatty acid|0.749269
+regulation of stem cell differentiation|1
+regulation of osteoclast differentiation|1
+regulation of fatty acid oxidation|1	regulation of fatty acid beta-oxidation|0.748331
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors|1	regulation of extrinsic apoptotic signaling pathway via death domain receptors|0.745356
+positive regulation of phosphatase activity|1	positive regulation of dephosphorylation|0.743392
+negative regulation of mapk cascade|1
+bone mineralization|1	biomineral tissue development|0.741145
+cellular response to acid chemical|1	response to acid chemical|0.74037
+positive regulation of cell proliferation|1	regulation of cell proliferation|0.740118
+peptide metabolic process|1	cellular amide metabolic process|0.738549
+regulation of blood volume by renin-angiotensin|1	regulation of systemic arterial blood pressure by renin-angiotensin|0.738549
+activation of adenylate cyclase activity|1
+regulation of epithelial cell proliferation|1	positive regulation of epithelial cell proliferation|0.737154
+hematopoietic or lymphoid organ development|1	hemopoiesis|0.736138
+myeloid cell differentiation|1	myeloid leukocyte differentiation|0.7351
+regulation of heart rate|1
+cellular response to abiotic stimulus|1
+negative regulation of apoptotic signaling pathway|1	regulation of apoptotic signaling pathway|0.732933
+positive regulation of macrophage derived foam cell differentiation|1	regulation of macrophage derived foam cell differentiation|0.731925
+negative regulation of platelet activation|1	regulation of platelet activation|0.731925
+positive regulation of endocytosis|1	regulation of endocytosis|0.731638
+response to amino acid|1	cellular response to amino acid stimulus|0.731357
+regeneration|1	organ regeneration|0.7312
+positive regulation of protein deacetylation|1	regulation of protein deacetylation|0.730297
+ovarian follicle development|1	ovulation cycle process|0.730297
+carbohydrate derivative metabolic process|1	carbohydrate derivative biosynthetic process|0.728748
+cellular response to interleukin-1|1	response to interleukin-1|0.728219
+cellular response to ketone|1
+regulation of cell-matrix adhesion|1	regulation of cell-substrate adhesion|0.725011
+negative regulation of sequence-specific dna binding transcription factor activity|1	negative regulation of nf-kappab transcription factor activity|0.721336
+germ cell development|1	cellular process involved in reproduction in multicellular organism|0.72111
+small molecule metabolic process|1	single-organism metabolic process|0.720788
+rhythmic process|1	circadian rhythm|0.720276
+positive regulation of vasoconstriction|1	regulation of vasoconstriction|0.720082
+intrinsic apoptotic signaling pathway|1	apoptotic signaling pathway|0.71787
+regulation of homeostatic process|1	regulation of ion homeostasis|0.717137
+ras protein signal transduction|1	small gtpase mediated signal transduction|0.716199
+cellular macromolecular complex assembly|1	cellular protein complex assembly|0.715874
+positive regulation of lipid biosynthetic process|1	positive regulation of lipid metabolic process|0.713874
+negative regulation of cell cycle|1
+developmental growth|1	growth|0.713468
+cellular response to steroid hormone stimulus|1
+negative regulation of cellular component organization|1	negative regulation of organelle organization|0.711337
+positive regulation of cell morphogenesis involved in differentiation|1
+regulation of immune effector process|1
+regulation of protein complex assembly|1
+positive regulation of cellular component biogenesis|1
+cell proliferation|1
+leukocyte mediated immunity|1
+locomotory behavior|1
+positive regulation of cytoskeleton organization|1
+regulation of lipid biosynthetic process|1
+interaction with host|1
+neuron migration|1
+regulation of small gtpase mediated signal transduction|1
+response to osmotic stress|1
+acid secretion|1
+brain development|1
+carbohydrate derivative catabolic process|1
+cell recognition|1
+cellular modified amino acid metabolic process|1
+chromosome organization|1
+circadian regulation of gene expression|1
+cytokine-mediated signaling pathway|1
+digestion|1
+endocytosis|1
+humoral immune response|1
+insulin receptor signaling pathway|1
+interferon-gamma-mediated signaling pathway|1
+lipoprotein metabolic process|1
+monocarboxylic acid catabolic process|1
+notch signaling pathway|1
+organ growth|1
+organonitrogen compound catabolic process|1
+osteoblast differentiation|1
+positive regulation of homeostatic process|1
+positive regulation of mitotic cell cycle|1
+protein tetramerization|1
+receptor-mediated endocytosis|1
+steroid biosynthetic process|1
+sulfur compound catabolic process|1
+transcription from rna polymerase ii promoter|1
+anatomical structure formation involved in morphogenesis|1
+anatomical structure morphogenesis|1
+angiogenesis|1
+anion homeostasis|1
+chondrocyte differentiation|1
+digestive system process|1
+double-strand break repair|1
+embryo implantation|1
+epithelial cell development|1
+epithelial cell differentiation|1
+gland development|1
+hair follicle morphogenesis|1
+hematopoietic progenitor cell differentiation|1
+lipid modification|1
+lung development|1
+muscle adaptation|1
+negative regulation of cytokine biosynthetic process|1
+negative regulation of muscle cell differentiation|1
+organic hydroxy compound transport|1
+pattern specification process|1
+phospholipase c-activating g-protein coupled receptor signaling pathway|1
+positive regulation of dna metabolic process|1
+positive regulation of epidermis development|1
+positive regulation of multi-organism process|1
+positive regulation of potassium ion transport|1
+positive regulation of transcription from rna polymerase ii promoter involved in cellular response to chemical stimulus|1
+post-translational protein modification|1
+protein folding|1
+protein processing|1
+protein secretion|1
+reactive oxygen species biosynthetic process|1
+reactive oxygen species metabolic process|1
+receptor clustering|1
+regulation of alcohol biosynthetic process|1
+regulation of blood pressure|1
+regulation of cellular component biogenesis|1
+regulation of digestive system process|1
+regulation of embryonic development|1
+regulation of lipid catabolic process|1
+regulation of myoblast differentiation|1
+regulation of synaptic plasticity|1
+regulation of the force of heart contraction|1
+renal system process involved in regulation of systemic arterial blood pressure|1
+response to abiotic stimulus|1
+response to calcium ion|1
+response to electrical stimulus|1
+response to gonadotropin|1
+response to iron ion|1
+response to ketone|1
+response to mechanical stimulus|1
+response to organic cyclic compound|1
+response to toxic substance|1
+response to wounding|1
+stem cell proliferation|1
+xenobiotic metabolic process|1
+acute inflammatory response to antigenic stimulus|1
+adrenal gland development|1
+angiotensin maturation|1
+behavioral response to cocaine|1
+behavioral response to ethanol|1
+blood coagulation, intrinsic pathway|1
+bone development|1
+bone resorption|1
+branching involved in prostate gland morphogenesis|1
+branching involved in salivary gland morphogenesis|1
+branching involved in ureteric bud morphogenesis|1
+cardiac muscle cell action potential|1
+cell communication involved in cardiac conduction|1
+chondroitin sulfate catabolic process|1
+columnar/cuboidal epithelial cell differentiation|1
+cyclooxygenase pathway|1
+detection of mechanical stimulus involved in sensory perception of pain|1
+developmental growth involved in morphogenesis|1
+endodermal cell differentiation|1
+epidermis development|1
+epithelial to mesenchymal transition|1
+erk1 and erk2 cascade|1
+feeding behavior|1
+fibrinolysis|1
+g-protein coupled receptor signaling pathway|1
+gamma-aminobutyric acid signaling pathway|1
+gene expression|1
+germ cell migration|1
+glutamine family amino acid catabolic process|1
+glycosyl compound catabolic process|1
+heart morphogenesis|1
+homeostasis of number of cells|1
+hormone biosynthetic process|1
+i-kappab phosphorylation|1
+intestinal absorption|1
+intracellular estrogen receptor signaling pathway|1
+leukocyte apoptotic process|1
+leukocyte migration involved in inflammatory response|1
+maternal process involved in parturition|1
+membrane depolarization during action potential|1
+mesoderm development|1
+microtubule-based process|1
+monocarboxylic acid transport|1
+monocyte aggregation|1
+multicellular organismal signaling|1
+muscle cell proliferation|1
+myoblast differentiation|1
+natural killer cell activation|1
+negative regulation of catabolic process|1
+negative regulation of dopamine secretion|1
+negative regulation of fat cell differentiation|1
+negative regulation of interleukin-8 production|1
+negative regulation of multicellular organism growth|1
+negative regulation of muscle organ development|1
+negative regulation of renal sodium excretion|1
+negative regulation of systemic arterial blood pressure|1
+neuromuscular junction development|1
+neuromuscular process|1
+neuron differentiation|1
+neurotransmitter catabolic process|1
+organ development|1
+organonitrogen compound metabolic process|1
+outflow tract septum morphogenesis|1
+pathogenesis|1
+peptidyl-glutamic acid modification|1
+peptidyl-tyrosine autophosphorylation|1
+phagocytosis|1
+polyol metabolic process|1
+positive regulation of acute inflammatory response|1
+positive regulation of alcohol biosynthetic process|1
+positive regulation of axonogenesis|1
+positive regulation of cellular component organization|1
+positive regulation of fat cell differentiation|1
+positive regulation of muscle cell apoptotic process|1
+positive regulation of odontogenesis|1
+positive regulation of proteolysis|1
+positive regulation of transport|1
+post-embryonic development|1
+prepulse inhibition|1
+prostate gland epithelium morphogenesis|1
+protein heterooligomerization|1
+protein kinase b signaling|1
+proteolysis|1
+regulation of cellular component organization|1
+regulation of cellular response to insulin stimulus|1
+regulation of cytokine production involved in inflammatory response|1
+regulation of epidermis development|1
+regulation of extracellular matrix organization|1
+regulation of g-protein coupled receptor protein signaling pathway|1
+regulation of gluconeogenesis|1
+regulation of inflammatory response to antigenic stimulus|1
+regulation of insulin secretion involved in cellular response to glucose stimulus|1
+regulation of lipid metabolic process|1
+regulation of lipid storage|1
+regulation of macrophage cytokine production|1
+regulation of neural precursor cell proliferation|1
+regulation of organ morphogenesis|1
+regulation of organelle organization|1
+regulation of receptor activity|1
+regulation of sequestering of triglyceride|1
+regulation of serotonin secretion|1
+regulation of smooth muscle cell apoptotic process|1
+regulation of smooth muscle cell migration|1
+regulation of synaptic transmission, glutamatergic|1
+regulation of type i interferon-mediated signaling pathway|1
+regulation of urine volume|1
+response to alcohol|1
+response to axon injury|1
+response to cold|1
+response to fungus|1
+response to lead ion|1
+response to progesterone|1
+response to vitamin|1
+response to vitamin e|1
+response to zinc ion|1
+rho protein signal transduction|1
+saliva secretion|1
+salivary gland morphogenesis|1
+secondary metabolic process|1
+smad protein signal transduction|1
+smooth muscle contraction involved in micturition|1
+sodium ion homeostasis|1
+sperm ejaculation|1
+substrate adhesion-dependent cell spreading|1
+sulfur compound metabolic process|1
+synapse assembly|1
+synaptic transmission, cholinergic|1
+synaptic transmission, dopaminergic|1
+vascular endothelial growth factor receptor signaling pathway|1
+vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure|1
+adenylate cyclase-activating dopamine receptor signaling pathway|1
+adenylate cyclase-activating g-protein coupled receptor signaling pathway|1
+adrenergic receptor signaling pathway|1
+adult walking behavior|1
+alkaloid metabolic process|1
+amide biosynthetic process|1
+androgen metabolic process|1
+arginine metabolic process|1
+b cell proliferation|1
+b cell receptor signaling pathway|1
+behavioral response to pain|1
+beta-amyloid metabolic process|1
+blood vessel remodeling|1
+branching involved in mammary gland duct morphogenesis|1
+calcium ion import|1
+cartilage development involved in endochondral bone morphogenesis|1
+cell growth|1
+cell junction organization|1
+cell proliferation involved in kidney development|1
+cellular response to drug|1
+chemosensory behavior|1
+cytoskeleton organization|1
+cytoskeleton-dependent intracellular transport|1
+decidualization|1
+defense response to gram-negative bacterium|1
+dendrite development|1
+dna recombination|1
+embryonic digestive tract development|1
+embryonic morphogenesis|1
+embryonic skeletal joint morphogenesis|1
+endocrine pancreas development|1
+epithelial cell maturation|1
+excretion|1
+gland morphogenesis|1
+glycosylceramide metabolic process|1
+heart development|1
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules|1
+i-kappab kinase/nf-kappab signaling|1
+inflammatory response|1
+inflammatory response to antigenic stimulus|1
+intracellular receptor signaling pathway|1
+intrinsic apoptotic signaling pathway in response to dna damage|1
+jak-stat cascade|1
+lipoxygenase pathway|1
+low-density lipoprotein particle remodeling|1
+mammary gland alveolus development|1
+maternal process involved in female pregnancy|1
+membrane hyperpolarization|1
+mesenchymal cell differentiation|1
+mesenchyme development|1
+monocyte chemotaxis|1
+muscle cell migration|1
+myeloid cell activation involved in immune response|1
+negative regulation of cartilage development|1
+negative regulation of cell proliferation|1
+negative regulation of cellular amine metabolic process|1
+negative regulation of cytokine secretion|1
+negative regulation of developmental growth|1
+negative regulation of immune system process|1
+negative regulation of interleukin-6 production|1
+negative regulation of leukocyte mediated immunity|1
+negative regulation of lipid storage|1
+negative regulation of macrophage derived foam cell differentiation|1
+negative regulation of ossification|1
+negative regulation of potassium ion transport|1
+negative regulation of synaptic transmission, glutamatergic|1
+neuron development|1
+neuronal action potential|1
+oligosaccharide metabolic process|1
+operant conditioning|1
+ovulation|1
+oxidation-reduction process|1
+pathway-restricted smad protein phosphorylation|1
+patterning of blood vessels|1
+phospholipase c-activating dopamine receptor signaling pathway|1
+pigmentation|1
+placenta development|1
+platelet degranulation|1
+platelet-derived growth factor receptor signaling pathway|1
+positive regulation of action potential|1
+positive regulation of antigen receptor-mediated signaling pathway|1
+positive regulation of cytosolic calcium ion concentration involved in phospholipase c-activating g-protein coupled signaling pathway|1
+positive regulation of multicellular organism growth|1
+positive regulation of reproductive process|1
+positive regulation of synaptic transmission, glutamatergic|1
+positive regulation of systemic arterial blood pressure|1
+potassium ion homeostasis|1
+prostate gland growth|1
+protein autophosphorylation|1
+protein import into nucleus, translocation|1
+regulation of anion transport|1
+regulation of antigen receptor-mediated signaling pathway|1
+regulation of astrocyte differentiation|1
+regulation of b cell apoptotic process|1
+regulation of biological quality|1
+regulation of camp-mediated signaling|1
+regulation of cartilage development|1
+regulation of cholesterol storage|1
+regulation of epidermal growth factor-activated receptor activity|1
+regulation of fat cell differentiation|1
+regulation of granulocyte chemotaxis|1
+regulation of insulin-like growth factor receptor signaling pathway|1
+regulation of mucus secretion|1
+regulation of neurotransmitter transport|1
+regulation of protein kinase a signaling|1
+regulation of smooth muscle contraction|1
+regulation of vesicle-mediated transport|1
+regulation of voltage-gated calcium channel activity|1
+renin-angiotensin regulation of aldosterone production|1
+reproductive structure development|1
+response to activity|1
+response to atp|1
+response to food|1
+response to histamine|1
+response to immobilization stress|1
+response to pain|1
+response to uv-b|1
+response to vitamin a|1
+retinoic acid receptor signaling pathway|1
+serotonin receptor signaling pathway|1
+skeletal muscle contraction|1
+smooth muscle adaptation|1
+striatum development|1
+suckling behavior|1
+telencephalon development|1
+tube development|1
+tumor necrosis factor-mediated signaling pathway|1
+type i interferon signaling pathway|1
+uterus development|1
+ammonium ion metabolic process|1
+b cell activation involved in immune response|1
+blood coagulation, extrinsic pathway|1
+brown fat cell differentiation|1
+cell cycle checkpoint|1
+cellular response to alkaloid|1
+cellular response to atp|1
+dopamine receptor signaling pathway|1
+drinking behavior|1
+fat-soluble vitamin metabolic process|1
+growth hormone secretion|1
+heterotypic cell-cell adhesion|1
+lipid biosynthetic process|1
+lipid storage|1
+long-term synaptic potentiation|1
+membrane depolarization|1
+negative regulation of blood pressure|1
+negative regulation of circadian rhythm|1
+negative regulation of circadian sleep/wake cycle, sleep|1
+negative regulation of gluconeogenesis|1
+negative regulation of protein kinase b signaling|1
+negative regulation of smooth muscle cell proliferation|1
+organ morphogenesis|1
+peptide hormone processing|1
+polyol biosynthetic process|1
+positive regulation of amine transport|1
+positive regulation of blood vessel endothelial cell migration|1
+positive regulation of camp-mediated signaling|1
+positive regulation of osteoclast differentiation|1
+positive regulation of synaptic transmission, gabaergic|1
+receptor biosynthetic process|1
+regulation of cell adhesion mediated by integrin|1
+regulation of cell junction assembly|1
+regulation of cellular response to stress|1
+regulation of circadian rhythm|1
+regulation of humoral immune response mediated by circulating immunoglobulin|1
+regulation of morphogenesis of a branching structure|1
+regulation of synaptic transmission|1
+regulation of synaptic transmission, gabaergic|1
+regulation of transcription regulatory region dna binding|1
+regulation of transmission of nerve impulse|1
+regulation of vascular permeability|1
+response to drug|1
+response to lipid|1
+response to nicotine|1
+response to ph|1
+response to salt stress|1
+single-organism biosynthetic process|1
+adenosine receptor signaling pathway|1
+ammonium transport|1
+cardiac septum morphogenesis|1
+cellular response to lipid|1
+ceramide metabolic process|1
+chemokine-mediated signaling pathway|1
+chondroitin sulfate metabolic process|1
+cytokine production|1
+eating behavior|1
+ephrin receptor signaling pathway|1
+female genitalia development|1
+heat generation|1
+hyaluronan catabolic process|1
+hyaluronan metabolic process|1
+hydrogen peroxide metabolic process|1
+inner ear morphogenesis|1
+integrin-mediated signaling pathway|1
+leukocyte tethering or rolling|1
+memory|1
+mesenchymal cell proliferation|1
+multi-organism process|1
+negative regulation of epithelial cell proliferation|1
+negative regulation of glucose transport|1
+negative regulation of homeostatic process|1
+opioid receptor signaling pathway|1
+organonitrogen compound biosynthetic process|1
+osteoclast differentiation|1
+positive regulation of apoptotic signaling pathway|1
+positive regulation of blood pressure|1
+positive regulation of ion transport|1
+positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway|1
+positive regulation of vascular permeability|1
+protein catabolic process|1
+quinone metabolic process|1
+regulation of action potential|1
+regulation of cell fate commitment|1
+regulation of feeding behavior|1
+regulation of interleukin-6 biosynthetic process|1
+regulation of neuroblast proliferation|1
+regulation of odontogenesis|1
+regulation of organ formation|1
+regulation of penile erection|1
+regulation of saliva secretion|1
+regulation of synaptic transmission, cholinergic|1
+regulation of type 2 immune response|1
+response to cadmium ion|1
+response to caffeine|1
+response to fluid shear stress|1
+response to ionizing radiation|1
+response to transition metal nanoparticle|1
+sensory perception of pain|1
+single-organism catabolic process|1
+smooth muscle cell migration|1
+tetrapyrrole metabolic process|1
+vasoconstriction|1
+vesicle-mediated transport|1
+wnt signaling pathway|1
+action potential|1
+blood circulation|1
+cell cycle arrest|1
+cell projection organization|1
+cellular component disassembly|1
+cellular response to alcohol|1
+diet induced thermogenesis|1
+epithelial cell proliferation involved in salivary gland morphogenesis|1
+epithelium development|1
+fat cell differentiation|1
+lipopolysaccharide-mediated signaling pathway|1
+lipoxin metabolic process|1
+liver development|1
+long-term memory|1
+macrophage activation|1
+multicellular organism growth|1
+negative regulation of g-protein coupled receptor protein signaling pathway|1
+negative regulation of innate immune response|1
+negative regulation of leukocyte migration|1
+negative regulation of multicellular organismal process|1
+neuropeptide signaling pathway|1
+nitrogen compound transport|1
+organ or tissue specific immune response|1
+parturition|1
+positive regulation of fatty acid metabolic process|1
+positive regulation of organelle organization|1
+protein kinase c-activating g-protein coupled receptor signaling pathway|1
+regulation of blood vessel endothelial cell migration|1
+regulation of branching involved in prostate gland morphogenesis|1
+regulation of cell projection assembly|1
+regulation of circadian sleep/wake cycle, non-rem sleep|1
+regulation of dna metabolic process|1
+regulation of dna recombination|1
+regulation of dna replication|1
+regulation of endocrine process|1
+regulation of myelination|1
+regulation of phosphoprotein phosphatase activity|1
+regulation of the force of heart contraction by chemical signal|1
+regulation of transcription involved in g1/s transition of mitotic cell cycle|1
+renal system process|1
+respiratory gaseous exchange|1
+response to antibiotic|1
+response to auditory stimulus|1
+response to cgmp|1
+response to cocaine|1
+serotonin transport|1
+antigen processing and presentation|1
+cell aging|1
+cell division|1
+cell fate commitment|1
+cellular carbohydrate metabolic process|1
+cellular response to mechanical stimulus|1
+central nervous system development|1
+digestive tract development|1
+digestive tract morphogenesis|1
+dna replication|1
+embryonic organ development|1
+epithelial cell proliferation|1
+extrinsic apoptotic signaling pathway|1
+genitalia development|1
+immune effector process|1
+inner ear development|1
+intracellular signal transduction|1
+intracellular steroid hormone receptor signaling pathway|1
+maintenance of location|1
+multicellular organismal development|1
+muscle cell differentiation|1
+myeloid leukocyte activation|1
+negative regulation of cytokine production|1
+negative regulation of multi-organism process|1
+negative regulation of synaptic transmission|1
+nucleoside triphosphate metabolic process|1
+ossification|1
+plasma membrane organization|1
+positive regulation of calcium ion transport|1
+positive regulation of cell junction assembly|1
+positive regulation of exocytosis|1
+positive regulation of g-protein coupled receptor protein signaling pathway|1
+regulation of acute inflammatory response|1
+regulation of axonogenesis|1
+regulation of dna binding|1
+regulation of epithelial cell differentiation|1
+regulation of membrane potential|1
+regulation of reproductive process|1
+regulation of transmembrane receptor protein serine/threonine kinase signaling pathway|1
+regulation of viral genome replication|1
+response to ammonium ion|1
+response to ethanol|1
+response to nutrient|1
+response to uv|1
+response to vitamin d|1
+skeletal system development|1
+smooth muscle contraction|1
+stem cell differentiation|1
+vacuole organization|1
+vasodilation|1
+adenylate cyclase-inhibiting g-protein coupled receptor signaling pathway|1
+cell development|1
+cellular response to ammonium ion|1
+dicarboxylic acid metabolic process|1
+kidney development|1
+muscle cell cellular homeostasis|1
+nitric oxide mediated signal transduction|1
+peptidyl-amino acid modification|1
+positive regulation of dna replication|1
+positive regulation of response to external stimulus|1
+positive regulation of synaptic transmission|1
+positive regulation of translation|1
+regulation of developmental growth|1
+regulation of exocytosis|1
+relaxation of muscle|1
+synapse organization|1
+tissue development|1
+tissue remodeling|1
+wound healing|1
+activation of mapkk activity|1
+cartilage development|1
+cellular response to organic cyclic compound|1
+extracellular matrix disassembly|1
+forebrain development|1
+leukocyte migration|1
+lipid transport|1
+negative regulation of cell morphogenesis involved in differentiation|1
+negative regulation of intracellular signal transduction|1
+negative regulation of lipid catabolic process|1
+negative regulation of transport|1
+nervous system development|1
+positive regulation of blood circulation|1
+positive regulation of cell division|1
+regulation of dendrite development|1
+regulation of fatty acid metabolic process|1
+regulation of lipid transport|1
+response to alkaloid|1
+cell-type specific apoptotic process|1
+cellular ketone metabolic process|1
+methylation|1
+neuron projection development|1
+organic hydroxy compound catabolic process|1
+regulation of cell shape|1
+regulation of generation of precursor metabolites and energy|1
+regulation of potassium ion transport|1
+system development|1
+glutamine family amino acid metabolic process|1
+platelet activation|1
+regulation of multicellular organism growth|1
+aging|1

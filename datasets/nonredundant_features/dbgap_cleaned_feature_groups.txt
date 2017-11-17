@@ -1,0 +1,49 @@
+mean|1	stdv|0.948735
+Cholesterol|1	Cholesterol, LDL|0.767382
+Body Height|1
+Cholesterol, HDL|1
+Glucose|1
+Body Weight|1
+Arthritis, Rheumatoid|1
+Lipoproteins, VLDL|1
+Exercise Test|1
+Parkinson Disease|1
+Coronary Artery Disease|1
+Lipoproteins, LDL|1
+Arteries|1
+Hip|1
+Hemoglobin A, Glycosylated|1
+Elbow|1
+Stroke|1
+Suntan|1
+Psoriasis|1
+C-Reactive Protein|1
+Metabolic Syndrome X|1
+Insulin|1
+Alzheimer Disease|1
+Amyotrophic Lateral Sclerosis|1
+Diabetes Mellitus, Type 2|1
+Neuroblastoma|1
+Waist Circumference|1
+Blood Pressure|1
+Respiratory Function Tests|1
+Neutrophils|1
+Tunica Media|1
+Alcoholism|1
+Asthma|1
+Lipoproteins, HDL|1
+Echocardiography|1
+Hemoglobins|1
+Bipolar Disorder|1
+Myocardial Infarction|1
+Triglycerides|1
+Waist-Hip Ratio|1
+Hematocrit|1
+Fibrinogen|1
+Multiple Sclerosis|1
+Heart Rate|1
+Glomerular Filtration Rate|1
+Iron|1
+Lymphocytes|1
+Body Mass Index|1
+Diabetes Mellitus, Type 1|1

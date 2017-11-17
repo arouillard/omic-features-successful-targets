@@ -1,0 +1,86 @@
+mean|1	H3K4me3_bone marrow macrophage_mm9_1|0.902878	H3K4me3_thymus_mm9_1|0.900511	H3K4me3_small intestine_mm9_1|0.905748	H3K4me3_brown adipose tissue_mm9_1|0.908838	H3K4me3_embryonic fibroblast_mm9_1|0.911097	H3K4me3_heart_mm9_2|0.909469	H3K4me3_liver_mm9_2|0.903229	H3K9ac_ES-Bruce4_mm9_1|0.904906	H3K4me3_cerebellum_mm9_1|0.901167	H3K4me3_limb_mm9_1|0.909957	H3K4me3_olfactory bulb_mm9_1|0.908012	H3K4me3_brain_mm9_1|0.907805	H3K4me3_ES-E14_mm9_1|0.905773	H3K9ac_ES-E14_mm9_1|0.90169	H3K4me3_kidney_mm9_1|0.898892	H3K9ac_liver_mm9_1|0.889333	H3K4me3_placenta_mm9_1|0.901632	H3K4me3_ES-E14_mm9_2|0.901771	H3K9ac_heart_mm9_1|0.896202	H3K4me3_spleen_mm9_1|0.895638	H3K4me3_lung_mm9_1|0.895403	H3K4me2_myocyte_mm9_1|0.887977	H3K4me3_heart_mm9_1|0.894672	H3K4me3_liver_mm9_1|0.890966	H3K4me3_erythroblast_mm9_3|0.888292	H3K4me3_bone marrow_mm9_1|0.878108	H3K4me3_SK-N-MC_hg19_2|0.94499	H3K4me3_HCT116_hg19_1|0.935805	H3K4me3_HCT116_hg19_2|0.935802	H3K4me3_megakaryocyte_mm9_3|0.887007	H3K4me3_cardiac fibroblast_hg19_1|0.959716	H3K4me3_WI38_hg19_3|0.954761	H3K4me3_WI38_hg19_1|0.954125	H3K4me3_SK-N-MC_hg19_1|0.947932	H3K4me3_GM12864_hg19_2|0.944531	H3K4me3_GM12866_hg19_1|0.942998	H3K4me3_GM06990_hg19_1|0.942899	H3K4me3_GM06990_hg19_2|0.941791	H3K4me3_HL-60_hg19_2|0.939965	H3K4me3_GM12864_hg19_1|0.939467	H3K4me3_GM12865_hg19_1|0.939238	H3K4me3_HL-60_hg19_1|0.938714	H3K4me3_GM12875_hg19_1|0.937286	H3K4me3_GM12865_hg19_2|0.937241	H3K4me3_K562_hg19_3|0.928965	H3K4me3_K562_hg19_2|0.928498	H3K4me3_erythroblast_mm9_1|0.880163	H3K4me1_liver_mm9_2|0.857641	H3K4me3_brain microvascular endothelial cell_hg19_2|0.960226	H3K4me3_astrocyte of the spinal cord_hg19_1|0.959523	H3K4me3_astrocyte of the cerebellum_hg19_2|0.959767	H3K4me3_endothelial cell of umbilical vein_hg19_3|0.959218	H3K4me3_astrocyte of the cerebellum_hg19_1|0.959586	H3K4me3_astrocyte of the spinal cord_hg19_2|0.958956	H3K4me3_fibroblast of foreskin _hg19_2|0.958861	H3K4me3_fibroblast of foreskin _hg19_1|0.95827	H3K4me3_WI38_hg19_4|0.954585	H3K4me3_WI38_hg19_2|0.953023	H3K4me3_keratinocyte_hg19_2|0.953194	H3K4me3_keratinocyte_hg19_3|0.952696	H3K4me3_cardiac mesoderm_hg19_5|0.951222	H3K4me3_B cell_hg19_1|0.946041	H3K4me3_B cell_hg19_3|0.944506	H3K4me3_B cell_hg19_2|0.944078	H3K4me3_CD14-positive monocyte_hg19_2|0.942776	H3K9ac_fibroblast of lung_hg19_1|0.934683	H3K4me3_GM12878_hg19_2|0.935188	H3K4me3_GM12878_hg19_3|0.934232	H3K4me3_mononuclear cell_hg19_1|0.927871	H3K4me3_Jurkat_hg19_2|0.924336	H3K4me3_cardiac fibroblast_hg19_3|0.960973	H3K4me3_BJ_hg19_1|0.960575	H3K4me3_BJ_hg19_2|0.960489	H3K4me3_fibroblast of upper leg skin_hg19_1|0.960329	H3K4me3_fibroblast of the aortic adventitia_hg19_1|0.960435	H3K4me3_fibroblast of lung_hg19_3|0.960292	H3K4me3_brain microvascular endothelial cell_hg19_1|0.960129	H3K4me3_cardiac fibroblast_hg19_2|0.959841	H3K4me3_fibroblast of gingiva_hg19_2|0.959947	H3K4me3_foreskin fibroblast_hg19_1|0.959832	H3K4me3_fibroblast of pulmonary artery_hg19_1|0.959718	H3K4me3_choroid plexus epithelial cell_hg19_1|0.959476	H3K4me3_cardiac muscle cell_hg19_1|0.959908	H3K4me3_fibroblast of gingiva_hg19_1|0.959657	H3K4me3_fibroblast of lung_hg19_7|0.959511	H3K4me3_fibroblast of pulmonary artery_hg19_2|0.959142	H3K4me3_fibroblast of upper leg skin_hg19_2|0.959476	H3K4me3_skeletal muscle cell_hg19_1|0.959833	H3K4me3_fibroblast of villous mesenchyme_hg19_2|0.959133	H3K4me3_fibroblast of pedal digit skin_hg19_2|0.959266	H3K4me3_fibroblast of villous mesenchyme_hg19_1|0.959077	H3K4me3_fibroblast of lung_hg19_6|0.959219	H3K4me3_endothelial cell of umbilical vein_hg19_2|0.959119	H3K4me3_fibroblast of lung_hg19_2|0.958909	H3K4me3_skeletal muscle cell_hg19_2|0.959531	H3K4me3_foreskin fibroblast_hg19_2|0.95881	H3K4me3_fibroblast of pedal digit skin_hg19_1|0.958917	H3K4me3_choroid plexus epithelial cell_hg19_2|0.958392	H3K4me3_cardiac muscle cell_hg19_2|0.95879	H3K4me3_fibroblast of skin of abdomen_hg19_2|0.958448	H3K4me3_fibroblast of mammary gland_hg19_1|0.958148	H3K4me3_foreskin fibroblast_hg19_3|0.958135	H3K4me3_fibroblast of mammary gland_hg19_2|0.957976	H3K4me3_fibroblast of skin of abdomen_hg19_1|0.958003	H3K4me3_fibroblast of the aortic adventitia_hg19_2|0.957885	H3K4me3_fibroblast of lung_hg19_4|0.956987	H3K4me3_retinal pigment epithelial cell_hg19_2|0.956918	H3K4me3_bronchial epithelial cell_hg19_2|0.955816	H3K4me3_bronchial epithelial cell_hg19_1|0.955798	H3K4me3_fibroblast of lung_hg19_5|0.954931	H3K4me3_HEK293_hg19_2|0.954522	H3K4me3_cardiac mesoderm_hg19_8|0.953274	H3K4me3_cardiac mesoderm_hg19_2|0.952867	H3K4me3_SK-N-SH_hg19_2|0.950785	H3K4me3_cardiac mesoderm_hg19_7|0.950701	H3K4me3_SK-N-SH_hg19_1|0.950067	H3K4me3_Caco-2_hg19_1|0.945517	H3K4me3_Caco-2_hg19_2|0.945242	H3K4me3_BE2C_hg19_1|0.945045	H3K4me3_BE2C_hg19_2|0.943921	H3K4me3_HepG2_hg19_3|0.935809	H3K4me3_HepG2_hg19_2|0.935411	H3K9ac_endothelial cell of umbilical vein_hg19_1|0.927488	H3K4me3_ES-Bruce4_mm9_1|0.896322	H3K4me3_testis_mm9_1|0.893527	H3K4me3_kidney epithelial cell_hg19_2|0.958878	H3K4me3_kidney epithelial cell_hg19_1|0.958679	H3K4me3_mammary epithelial cell_hg19_2|0.956436	H3K4me3_retinal pigment epithelial cell_hg19_1|0.956606	H3K4me3_mammary epithelial cell_hg19_3|0.956003	H3K4me3_epithelial cell of proximal tubule_hg19_1|0.955073	H3K4me3_epithelial cell of proximal tubule_hg19_2|0.955009	H3K4me3_epithelial cell of esophagus_hg19_1|0.954695	H3K4me3_epithelial cell of esophagus_hg19_2|0.95447	H3K4me3_Panc1_hg19_2|0.953861	H3K4me3_cardiac mesoderm_hg19_1|0.954044	H3K4me3_Panc1_hg19_1|0.953068	H3K4me3_A549_hg19_4|0.952925	H3K4me3_A549_hg19_3|0.95283	H3K4me3_MCF-7_hg19_2|0.944938	H3K4me3_MCF-7_hg19_1|0.944715	H3K4me3_LNCaP clone FGC_hg19_2|0.937426	H3K4me3_LNCaP clone FGC_hg19_1|0.937379	H3K4me3_HeLa-S3_hg19_2|0.926333	H3K4me3_Jurkat_hg19_1|0.922543	H3K4me3_HEK293_hg19_1|0.95434	H3K4me3_cardiac mesoderm_hg19_6|0.952155	H3K4me3_H7_hg19_1|0.951626	H3K4me3_cardiac mesoderm_hg19_4|0.950939	H3K4me3_H7_hg19_2|0.95072	H3K4me3_cardiac mesoderm_hg19_3|0.950729	H3K4me3_NT2-D1_hg19_1|0.947241	H3K4me3_WERI-Rb-1_hg19_1|0.938402	H3K4me3_WERI-Rb-1_hg19_2|0.938279	H3K4me3_erythroblast_mm9_2|0.874396	H3K4me3_CH12.LX_mm9_2|0.865796	H3K4me3_H1-hESC_hg19_1|0.943834	H3K9ac_NT2-D1_hg19_1|0.943168	H3K4me3_HeLa-S3_hg19_3|0.92578	H3K4me3_cortical plate_mm9_1|0.891774	H3ac_C2C12_mm9_1|0.877042	H3K4me2_CH12.LX_mm9_1|0.861952	H3K4me3_Panc1_hg19_3|0.949402	H3K4me3_mammary epithelial cell_hg19_1|0.946584	H3K4me3_skeletal muscle myoblast_hg19_1|0.944476	H3K4me3_endothelial cell of umbilical vein_hg19_1|0.942466	H3K4me3_keratinocyte_hg19_1|0.938837	H3K4me3_megakaryocyte_mm9_2|0.880952	H3K4me3_myocyte_mm9_1|0.875871	H3K4me3_astrocyte_hg19_1|0.940764	H3K4me3_fibroblast of lung_hg19_1|0.939785	H3K4me3_myotube_hg19_1|0.933387	H3K4me3_K562_hg19_4|0.916347	H3K4me3_NB4_hg19_1|0.915913	H3K27ac_Panc1_hg19_1|0.907834	H3K4me3_osteoblast_hg19_1|0.933646	H3K4me3_fibroblast of dermis_hg19_1|0.932132	H3K9ac_skeletal muscle myoblast_hg19_1|0.90866	H3K4me1_mononuclear cell_hg19_1|0.92023	H3K4me3_HepG2_hg19_1|0.918074	H3K9ac_K562_hg19_2|0.907273	H3K4me3_megakaryocyte_mm9_1|0.877532	H3K9ac_keratinocyte_hg19_1|0.92154	H3K9ac_CD14-positive monocyte_hg19_1|0.909105	H3K4me1_testis_mm9_1|0.881333	H3K4me3_CD14-positive monocyte_hg19_1|0.914476	H3K9ac_H1-hESC_hg19_1|0.910448	H3K9ac_mammary epithelial cell_hg19_1|0.907893	H3K4me1_brain_mm9_1|0.880094	H3K4me3_C2C12_mm9_1|0.866192	H3K4me3_CH12.LX_mm9_1|0.858341	stdv|0.918471	H3K9ac_HeLa-S3_hg19_1|0.894014	H3K9ac_HepG2_hg19_1|0.893754	H3K4me3_HeLa-S3_hg19_1|0.903939	H3K27ac_HeLa-S3_hg19_1|0.886739	H3K27ac_endothelial cell of umbilical vein_hg19_1|0.885616	H3K4me2_endothelial cell of umbilical vein_hg19_1|0.920222	H3K27ac_A549_hg19_2|0.916558	H3K9ac_A549_hg19_1|0.913974	H3K9ac_myotube_hg19_1|0.899241	H3K27ac_mammary epithelial cell_hg19_1|0.884718	H3K27ac_skeletal muscle myoblast_hg19_1|0.879317	H3K4me3_MEL cell line_mm9_3|0.856476	H3K4me3_CH12.LX_mm9_5|0.85483	H3K4me2_H1-hESC_hg19_1|0.92181	H3K9ac_fibroblast of dermis_hg19_1|0.907379	H3K4me3_A549_hg19_2|0.919316	H3K4me2_myotube_hg19_1|0.915188	H3K4me2_keratinocyte_hg19_1|0.913431	H3K4me1_endothelial cell of umbilical vein_hg19_1|0.906138	H3K27ac_A549_hg19_1|0.892012	H3K27ac_fibroblast of lung_hg19_1|0.887568	H3K9ac_GM12878_hg19_1|0.88671	H3K4me3_CH12.LX_mm9_3|0.854148	H3K4me3_CH12.LX_mm9_4|0.849934	H3K4me2_fibroblast of lung_hg19_1|0.919418	H3K9ac_astrocyte_hg19_1|0.913733	H3K4me2_skeletal muscle myoblast_hg19_1|0.913047	H3K4me1_astrocyte_hg19_1|0.900076	H3K27ac_astrocyte_hg19_1|0.882933	H3K27ac_testis_mm9_1|0.849706	H3K9ac_CH12.LX_mm9_1|0.84715	H3K4me3_G1E_mm9_2|0.845656	H3K4me3_MEL cell line_mm9_2|0.853411	H3K4me2_osteoblast_hg19_1|0.911361	H3K4me2_K562_hg19_1|0.887127	H3K9ac_MEL cell line_mm9_1|0.847819	H3K4me3_K562_hg19_1|0.887951	H3K27ac_keratinocyte_hg19_1|0.876927	H3K4me3_T-cell acute lymphoblastic leukemia_hg19_1|0.871082	H3K4me1_small intestine_mm9_1|0.863162	H3K4me2_fibroblast of dermis_hg19_1|0.909538	H3K4me3_A549_hg19_1|0.908828	H3K27ac_HCT116_hg19_1|0.854096	H3K27ac_HepG2_hg19_1|0.853477	H3K4me3_G1E_mm9_1|0.842952	H3K4me2_B cell_hg19_1|0.899596	H3K4me1_osteoblast_hg19_1|0.889841	H3K4me2_mammary epithelial cell_hg19_1|0.90729	H3K4me1_keratinocyte_hg19_1|0.887581	H3K4me2_HeLa-S3_hg19_1|0.869758	H3K27ac_K562_hg19_1|0.853896	H3K4me1_spleen_mm9_1|0.846325	H3K4me2_A549_hg19_1|0.899592	H3K4me2_CD14-positive monocyte_hg19_1|0.893126	H3K27ac_myotube_hg19_1|0.855022	H3K4me2_astrocyte_hg19_1|0.899896	H3K9ac_T-cell acute lymphoblastic leukemia_hg19_1|0.859429	H3K9ac_K562_hg19_1|0.858143	H3K4me1_mammary epithelial cell_hg19_1|0.887718	H3K4me3_MEL cell line_mm9_1|0.840717	H3K27ac_bone marrow_mm9_1|0.839863	H3K4me3_G1E_mm9_3|0.836729	H3K27ac_GM12878_hg19_1|0.852247	H3K4me3_G1E-ER4_mm9_1|0.830847	H3K4me1_HeLa-S3_hg19_1|0.848826	H3K4me3_G1E-ER4_mm9_3|0.829072	H3K4me1_bone marrow macrophage_mm9_1|0.829207	H3K4me2_HepG2_hg19_1|0.883889	H3K4me1_CD14-positive monocyte_hg19_1|0.879118	H3K27ac_fibroblast of lung_hg19_2|0.850556	H3K4me3_G1E-ER4_mm9_2|0.830975	H3K4me1_fibroblast of dermis_hg19_1|0.874398	H3K4me1_thymus_mm9_1|0.836891	H3K4me2_A549_hg19_2|0.88572	H3K4me1_K562_hg19_2|0.872802	H3K27ac_spleen_mm9_1|0.829055	H3K27ac_heart_mm9_2|0.830234	H3K4me1_MEL cell line_mm9_3|0.824384	H3K4me1_Panc1_hg19_1|0.860758	H3K4me1_skeletal muscle myoblast_hg19_1|0.861195	H3K27ac_fibroblast of dermis_hg19_1|0.856662	H3K4me1_fibroblast of lung_hg19_1|0.85402	H3K27ac_embryonic fibroblast_mm9_1|0.828905	H3K4me1_embryonic fibroblast_mm9_1|0.826324	H3K27ac_kidney_mm9_1|0.815488	H3K4me2_GM12878_hg19_1|0.854651	H3K4me1_lung_mm9_1|0.826481	H3K4me1_H1-hESC_hg19_1|0.848852	H3K4me1_placenta_mm9_1|0.827815	H3K4me1_myotube_hg19_1|0.838446	H3K4me1_brown adipose tissue_mm9_1|0.818898	H3K27ac_heart_mm9_1|0.811757	H3K27ac_small intestine_mm9_1|0.812645	H3K4me1_kidney_mm9_1|0.815573	H3K4me1_liver_mm9_1|0.815356	H3K4me1_heart_mm9_2|0.819243	H3K4me1_heart_mm9_1|0.811679	H3K27ac_H1-hESC_hg19_1|0.827678	H3K4me1_A549_hg19_2|0.821393	H3K27ac_T-cell acute lymphoblastic leukemia_hg19_1|0.818815	H3K27ac_liver_mm9_2|0.807806	H3K27ac_brain_mm9_1|0.807081	H3K4me1_GM12878_hg19_1|0.827457	H3K27ac_osteoblast_hg19_1|0.833905	H3K4me1_A549_hg19_1|0.819559	H3K27ac_placenta_mm9_1|0.799663	H3K4me2_T-cell acute lymphoblastic leukemia_hg19_1|0.820081	H3K4me1_T-cell acute lymphoblastic leukemia_hg19_1|0.813856	H3K4me1_K562_hg19_1|0.815768	H3K27ac_liver_mm9_1|0.800517	H3K4me3_GM12878_hg19_1|0.816704	H3K4me1_HepG2_hg19_1|0.806165	H3K27ac_B cell_hg19_1|0.787368	H3K27ac_CD14-positive monocyte_hg19_1|0.781954	H3K27ac_brown adipose tissue_mm9_1|0.792327	H3K4me1_limb_mm9_1|0.787706	H3K27ac_MEL cell line_mm9_1|0.797993	H3K27ac_bone marrow macrophage_mm9_1|0.788553	H3K79me2_MEL cell line_mm9_1|0.782649	H3K27ac_olfactory bulb_mm9_1|0.777056	H3K27ac_cerebellum_mm9_1|0.777848	H3ac_myocyte_mm9_1|0.770989	H3K27ac_ES-E14_mm9_1|0.753798	H3K4me1_bone marrow_mm9_1|0.746593	H3K4me1_olfactory bulb_mm9_1|0.749323	H3K27ac_CH12.LX_mm9_1|0.732611	H3K4me1_megakaryocyte_mm9_3|0.754899	H3K27ac_cortical plate_mm9_1|0.743528	H3K4me1_cerebellum_mm9_1|0.745931	H3K27ac_limb_mm9_1|0.721355	H3K4me1_megakaryocyte_mm9_2|0.723649	H3K4me1_megakaryocyte_mm9_1|0.726043	H3K4me1_erythroblast_mm9_3|0.723534	H3K4me1_cortical plate_mm9_1|0.725918	H3K4me1_erythroblast_mm9_2|0.712678	H3K4me1_ES-Bruce4_mm9_1|0.70904	H3K4me1_G1E_mm9_3|0.713525	H3K4me1_CH12.LX_mm9_4|0.709314
+H3K4me1_G1E-ER4_mm9_2|1
+H3K4me1_CH12.LX_mm9_3|1	H3K4me1_CH12.LX_mm9_2|0.844016
+H3K4me1_erythroblast_mm9_1|1
+H3K4me1_ES-E14_mm9_2|1
+H3K4me1_G1E_mm9_1|1	H3K4me1_G1E-ER4_mm9_3|0.710202	H3K4me1_G1E-ER4_mm9_1|0.714197	H3K4me1_G1E_mm9_2|0.775496
+H3K79me2_CH12.LX_mm9_1|1
+H3K9me3_G1E_mm9_1|1	H3K9me3_G1E_mm9_3|0.847946	H3K9me3_G1E_mm9_2|0.840448
+H3K9me3_megakaryocyte_mm9_1|1	H3K9me3_megakaryocyte_mm9_3|0.798536	H3K9me3_megakaryocyte_mm9_2|0.773894
+H3K9me3_CH12.LX_mm9_1|1	H3K9me3_CH12.LX_mm9_2|0.835897	H3K9me3_CH12.LX_mm9_3|0.732521
+H3K79me3_C2C12_mm9_1|1	H3K79me2_C2C12_mm9_1|0.745576	H3K79me2_myocyte_mm9_1|0.727674
+H3K9me3_G1E-ER4_mm9_3|1	H3K9me3_G1E-ER4_mm9_1|0.929717
+H3K9me3_erythroblast_mm9_2|1	H3K9me3_erythroblast_mm9_1|0.82684
+H3K27ac_ES-Bruce4_mm9_1|1
+H3K79me2_A549_hg19_2|1	H3K79me2_A549_hg19_1|0.738404
+H3K79me2_mammary epithelial cell_hg19_1|1	H3K79me2_keratinocyte_hg19_1|0.728803
+H3K27ac_MCF-7_hg19_1|1
+H4K20me1_myotube_hg19_1|1
+H4K20me1_CD14-positive monocyte_hg19_1|1
+H3K9me3_fibroblast of dermis_hg19_1|1
+H3K9me3_skeletal muscle myoblast_hg19_1|1
+H3K9me3_fibroblast of lung_hg19_1|1
+H3K9me1_endothelial cell of umbilical vein_hg19_1|1
+H3K9me3_GM12878_hg19_1|1
+H3K9me3_mammary epithelial cell_hg19_1|1
+H4K20me1_K562_hg19_1|1
+H3K4me1_NT2-D1_hg19_1|1
+H3K79me2_HeLa-S3_hg19_1|1
+H3K9me3_T-cell acute lymphoblastic leukemia_hg19_1|1
+H4K20me1_B cell_hg19_1|1
+H4K20me1_GM12878_hg19_1|1
+H4K20me1_endothelial cell of umbilical vein_hg19_1|1
+H3K4me1_HCT116_hg19_1|1
+H3K4me1_MEL cell line_mm9_1|1
+H3K79me2_H1-hESC_hg19_1|1
+H3K79me2_HepG2_hg19_1|1
+H3K79me2_T-cell acute lymphoblastic leukemia_hg19_1|1
+H3K79me2_heart_mm9_1|1
+H3K79me2_liver_mm9_1|1
+H3K79me2_osteoblast_hg19_1|1
+H3K9me3_CD14-positive monocyte_hg19_1|1
+H3K9me3_ES-Bruce4_mm9_1|1
+H3K9me3_H1-hESC_hg19_1|1
+H3K9me3_brain_mm9_1|1
+H3K9me3_endothelial cell of umbilical vein_hg19_1|1
+H3K9me3_keratinocyte_hg19_1|1
+H4K20me1_fibroblast of lung_hg19_1|1
+H3K79me2_endothelial cell of umbilical vein_hg19_1|1
+H3K79me2_fibroblast of dermis_hg19_1|1
+H3K79me2_fibroblast of lung_hg19_1|1
+H3K9me3_U2OS_hg19_1|1
+H3K9me3_erythroblast_mm9_3|1
+H3K79me2_CD14-positive monocyte_hg19_1|1
+H3K79me2_myotube_hg19_1|1
+H3K9me1_keratinocyte_hg19_1|1
+H3K9me3_HeLa-S3_hg19_1|1
+H3K9me3_K562_hg19_1|1
+H3K9me3_osteoblast_hg19_1|1
+H3K79me2_skeletal muscle myoblast_hg19_1|1
+H4K20me1_A549_hg19_1|1
+H4K20me1_HepG2_hg19_1|1
+H4K20me1_T-cell acute lymphoblastic leukemia_hg19_1|1
+H4K20me1_fibroblast of dermis_hg19_1|1
+H4K20me1_osteoblast_hg19_1|1
+H3K9me3_myotube_hg19_1|1
+H4K20me1_H1-hESC_hg19_1|1
+H4K20me1_keratinocyte_hg19_1|1
+H4K20me1_mammary epithelial cell_hg19_1|1
+H3K27ac_thymus_mm9_1|1
+H3K79me2_astrocyte_hg19_1|1
+H3K9me3_NT2-D1_hg19_1|1
+H3K4me1_ES-E14_mm9_1|1
+H3K4me1_MEL cell line_mm9_2|1
+H3K79me2_K562_hg19_1|1
+H3K9me3_astrocyte_hg19_1|1
+H4K20me1_astrocyte_hg19_1|1
+H4K20me1_skeletal muscle myoblast_hg19_1|1
+H3K79me2_GM12878_hg19_1|1
+H3K4me1_CH12.LX_mm9_1|1
+H3K9me1_K562_hg19_1|1
+H3K9me3_G1E-ER4_mm9_2|1
+H3K9me3_HepG2_hg19_1|1
+H3K9me3_A549_hg19_1|1
+H3K9me3_fibroblast of lung_hg19_3|1
+H4K20me1_HeLa-S3_hg19_1|1
+H3K9me3_fibroblast of lung_hg19_2|1

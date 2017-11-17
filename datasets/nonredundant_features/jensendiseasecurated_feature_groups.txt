@@ -1,0 +1,47 @@
+eye and adnexa disease|1	eye disease|1	globe disease|1	retinal disease|0.797724	retinal degeneration|0.735612	sensory system disease|0.877496
+developmental disorder of mental health|1	specific developmental disorder|1	intellectual disability|0.997725	disease of mental health|0.957427
+muscle tissue disease|1	myopathy|1	muscular disease|1	musculoskeletal system disease|0.728628
+autosomal genetic disease|1	monogenic disease|0.950097	genetic disease|0.86442	autosomal recessive disease|0.739235
+cardiomyopathy|1	heart disease|0.881247	cardiovascular system disease|0.770387	intrinsic cardiomyopathy|0.802394
+disease of anatomical entity|1	mean|0.848283	stdv|0.844538	nervous system disease|0.739229
+nutrition disease|1	obesity|1	overnutrition|1
+autoimmune disease of endocrine system|1	graves' disease|1	hyperthyroidism|1
+carbohydrate metabolism disease|1	glucose metabolism disease|1	diabetes mellitus|1
+arthritis|1	rheumatoid arthritis|0.983192	bone inflammation disease|0.968246
+synostosis|1	craniosynostosis|0.974679	dysostosis|0.912871
+central nervous system disease|1	neurodegenerative disease|0.815951
+blood coagulation disease|1	inherited blood coagulation disease|0.766965	thrombophilia|0.727607
+adolescence-adult electroclinical syndrome|1	juvenile myoclonic epilepsy|1
+sex differentiation disease|1	pseudohermaphroditism|1
+disease of cellular proliferation|1	cancer|0.99847
+hypersensitivity reaction type ii disease|1	hypersensitivity reaction disease|0.930949
+connective tissue disease|1	bone disease|0.900362
+artery disease|1	vascular disease|0.850963
+reproductive system disease|1	gonadal disease|0.845154
+dilated cardiomyopathy|1
+disease of metabolism|1	inherited metabolic disorder|0.819515
+abetalipoproteinemia|1	hypolipoproteinemia|0.816497
+osteosclerosis|1	bone remodeling disease|0.797724
+lysosomal storage disease|1	lipid storage disease|0.782461
+hematopoietic system disease|1	immune system disease|0.767391
+epilepsy syndrome|1	brain disease|0.732219
+endocrine system disease|1
+bone development disease|1
+chromosomal disease|1
+amyloidosis|1
+type 1 diabetes mellitus|1
+lipid metabolism disorder|1
+peripheral vascular disease|1
+klinefelter's syndrome|1
+mucopolysaccharidosis|1
+carbohydrate metabolic disorder|1
+organ system cancer|1
+primary immunodeficiency disease|1
+autosomal dominant disease|1
+motor neuron disease|1
+electroclinical syndrome|1
+thyroid gland disease|1
+sphingolipidosis|1
+cerebral degeneration|1
+neuropathy|1
+acquired metabolic disease|1

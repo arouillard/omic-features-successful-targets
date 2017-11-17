@@ -1,0 +1,11 @@
+mean|1	skin|0.831419	cervix, uterine|0.829723	endometrium|0.861285	rectum|0.777138	tonsil|0.811606	esophagus|0.765765	vagina|0.732957	oral mucosa|0.729378	cerebral cortex|0.768324	cerebellum|0.742892	breast|0.830446	colon|0.838322	appendix|0.811817	duodenum|0.718971	lymph node|0.712477	bronchus|0.756531	fallopian tube|0.768776	nasopharynx|0.775378	stomach|0.759241	soft tissue|0.729178	pancreas|0.808975	thyroid gland|0.803231	urinary bladder|0.800228	testis|0.793866	gallbladder|0.782401	kidney|0.780106	placenta|0.778269	seminal vesicle|0.777189	lung|0.769675	salivary gland|0.762309	prostate|0.75498	epididymis|0.750297	adrenal gland|0.746648	parathyroid gland|0.738634
+hippocampus|1	lateral ventricle|0.831174
+small intestine|1
+spleen|1
+stdv|1
+smooth muscle|1
+bone marrow|1
+heart muscle|1
+skeletal muscle|1
+liver|1
+ovary|1

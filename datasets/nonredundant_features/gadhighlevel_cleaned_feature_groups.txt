@@ -1,0 +1,15 @@
+mean|1	stdv|0.959792	reproduction|0.707866
+immune|1	infection|0.778401
+renal|1	cardiovascular|0.75753
+cancer|1
+chemdependency|1
+other|1
+developmental|1
+normalvariation|1
+metabolic|1
+psych|1
+aging|1
+vision|1
+hematological|1
+pharmacogenomic|1
+neurological|1

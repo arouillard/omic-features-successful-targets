@@ -1,0 +1,39 @@
+mean|1	stdv|0.884452
+Alzheimer disease-presenilin pathway|1
+Angiogenesis|1
+Apoptosis signaling pathway|1
+Thyrotropin-releasing hormone receptor signaling pathway|1
+Muscarinic acetylcholine receptor 1 and 3 signaling pathway|1
+5HT1 type receptor mediated signaling pathway|1
+Ionotropic glutamate receptor pathway|1
+Metabotropic glutamate receptor group III pathway|1
+Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway|1
+FGF signaling pathway|1
+Toll receptor signaling pathway|1
+Huntington disease|1
+Alzheimer disease-amyloid secretase pathway|1
+Metabotropic glutamate receptor group I pathway|1
+Adrenaline and noradrenaline biosynthesis|1
+GABA-B_receptor_II_signaling|1
+VEGF signaling pathway|1
+PI3 kinase pathway|1
+Blood coagulation|1
+DNA replication|1
+5HT4 type receptor mediated signaling pathway|1
+PNAT|1
+Endogenous_cannabinoid_signaling|1
+Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway|1
+B cell activation|1
+Inflammation mediated by chemokine and cytokine signaling pathway|1
+Muscarinic acetylcholine receptor 2 and 4 signaling pathway|1
+Interleukin signaling pathway|1
+Parkinson disease|1
+Adenine and hypoxanthine salvage pathway|1
+5HT2 type receptor mediated signaling pathway|1
+Nicotine pharmacodynamics pathway|1
+Integrin signalling pathway|1
+Interferon-gamma signaling pathway|1
+Plasminogen activating cascade|1
+Androgen/estrogene/progesterone biosynthesis|1
+EGF receptor signaling pathway|1
+TGF-beta signaling pathway|1

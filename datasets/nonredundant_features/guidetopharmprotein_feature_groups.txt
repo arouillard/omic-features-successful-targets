@@ -1,0 +1,4 @@
+mean|1	stdv|0.932069
+CGA|1
+GCG|1
+POMC|1

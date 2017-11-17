@@ -1,0 +1,66 @@
+abbreviation	candidate_features	candidate_genes	feature_normalization	feature_similarity_metric	feature_similarity_threshold	name	nonredundant_features	nonredundant_genes	original_features	original_genes	path
+biogrid	1191	15270	none	cosine	0.707107	BioGRID Protein-Protein Interactions	1162	15270	15270	15270	datasets/nonredundant_features/biogrid.txt.gz
+biogpshuman_cleaned	86	16383	z-score	spearman	0.707107	BioGPS Human Cell Type and Tissue Gene Expression Profiles - Cleaned	2	16383	84	16383	datasets/nonredundant_features/biogpshuman_cleaned.txt.gz
+biogpsmouse_cleaned	76	15443	z-score	spearman	0.707107	BioGPS Mouse Cell Type and Tissue Gene Expression Profiles - Cleaned	2	15443	74	15443	datasets/nonredundant_features/biogpsmouse_cleaned.txt.gz
+brainatlasadulthuman_cleaned	416	17979	z-score	spearman	0.707107	Allen Brain Atlas Adult Human Brain Tissue Gene Expression Profiles - Cleaned	2	17979	414	17979	datasets/nonredundant_features/brainatlasadulthuman_cleaned.txt.gz
+brainatlasadultmouse_cleaned	2234	14248	z-score	spearman	0.707107	Allen Brain Atlas Adult Mouse Brain Tissue Gene Expression Profiles - Cleaned	2	14248	2232	14248	datasets/nonredundant_features/brainatlasadultmouse_cleaned.txt.gz
+clinvar	3	2458	none	cosine	0.707107	ClinVar SNP-Phenotype Associations	2	2458	3291	2458	datasets/nonredundant_features/clinvar.txt.gz
+cmap	5066	12148	none	cosine	0.707107	CMAP Signatures of Differentially Expressed Genes for Small Molecules	5065	12148	6100	12148	datasets/nonredundant_features/cmap.txt.gz
+ctdchemical	2222	11125	none	cosine	0.707107	CTD Gene-Chemical Interactions	2038	11125	9516	11125	datasets/nonredundant_features/ctdchemical.txt.gz
+ctddisease_cleaned	2926	21582	none	cosine	0.707107	CTD Gene-Disease Associations - Cleaned	2107	21582	6325	21582	datasets/nonredundant_features/ctddisease_cleaned.txt.gz
+dbgap_cleaned	51	5668	none	cosine	0.707107	dbGAP Gene-Trait Associations - Cleaned	49	5668	510	5668	datasets/nonredundant_features/dbgap_cleaned.txt.gz
+depod	13	293	none	cosine	0.707107	DEPOD Substrates of Phosphatases	9	293	112	293	datasets/nonredundant_features/depod.txt.gz
+dip	32	2709	none	cosine	0.707107	DIP Protein-Protein Interactions	24	2709	2709	2709	datasets/nonredundant_features/dip.txt.gz
+encodehm	432	22382	none	cosine	0.707107	ENCODE Histone Modification Site Profiles	86	22382	435	22382	datasets/nonredundant_features/encodehm.txt.gz
+encodetf	1591	22845	none	cosine	0.707107	ENCODE Transcription Factor Binding Site Profiles	697	22845	1679	22845	datasets/nonredundant_features/encodetf.txt.gz
+epigenomicsdnamethylation_cleaned	26	13835	z-score	spearman	0.707107	Roadmap Epigenomics Cell and Tissue DNA Methylation Profiles - Cleaned	4	13835	24	13835	datasets/nonredundant_features/epigenomicsdnamethylation_cleaned.txt.gz
+epigenomicshm	295	21032	none	cosine	0.707107	Roadmap Epigenomics Histone Modification Site Profiles	244	21032	383	21032	datasets/nonredundant_features/epigenomicshm.txt.gz
+epigenomicsmrna_cleaned	59	12824	z-score	spearman	0.707107	Roadmap Epigenomics Cell and Tissue Gene Expression Profiles - Cleaned	6	12824	57	12824	datasets/nonredundant_features/epigenomicsmrna_cleaned.txt.gz
+gad	1189	10705	none	cosine	0.707107	GAD Gene-Disease Associations	968	10705	12778	10705	datasets/nonredundant_features/gad.txt.gz
+gadhighlevel_cleaned	19	8016	none	cosine	0.707107	GAD High Level Gene-Disease Associations - Cleaned	15	8016	18	8016	datasets/nonredundant_features/gadhighlevel_cleaned.txt.gz
+genesigdb	1363	19723	none	cosine	0.707107	GeneSigDB Published Gene Signatures	1313	19723	3515	19723	datasets/nonredundant_features/genesigdb.txt.gz
+gobp	2435	15717	none	cosine	0.707107	GO Biological Process Annotations	1213	15717	13212	15717	datasets/nonredundant_features/gobp.txt.gz
+gocc	207	16757	none	cosine	0.707107	GO Cellular Component Annotations	123	16757	1547	16757	datasets/nonredundant_features/gocc.txt.gz
+gomf	366	15777	none	cosine	0.707107	GO Molecular Function Annotations	203	15777	4162	15777	datasets/nonredundant_features/gomf.txt.gz
+gtexeqtl	2	7898	none	cosine	0.707107	GTEx eQTL	1	7898	7815	7898	datasets/nonredundant_features/gtexeqtl.txt.gz
+gtextissue_cleaned	31	26005	z-score	spearman	0.707107	GTEx Tissue Gene Expression Profiles - Cleaned	2	26005	29	26005	datasets/nonredundant_features/gtextissue_cleaned.txt.gz
+guidetopharmchemical	189	899	none	cosine	0.707107	Guide to Pharmacology Chemical Ligands of Receptors	51	899	4894	899	datasets/nonredundant_features/guidetopharmchemical.txt.gz
+guidetopharmprotein	5	187	none	cosine	0.707107	Guide to Pharmacology Protein Ligands of Receptors	4	187	211	187	datasets/nonredundant_features/guidetopharmprotein.txt.gz
+gwascatalog_cleaned	30	4356	none	cosine	0.707107	GWAS Catalog SNP-Phenotype Associations - Cleaned	28	4356	1007	4356	datasets/nonredundant_features/gwascatalog_cleaned.txt.gz
+gwasdbdisease_cleaned	252	11805	none	cosine	0.707107	GWASdb SNP-Disease Associations - Cleaned	126	11805	585	11805	datasets/nonredundant_features/gwasdbdisease_cleaned.txt.gz
+gwasdbphenotype_cleaned	397	12488	none	cosine	0.707107	GWASdb SNP-Phenotype Associations - Cleaned	149	12488	822	12488	datasets/nonredundant_features/gwasdbphenotype_cleaned.txt.gz
+hpacelllines_cleaned	45	15868	z-score	spearman	0.707107	HPA Cell Line Gene Expression Profiles - Cleaned	1	15868	43	15868	datasets/nonredundant_features/hpacelllines_cleaned.txt.gz
+hpatissuesmrna_cleaned	33	17496	z-score	spearman	0.707107	HPA Tissue Gene Expression Profiles - Cleaned	2	17496	31	17496	datasets/nonredundant_features/hpatissuesmrna_cleaned.txt.gz
+hpatissuesprotein_cleaned	46	15788	z-score	spearman	0.707107	HPA Tissue Protein Expression Profiles - Cleaned	11	15788	44	15788	datasets/nonredundant_features/hpatissuesprotein_cleaned.txt.gz
+hpm_cleaned	6	7274	z-score	spearman	0.707107	HPM Cell Type and Tissue Protein Expression Profiles - Cleaned	2	7274	4	7274	datasets/nonredundant_features/hpm_cleaned.txt.gz
+hpo	1185	3158	none	cosine	0.707107	HPO Gene-Disease Associations	664	3158	6842	3158	datasets/nonredundant_features/hpo.txt.gz
+hugenavigator	1241	12055	none	cosine	0.707107	HuGE Navigator Gene-Phenotype Associations	1152	12055	2753	12055	datasets/nonredundant_features/hugenavigator.txt.gz
+humancyc	11	932	none	cosine	0.707107	HumanCyc Pathways	8	932	286	932	datasets/nonredundant_features/humancyc.txt.gz
+intact	422	12303	none	cosine	0.707107	IntAct Biomolecular Interactions	417	12303	12303	12303	datasets/nonredundant_features/intact.txt.gz
+interpro	119	18002	none	cosine	0.707107	InterPro Predicted Protein Domain Annotations	63	18002	11015	18002	datasets/nonredundant_features/interpro.txt.gz
+jasparpwm	80	21547	none	cosine	0.707107	JASPAR Predicted Transcription Factor Targets	76	21547	111	21547	datasets/nonredundant_features/jasparpwm.txt.gz
+jensencompartmentcurated_cleaned	228	16738	none	cosine	0.707107	COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	106	16738	1463	16738	datasets/nonredundant_features/jensencompartmentcurated_cleaned.txt.gz
+jensencompartmentexpts_cleaned	37	6495	none	cosine	0.707107	COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	9	6495	59	6495	datasets/nonredundant_features/jensencompartmentexpts_cleaned.txt.gz
+jensencompartmenttextmining_cleaned	877	14375	none	cosine	0.707107	COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	545	14375	2081	14375	datasets/nonredundant_features/jensencompartmenttextmining_cleaned.txt.gz
+jensendiseasecurated	93	2252	none	cosine	0.707107	DISEASES Curated Gene-Disease Assocation Evidence Scores	47	2252	770	2252	datasets/nonredundant_features/jensendiseasecurated.txt.gz
+jensendiseaseexpts_cleaned	106	4055	none	cosine	0.707107	DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	42	4055	350	4055	datasets/nonredundant_features/jensendiseaseexpts_cleaned.txt.gz
+jensendiseasetextmining_cleaned	2559	15309	none	cosine	0.707107	DISEASES Text-mining Gene-Disease Assocation Evidence Scores - Cleaned	1849	15309	4628	15309	datasets/nonredundant_features/jensendiseasetextmining_cleaned.txt.gz
+jensentissuecurated	242	16216	none	cosine	0.707107	TISSUES Curated Tissue Protein Expression Evidence Scores	104	16216	643	16216	datasets/nonredundant_features/jensentissuecurated.txt.gz
+jensentissueexpts_cleaned	244	17922	none	cosine	0.707107	TISSUES Experimental Tissue Protein Expression Evidence Scores - Cleaned	43	17922	243	17922	datasets/nonredundant_features/jensentissueexpts_cleaned.txt.gz
+jensentissuetextmining_cleaned	2974	16184	none	cosine	0.707107	TISSUES Text-mining Tissue Protein Expression Evidence Scores - Cleaned	2118	16184	4187	16184	datasets/nonredundant_features/jensentissuetextmining_cleaned.txt.gz
+kegg	185	7016	none	cosine	0.707107	KEGG Pathways	179	7016	301	7016	datasets/nonredundant_features/kegg.txt.gz
+locate	49	9639	none	cosine	0.707107	LOCATE Curated Protein Localization Annotations	19	9639	78	9639	datasets/nonredundant_features/locate.txt.gz
+locatepredicted	22	19747	none	cosine	0.707107	LOCATE Predicted Protein Localization Annotations	9	19747	24	19747	datasets/nonredundant_features/locatepredicted.txt.gz
+mgimpo	2433	7798	none	cosine	0.707107	MPO Gene-Phenotype Associations	1438	7798	8579	7798	datasets/nonredundant_features/mgimpo.txt.gz
+mirtarbase	93	12086	none	cosine	0.707107	MiRTarBase microRNA Targets	91	12086	596	12086	datasets/nonredundant_features/mirtarbase.txt.gz
+msigdbcomp	135	4869	none	cosine	0.707107	MSigDB Cancer Gene Co-expression Modules	94	4869	356	4869	datasets/nonredundant_features/msigdbcomp.txt.gz
+nursa	1182	9785	none	cosine	0.707107	NURSA Protein Complexes	1181	9785	1796	9785	datasets/nonredundant_features/nursa.txt.gz
+omim	5	4553	none	cosine	0.707107	OMIM Gene-Disease Associations	4	4553	6175	4553	datasets/nonredundant_features/omim.txt.gz
+panther	40	1962	none	cosine	0.707107	PANTHER Pathways	39	1962	145	1962	datasets/nonredundant_features/panther.txt.gz
+proteomicsdb_cleaned	55	2776	z-score	spearman	0.707107	ProteomicsDB Cell Type and Tissue Protein Expression Profiles - Cleaned	5	2776	53	2776	datasets/nonredundant_features/proteomicsdb_cleaned.txt.gz
+reactome	289	9005	none	cosine	0.707107	Reactome Pathways	160	9005	1812	9005	datasets/nonredundant_features/reactome.txt.gz
+targetscan_cleaned	1020	14923	none	cosine	0.707107	TargetScan Predicted Conserved microRNA Targets - Cleaned	791	14923	1537	14923	datasets/nonredundant_features/targetscan_cleaned.txt.gz
+targetscannonconserved_cleaned	1534	18210	none	cosine	0.707107	TargetScan Predicted Nonconserved microRNA Targets - Cleaned	1236	18210	1539	18210	datasets/nonredundant_features/targetscannonconserved_cleaned.txt.gz
+virusmint	5	706	none	cosine	0.707107	Virus MINT Protein-Virus Interactions	4	706	68	706	datasets/nonredundant_features/virusmint.txt.gz
+virusmintppi	3	706	none	cosine	0.707107	Virus MINT Protein-Viral Protein Interactions	2	706	185	706	datasets/nonredundant_features/virusmintppi.txt.gz
+wikipathways	140	4958	none	cosine	0.707107	Wikipathways Pathways	137	4958	299	4958	datasets/nonredundant_features/wikipathways.txt.gz

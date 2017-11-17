@@ -1,0 +1,179 @@
+Allograft rejection|1	Type I diabetes mellitus|0.791633	Graft-versus-host disease|0.760042	Autoimmune thyroid disease|0.757616
+mean|1	stdv|0.827094
+Hypertrophic cardiomyopathy (HCM)|1	Dilated cardiomyopathy|0.856192
+Chemical carcinogenesis|1	Drug metabolism - cytochrome P450|0.784369
+Glutamatergic synapse|1
+Dopaminergic synapse|1
+Prostate cancer|1
+Non-small cell lung cancer|1
+Cholinergic synapse|1
+Retrograde endocannabinoid signaling|1
+Cocaine addiction|1
+Circadian entrainment|1
+Salivary secretion|1
+Gastric acid secretion|1
+Mineral absorption|1
+Influenza A|1
+Bladder cancer|1
+ECM-receptor interaction|1
+HTLV-I infection|1
+Systemic lupus erythematosus|1
+Progesterone-mediated oocyte maturation|1
+Regulation of autophagy|1
+Prolactin signaling pathway|1
+Inflammatory mediator regulation of TRP channels|1
+Taste transduction|1
+Nicotine addiction|1
+Amphetamine addiction|1
+Vascular smooth muscle contraction|1
+Cardiac muscle contraction|1
+Huntington's disease|1
+Staphylococcus aureus infection|1
+Viral myocarditis|1
+Natural killer cell mediated cytotoxicity|1
+NOD-like receptor signaling pathway|1
+Malaria|1
+Adherens junction|1
+Glioma|1
+Melanogenesis|1
+Retinol metabolism|1
+Arginine and proline metabolism|1
+Epstein-Barr virus infection|1
+AMPK signaling pathway|1
+Adipocytokine signaling pathway|1
+Glucagon signaling pathway|1
+Type II diabetes mellitus|1
+Estrogen signaling pathway|1
+Serotonergic synapse|1
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)|1
+T cell receptor signaling pathway|1
+B cell receptor signaling pathway|1
+Antigen processing and presentation|1
+Inflammatory bowel disease (IBD)|1
+Legionellosis|1
+TNF signaling pathway|1
+Phagosome|1
+Leishmaniasis|1
+Hepatitis B|1
+Amoebiasis|1
+Focal adhesion|1
+MAPK signaling pathway|1
+Shigellosis|1
+Pathogenic Escherichia coli infection|1
+Apoptosis|1
+Tyrosine metabolism|1
+Peroxisome|1
+Fat digestion and absorption|1
+Steroid biosynthesis|1
+Cytosolic DNA-sensing pathway|1
+FoxO signaling pathway|1
+Longevity regulating pathway - multiple species|1
+Insulin resistance|1
+Insulin signaling pathway|1
+Carbohydrate digestion and absorption|1
+GnRH signaling pathway|1
+VEGF signaling pathway|1
+Platelet activation|1
+Calcium signaling pathway|1
+Regulation of lipolysis in adipocytes|1
+Renin secretion|1
+Arginine biosynthesis|1
+Pancreatic secretion|1
+Aldosterone-regulated sodium reabsorption|1
+Epithelial cell signaling in Helicobacter pylori infection|1
+Rheumatoid arthritis|1
+Prion diseases|1
+Fc epsilon RI signaling pathway|1
+Cytokine-cytokine receptor interaction|1
+Toxoplasmosis|1
+Toll-like receptor signaling pathway|1
+Chagas disease (American trypanosomiasis)|1
+African trypanosomiasis|1
+Hepatitis C|1
+Leukocyte transendothelial migration|1
+Acute myeloid leukemia|1
+AGE-RAGE signaling pathway in diabetic complications|1
+Small cell lung cancer|1
+Regulation of actin cytoskeleton|1
+Rap1 signaling pathway|1
+Axon guidance|1
+Salmonella infection|1
+Thyroid hormone signaling pathway|1
+Ovarian steroidogenesis|1
+Tryptophan metabolism|1
+Phenylalanine metabolism|1
+Carbon metabolism|1
+Glycerolipid metabolism|1
+Choline metabolism in cancer|1
+Oocyte meiosis|1
+cAMP signaling pathway|1
+Insulin secretion|1
+Complement and coagulation cascades|1
+Intestinal immune network for IgA production|1
+HIF-1 signaling pathway|1
+Ras signaling pathway|1
+Renin-angiotensin system|1
+Drug metabolism - other enzymes|1
+Starch and sucrose metabolism|1
+Histidine metabolism|1
+Phospholipase D signaling pathway|1
+Pyrimidine metabolism|1
+mTOR signaling pathway|1
+Galactose metabolism|1
+Long-term depression|1
+Thyroid hormone synthesis|1
+Pertussis|1
+NF-kappa B signaling pathway|1
+Osteoclast differentiation|1
+Herpes simplex infection|1
+Proteoglycans in cancer|1
+Steroid hormone biosynthesis|1
+Sphingolipid signaling pathway|1
+Longevity regulating pathway - mammal|1
+Neurotrophin signaling pathway|1
+cGMP-PKG signaling pathway|1
+Endocrine and other factor-regulated calcium reabsorption|1
+Hematopoietic cell lineage|1
+Vitamin digestion and absorption|1
+Amyotrophic lateral sclerosis (ALS)|1
+Long-term potentiation|1
+Bile secretion|1
+Protein digestion and absorption|1
+Primary immunodeficiency|1
+Chemokine signaling pathway|1
+Pancreatic cancer|1
+ErbB signaling pathway|1
+Melanoma|1
+TGF-beta signaling pathway|1
+Gap junction|1
+Central carbon metabolism in cancer|1
+PPAR signaling pathway|1
+Arachidonic acid metabolism|1
+Sphingolipid metabolism|1
+Purine metabolism|1
+Tuberculosis|1
+Cell adhesion molecules (CAMs)|1
+Renal cell carcinoma|1
+Pathways in cancer|1
+PI3K-Akt signaling pathway|1
+GABAergic synapse|1
+Morphine addiction|1
+Neuroactive ligand-receptor interaction|1
+Oxytocin signaling pathway|1
+Adrenergic signaling in cardiomyocytes|1
+Non-alcoholic fatty liver disease (NAFLD)|1
+Alzheimer's disease|1
+Parkinson's disease|1
+Alcoholism|1
+Glycosaminoglycan degradation|1
+Lysosome|1
+Jak-STAT signaling pathway|1
+Signaling pathways regulating pluripotency of stem cells|1
+Transcriptional misregulation in cancer|1
+Measles|1
+Endocytosis|1
+MicroRNAs in cancer|1
+Metabolic pathways|1
+RIG-I-like receptor signaling pathway|1
+Hippo signaling pathway|1
+Aldosterone synthesis and secretion|1

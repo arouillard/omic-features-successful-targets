@@ -1,0 +1,4 @@
+mean|1	stdv|0.912087
+Hepatitis C virus genotype 1b (isolate Con1)|1
+Simian virus 40|1
+Epstein-Barr virus (strain GD1)|1

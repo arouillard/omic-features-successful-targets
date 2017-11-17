@@ -1,0 +1,51 @@
+(+)-aceclidine|1	(-)-aceclidine|1	pirenzepine|1	silahexocyclium|1	4-DAMP|1	<i>N</i>-benzyl brucine|1	<i>p</i>-F-HHSiD|1	AFDX384|1	pilocarpine|1	otenzepad|1	methoctramine|1	lithocholylcholine|1	ipratropium|1	himbacine|1	hexocyclium|1	hexahydrodifenidol|1	glycopyrrolate|1	darifenacin|1	carbachol|1	brucine <i>N</i>-oxide|1	brucine|1	biperiden|1	atropine|1	acetylcholine|1	HHSiD|1	[<sup>3</sup>H]QNB|1	[<sup>3</sup>H]N-methyl scopolamine|1	VU0255035|1	NNC 11-1607|1	NNC 11-1585|1	NNC 11-1314|1	N-chloromethyl-brucine|1	McN-A-343|1	MT7|1	G&ouml; 7874|0.894427	thiochrome|0.894427	vincamine|0.894427	scopolamine|0.894427	propantheline|0.894427	pentylthio-TZTP|0.894427	oxotremorine-M|0.894427	oxotremorine|0.894427	methylfurmethide|0.894427	methacholine|0.894427	guanylpirenzepine|0.894427	furmethide|0.894427	eburnamonine|0.894427	bethanechol|0.894427	arecoline|0.894427	arecaidine propargyl ester|0.894427	alcuronium|0.894427	WIN 62 577|0.894427	WIN 51 708|0.894427	milameline|0.894427	sabcomeline|0.894427
+5-CT|1	methiothepin|1	BRL-15572|0.904534	GR-127935|0.904534	8-OH-DPAT|0.953463	RU 24969|0.904534	TFMPP|0.953463	metergoline|0.953463	methysergide|0.953463	LY344864|0.904534	SL65.0155|0.80403	tryptamine|0.904534	5-MeOT|0.858116	CGS-12066|0.738549	<i>m</i>-CPP|0.797724	ritanserin|0.783349	ergotamine|0.904534	5-HT|0.856349	sertindole|0.746203	SB 216641|0.738549	MPDT|0.797724	&alpha;-methyl-5-HT|0.746203	olanzapine|0.752618	donitriptan|0.852803	xanomeline|0.778499	yohimbine|0.727273
+ziprasidone|1	aripiprazole|0.843274	risperidone|0.774597	9-OH-risperidone|0.816497	asenapine|0.816497	fluspirilene|0.745356	pipamperone|0.745356	zotepine|0.774597
+roxindole|1	spiperone|0.721688	bromocriptine|0.793857	pergolide|0.793857	cabergoline|0.894427	lisuride|0.840168	terguride|0.960769	apomorphine|0.720577	quinpirole|0.763763	S33084|0.707107	piribedil|0.714435
+carbacyclin|1	iloprost|1	U46619|0.942809	PGF<sub>2&alpha;</sub>|0.875	M&B 28767|0.866025	PGE<sub>2</sub>|0.714435	PGD<sub>2</sub>|0.801784	butaprost (free acid form)|0.866025	cloprostenol|0.790569	cicaprost|0.790569
+SB 224289|1
+CGP 12177|1	SR59230A|1	[<sup>125</sup>I]ICYP|1	bunolol|1	bupranolol|1	carvedilol|1	isoprenaline|1	mirabegron|1	nadolol|1
+chlorpromazine|1	(+)-butaclamol|0.730297
+S 16924|1
+prochlorperazine|1	dopamine|0.894427	rotigotine|0.894427	cis-flupentixol|0.75	nafadotride|0.75	raclopride|0.75
+amoxapine|1	loxapine|0.730297	perphenazine|0.730297	duloxetine|0.912871	amitriptyline|0.866025	nefazodone|0.707107
+atomoxetine|1	desvenlafaxine|1	levomilnacipran|1	sibutramine|0.866025	phenelzine|0.707107
+clozapine|1
+quetiapine|1
+clobenpropit|1	histamine|1	impromidine|1	ABT-239|0.866025
+thioridazine|1	fluphenazine|0.755929
+mianserin|1
+ketanserin|1
+(-)-noradrenaline|1	spiroxatrine|0.801784	oxymetazoline|0.755929
+trifluoperazine|1
+TBPS|1	picrotoxin|0.820783	gaboxadol|0.725476
+vortioxetine|1
+mean|1	stdv|0.901783
+ZK112993|1	onapristone|1
+PGE<sub>1</sub>|1
+haloperidol|1
+cyamemazine|1
+Ca<sup>2+</sup>|1
+anandamide|1
+diazepam|1
+Mg<sup>2+</sup>|1
+alitretinoin|1
+pimozide|1
+lurasidone|1
+vilazodone|1
+nimodipine|1
+diclofenac|1
+(-)-pentazocine|1
+mifepristone|1
+noradrenaline|1
+17&beta;-estradiol|1
+strychnine|1
+(-)-adrenaline|1
+mirtazapine|1
+pindolol|1
+ibudilast|1
+caffeine|1
+Zn<sup>2+</sup>|1
+fluoxetine|1
+dovitinib|1
+nintedanib|1

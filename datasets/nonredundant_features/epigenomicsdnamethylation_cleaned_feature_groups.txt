@@ -1,0 +1,4 @@
+mean|1	Fetal Lung|0.916779	Fetal Kidney|0.897662	Fetal Heart|0.898714	Primary hematopoietic stem cells|0.867123	Primary hematopoietic stem cells G-CSF-mobilized Female RO_01508|0.875997	Primary hematopoietic stem cells G-CSF-mobilized Female RO_01549|0.895028	Primary hematopoietic stem cells G-CSF-mobilized Female RO_01480|0.895197	hESC Derived CD184+ Endoderm Cultured Cells|0.867299	H9 Cells|0.851796	ES-WA7 Cells|0.849146	iPS-20b Cells|0.848552	H1 Cells|0.844978	Primary B cells from cord blood|0.827164	Primary hematopoietic stem cells G-CSF-mobilized Male|0.856779	iPS-18 Cells|0.814025	Fetal Brain Male|0.781211	Primary hematopoietic stem cells G-CSF-mobilized Female RO_01536|0.74443	ES-I3 Cells|0.722599	Stomach Smooth Muscle|0.762793	Duodenum Mucosa|0.780357	Skeletal Muscle Female|0.751302	Rectal Mucosa Donor 31|0.740545
+stdv|1
+Primary T cells from cord blood|1
+Skeletal Muscle Male|1

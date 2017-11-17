@@ -1,0 +1,63 @@
+Nuclear hormone receptor, ligand-binding, core|1	Nuclear hormone receptor, ligand-binding|1	Zinc finger, nuclear hormone receptor-type|0.978492	Steroid hormone receptor|0.978492	Zinc finger, NHR/GATA-type|0.877141
+Neurotransmitter-gated ion-channel, conserved site|1	Neurotransmitter-gated ion-channel transmembrane domain|0.978492	Neurotransmitter-gated ion-channel|0.978492	Neurotransmitter-gated ion-channel ligand-binding domain|0.978492	Gamma-aminobutyric acid A receptor/Glycine receptor alpha|0.71492
+Transforming growth factor-beta, C-terminal|1	Transforming growth factor-beta-related|0.929981	Transforming growth factor beta, conserved site|0.929981	Transforming growth factor-beta, N-terminal|0.869918	Cystine-knot cytokine|0.748736
+3'5'-cyclic nucleotide phosphodiesterase, catalytic domain|1	3'5'-cyclic nucleotide phosphodiesterase, conserved site|1	3'5'-cyclic nucleotide phosphodiesterase|0.95119	HD/PDEase domain|0.935414
+Peptidase S1|1	Peptidase S1A, chymotrypsin-type|0.964274	Trypsin-like cysteine/serine peptidase domain|0.974679	Peptidase S1, trypsin family, active site|0.941257
+Protein kinase domain|1	Protein kinase-like domain|0.958603	Protein kinase, ATP binding site|0.886405	Serine/threonine/dual specificity protein kinase, catalytic  domain|0.744729
+GPCR, family 2, secretin-like|1	GPCR, family 2, secretin-like, conserved site|0.825137	GPCR, family 2-like|0.900192	GPCR, family 2, extracellular hormone receptor domain|0.743768
+Alkaline phosphatase-like, alpha/beta/alpha|1	Alkaline-phosphatase-like, core domain|1	Sulfatase|0.740532	Sulfatase, conserved site|0.718421
+Ionotropic glutamate receptor|1	Ionotropic glutamate receptor, L-glutamate and glycine-binding domain|1	Ionotropic glutamate receptor, metazoa|1
+Serpin family|1	Serpin domain|1	Serpin, conserved site|0.942809
+EGF-like calcium-binding domain|1	EGF-like calcium-binding, conserved site|0.974679	EGF-type aspartate/asparagine hydroxylation site|0.924635
+C-type lectin-like|1	C-type lectin fold|0.96115	C-type lectin|0.925024
+Kringle|1	Kringle, conserved site|1	Kringle-like fold|0.784465
+Tyrosine-protein kinase, catalytic domain|1	Tyrosine-protein kinase, active site|0.896831	Serine-threonine/tyrosine-protein kinase catalytic domain|0.852803
+Immunoglobulin-like domain|1	Immunoglobulin-like fold|0.798771	Immunoglobulin subtype|0.778188
+Leucine-rich repeat, typical subtype|1	Leucine-rich repeat|0.765942	Leucine-rich repeat-containing N-terminal|0.73983
+mean|1	stdv|0.958074
+PLAT/LH2 domain|1	Lipase/lipooxygenase, PLAT/LH2|1
+Haem peroxidase|1	Haem peroxidase, animal|1
+Receptor L-domain|1	Furin-like cysteine-rich domain|1
+GPCR, rhodopsin-like, 7TM|1	G protein-coupled receptor, rhodopsin-like|0.990043
+Periplasmic binding protein-like I|1	Extracellular ligand-binding receptor|0.974022
+Four-helical cytokine-like, core|1	Four-helical cytokine, core|0.960769
+Cytochrome P450|1	Cytochrome P450, conserved site|0.955134
+Gamma-carboxyglutamic acid-rich (GLA) domain|1	Coagulation factor, subgroup, Gla domain|0.92582
+Long hematopoietin receptor, single chain, conserved site|1	Growth hormone/erythropoietin receptor, ligand binding|0.894427
+EGF-like, conserved site|1	Epidermal growth factor-like domain|0.85959
+Glycoside hydrolase superfamily|1	Glycoside hydrolase, catalytic domain|0.828417
+Immunoglobulin subtype 2|1	Immunoglobulin I-set|0.797933
+EF-hand domain pair|1
+Tumour necrosis factor-like domain|1
+Sushi/SCR/CCP domain|1
+Ion transport domain|1
+Aldolase-type TIM barrel|1
+Alpha/Beta hydrolase fold|1
+Insulin-like growth factor binding protein, N-terminal|1
+Tumour necrosis factor domain|1
+Furin-like repeat|1
+Tyrosine-protein kinase, receptor class II, conserved site|1
+Fibronectin type III|1
+Interleukin-6 receptor alpha, binding|1
+Cysteine-rich flanking region, C-terminal|1
+Glycoprotein hormone receptor family|1
+Voltage-dependent channel, four helix bundle domain|1
+Fibroblast growth factor receptor family|1
+Toll/interleukin-1 receptor homology (TIR) domain|1
+Peptidase S1A, coagulation factor VII/IX/X/C/Z|1
+Immunoglobulin|1
+Long hematopoietin receptor, soluble alpha chain, conserved site|1
+Prostanoid receptor|1
+Muscarinic acetylcholine receptor family|1
+Dopamine receptor family|1
+Cytokine, IL-1-like|1
+von Willebrand factor, type A|1
+Voltage-dependent calcium channel, alpha-1 subunit|1
+Adrenoceptor family|1
+5-hydroxytryptamine receptor family|1
+GPCR, family 3, C-terminal|1
+Major facilitator superfamily|1
+Major facilitator superfamily domain|1
+Sodium:neurotransmitter symporter|1
+Metallopeptidase, catalytic domain|1
+Immunoglobulin V-set domain|1

@@ -1,0 +1,43 @@
+mean|1	stdv|0.913249	alimentary canal|0.883508	intestine|0.87798	gastrointestinal tract|0.881396	respiratory system|0.875728	urinary system|0.867337	urinary tract|0.867337	viscus|0.875702	lung|0.874095	large intestine|0.855489	excretory gland|0.860017	female reproductive system|0.882847	kidney|0.855868	urogenital system|0.880797	reproductive system|0.880206	male reproductive gland|0.876935	male reproductive system|0.876717	gland|0.882687	endocrine gland|0.88359	bladder|0.823558	uterus|0.814889	urinary bladder|0.815305	head|0.865782	central nervous system|0.865583	nervous system|0.865472	internal female genital organ|0.833915	brain|0.864673	thyroid gland|0.820324	ovary|0.834158	cardiovascular system|0.839143	colorectum|0.829134	digestive gland|0.845608	gall bladder|0.810514	vermiform appendix|0.834433	ileocecum|0.834433	cecum|0.834433	embryonic structure|0.835993	organism form|0.83595	hematopoietic system|0.829318	spleen|0.824592	prostate gland|0.828087	throat|0.823773	neck|0.823738	female reproductive gland|0.86263	colon|0.826152	trunk|0.819612	tissues, cell types and enzyme sources|0.821841	lymphoid tissue|0.833166	gonad|0.838277	testis|0.838277	heart|0.825967	stomach|0.815791	forebrain|0.830307	fetus|0.820458	placenta|0.820458	adrenal gland|0.815276	internal male genital organ|0.820542	lymph node|0.805172	whole body|0.801237	small intestine|0.787806	animal|0.78053	skeletal system|0.808646	integument|0.817036	esophagus|0.786878	duodenum|0.776193	skin|0.810627	cerebral hemisphere|0.809241	telencephalon|0.809192	cerebral cortex|0.808131	connective tissue|0.785674	cerebral lobe|0.737717	liver|0.793995	muscular system|0.80863	limbic system|0.776433	vertebrate muscular system|0.799921	mouth|0.779289	adipose tissue|0.767494	diencephalon|0.757952	hypothalamus|0.755056	pancreas|0.77447	bone marrow|0.757413	skeletal muscle|0.732892	exocrine gland|0.766412	salivary gland|0.766412	cardiac muscle|0.777974	eye|0.730771	sense organ|0.738615
+basal ganglion|1	medulla oblongata|0.874177	myelencephalon|0.874177	corpus striatum|0.986696	cerebral gyrus|0.842958	cingulate gyrus|0.842958	cingulate cortex|0.842958	ganglion|0.987474	thalamus|0.836456	caudate nucleus|0.979627	neostriatum|0.979627	subthalamic nucleus|0.824716	cerebral peduncle|0.779168	fibre tract|0.779168	midbrain|0.779168	pons|0.812735	globus pallidus|0.76791	nucleus lentiformis|0.76791	amygdala|0.810945	avian pallium|0.810945	prefrontal cortex|0.755591	embryonic brain|0.719986
+parenchyma|1	vascular bundle|1	vascular tissue|1	stem|1	hypocotyl|1	plumule|1	leaf|1	seedling|1	plant embryo|1	seed|1	plant form|1	shoot|1	plant|1	whole plant|1	plant vessel|1	epithelium|0.72139	bronchial epithelial cell|0.72139	respiratory epithelium|0.72139	bronchial epithelium|0.72139
+peripheral blood|1	dendritic cell|0.903801	acute lymphoblastic leukemia cell|0.823556	lymphoblastic leukemia cell|0.823556	acute lymphoblastic leukemia cell line|0.823556	lymphoblastic leukemia cell line|0.823556	lymphocytic leukemia cell line|0.823556	lymphocytic leukemia cell|0.823556	lymphoblastoid cell line|0.823556	blood cancer cell|0.823556	hematopoietic cell line|0.823556	leukemia cell|0.823556	leukemia cell line|0.823556	t-lymphoblastic leukemia cell line|0.823556	molt-4 cell|0.823556	lymphoblast|0.755664	b-lymphoblast|0.734585	b-lymphoblastoid cell|0.734585
+cranial ganglion|1	trigeminal ganglion|1	cranial nerve|0.833262	trigeminal nerve|0.833262	ophthalmic nerve|0.833262	autonomic nervous system|0.77837	superior cervical ganglion|0.77837	sympathetic chain|0.77837	sympathetic nervous system|0.77837	sympathetic ganglion|0.77837	peripheral nervous system|0.77837	cervical ganglion|0.77837	nerve|0.729549	peripheral ganglion|0.821697	spinal ganglion|0.821697
+temporal lobe|1	frontal lobe|0.781197	brain stem|0.745076	hindbrain|0.744721	metencephalon|0.739626	parietal lobe|0.843502	occipital lobe|0.828748	cerebellum|0.737955	corpus callosum|0.757537
+marrow cell|1	monocyte|0.990664	mononuclear phagocyte|0.990664	phagocyte|0.990664	mononuclear cell|0.990664	adult stem cell|0.990013	blast cell|0.990013	hematopoietic stem cell|0.990013	myeloid progenitor cell|0.990013
+hematopoietic cell|1	lymphocyte|0.961759	lymphoid cell|0.961889	leukocyte|0.984674	large granular lymphocyte|0.769228	natural killer cell|0.769228	null cell|0.769228	b-lymphocyte|0.753153	blood|0.708829
+spinal cord|1
+bone marrow cell|1	blood plasma|1	blood platelet|1	megakaryoblast|1	megakaryocyte|1
+cell culture|1	other source|0.99994	culture condition|0.999866	culture condition:antigen-presenting cell|0.999049	culture condition:cd8+ cell|0.997832
+t-lymphocyte|1	cytotoxic t-lymphocyte|0.996676	helper t-lymphocyte|0.953526
+retina|1
+epithalamus|1	pineal gland|1
+bronchus|1	bronchoalveolar system|1
+olfactory bulb|1	olfactory lobe|1
+brain ventricle|1	lateral ventricle|1
+mucosa|1	oral mucosa|1
+endocrine pancreas|1	pancreatic islet|1
+ascites|1	abdomen|0.999152
+gut|1	embryo|0.863208
+nasopharynx|1	pharynx|0.862518
+thorax|1	thymus|0.796698
+erythroid cell|1
+bone|1
+lymph|1
+smooth muscle|1
+vagina|1
+seminal vesicle|1
+rectum|1
+trachea|1
+epididymis|1
+uterine cervix|1
+parathyroid gland|1
+adrenal cortex|1
+vascular system|1
+culture condition:cd4+ cell|1
+larynx|1
+tonsil|1
+hippocampus|1
+muscle|1
+oviduct|1
+breast|1

@@ -1,0 +1,4 @@
+mean|1	stdv|0.926652
+renal tubular dysgenesis|1
+{asthma, susceptibility to}|1
+{schizophrenia, susceptibility to}|1

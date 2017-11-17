@@ -1,0 +1,106 @@
+stdv|1	intracellular part|0.914334	intracellular|0.914835	intracellular organelle|0.888331	organelle|0.920051	mean|0.969515	membrane-bounded organelle|0.895608	intracellular membrane-bounded organelle|0.851946	cellular_component|0.959295	cytoplasm|0.827943	cell part|0.955548	cell|0.955552	organelle part|0.774793	intracellular organelle part|0.768925	cytoplasmic part|0.751498	membrane|0.722996
+extracellular organelle|1	extracellular membrane-bounded organelle|1	extracellular vesicular exosome|1	extracellular vesicle|0.999915	membrane-bounded vesicle|0.924839	vesicle|0.909434	extracellular region part|0.893826	extracellular region|0.813033
+mitochondrial envelope|1	mitochondrial membrane|0.968682	mitochondrial inner membrane|0.817238	organelle envelope|0.803287	envelope|0.802137	organelle inner membrane|0.781098	mitochondrial part|0.820876
+nucleoplasm|1	intracellular organelle lumen|0.757999	organelle lumen|0.751151	nuclear lumen|0.853213	membrane-enclosed lumen|0.744171	nuclear part|0.796101	nucleoplasm part|0.736042
+nucleus|1
+cell-substrate adherens junction|1	adherens junction|0.960322	cell-substrate junction|0.995608	anchoring junction|0.941807	focal adhesion|0.997167	cell junction|0.708524
+sarcomere|1	i band|0.814454	contractile fiber part|0.938529	myofibril|0.922771	contractile fiber|0.895808	z disc|0.749504
+lysosome|1	lytic vacuole|1	vacuolar part|0.800945	vacuolar membrane|0.707768	vacuole|0.958487	lysosomal membrane|0.727073
+endoplasmic reticulum membrane|1	endoplasmic reticulum part|0.904932	nuclear outer membrane-endoplasmic reticulum membrane network|0.990433	membrane region|0.861582	endoplasmic reticulum|0.707142
+secretory granule lumen|1	platelet alpha granule lumen|0.869001	cytoplasmic membrane-bounded vesicle lumen|0.89628	vesicle lumen|0.89628	platelet alpha granule|0.75673
+cytoskeleton|1	non-membrane-bounded organelle|0.734861	intracellular non-membrane-bounded organelle|0.734861	cytoskeletal part|0.845592	microtubule cytoskeleton|0.73966
+transmembrane transporter complex|1	transporter complex|0.998979	ion channel complex|0.937979	cation channel complex|0.919405
+intrinsic component of membrane|1	integral component of membrane|0.988662	membrane part|0.916553
+dendritic spine|1	dendritic spine head|0.838937	neuron spine|0.993702	postsynaptic density|0.826845
+microbody part|1	peroxisomal part|1	microbody|0.80644	peroxisome|0.80644
+cytoplasmic vesicle part|1	cytoplasmic vesicle membrane|0.897669	vesicle membrane|0.883398	cytoplasmic membrane-bounded vesicle|0.714627
+synaptic membrane|1	synapse part|0.817847	postsynaptic membrane|0.94287	synapse|0.718507
+nuclear chromatin|1	chromatin|0.730291	nuclear chromosome part|0.835799	nuclear chromosome|0.766125
+organelle outer membrane|1	outer membrane|0.981255	mitochondrial outer membrane|0.945747
+intrinsic component of plasma membrane|1	integral component of plasma membrane|0.977924	plasma membrane part|0.831421
+plasma membrane|1	cell periphery|0.993113
+axon terminus|1	neuron projection terminus|0.920704	terminal bouton|0.782931
+chromosomal part|1	chromosome|0.935753
+neuron projection|1	neuron part|0.931425	dendrite|0.719264
+coated vesicle|1	clathrin-coated vesicle|0.878883	coated vesicle membrane|0.757221
+golgi apparatus part|1	golgi membrane|0.879721	golgi apparatus|0.722991
+clathrin-coated vesicle membrane|1
+caveola|1	plasma membrane raft|1
+potassium channel complex|1	voltage-gated potassium channel complex|0.997925
+cytoplasmic side of membrane|1	cytoplasmic side of plasma membrane|0.992693
+site of polarized growth|1	growth cone|0.989813
+endosome membrane|1	endosomal part|0.98623
+sarcoplasm|1	sarcoplasmic reticulum|0.974692
+lysosomal lumen|1	vacuolar lumen|0.969407
+plasma lipoprotein particle|1	protein-lipid complex|0.967393
+extracellular matrix|1	proteinaceous extracellular matrix|0.947428
+neuronal cell body|1	cell body|0.945354
+catalytic complex|1	transferase complex|0.934477
+cytoplasmic vesicle|1
+protein complex|1	macromolecular complex|0.92384
+nuclear periphery|1	nuclear matrix|0.898322
+apical part of cell|1	apical plasma membrane|0.890931
+integrin complex|1	protein complex involved in cell adhesion|0.83681
+motile cilium|1	cilium|0.821587
+brush border|1	brush border membrane|0.805789
+calcium channel complex|1	voltage-gated calcium channel complex|0.805521
+nuclear envelope|1	nuclear membrane|0.793964
+extrinsic component of plasma membrane|1	extrinsic component of membrane|0.784797
+mitochondrion|1
+external side of plasma membrane|1	side of membrane|0.762086
+endomembrane system|1	organelle membrane|0.751165
+cell projection membrane|1	leading edge membrane|0.73152
+plasma membrane region|1	basolateral plasma membrane|0.726528
+lamellipodium|1	cell leading edge|0.72647
+cell projection|1	cell projection part|0.722841
+basement membrane|1	extracellular matrix part|0.717047
+axon|1
+axon part|1
+neuromuscular junction|1
+actin cytoskeleton|1
+microvillus|1
+organelle envelope lumen|1
+extracellular space|1
+cytosol|1
+transport vesicle|1
+endosome|1
+late endosome|1
+extrinsic component of external side of plasma membrane|1
+anchored component of membrane|1
+membrane raft|1
+myelin sheath|1
+ionotropic glutamate receptor complex|1
+receptor complex|1
+excitatory synapse|1
+neuron projection membrane|1
+chloride channel complex|1
+asymmetric synapse|1
+cell-cell junction|1
+sarcolemma|1
+synaptic vesicle membrane|1
+cell cortex|1
+presynaptic active zone|1
+sperm part|1
+blood microparticle|1
+secretory granule|1
+acrosomal vesicle|1
+rough endoplasmic reticulum|1
+microtubule|1
+endocytic vesicle membrane|1
+endocytic vesicle|1
+cell surface|1
+nuclear envelope lumen|1
+synaptic vesicle|1
+replication fork|1
+perinuclear region of cytoplasm|1
+early endosome|1
+presynaptic membrane|1
+sodium channel complex|1
+t-tubule|1
+dendritic shaft|1
+coated pit|1
+golgi lumen|1
+endoplasmic reticulum lumen|1
+nucleolus|1
+mitochondrial matrix|1
+bounding membrane of organelle|1

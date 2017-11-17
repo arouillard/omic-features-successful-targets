@@ -1,0 +1,137 @@
+mean|1	stdv|0.834939
+Regulation of toll-like receptor signaling pathway|1	Toll-like Receptor Signaling Pathway|0.850532
+Folate Metabolism|1	Vitamin B12 Metabolism|0.716269
+NRF2 pathway|1
+Synaptic Vesicle Pathway|1
+Adipogenesis|1
+Oxidative Stress|1
+Senescence and Autophagy in Cancer|1
+G Protein Signaling Pathways|1
+Spinal Cord Injury|1
+Apoptosis|1
+Neural Crest Differentiation|1
+B Cell Receptor Signaling Pathway|1
+IL-3 Signaling Pathway|1
+IL-2 Signaling Pathway|1
+Bladder Cancer|1
+MAPK Signaling Pathway|1
+Focal Adhesion|1
+TWEAK Signaling Pathway|1
+IL1 and megakaryotyces in obesity|1
+Mecp2 and Associated Rett Syndrome|1
+Circadian rythm related genes|1
+Serotonin Transporter Activity|1
+Dopamine metabolism|1
+AMPK Signaling|1
+SREBF and miR33 in cholesterol and lipid homeostasis|1
+Vitamin A and Carotenoid Metabolism|1
+Differentiation of white and brown adipocyte|1
+Nucleotide GPCRs|1
+Parkinsons Disease Pathway|1
+Pathogenic Escherichia coli infection|1
+Amyotrophic lateral sclerosis (ALS)|1
+MicroRNAs in cardiomyocyte hypertrophy|1
+Hair Follicle Development: Induction (Part 1 of 3)|1
+Wnt Signaling Pathway and Pluripotency|1
+IL-5 Signaling Pathway|1
+Oncostatin M Signaling Pathway|1
+Interferon type I signaling pathways|1
+Androgen receptor signaling pathway|1
+Insulin Signaling|1
+Integrin-mediated Cell Adhesion|1
+RANKL/RANK Signaling Pathway|1
+IL-1 signaling pathway|1
+Angiogenesis|1
+Hypertrophy Model|1
+SIDS Susceptibility Pathways|1
+TOR Signaling|1
+Statin Pathway|1
+Nuclear Receptors|1
+Transcription factor regulation in adipogenesis|1
+Drug Induction of Bile Acid Pathway|1
+Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis|1
+Aryl Hydrocarbon Receptor Pathway|1
+Copper homeostasis|1
+ACE Inhibitor Pathway|1
+Peptide GPCRs|1
+Corticotropin-releasing hormone|1
+FSH signaling pathway|1
+Endothelin Pathways|1
+Alzheimers Disease|1
+Allograft Rejection|1
+Cytokines and Inflammatory Response|1
+Integrated Pancreatic Cancer Pathway|1
+Physiological and Pathological Hypertrophy  of the Heart|1
+Cardiac Hypertrophic Response|1
+Endochondral Ossification|1
+NOTCH1 regulation of human endothelial cell calcification|1
+Cardiac Progenitor Differentiation|1
+Differentiation Pathway|1
+DNA Damage Response (only ATM dependent)|1
+TCR Signaling Pathway|1
+TSLP Signaling Pathway|1
+IL-6 signaling pathway|1
+TGF-beta Receptor Signaling|1
+TGF-beta Signaling Pathway|1
+Apoptosis-related network due to altered Notch3 in ovarian cancer|1
+Signaling Pathways in Glioblastoma|1
+EGF/EGFR Signaling Pathway|1
+Osteoblast Signaling|1
+TNF alpha Signaling Pathway|1
+Ovarian Infertility Genes|1
+Nuclear Receptors in Lipid Metabolism and Toxicity|1
+Trans-sulfuration and one carbon metabolism|1
+Selenium Micronutrient Network|1
+Effects of Nitric Oxide|1
+Aryl Hydrocarbon Receptor|1
+GPCRs, Class B Secretin-like|1
+Secretion of Hydrochloric Acid in Parietal Cells|1
+Hypothetical Network for Drug Addiction|1
+Hematopoietic Stem Cell Differentiation|1
+Integrated Breast Cancer Pathway|1
+Mesodermal Commitment Pathway|1
+Interleukin-11 Signaling Pathway|1
+Dopaminergic Neurogenesis|1
+Nicotine Activity on Dopaminergic Neurons|1
+Monoamine Transport|1
+Biogenic Amine Synthesis|1
+Composition of Lipid Particles|1
+Type II diabetes mellitus|1
+Oxidation by Cytochrome P450|1
+Metapathway biotransformation|1
+Prostaglandin Synthesis and Regulation|1
+Monoamine GPCRs|1
+GPCRs, Class C Metabotropic glutamate, pheromone|1
+Leptin signaling pathway|1
+Rac1/Pak1/p38/MMP-2 pathway|1
+Extracellular vesicle-mediated signaling in recipient cells|1
+Inflammatory Response Pathway|1
+Structural Pathway of Interleukin 1 (IL-1)|1
+AGE/RAGE pathway|1
+Matrix Metalloproteinases|1
+Melatonin metabolism and effects|1
+Tryptophan metabolism|1
+One Carbon Metabolism|1
+Eicosanoid Synthesis|1
+Calcium Regulation in the Cardiac Cell|1
+BDNF signaling pathway|1
+Retinoblastoma (RB) in Cancer|1
+Wnt Signaling Pathway Netpath|1
+Kit receptor signaling pathway|1
+Nanoparticle-mediated activation of receptor signaling|1
+Regulation of Actin Cytoskeleton|1
+Blood Clotting Cascade|1
+TSH signaling pathway|1
+Overview of nanoparticle effects|1
+Type II interferon signaling (IFNG)|1
+Primary Focal Segmental Glomerulosclerosis FSGS|1
+Nucleotide Metabolism|1
+GPCRs, Other|1
+Endoderm Differentiation|1
+Ectoderm Differentiation|1
+SREBP signalling|1
+Small Ligand GPCRs|1
+Arrhythmogenic Right Ventricular Cardiomyopathy|1
+Complement and Coagulation Cascades|1
+Myometrial Relaxation and Contraction Pathways|1
+GPCRs, Class A Rhodopsin-like|1

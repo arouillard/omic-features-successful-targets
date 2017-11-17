@@ -1,0 +1,9 @@
+mean|1	stdv|0.968432	intracellular part|0.940428	intracellular|0.940428	cell part|0.94042	cell|0.94042	cellular_component|0.928288	intracellular organelle|0.912247	organelle|0.900321	intracellular membrane-bounded organelle|0.864363	membrane-bounded organelle|0.864363	nucleus|0.798081	intracellular organelle part|0.719003	organelle part|0.719003	cytoplasmic part|0.744502	cytoplasm|0.744502
+intracellular organelle lumen|1	organelle lumen|1	nuclear lumen|1	nucleolus|1	membrane-enclosed lumen|1	nuclear part|0.933719	intracellular non-membrane-bounded organelle|0.762912	non-membrane-bounded organelle|0.762912
+cytoskeletal part|1	macromolecular complex|0.793075	protein complex|0.793075	cytoskeleton|0.886835
+plasma membrane|1	cell periphery|1	membrane|0.909846
+cytosol|1
+actin cytoskeleton|1	actin filament|1
+mitochondrion|1
+golgi apparatus|1
+vesicle|1

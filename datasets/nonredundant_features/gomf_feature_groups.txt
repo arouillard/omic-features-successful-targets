@@ -1,0 +1,203 @@
+purine ribonucleotide binding|1	purine nucleotide binding|0.997487	ribonucleotide binding|0.995546	purine ribonucleoside binding|0.990708	purine nucleoside binding|0.98986	ribonucleoside binding|0.989578	nucleoside binding|0.986771	purine ribonucleoside triphosphate binding|0.987591	adenyl ribonucleotide binding|0.903096	adenyl nucleotide binding|0.900932	nucleotide binding|0.895029	nucleoside phosphate binding|0.894829	carbohydrate derivative binding|0.915827	atp binding|0.891854	small molecule binding|0.849176	anion binding|0.833976
+transcription regulatory region sequence-specific dna binding|1	rna polymerase ii regulatory region sequence-specific dna binding|0.919486	rna polymerase ii regulatory region dna binding|0.918263	transcription regulatory region dna binding|0.865043	regulatory region dna binding|0.862116	regulatory region nucleic acid binding|0.862116	core promoter proximal region sequence-specific dna binding|0.758288	core promoter proximal region dna binding|0.756793	rna polymerase ii core promoter proximal region sequence-specific dna binding|0.737009	sequence-specific dna binding|0.73612
+cation channel activity|1	gated channel activity|0.804626	substrate-specific channel activity|0.845368	ion channel activity|0.857359	channel activity|0.824796	passive transmembrane transporter activity|0.824796	voltage-gated channel activity|0.71869	voltage-gated ion channel activity|0.71869	voltage-gated cation channel activity|0.720718	metal ion transmembrane transporter activity|0.736705
+ion transmembrane transporter activity|1	cation transmembrane transporter activity|0.867696	inorganic cation transmembrane transporter activity|0.801382	substrate-specific transmembrane transporter activity|0.960626	transmembrane transporter activity|0.920504	substrate-specific transporter activity|0.885917	transporter activity|0.804674
+rna polymerase ii core promoter proximal region sequence-specific dna binding transcription factor activity|1	sequence-specific dna binding rna polymerase ii transcription factor activity|0.727767	rna polymerase ii core promoter proximal region sequence-specific dna binding transcription factor activity involved in positive regulation of transcription|0.835321	rna polymerase ii transcription regulatory region sequence-specific dna binding transcription factor activity involved in positive regulation of transcription|0.738478
+mean|1	stdv|0.953407	organic cyclic compound binding|0.730333	ion binding|0.73197	heterocyclic compound binding|0.726088	binding|0.782692
+signaling receptor activity|1	transmembrane signaling receptor activity|0.95953	receptor activity|0.924616	signal transducer activity|0.890832	molecular transducer activity|0.836992	g-protein coupled receptor activity|0.797001
+atpase activity, coupled to transmembrane movement of substances|1	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances|0.994778	p-p-bond-hydrolysis-driven transmembrane transporter activity|0.969842	primary active transmembrane transporter activity|0.969842	atpase activity, coupled to movement of substances|0.933574
+nucleoside-triphosphatase activity|1	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides|0.970839	pyrophosphatase activity|0.972081	hydrolase activity, acting on acid anhydrides|0.97022	atpase activity|0.718512
+endopeptidase inhibitor activity|1	endopeptidase regulator activity|0.98435	peptidase inhibitor activity|0.978292	peptidase regulator activity|0.885392	serine-type endopeptidase inhibitor activity|0.751068
+purinergic nucleotide receptor activity|1	nucleotide receptor activity|1	g-protein coupled purinergic nucleotide receptor activity|0.816497	g-protein coupled nucleotide receptor activity|0.816497	purinergic receptor activity|0.916515
+phosphotransferase activity, alcohol group as acceptor|1	kinase activity|0.953846	protein kinase activity|0.919987	transferase activity, transferring phosphorus-containing groups|0.878037	protein serine/threonine kinase activity|0.788504
+inorganic anion transmembrane transporter activity|1	chloride channel activity|0.722536	chloride transmembrane transporter activity|0.790569	anion channel activity|0.708771	anion transmembrane transporter activity|0.716385
+transcription factor binding transcription factor activity|1	protein binding transcription factor activity|0.997289	transcription cofactor activity|0.964901	transcription coactivator activity|0.717932
+prostaglandin receptor activity|1	prostanoid receptor activity|0.948683	icosanoid receptor activity|0.801784	prostaglandin e receptor activity|0.745356
+nucleic acid binding|1	dna binding|0.788393
+voltage-gated potassium channel activity|1	potassium channel activity|0.852347	potassium ion transmembrane transporter activity|0.790569
+solute:cation symporter activity|1	symporter activity|0.811844	anion:cation symporter activity|0.765641	solute:sodium symporter activity|0.742781
+extracellular ligand-gated ion channel activity|1	ligand-gated channel activity|0.719535	ligand-gated ion channel activity|0.719535	excitatory extracellular ligand-gated ion channel activity|0.802394
+guanyl ribonucleotide binding|1	guanyl nucleotide binding|0.998669	gtp binding|0.972968
+small gtpase binding|1	gtpase binding|0.972187	ras gtpase binding|0.961305
+serine-type peptidase activity|1	serine hydrolase activity|0.994065	serine-type endopeptidase activity|0.935014
+direct ligand regulated sequence-specific dna binding transcription factor activity|1	ligand-activated sequence-specific dna binding rna polymerase ii transcription factor activity|1	steroid hormone receptor activity|0.8446
+peptidase activity, acting on l-amino acid peptides|1	peptidase activity|0.983627	endopeptidase activity|0.852143
+calcium ion transmembrane transporter activity|1	calcium channel activity|0.923936	divalent inorganic cation transmembrane transporter activity|0.902535
+cation binding|1	metal ion binding|0.99044
+ionotropic glutamate receptor activity|1	extracellular-glutamate-gated ion channel activity|0.973329	glutamate receptor activity|0.83887
+oxidoreductase activity, acting on peroxide as acceptor|1	peroxidase activity|0.987421	antioxidant activity|0.778499
+heparin binding|1	glycosaminoglycan binding|0.862949	sulfur compound binding|0.824386
+secondary active transmembrane transporter activity|1	active transmembrane transporter activity|0.79907
+protein binding|1
+organic anion transmembrane transporter activity|1	organic acid transmembrane transporter activity|0.873204
+monovalent inorganic cation transmembrane transporter activity|1
+calcium activated cation channel activity|1	ion gated channel activity|0.830949	calcium-activated potassium channel activity|0.765641
+dopamine binding|1	catecholamine binding|0.816497	dopamine neurotransmitter receptor activity|0.774597
+protein homodimerization activity|1	protein dimerization activity|0.793401	identical protein binding|0.77057
+pattern recognition receptor activity|1	signaling pattern recognition receptor activity|1
+nucleic acid binding transcription factor activity|1	sequence-specific dna binding transcription factor activity|1
+organic acid binding|1	carboxylic acid binding|0.99689
+ubiquitin-like protein ligase binding|1	ubiquitin protein ligase binding|0.995272
+peptide receptor activity|1	g-protein coupled peptide receptor activity|0.991837
+channel inhibitor activity|1	ion channel inhibitor activity|0.986013
+oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen|1	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen|0.980581
+methyltransferase activity|1	transferase activity, transferring one-carbon groups|0.980196
+cyclic-nucleotide phosphodiesterase activity|1	3',5'-cyclic-nucleotide phosphodiesterase activity|0.979796
+heme binding|1	tetrapyrrole binding|0.966595
+phospholipase c activity|1	phosphatidylinositol phospholipase c activity|0.966092
+amide binding|1	peptide binding|0.9638
+amine binding|1	serotonin binding|0.942809
+protein kinase binding|1	kinase binding|0.941248
+oxidoreductase activity, acting on ch-oh group of donors|1	oxidoreductase activity, acting on the ch-oh group of donors, nad or nadp as acceptor|0.94054
+gaba receptor activity|1	gaba-a receptor activity|0.92932
+actinin binding|1	alpha-actinin binding|0.919866
+nuclear hormone receptor binding|1	hormone receptor binding|0.917663
+transferase activity, transferring acyl groups other than amino-acyl groups|1	transferase activity, transferring acyl groups|0.914443
+zinc ion binding|1	transition metal ion binding|0.911117
+lipase activity|1	phospholipase activity|0.910259
+chemokine receptor binding|1	chemokine activity|0.902671
+transmembrane receptor protein tyrosine kinase activity|1	transmembrane receptor protein kinase activity|0.90007
+neurotransmitter transporter activity|1	neurotransmitter:sodium symporter activity|0.889757
+hydrolase activity, hydrolyzing o-glycosyl compounds|1	hydrolase activity, acting on glycosyl bonds|0.879266
+organic cation transmembrane transporter activity|1	ammonium transmembrane transporter activity|0.870988
+poly(a) rna binding|1	rna binding|0.867275
+beta-adrenergic receptor activity|1	norepinephrine binding|0.866025
+enzyme regulator activity|1	molecular function regulator|0.86486
+transferase activity, transferring glycosyl groups|1	transferase activity, transferring hexosyl groups|0.849591
+coenzyme binding|1	cofactor binding|0.84182
+protein phosphatase binding|1	phosphatase binding|0.837096
+tumor necrosis factor receptor superfamily binding|1	tumor necrosis factor receptor binding|0.830949
+atpase activity, coupled|1
+protein complex binding|1	macromolecular complex binding|0.802645
+core promoter binding|1	core promoter sequence-specific dna binding|0.797282
+integrin binding|1	cell adhesion molecule binding|0.782154
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen|1	monooxygenase activity|0.77126
+neurotransmitter receptor activity|1	neuropeptide receptor activity|0.758513
+metalloendopeptidase activity|1	metallopeptidase activity|0.755929
+receptor signaling protein activity|1	receptor signaling protein serine/threonine kinase activity|0.747804
+ammonium ion binding|1	quaternary ammonium group binding|0.746788
+epinephrine binding|1	adrenergic receptor activity|0.745356
+hormone binding|1	peptide hormone binding|0.733799
+lipid binding|1	phospholipid binding|0.721569
+hydrolase activity, acting on ester bonds|1	phosphoric ester hydrolase activity|0.718622
+catalytic activity|1
+protein heterodimerization activity|1
+monosaccharide binding|1
+alcohol binding|1
+g-protein coupled receptor binding|1
+cytokine receptor activity|1
+oxidoreductase activity, acting on the aldehyde or oxo group of donors|1
+sodium ion transmembrane transporter activity|1
+transforming growth factor beta receptor binding|1
+hormone activity|1
+protein self-association|1
+protein n-terminus binding|1
+channel regulator activity|1
+receptor regulator activity|1
+organic hydroxy compound transmembrane transporter activity|1
+histamine receptor activity|1
+melanocortin receptor activity|1
+glucagon receptor activity|1
+protein-hormone receptor activity|1
+virus receptor activity|1
+transferase activity, transferring alkyl or aryl (other than methyl) groups|1
+3',5'-cyclic-amp phosphodiesterase activity|1
+aminopeptidase activity|1
+exopeptidase activity|1
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, nad(p)h as one donor, and incorporation of one atom of oxygen|1
+vitamin binding|1
+cyclic nucleotide binding|1
+copper ion binding|1
+iron ion binding|1
+lipopolysaccharide binding|1
+retinoic acid receptor binding|1
+receptor binding|1
+mhc protein binding|1
+pdz domain binding|1
+scaffold protein binding|1
+enzyme activator activity|1
+guanyl-nucleotide exchange factor activity|1
+sodium channel activity|1
+g-protein coupled amine receptor activity|1
+serotonin receptor activity|1
+acetylcholine receptor activity|1
+rna polymerase ii transcription factor binding transcription factor activity|1
+receptor signaling protein tyrosine kinase activity|1
+o-acyltransferase activity|1
+sulfuric ester hydrolase activity|1
+oxidoreductase activity|1
+monocarboxylic acid binding|1
+glycoprotein binding|1
+drug binding|1
+neurotransmitter binding|1
+neuropeptide binding|1
+mrna binding|1
+phosphatidylinositol 3-kinase binding|1
+rab gtpase binding|1
+nitric-oxide synthase binding|1
+interleukin-1 receptor binding|1
+adrenergic receptor binding|1
+cytoskeletal protein binding|1
+myosin binding|1
+apolipoprotein binding|1
+protein domain specific binding|1
+receptor inhibitor activity|1
+growth factor binding|1
+fibroblast growth factor binding|1
+cytokine binding|1
+electron carrier activity|1
+g-protein coupled acetylcholine receptor activity|1
+interferon receptor activity|1
+rna polymerase ii distal enhancer sequence-specific dna binding transcription factor activity|1
+fibroblast growth factor-activated receptor activity|1
+isomerase activity|1
+lyase activity|1
+steroid binding|1
+bile acid binding|1
+structure-specific dna binding|1
+rna polymerase ii transcription factor binding|1
+actin binding|1
+calcium channel regulator activity|1
+monoamine transmembrane transporter activity|1
+g-protein coupled adenosine receptor activity|1
+opioid receptor activity|1
+hexosaminidase activity|1
+fmn binding|1
+calcium ion binding|1
+retinoid x receptor binding|1
+platelet-derived growth factor receptor binding|1
+g-protein alpha-subunit binding|1
+calmodulin binding|1
+lipid transporter activity|1
+coreceptor activity|1
+carboxylic ester hydrolase activity|1
+beta-amyloid binding|1
+enzyme binding|1
+transcription factor binding|1
+growth factor receptor binding|1
+growth factor activity|1
+oxygen binding|1
+voltage-gated calcium channel activity|1
+protein tyrosine kinase activity|1
+phosphoric diester hydrolase activity|1
+hydrolase activity|1
+amino acid binding|1
+nadp binding|1
+cytokine activity|1
+smad binding|1
+dioxygenase activity|1
+carbohydrate binding|1
+flavin adenine dinucleotide binding|1
+protease binding|1
+actin filament binding|1
+chromatin binding|1
+heat shock protein binding|1
+chaperone binding|1
+transcription corepressor activity|1
+cytokine receptor binding|1
+kinase regulator activity|1
+enzyme inhibitor activity|1
+magnesium ion binding|1
+collagen binding|1
+structural molecule activity|1
+transferase activity|1

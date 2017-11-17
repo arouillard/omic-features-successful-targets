@@ -1,0 +1,42 @@
+eye disease|1	globe disease|0.986926	eye and adnexa disease|0.984312	sensory system disease|0.984006	retinal disease|0.987377	retinal degeneration|0.984426	macular degeneration|0.975134	nervous system disease|0.90617
+peripheral vascular disease|1	arteriosclerosis|0.831015	arteriosclerotic cardiovascular disease|0.829956	atherosclerosis|0.829956	artery disease|0.793397	vascular disease|0.709032
+leukemia|1	lymphoid leukemia|0.922514	lymphoblastic leukemia|0.922514	hematologic cancer|0.81863	immune system cancer|0.81863
+obstructive lung disease|1	lower respiratory tract disease|0.910891	lung disease|0.910891	respiratory system disease|0.900606	chronic obstructive pulmonary disease|0.730313
+arthritis|1	bone disease|0.754231	musculoskeletal system disease|0.904565	bone inflammation disease|0.775828	gout|0.832327
+mean|1	stdv|0.962973	disease|0.810242	disease of anatomical entity|0.786637
+carbohydrate metabolism disease|1	glucose metabolism disease|1	diabetes mellitus|1	type 2 diabetes mellitus|0.823534
+alopecia|1	hypotrichosis|1	hair disease|1	integumentary system disease|0.762788
+inflammatory bowel disease|1	intestinal disease|0.975784	gastrointestinal system disease|0.848874	crohn's disease|0.721399
+alzheimer's disease|1	tauopathy|1	dementia|0.979041
+cancer|1	disease of cellular proliferation|0.996586	organ system cancer|0.976061
+bone resorption disease|1	osteoporosis|1	bone remodeling disease|0.933097
+hypersensitivity reaction disease|1	hypersensitivity reaction type ii disease|0.999052	immune system disease|0.923608
+specific developmental disorder|1	developmental disorder of mental health|0.948308	attention deficit hyperactivity disorder|0.778401
+overnutrition|1	obesity|0.754517	nutrition disease|0.736746
+demyelinating disease|1	multiple sclerosis|1
+syndrome|1	polycystic ovary syndrome|1
+breast cancer|1	thoracic cancer|1
+asthma|1	bronchial disease|1
+colitis|1	ulcerative colitis|1
+kidney disease|1	urinary system disease|1
+psychotic disorder|1	schizophrenia|1
+thyroid gland disease|1	endocrine system disease|0.973508
+disease of metabolism|1	acquired metabolic disease|0.966498
+hepatobiliary disease|1	liver disease|0.958234
+neurodegenerative disease|1	central nervous system disease|0.918419
+male reproductive organ cancer|1	reproductive organ cancer|0.915123
+lipid metabolism disorder|1	inherited metabolic disorder|0.889019
+disease of mental health|1	substance-related disorder|0.881804
+bipolar disorder|1	mood disorder|0.765909
+heart conduction disease|1	heart disease|0.755016
+cognitive disorder|1
+connective tissue disease|1
+disease by infectious agent|1
+skin disease|1
+brain disease|1
+metabolic syndrome x|1
+cell type cancer|1
+type 1 diabetes mellitus|1
+alopecia areata|1
+rheumatoid arthritis|1
+cardiovascular system disease|1

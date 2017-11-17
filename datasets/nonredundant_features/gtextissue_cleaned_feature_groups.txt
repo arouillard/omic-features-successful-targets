@@ -1,0 +1,2 @@
+mean|1	breast|0.976451	adipose tissue|0.974767	prostate|0.972235	uterus|0.973154	fallopian tube|0.971278	blood vessel|0.972565	bladder|0.969574	esophagus|0.967881	stomach|0.967287	thyroid|0.968198	vagina|0.96576	cervix uteri|0.965756	nerve|0.968121	lung|0.964874	adrenal gland|0.960436	colon|0.955293	ovary|0.958503	salivary gland|0.952972	heart|0.95593	small intestine|0.949699	pancreas|0.9505	kidney|0.944108	skin|0.944386	spleen|0.934363	muscle|0.93479	pituitary|0.928026	liver|0.917675	brain|0.891269	blood|0.889569
+stdv|1

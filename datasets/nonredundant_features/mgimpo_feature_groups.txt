@@ -1,0 +1,1438 @@
+abnormal leukocyte cell number|1	abnormal leukocyte morphology|0.893446	abnormal immune system cell morphology|0.889875	abnormal mononuclear cell morphology|0.832693	abnormal hematopoietic cell number|0.923648	abnormal lymphocyte morphology|0.802017	abnormal hematopoiesis|0.788586	abnormal blood cell morphology/development|0.778024	abnormal immune system morphology|0.805507	abnormal lymphocyte cell number|0.866554	abnormal hematopoietic system morphology/development|0.73818	decreased leukocyte cell number|0.836441	abnormal t cell number|0.720577	decreased hematopoietic cell number|0.791443	decreased lymphocyte cell number|0.751677	increased leukocyte cell number|0.7897	increased hematopoietic cell number|0.763683
+abnormal testis morphology|1	abnormal male reproductive gland morphology|0.951474	abnormal testis size|0.905585	small testis|0.872643	abnormal internal male genitalia morphology|0.937377	abnormal male genitalia morphology|0.925544	abnormal male reproductive system morphology|0.925544	small gonad|0.84494	abnormal sex gland morphology|0.862201	abnormal primary sex determination|0.848117	abnormal sex determination|0.837319	abnormal spermatogenesis|0.712984	abnormal reproductive system morphology|0.726758	abnormal seminiferous tubule morphology|0.744576
+abnormal cochlear outer hair cell morphology|1	abnormal organ of corti morphology|0.869718	abnormal cochlear hair cell morphology|0.889914	abnormal cochlear sensory epithelium morphology|0.875348	abnormal hair cell morphology|0.869718	abnormal cochlear labyrinth morphology|0.809664	abnormal scala media morphology|0.809664	abnormal cochlea morphology|0.78192	abnormal membranous labyrinth morphology|0.756846	abnormal mechanoreceptor morphology|0.828279	abnormal inner ear morphology|0.724185	abnormal cochlear inner hair cell morphology|0.774481	cochlear hair cell degeneration|0.719218	cochlear outer hair cell degeneration|0.73646
+hematopoietic system phenotype|1	abnormal blood cell physiology|0.71936	abnormal hematopoietic system physiology|0.735381	immune system phenotype|0.833653
+abnormal lymphocyte physiology|1	abnormal professional antigen presenting cell physiology|0.707152	abnormal immune cell physiology|0.840571	abnormal cell-mediated immunity|0.836136	abnormal leukocyte physiology|0.84889	abnormal adaptive immunity|0.829254	abnormal immunoglobulin level|0.717237	abnormal b cell physiology|0.784895	abnormal lymphopoiesis|0.710103	abnormal t cell physiology|0.785694
+abnormal classified tumor incidence|1	increased classified tumor incidence|1	increased organ/body region tumor incidence|0.925644	abnormal organ/body region tumor incidence|0.922701	increased tumor incidence|0.884337	abnormal tumor incidence|0.826956	altered tumor susceptibility|0.816943	tumorigenesis|0.767335	increased malignant tumor incidence|0.801638	increased hemolymphoid system tumor incidence|0.722033	increased carcinoma incidence|0.733284
+abnormal alpha-beta t cell number|1	abnormal effector t cell morphology|0.899685	abnormal alpha-beta t cell morphology|0.990581	decreased alpha-beta t cell number|0.815846	abnormal cd4-positive, alpha beta t cell number|0.911707	abnormal cd8-positive, alpha-beta t cell number|0.80008	abnormal cd4-positive, alpha beta t cell morphology|0.85631	abnormal cd8-positive, alpha beta t cell morphology|0.775341	decreased cd4-positive, alpha beta t cell number|0.713831	increased alpha-beta t cell number|0.707107
+abnormal cholesterol level|1	abnormal circulating cholesterol level|0.95319	abnormal sterol level|0.984647	abnormal cholesterol homeostasis|0.987386	increased sterol level|0.757816	increased cholesterol level|0.754037	abnormal circulating lipoprotein level|0.715142	abnormal lipoprotein level|0.715142	abnormal circulating lipid level|0.741005	decreased cholesterol level|0.725062	decreased sterol level|0.725062
+abnormal t cell morphology|1	abnormal t cell differentiation|0.764067	decreased t cell number|0.755797
+abnormal body weight|1	abnormal body size|0.901142	abnormal body composition|0.948453	abnormal postnatal growth/weight/body size|0.862468	decreased body size|0.814079	abnormal total tissue mass|0.965726	decreased body weight|0.911902	decreased total tissue mass|0.911902	growth/size/body phenotype|0.728195
+abnormal germ cell morphology|1	decreased male germ cell number|0.811503	abnormal sperm number|0.777222	abnormal gametogenesis|0.913955	abnormal male germ cell morphology|0.937043	abnormal gametes|0.879994	decreased germ cell number|0.858956
+abnormal embryonic growth/weight/body size|1	abnormal prenatal growth/weight/body size|0.905618	abnormal embryo size|0.835961	decreased embryo size|0.828936	abnormal prenatal body size|0.759563	abnormal embryogenesis/ development|0.715014	embryogenesis phenotype|0.715014	prenatal growth retardation|0.73664	embryonic growth retardation|0.772328
+abnormal immune system physiology|1	abnormal inflammatory response|0.710407
+abnormal limb long bone morphology|1	abnormal hindlimb morphology|0.815942	abnormal limb bone morphology|0.970556	abnormal long bone morphology|0.861357	abnormal hindlimb zeugopod morphology|0.712212	abnormal limb morphology|0.735647	abnormal appendicular skeleton morphology|0.743711	decreased length of long bones|0.709029
+abnormal hearing physiology|1	abnormal ear physiology|0.940875	abnormal hearing electrophysiology|0.92095	abnormal auditory brainstem response|0.890277	increased or absent threshold for auditory brainstem response|0.814225	hearing/vestibular/ear phenotype|0.758744	impaired hearing|0.760117
+abnormal cerebellar cortex morphology|1	abnormal cerebellar layer morphology|0.922085	abnormal cerebellum morphology|0.878856	abnormal metencephalon morphology|0.839096	abnormal cerebellar purkinje cell layer|0.842701	abnormal hindbrain morphology|0.792006	abnormal purkinje cell morphology|0.804576
+abnormal ovary morphology|1	abnormal female reproductive gland morphology|0.960302	abnormal internal female genitalia morphology|0.857919	abnormal female genitalia morphology|0.850036	abnormal female reproductive system morphology|0.846175	abnormal ovarian follicle morphology|0.824212	abnormal ovary size|0.720408
+abnormal thyroid hormone level|1	decreased circulating thyroxine level|0.789076	abnormal thyroxine level|0.931625	abnormal circulating thyroxine level|0.846747	decreased thyroxine level|0.868744	decreased circulating levels of thyroid hormone|0.835532	abnormal triiodothyronine level|0.726844
+abnormal humoral immune response|1	abnormal igg level|0.852325	decreased immunoglobulin level|0.7591	increased immunoglobulin level|0.718119
+abnormal nephron morphology|1	abnormal renal corpuscle morphology|0.841327	abnormal renal glomerulus morphology|0.80473	abnormal kidney cortex morphology|0.840241	abnormal renal/urinary system morphology|0.735334	abnormal kidney morphology|0.75658	abnormal renal tubule morphology|0.728094
+abnormal ear morphology|1
+abnormal cerebrum morphology|1	abnormal temporal lobe morphology|0.766095	abnormal hippocampus morphology|0.756167	abnormal limbic system morphology|0.738847	abnormal forebrain morphology|0.750946	abnormal telencephalon morphology|0.846526	abnormal cerebral cortex morphology|0.725568
+stdv|1	abnormal survival|0.716639	mortality/aging|0.75031	homeostasis/metabolism phenotype|0.739326	mean|0.927371
+abnormal thrombopoiesis|1	abnormal platelet morphology|0.995402	abnormal megakaryocyte progenitor cell morphology|0.930096	abnormal platelet cell number|0.89083	abnormal megakaryocyte morphology|0.941371	decreased platelet cell number|0.738831
+abnormal insulin secretion|1	abnormal pancreatic beta cell physiology|0.936943	abnormal endocrine pancreas physiology|0.916197	abnormal pancreas secretion|0.959166	decreased insulin secretion|0.849552	abnormal pancreas physiology|0.754524
+large intestinal inflammation|1	colitis|0.963624	intestinal inflammation|0.924641	abnormal susceptibility to induced colitis|0.834523	increased susceptibility to induced colitis|0.755929	abnormal intestine physiology|0.79323
+abnormal circulating interleukin level|1	abnormal cytokine level|0.760886	abnormal circulating cytokine level|0.876675	abnormal intercellular signaling peptide or protein level|0.752274	abnormal interleukin level|0.919866	abnormal circulating interleukin-6 level|0.75
+abnormal craniofacial morphology|1	craniofacial phenotype|1	abnormal craniofacial bone morphology|0.733736	abnormal cranium morphology|0.722022	abnormal facial morphology|0.778831	abnormal head morphology|0.823143
+abnormal granulocyte number|1	abnormal granulocyte morphology|0.959228	abnormal neutrophil cell number|0.767088	abnormal neutrophil morphology|0.749313	abnormal myeloid leukocyte morphology|0.716381	increased granulocyte number|0.801927
+abnormal circulating pituitary hormone level|1	abnormal circulating gonadotropin level|0.766672	increased circulating pituitary hormone level|0.786334	increased pituitary hormone level|0.74796	decreased circulating pituitary hormone level|0.725753	abnormal pituitary hormone level|0.896483
+abnormal retinal neuronal layer morphology|1	abnormal retina morphology|0.719568	abnormal ocular fundus morphology|0.716391	abnormal retinal layer morphology|0.878364	abnormal retinal photoreceptor layer morphology|0.780668	abnormal retinal photoreceptor morphology|0.735372
+abnormal axial skeleton morphology|1	abnormal skeleton morphology|0.783257	skeleton phenotype|0.755859	abnormal vertebral column morphology|0.780586
+increased circulating gonadotropin level|1	increased follicle stimulating hormone level|0.776445	increased circulating follicle stimulating hormone level|0.802773	increased circulating luteinizing hormone level|0.71492
+abnormal male reproductive system physiology|1	abnormal reproductive system physiology|0.752091	abnormal fertility/fecundity|0.739553	infertility|0.741766	male infertility|0.811804
+abnormal lung epithelium morphology|1	abnormal pulmonary alveolus epithelial cell morphology|0.78051	abnormal pulmonary alveolus epithelium morphology|0.787839	abnormal pulmonary alveolar parenchyma morphology|0.733568	abnormal type ii pneumocyte morphology|0.711159	abnormal respiratory epithelium morphology|0.728346
+cortical renal glomerulopathies|1	kidney inflammation|0.714958	glomerulonephritis|0.792406
+abnormal brain commissure morphology|1	abnormal dorsal telencephalic commissure morphology|0.914529	abnormal corpus callosum morphology|0.899495	abnormal nervous system tract morphology|0.923425	abnormal brain white matter morphology|0.886405
+abnormal circulating aldosterone level|1	abnormal circulating mineralocorticoid level|1	abnormal aldosterone level|0.941124	increased circulating aldosterone level|0.823055	increased circulating mineralocorticoid level|0.823055
+abnormal astrocyte number|1	increased astrocyte number|1	astrocytosis|0.991903	abnormal astrocyte morphology|0.803638	gliosis|0.742029
+bundle branch block|1	intraventricular block|1	heart block|0.725476	prolonged qrs complex duration|0.974679	abnormal qrs complex|0.802897
+abnormal circulating corticosterone level|1	abnormal circulating glucocorticoid level|0.992933	abnormal corticosterone level|0.959715	increased circulating corticosterone level|0.774597	increased circulating glucocorticoid level|0.774597
+abnormal oocyte morphology|1	abnormal female germ cell morphology|0.983378	abnormal oocyte number|0.825723	decreased oocyte number|0.825723	abnormal oogenesis|0.856349
+altered susceptibility to autoimmune disorder|1	abnormal self tolerance|0.882541	autoimmune response|0.885468	abnormal immune tolerance|0.876772	decreased susceptibility to autoimmune disorder|0.77569
+abnormal posterior eye segment morphology|1	abnormal eye morphology|0.71257
+altered susceptibility to infection|1	increased susceptibility to infection|0.909909	altered susceptibility to bacterial infection|0.807355	abnormal response to infection|0.965441	increased susceptibility to bacterial infection|0.72408
+embryonic lethality between implantation and placentation|1	embryonic lethality between implantation and somite formation|0.849579	embryonic lethality prior to organogenesis|0.856799	embryonic lethality prior to tooth bud stage|0.856799	complete embryonic lethality between implantation and somite formation|0.81166
+preweaning lethality|1	prenatal lethality|0.779233	lethality during fetal growth through weaning|0.751899
+abnormal semilunar valve morphology|1	abnormal aortic valve morphology|0.868744	abnormal heart left ventricle outflow tract morphology|0.868744	abnormal heart ventricle outflow tract morphology|0.889041	abnormal heart valve morphology|0.728011
+abnormal trophectoderm morphology|1	abnormal mural trophectoderm morphology|0.829867	abnormal trophoblast giant cells|0.824163	abnormal parietal yolk sac morphology|0.928326	abnormal blastocyst morphology|0.763163
+abnormal motor capabilities/coordination/movement|1	abnormal locomotor behavior|0.818093	abnormal voluntary movement|0.849005	abnormal behavior|0.830614	behavior/neurological phenotype|0.830614
+abnormal spleen size|1	abnormal immune system organ morphology|0.752425	abnormal lymph organ size|0.876724	abnormal spleen morphology|0.864956	enlarged spleen|0.803458
+abnormal forelimb zeugopod morphology|1	abnormal ulna morphology|0.895806	abnormal radius morphology|0.881917	short ulna|0.720082	abnormal forelimb morphology|0.789352
+abnormal eosinophil cell number|1	abnormal eosinophil morphology|0.970495	abnormal myeloblast morphology/development|0.846649	increased eosinophil cell number|0.753592	decreased eosinophil cell number|0.711458
+abnormal mononuclear phagocyte morphology|1	abnormal macrophage morphology|0.877394	abnormal phagocyte morphology|0.885193	abnormal professional antigen presenting cell morphology|0.710588
+increased energy expenditure|1	decreased susceptibility to weight gain|0.793451	decreased susceptibility to diet-induced obesity|0.847655	abnormal energy expenditure|0.821584	abnormal energy homeostasis|0.805629
+abnormal seminal vesicle size|1	abnormal seminal vesicle morphology|0.8558	small seminal vesicle|0.919866	abnormal male accessory sex gland morphology|0.724743	abnormal seminal vesicle weight|0.759555
+cleft secondary palate|1	abnormal palate morphology|0.73557	abnormal palate development|0.871395	abnormal secondary palate development|0.871224	cleft palate|0.780189
+abnormal t cell activation|1	abnormal t cell proliferation|0.965307	decreased t cell proliferation|0.748736
+increased heart right ventricle size|1	increased heart ventricle size|0.745881	abnormal heart right ventricle size|0.936898	abnormal heart right ventricle morphology|0.791823	dilated heart right ventricle|0.754732
+abnormal leukopoiesis|1
+abnormal fatty acid level|1	abnormal circulating free fatty acids level|0.863397	abnormal free fatty acids level|0.877324	decreased fatty acid level|0.726135	increased fatty acid level|0.730297
+small thymus|1	abnormal thymus morphology|0.774973	abnormal thymus size|0.907744	abnormal thyroid gland morphology|0.749205	thymus hypoplasia|0.763233
+abnormal ventricle myocardium morphology|1	ventricle myocardium hypoplasia|0.823273	abnormal trabecula carnea morphology|0.881917	abnormal myocardial trabeculae morphology|0.721688	myocardium hypoplasia|0.757779
+abnormal body fat mass|1	abnormal adipose tissue morphology|0.778971	abnormal adipose tissue amount|0.856653	adipose tissue phenotype|0.77213	decreased total body fat amount|0.772873
+abnormal cardiac muscle tissue morphology|1	abnormal myocardium layer morphology|0.854859	abnormal heart layer morphology|0.846755	abnormal myocardial fiber morphology|0.746004
+decreased igg level|1	decreased igg1 level|0.746788
+increased lymphocyte cell number|1	increased t cell number|0.82101
+decreased testis weight|1	abnormal testis weight|0.964653
+abnormal circulating ldl cholesterol level|1	abnormal circulating non-hdl cholesterol level|0.94054	decreased circulating ldl cholesterol level|0.73721
+abnormal seizure response to inducing agent|1	increased susceptibility to induction of seizure by inducing agent|0.748873	increased susceptibility to pharmacologically induced seizures|0.748873	abnormal seizure response to pharmacological agent|0.854242	seizures|0.728331
+ventricular septal defect|1	abnormal heart and great artery attachment|0.714143	abnormal heart and great vessel attachment|0.714143	abnormal interventricular septum morphology|0.847174	abnormal heart septum morphology|0.780869
+abnormal cartilage development|1	abnormal long bone epiphyseal plate morphology|0.757812	abnormal epiphyseal plate morphology|0.734706	abnormal long bone hypertrophic chondrocyte zone|0.81968	abnormal cartilage morphology|0.707107
+abnormal circulating androgen level|1	abnormal circulating testosterone level|1	abnormal testosterone level|0.967204	decreased circulating testosterone level|0.850963
+abnormal circulating creatine kinase level|1	abnormal creatine kinase level|1	increased circulating creatine kinase level|0.908893	increased creatine kinase level|0.908893
+abnormal eye pigmentation|1	abnormal eye pigment epithelium morphology|0.921777	abnormal extracutaneous pigmentation|0.98405	abnormal retinal pigment epithelium morphology|0.896617
+abnormal b wave amplitude|1	abnormal b-wave shape|1	decreased b wave amplitude|0.953463	abnormal electroretinogram waveform feature|0.829156
+abnormal mineral level|1	abnormal mineral homeostasis|0.976065	abnormal circulating mineral level|0.910927	abnormal ion homeostasis|0.856057
+aberrant origin of the right subclavian artery|1	abnormal right subclavian artery morphology|0.932505	abnormal aortic arch and aortic arch branch attachment|0.912871	abnormal subclavian artery morphology|0.816497
+abnormal endocrine pancreas morphology|1	abnormal pancreatic islet morphology|0.99681	abnormal pancreas morphology|0.860561	abnormal pancreatic beta cell morphology|0.786024
+abnormal platelet activation|1	abnormal platelet aggregation|0.950146	abnormal platelet physiology|0.870572	decreased platelet aggregation|0.816497
+decreased circulating cholesterol level|1
+increased circulating cholesterol level|1
+reproductive system phenotype|1
+abnormal motile cilium morphology|1	abnormal sperm flagellum morphology|0.961891	teratozoospermia|0.78156	abnormal cilium morphology|0.817771
+increased heart left ventricle size|1	abnormal heart left ventricle size|0.970143	heart left ventricle hypertrophy|0.83666
+abnormal lipid level|1	abnormal lipid homeostasis|0.962225
+abnormal kidney capillary morphology|1	abnormal glomerular capillary morphology|0.974679	abnormal kidney blood vessel morphology|0.809776	abnormal capillary morphology|0.755929
+abnormal b cell number|1	abnormal b cell morphology|0.899464	decreased b cell number|0.881277	abnormal mature b cell morphology|0.750752
+decreased circulating estradiol level|1	decreased circulating estrogen level|0.955533	abnormal circulating estradiol level|0.810093	abnormal circulating estrogen level|0.763763
+abnormal tibia morphology|1	short tibia|0.808786
+testicular hyperplasia|1	leydig cell hyperplasia|0.973329	enlarged testis|0.802538	abnormal leydig cell morphology|0.741677
+abnormal hindlimb stylopod morphology|1	abnormal femur morphology|0.991769	short femur|0.809776
+abnormal response to new environment|1	abnormal exploration in a new environment|0.860818	abnormal response to novelty|0.896364	decreased exploration in new environment|0.7491
+abnormal cardiovascular system morphology|1	cardiovascular system phenotype|0.862316	abnormal heart morphology|0.833158	abnormal blood vessel morphology|0.803385
+abnormal circulating hdl cholesterol level|1	decreased circulating hdl cholesterol level|0.770704
+renal/urinary system phenotype|1	abnormal renal/urinary system physiology|0.790378
+impaired passive avoidance behavior|1	impaired avoidance learning behavior|0.95119	decreased fear-related response|0.809427	abnormal passive avoidance behavior|0.726483
+abnormal epididymis size|1	decreased epididymis weight|0.733799	small epididymis|0.919866	abnormal epididymis weight|0.83205
+abnormal anxiety-related response|1	abnormal fear/anxiety-related behavior|0.944685	increased anxiety-related response|0.810093	abnormal emotion/affect behavior|0.728564
+abnormal barrel cortex morphology|1	abnormal primary somatosensory cortex morphology|1	abnormal somatosensory cortex morphology|0.768706	abnormal parietal lobe morphology|0.707107
+abnormal breathing pattern|1	abnormal respiratory function|0.88258	abnormal respiration|0.714384	respiratory distress|0.867325
+abnormal cardiac muscle contractility|1	impaired muscle contractility|0.762596	decreased cardiac muscle contractility|0.884948	abnormal muscle contractility|0.816497
+abnormal coat appearance|1	abnormal coat/ hair morphology|0.981206	abnormal skin adnexa morphology|0.762885	abnormal hair growth|0.711003
+abnormal viscerocranium morphology|1	abnormal jaw morphology|0.89612
+abnormal spleen b cell follicle morphology|1	abnormal spleen secondary b follicle morphology|0.868388	abnormal spleen germinal center morphology|0.858898	abnormal spleen white pulp morphology|0.722058
+decreased birth weight|1	abnormal birth weight|0.994302	decreased birth body size|0.728346	abnormal birth body size|0.723945
+abnormal pain threshold|1	abnormal thermal nociception|0.773539	hypoalgesia|0.792181	abnormal touch/ nociception|0.876714
+abnormal apoptosis|1	increased apoptosis|0.751163	increased cell death|0.748942	abnormal cell death|0.933981
+decreased mature ovarian follicle number|1	abnormal mature ovarian follicle morphology|0.956689	abnormal ovarian follicle number|0.727607	absent mature ovarian follicles|0.745356
+decreased skeletal muscle size|1	abnormal skeletal muscle size|0.909353	skeletal muscle atrophy|0.806947	decreased skeletal muscle mass|0.711254
+arthritis|1	decreased susceptibility to induced arthritis|0.727607	decreased susceptibility to induced joint inflammation|0.727607	joint inflammation|0.967357
+abnormal nervous system morphology|1	nervous system phenotype|0.888813	abnormal brain morphology|0.780032	abnormal neuron morphology|0.736898
+abnormal circulating triiodothyronine level|1	decreased triiodothyronine level|0.717547	decreased circulating triiodothyronine level|0.780189
+arrest of male meiosis|1	abnormal male meiosis|0.850339	abnormal meiosis|0.781274	arrest of spermatogenesis|0.754783
+abnormal spleen physiology|1	abnormal splenocyte physiology|0.960769	abnormal splenocyte proliferation|0.712525	abnormal immune organ physiology|0.71261
+increased stomach ph|1	abnormal circulating gastrin level|0.730297	increased circulating gastrin level|0.714435	abnormal stomach ph|0.92582
+abnormal mouth morphology|1
+decreased cd8-positive, alpha-beta t cell number|1
+decreased white fat cell size|1	abnormal white fat cell size|0.829993	abnormal white fat cell morphology|0.731083	decreased fat cell size|0.795395
+abnormal middle ear ossicle morphology|1	abnormal stapes morphology|0.751809	abnormal malleus morphology|0.793999	abnormal middle ear morphology|0.810643
+cochlear degeneration|1	cochlear ganglion degeneration|0.70956	organ of corti degeneration|0.921443
+abnormal triglyceride level|1	abnormal circulating triglyceride level|0.864692	decreased triglyceride level|0.746273	increased triglyceride level|0.7317
+abnormal hemoglobin|1	abnormal hemoglobin content|0.8654	abnormal erythrocyte morphology|0.727885	decreased hemoglobin content|0.738549
+abnormal thoracic cage morphology|1	abnormal pectoral girdle bone morphology|0.750731	abnormal sternum morphology|0.746695	abnormal rib morphology|0.82235
+abnormal intestinal epithelium morphology|1	abnormal intestinal mucosa morphology|0.879049	abnormal crypts of lieberkuhn morphology|0.716231	abnormal intestine morphology|0.718873
+abnormal glomerular mesangium morphology|1	abnormal mesangial matrix morphology|0.795822	expanded mesangial matrix|0.763763	abnormal mesangial cell morphology|0.752773
+abnormal cytotoxic t cell physiology|1	abnormal cytotoxic t cell cytolysis|0.717741	decreased cytotoxic t cell cytolysis|0.717741	abnormal cd8-positive, alpha-beta t cell physiology|0.876038
+abnormal osteoclast cell number|1	abnormal macrophage cell number|0.723728	abnormal osteoclast morphology|0.815037	increased osteoclast cell number|0.762001
+increased neutrophil cell number|1
+decreased circulating gonadotropin level|1	decreased circulating follicle stimulating hormone level|0.740013
+abnormal presacral vertebrae morphology|1	abnormal vertebrae morphology|0.758599	abnormal cervical vertebrae morphology|0.753861	abnormal thoracic vertebrae morphology|0.712879
+abnormal osteoblast cell number|1	decreased osteoblast cell number|0.757677	abnormal osteoblast morphology|0.742307	increased osteoblast cell number|0.720082
+abnormal embryonic tissue morphology|1	abnormal neural tube morphology/development|0.740741
+abnormal follicle stimulating hormone level|1	decreased follicle stimulating hormone level|0.718795
+increased body weight|1	increased total tissue mass|1	increased body size|0.983192
+abnormal rostral neuropore morphology|1	incomplete rostral neuropore closure|1	abnormal neuropore morphology|0.976281
+absent gametes|1	azoospermia|0.983192	absent germ cells|0.977453
+abnormal antigen presentation via mhc class ii|1	abnormal b lymphocyte antigen presentation|0.978019	abnormal level of surface class ii molecules|0.953463
+abnormal circulating insulin-like growth factor i level|1	abnormal insulin-like growth factor i level|0.990338	decreased circulating insulin-like growth factor i level|0.939336
+abnormal hepatobiliary system morphology|1	abnormal liver morphology|0.98946	liver/biliary system phenotype|0.936489
+abnormal urine glycosaminoglycan level|1	increased urine glycosaminoglycan level|1	abnormal glycosaminoglycan level|0.912871
+abnormal pulmonary acinus morphology|1	abnormal pulmonary alveolar system morphology|0.981406	abnormal pulmonary alveolus morphology|0.926242
+altered righting response|1	abnormal postural reflex|0.966092	impaired righting response|0.92582
+abnormal liver lobule morphology|1	abnormal liver parenchyma morphology|0.975041	abnormal hepatocyte morphology|0.898559
+abnormal b-1 b cell number|1	abnormal b-1 b cell morphology|0.992933	decreased b-1 b cell number|0.87831
+abnormal maternal behavior|1	abnormal maternal nurturing|0.959579	abnormal parental behavior|0.906167
+abnormal sperm motility|1	asthenozoospermia|0.937948	abnormal sperm physiology|0.921663
+abnormal fetal size|1	decreased fetal size|0.978292	abnormal fetal growth/weight/body size|0.876851
+abnormal circulating progesterone level|1	abnormal progesterone level|0.972598	decreased circulating progesterone level|0.87831
+abnormal anterior uvea morphology|1	abnormal iris morphology|0.967357	abnormal uvea morphology|0.870026
+decreased incidence of induced tumors|1	decreased incidence of tumors by chemical induction|0.92582	decreased tumor incidence|0.907485
+abnormal hypodermis fat layer morphology|1	abnormal hypodermis morphology|0.955533	decreased subcutaneous adipose tissue amount|0.872872
+abnormal monocyte cell number|1	abnormal monocyte morphology|0.978399	increased monocyte cell number|0.839855
+abnormal kidney pelvis morphology|1	hydronephrosis|0.936165	abnormal ureter morphology|0.875923
+abnormal fluid intake|1	abnormal drinking behavior|0.916515	increased fluid intake|0.894427
+abnormal circulating interferon level|1	abnormal circulating interferon-gamma level|0.907923	abnormal interferon level|0.901769
+increased blood urea nitrogen level|1	abnormal blood urea nitrogen level|0.90798	uremia|0.884652
+abnormal placenta metrial gland morphology|1	abnormal uterine nk cell morphology|1	abnormal maternal decidual layer morphology|0.786796
+abnormal somatic sensory system morphology|1	abnormal sensory neuron morphology|0.914865	abnormal somatic nervous system morphology|0.870362
+abnormal eating behavior|1	abnormal consumption behavior|0.92844	abnormal food intake|0.854903
+renal interstitial fibrosis|1	abnormal kidney interstitium morphology|0.930949	renal fibrosis|0.849837
+abnormal reflex|1	abnormal involuntary movement|0.895817	abnormal sensory capabilities/reflexes/nociception|0.883536
+abnormal atrioventricular valve morphology|1	abnormal heart atrium and ventricle connection|1	abnormal mitral valve morphology|0.777282
+impaired exercise endurance|1	fatigue|0.885316	abnormal exercise endurance|0.873589
+abnormal homeostasis|1	abnormal blood homeostasis|0.835239
+abnormal natural killer cell mediated cytotoxicity|1	impaired natural killer cell mediated cytotoxicity|0.956689	abnormal nk cell physiology|0.800815
+abnormal pituitary gland morphology|1	abnormal neuroendocrine gland morphology|0.911147	abnormal adenohypophysis morphology|0.846114
+abnormal forelimb stylopod morphology|1	abnormal humerus morphology|1	short humerus|0.754474
+abnormal splenocyte number|1	abnormal splenocyte morphology|0.961769	decreased splenocyte number|0.78843
+abnormal sensitivity to induced morbidity/mortality|1	abnormal induced morbidity/mortality|0.873685	increased sensitivity to induced morbidity/mortality|0.873252
+abnormal nk cell number|1	abnormal nk cell morphology|0.920243	decreased nk cell number|0.825137
+increased red blood cell distribution width|1	abnormal red blood cell distribution width|0.963087	anisocytosis|0.780625
+absence seizures|1	nonconvulsive seizures|0.92582	abnormal spike wave discharge|0.816497
+abnormal grip strength|1	decreased grip strength|0.912871	abnormal physical strength|0.821071
+renal/urinary system inflammation|1
+abnormal b cell proliferation|1	abnormal b cell activation|0.949057	decreased b cell proliferation|0.783692
+abnormal spinal cord grey matter morphology|1	abnormal motor neuron morphology|0.911006	abnormal spinal cord morphology|0.821165
+premature intramembranous bone ossification|1	premature suture closure|1	premature bone ossification|0.723747
+abnormal stomach wall morphology|1	abnormal stomach mucosa morphology|0.992278	abnormal stomach morphology|0.729923
+absent b cells|1	absent mature b cells|0.887262	absent lymphocyte|0.83137
+abnormal marginal zone b cell morphology|1	abnormal spleen marginal zone morphology|0.895591	decreased marginal zone b cell number|0.821781
+abnormal circulating interleukin-1 beta level|1	abnormal circulating interleukin-1 level|0.930949	increased circulating interleukin-1 beta level|0.784465
+abnormal interferon-gamma secretion|1	abnormal interferon secretion|0.935683	decreased interferon-gamma secretion|0.778142
+abnormal neuromuscular synapse morphology|1	abnormal somatic motor system morphology|0.977356	abnormal synapse morphology|0.73646
+abnormal cochlear hair cell number|1	decreased cochlear hair cell number|0.860663	abnormal cochlear outer hair cell number|0.849837
+abnormal glycogen level|1	abnormal glycogen homeostasis|0.942208	decreased glycogen level|0.765641
+abnormal airway responsiveness|1	abnormal bronchial provocation|0.988571	decreased airway responsiveness|0.715282
+increased thyroid-stimulating hormone level|1	increased circulating thyroid-stimulating hormone level|0.901388	abnormal thyroid-stimulating hormone level|0.8
+abnormal iron level|1	abnormal circulating iron level|0.723747	abnormal iron homeostasis|0.977008
+abnormal locomotor activation|1
+fused joints|1	vertebral fusion|0.955312	abnormal joint morphology|0.740184
+increased luteinizing hormone level|1	abnormal luteinizing hormone level|0.71459
+abnormal mammary gland physiology|1	abnormal lactation|0.919277	abnormal skin adnexa physiology|0.769199
+choroidal neovascularization|1	abnormal choroid vasculature morphology|0.912871	decreased susceptibility to induced choroidal neovascularization|0.774597
+abnormal renal glomerular filtration rate|1	abnormal renal glomerular filtration|0.955533	decreased renal glomerular filtration rate|0.723747
+neonatal lethality|1	perinatal lethality|0.848809	complete neonatal lethality|0.822613
+increased incidence of induced tumors|1	increased incidence of tumors by chemical induction|0.868554	abnormal incidence of induced tumors|0.802538
+abnormal systemic artery morphology|1	abnormal aorta morphology|0.914417	abnormal artery morphology|0.755624
+abnormal thoracic aorta morphology|1	abnormal aortic arch morphology|0.923936
+abnormal skeletal muscle mass|1
+prolonged p wave|1	sinoatrial block|0.866025	abnormal p wave|0.801784
+abnormal gastrulation|1	abnormal triploblastic development|0.741145	abnormal developmental patterning|0.92489
+increased susceptibility to infection induced morbidity/mortality|1	altered susceptibility to infection induced morbidity/mortality|0.854242	increased susceptibility to bacterial infection induced morbidity/mortality|0.810807
+abnormal major salivary gland morphology|1	abnormal submandibular gland morphology|0.890564	abnormal salivary gland morphology|0.769309
+abnormal circulating amino acid level|1	abnormal circulating creatinine level|0.7698	abnormal amino acid level|0.888957
+abnormal vascular development|1	abnormal angiogenesis|0.828868	abnormal cardiovascular development|0.823156
+abnormal respiratory system physiology|1	respiratory system phenotype|0.836215
+abnormal heart rate|1	abnormal heartbeat|0.876596	decreased heart rate|0.771939
+abnormal circulating hormone level|1	abnormal circulating insulin level|0.709341	abnormal hormone level|0.936248
+double outlet right ventricle|1
+hemorrhage|1	abnormal blood circulation|0.896719	internal hemorrhage|0.747773
+abnormal skeletal muscle fiber size|1	abnormal skeletal muscle fiber morphology|0.816497	decreased skeletal muscle fiber size|0.827516
+abnormal respiratory system morphology|1	abnormal lung morphology|0.860964
+decreased susceptibility to ischemic brain injury|1	decreased cerebral infarction size|0.897527	altered response to cns ischemic injury|0.738549
+decreased seminal vesicle weight|1
+abnormal compact bone thickness|1	decreased compact bone thickness|0.816497	abnormal compact bone morphology|0.814822
+abnormal circulating tumor necrosis factor level|1	abnormal tumor necrosis factor level|0.872872	increased circulating tumor necrosis factor level|0.756913
+abnormal lymph node size|1	enlarged lymph nodes|0.829905	abnormal lymph node morphology|0.798205
+abnormal cytokine secretion|1	abnormal interleukin secretion|0.848436	abnormal immune serum protein physiology|0.779004
+renal necrosis|1	renal tubular necrosis|0.852803	kidney degeneration|0.7711
+decreased mature b cell number|1
+decreased pituitary hormone level|1
+decreased acute inflammation|1	abnormal acute inflammation|0.765559	decreased inflammatory response|0.856706
+abnormal cochlear ganglion morphology|1	abnormal cranial ganglia morphology|0.772667
+muscle phenotype|1	abnormal muscle morphology|0.809958	abnormal muscle physiology|0.805019
+abnormal male reproductive gland physiology|1	abnormal testis physiology|0.842424	abnormal sex gland physiology|0.77211
+small mandible|1	abnormal mandible morphology|0.829458	short mandible|0.785034
+abnormal neural tube closure|1	open neural tube|0.83395
+abnormal brown adipose tissue amount|1	abnormal brown adipose tissue morphology|0.856349	decreased brown adipose tissue amount|0.755929
+dilated heart ventricle|1	dilated heart|0.805387	dilated heart left ventricle|0.803638
+abnormal circulating chloride level|1	abnormal chloride level|0.877777	increased circulating chloride level|0.729325
+abnormal circulating angiotensinogen level|1	increased circulating angiotensinogen level|0.845154	decreased circulating angiotensinogen level|0.755929
+abnormal impulse conducting system conduction|1	abnormal heart electrocardiography waveform feature|0.886942
+embryonic lethality during organogenesis|1	embryonic lethality|0.712745	complete embryonic lethality during organogenesis|0.88444
+decreased circulating triglyceride level|1
+increased thermal nociceptive threshold|1
+abnormal cns glial cell morphology|1	abnormal glial cell morphology|0.86305
+decreased cochlear outer hair cell number|1
+abnormal type iv hypersensitivity reaction|1	abnormal hypersensitivity reaction|0.727875	decreased susceptibility to type iv hypersensitivity reaction|0.851469
+enlarged pancreatic islets|1	pancreatic islet hyperplasia|0.862316	abnormal pancreatic islet size|0.71635
+abnormal circulating potassium level|1	abnormal potassium ion homeostasis|0.841244	increased circulating potassium level|0.73721
+decreased luteinizing hormone level|1	decreased circulating luteinizing hormone level|0.83205
+altered tumor morphology|1	altered tumor pathology|0.851122	decreased tumor growth/size|0.722315
+decreased circulating free fatty acid level|1
+abnormal bile salt level|1	abnormal bile salt homeostasis|0.852803	increased bile salt level|0.707107
+abnormal circulating glucose level|1	abnormal glucose homeostasis|0.800572	decreased circulating glucose level|0.757404
+abnormal placenta vasculature|1	abnormal placental labyrinth vasculature morphology|0.839096	abnormal placenta labyrinth morphology|0.71459
+abnormal prostate gland size|1	abnormal prostate gland morphology|0.752355	small prostate gland|0.795822
+abnormal igg1 level|1
+abnormal lens morphology|1	cataracts|0.819782	abnormal anterior eye segment morphology|0.726918
+abnormal incus morphology|1
+increased circulating triglyceride level|1
+increased adrenocorticotropin level|1	increased circulating adrenocorticotropin level|0.82717	abnormal adrenocorticotropin level|0.716599
+enhanced behavioral response to addictive substance|1	abnormal behavioral response to addictive substance|0.72111	enhanced behavioral response to xenobiotic|0.820008
+short radius|1
+decreased aggression|1	decreased aggression towards mice|0.771517	abnormal aggression-related behavior|0.748331
+postnatal lethality|1	partial postnatal lethality|0.778305
+impaired behavioral response to addictive substance|1	impaired behavioral response to xenobiotic|0.763763
+abnormal b cell differentiation|1
+increased macrophage cell number|1
+increased prostate gland weight|1	enlarged prostate gland|0.763763	abnormal prostate gland weight|0.733799
+oligozoospermia|1
+lethality throughout fetal growth and development|1	complete lethality throughout fetal growth and development|0.752163	partial lethality throughout fetal growth and development|0.729459
+abnormal renal filtration|1	abnormal renal filtration rate|0.753778
+abnormal trophoblast layer morphology|1
+abnormal susceptibility to weight gain|1
+increased liver weight|1	enlarged liver|0.727346	abnormal liver weight|0.741846
+abnormal ige level|1	increased ige level|0.748831	decreased ige level|0.716951
+abnormal basisphenoid bone morphology|1	abnormal basicranium morphology|0.74162	abnormal sphenoid bone morphology|0.723747
+abnormal igm level|1	increased igm level|0.731083	decreased igm level|0.727142
+abnormal iga level|1	increased iga level|0.74162	decreased iga level|0.707107
+abnormal circulating leptin level|1	increased circulating leptin level|0.721435	decreased circulating leptin level|0.709171
+abnormal liver size|1	small liver|0.717397
+increased pancreas weight|1	abnormal pancreas weight|0.707107	enlarged pancreas|0.707107
+abnormal prostaglandin level|1	decreased prostaglandin level|0.707107	increased prostaglandin level|0.707107
+decreased circulating aldosterone level|1	decreased circulating mineralocorticoid level|1
+decreased susceptibility to induction of seizure by inducing agent|1	decreased susceptibility to pharmacologically induced seizures|1
+abnormal cardiac valve physiology|1	cardiac valve regurgitation|1
+abnormal skin coloration|1	abnormal skin pigmentation|1
+abnormal glycosylated hemoglobin level|1	increased glycosylated hemoglobin level|1
+abnormal offspring retrieval|1	abnormal pup retrieval|1
+abnormal estrous cycle|1	abnormal ovulation cycle|1
+abnormal glucagon secretion|1	abnormal pancreatic alpha cell physiology|1
+decreased apoptosis|1	decreased cell death|1
+abnormal kidney cortex artery morphology|1	abnormal kidney interlobular artery morphology|1
+sensorineural hearing impairment|1	sensorineural hearing loss|1
+abnormal female reproductive gland physiology|1	abnormal ovary physiology|1
+abnormal response to tactile stimuli|1	abnormal spinal reflex|1
+abnormal adenoma incidence|1	increased adenoma incidence|1
+abnormal circulating magnesium level|1	abnormal magnesium ion homeostasis|1
+normal phenotype|1	no abnormal phenotype detected|0.999081
+abnormal blood coagulation|1	abnormal hemostasis|0.994885
+abnormal memory t cell morphology|1	abnormal memory t cell number|0.992278
+abnormal spongiotrophoblast layer morphology|1	abnormal placenta junctional zone morphology|0.991342
+abnormal distortion product otoacoustic emission|1	abnormal otoacoustic response|0.990521
+abnormal vascular endothelial cell morphology|1	abnormal blood vessel endothelium morphology|0.990148
+abnormal interventricular septum membranous part morphology|1	perimembraneous ventricular septal defect|0.989071
+abnormal abdominal lymph node morphology|1	abnormal mesenteric lymph node morphology|0.987096
+abnormal gut-associated lymphoid tissue morphology|1	abnormal peyer's patch morphology|0.987096
+abnormal postnatal growth|1	postnatal growth retardation|0.985293
+muscular ventricular septal defect|1	abnormal interventricular septum muscular part morphology|0.984251
+decreased circulating glucocorticoid level|1	decreased circulating corticosterone level|0.983739
+abnormal regulatory t cell morphology|1	abnormal regulatory t cell number|0.981981
+decreased litter size|1	abnormal litter size|0.981307
+abnormal tail length|1	short tail|0.981307
+small seminiferous tubules|1	abnormal seminiferous tubule size|0.980064
+abnormal interferon-alpha secretion|1	decreased interferon-alpha secretion|0.978945
+abnormal peyer's patch number|1	decreased peyer's patch number|0.978019
+abnormal urine glucose level|1	increased urine glucose level|0.974679
+abnormal inner ear canal morphology|1	abnormal semicircular canal morphology|0.972846
+abnormal kidney pyramid morphology|1	abnormal kidney papilla morphology|0.971825
+abnormal interatrial septum morphology|1	atrial septal defect|0.971008
+abnormal nephron number|1	decreased nephron number|0.970143
+abnormal sleep behavior|1	abnormal sleep pattern|0.969536
+abnormal timing of vaginal opening|1	delayed vaginal opening|0.968246
+abnormal qt interval|1	prolonged qt interval|0.968246
+increased circulating estradiol level|1	increased circulating estrogen level|0.966092
+abnormal frequency of paradoxical sleep|1	abnormal paradoxical sleep pattern|0.963624
+increased urine protein level|1	abnormal urine protein level|0.96295
+abnormal cell physiology|1	cellular phenotype|0.961744
+abnormal penile erection|1	abnormal copulation|0.960769
+vision/eye phenotype|1
+abnormal interleukin-1 beta secretion|1	abnormal interleukin-1 secretion|0.95814
+abnormal vitamin homeostasis|1	abnormal vitamin level|0.956501
+abnormal chromosome stability|1	chromosomal instability|0.95538
+alcohol preference|1	preference for addictive substance|0.953463
+abnormal lung alveolus development|1	impaired lung alveolus development|0.949968
+abnormal muscle cell glucose uptake|1	abnormal cellular glucose import|0.949716
+abnormal hepatobiliary system physiology|1	abnormal liver physiology|0.9494
+decreased ovary weight|1	abnormal ovary weight|0.948683
+endocrine/exocrine gland phenotype|1	abnormal gland morphology|0.948648
+abnormal redox activity|1	oxidative stress|0.945578
+abnormal respiratory system development|1	abnormal lung development|0.945055
+increased alimentary system tumor incidence|1	increased gastrointestinal tumor incidence|0.944911
+decreased urine osmolality|1	abnormal urine osmolality|0.942809
+increased circulating prolactin level|1	increased prolactin level|0.942809
+abnormal lymph node b cell domain morphology|1	abnormal lymph node cortex morphology|0.941469
+small ovary|1
+decreased placental labyrinth size|1	abnormal placenta labyrinth size|0.940064
+increased circulating bilirubin level|1	abnormal circulating bilirubin level|0.939336
+abnormal gustatory system physiology|1	abnormal taste sensitivity|0.939336
+abnormal body length|1	decreased body length|0.937509
+abnormal circulating protein level|1	abnormal protein level|0.935224
+cyanosis|1	abnormal oxygen level|0.935092
+abnormal neuron number|1	decreased neuron number|0.933838
+abnormal erythropoiesis|1
+increased aggression|1	increased aggression towards mice|0.929981
+abnormal kidney development|1	abnormal urinary system development|0.929063
+abnormal white adipose tissue amount|1	abnormal white adipose tissue morphology|0.927613
+abnormal synaptic transmission|1	abnormal cns synaptic transmission|0.926599
+abnormal kidney epithelium morphology|1	abnormal renal tubule epithelium morphology|0.92582
+abnormal glomerular capsule space morphology|1	increased glomerular capsule space|0.92582
+abnormal mammary gland development|1	abnormal mammary gland morphology|0.92582
+increased anti-nuclear antigen antibody level|1	increased autoantibody level|0.92582
+abnormal enzyme/ coenzyme level|1	abnormal circulating enzyme level|0.925603
+abnormal gastric parietal cell morphology|1	abnormal gastric gland morphology|0.922958
+abnormal contextual conditioning behavior|1	abnormal temporal memory|0.921524
+complete embryonic lethality before implantation|1	embryonic lethality before implantation|0.920447
+altered susceptibility to fungal infection|1	increased susceptibility to fungal infection|0.919866
+decreased somatotroph cell number|1	abnormal somatotroph morphology|0.917663
+prolonged diestrus|1	abnormal diestrus|0.917663
+abnormal digit morphology|1	abnormal autopod morphology|0.916605
+abnormal urine creatinine level|1	decreased urine creatinine level|0.912871
+altered susceptibility to kidney reperfusion injury|1	decreased susceptibility to kidney reperfusion injury|0.912871
+vascular inflammation|1	vasculitis|0.912871
+lung inflammation|1	respiratory system inflammation|0.911147
+abnormal brain ventricular system morphology|1	abnormal brain ventricle morphology|0.906069
+increased inflammatory response|1
+complete embryonic lethality between somite formation and embryo turning|1	embryonic lethality between somite formation and embryo turning|0.904534
+decreased survivor rate|1	partial lethality|0.903787
+abnormal chorioallantoic fusion|1	failure of chorioallantoic fusion|0.902986
+neurodegeneration|1	neuron degeneration|0.902874
+abnormal fibroblast proliferation|1	decreased fibroblast proliferation|0.902067
+abnormal renin activity|1	increased renin activity|0.901388
+decreased brain size|1	abnormal brain size|0.900377
+abnormal somatic nervous system physiology|1	abnormal sensory neuron physiology|0.900192
+absent somites|1	failure of somite differentiation|0.899735
+abnormal xenobiotic induced morbidity/mortality|1	increased sensitivity to xenobiotic induced morbidity/mortality|0.898559
+abnormal developmental vascular remodeling|1	abnormal vascular regression|0.894427
+abnormal abdominal fat pad morphology|1	abnormal fat pad morphology|0.893892
+abnormal hematocrit|1	decreased hematocrit|0.892083
+abnormal pulmonary interalveolar septum morphology|1	thick pulmonary interalveolar septum|0.891883
+abnormal erythrocyte cell number|1	decreased erythrocyte cell number|0.89148
+abnormal neurotransmitter secretion|1	abnormal neurotransmitter level|0.887066
+limbs/digits/tail phenotype|1
+abnormal synaptic depression|1	abnormal long term depression|0.886405
+increased cerebral infarction size|1	increased susceptibility to ischemic brain injury|0.886405
+abnormal plasma cell number|1	abnormal plasma cell morphology|0.885615
+increased cd4-positive, alpha beta t cell number|1
+abnormal interferon-beta secretion|1	decreased interferon-beta secretion|0.884652
+abnormal palate bone morphology|1	abnormal hard palate morphology|0.884652
+abnormal behavioral withdrawal response|1	decreased behavioral withdrawal response|0.881917
+abnormal peyer's patch size|1	small peyer's patches|0.881917
+increased circulating aspartate transaminase level|1	abnormal circulating aspartate transaminase level|0.881088
+decreased liver regeneration|1	abnormal liver regeneration|0.879049
+abnormal dendritic cell number|1	abnormal dendritic cell morphology|0.879049
+abnormal body wall morphology|1	abnormal abdominal wall morphology|0.878722
+abnormal behavioral response to morphine|1	impaired behavioral response to morphine|0.877058
+abnormal proximal convoluted tubule brush border morphology|1	proximal convoluted tubule brush border loss|0.877058
+decreased double-positive t cell number|1	abnormal double-positive t cell morphology|0.876356
+altered susceptibility to parasitic infection|1	increased susceptibility to parasitic infection|0.87508
+decreased thermal nociceptive threshold|1	hyperalgesia|0.873863
+abnormal tooth hard tissue morphology|1	abnormal enamel morphology|0.873589
+dermatitis|1	skin inflammation|0.873589
+abnormal heart size|1	enlarged heart|0.873011
+abnormal neuron proliferation|1	abnormal neuronal precursor proliferation|0.872103
+abnormal digestive system morphology|1	digestive/alimentary phenotype|0.869493
+decreased urine prostaglandin level|1	abnormal urine prostaglandin level|0.866025
+abnormal igg3 level|1	decreased igg3 level|0.866025
+abnormal gestational length|1	long gestation period|0.866025
+increased circulating renin level|1	abnormal circulating renin level|0.866025
+decreased vertical activity|1	abnormal vertical activity|0.864046
+abnormal eyelid aperture|1	narrow eye opening|0.862316
+altered susceptibility to viral infection|1	increased susceptibility to viral infection|0.86177
+abnormal immature b cell morphology|1	decreased immature b cell number|0.861727
+abnormal smooth muscle morphology|1	abnormal vascular smooth muscle morphology|0.86155
+gastrointestinal ulcer|1	intestinal ulcer|0.860663
+abnormal follicular b cell morphology|1	decreased follicular b cell number|0.860233
+abnormal hindbrain development|1	abnormal cerebellum development|0.858655
+thin ventricular wall|1	abnormal heart ventricle wall thickness|0.858116
+increased sensitivity to induced cell death|1	abnormal induced cell death|0.857584
+mesangial cell hyperplasia|1
+abnormal macrophage chemotaxis|1	impaired macrophage chemotaxis|0.857143
+increased heart weight|1	abnormal heart weight|0.856799
+decreased prepulse inhibition|1	abnormal prepulse inhibition|0.856763
+abnormal bone mineral content|1	decreased bone mineral content|0.856629
+lung hemorrhage|1	abnormal pulmonary circulation|0.856349
+abnormal conditioned place preference behavior|1	impaired conditioned place preference behavior|0.856349
+absent gastric milk in neonates|1	aphagia|0.853913
+abnormal bone mineral density|1	decreased bone mineral density|0.853629
+abnormal anogenital distance|1	abnormal perineum morphology|0.852803
+abnormal heart left ventricle pressure|1	abnormal heart ventricle pressure|0.852803
+abnormal fear-related response|1
+abnormal rectum morphology|1	rectal prolapse|0.849837
+abnormal secondary sex determination|1	abnormal sexual maturation|0.849301
+abnormal melanocyte morphology|1	abnormal melanosome morphology|0.848528
+abnormal lung size|1	small lung|0.846562
+abnormal seminiferous tubule epithelium morphology|1	abnormal sertoli cell morphology|0.846296
+short snout|1	abnormal snout morphology|0.845771
+abnormal juxtaglomerular cell morphology|1	abnormal juxtaglomerular apparatus morphology|0.845154
+abnormal retinal ganglion cell morphology|1	abnormal retinal ganglion layer morphology|0.842927
+abnormal uterus size|1	small uterus|0.842701
+abnormal liver vasculature morphology|1	abnormal liver sinusoid morphology|0.842075
+abnormal preimplantation embryo development|1
+increased igg level|1
+abnormal chemically-elicited antinociception|1	decreased chemically-elicited antinociception|0.83887
+decreased prolactin level|1	abnormal prolactin level|0.83887
+abnormal mesoderm development|1
+abnormal kidney size|1	small kidney|0.834423
+abnormal chemical nociception|1	increased chemical nociceptive threshold|0.833333
+increased circulating free fatty acid level|1
+abnormal spine curvature|1	kyphosis|0.831831
+abnormal circulating alanine transaminase level|1	increased circulating alanine transaminase level|0.831097
+abnormal cellular extravasation|1	abnormal leukocyte tethering or rolling|0.830949
+increased susceptibility to diet-induced obesity|1	decreased energy expenditure|0.829774
+vasculature congestion|1	visceral vascular congestion|0.829156
+patent ductus arteriosus|1	abnormal fetal ductus arteriosus morphology|0.829156
+delayed female fertility|1	delayed fertility|0.829156
+abnormal epidermis stratum corneum morphology|1	hyperkeratosis|0.828417
+abnormal calcium ion homeostasis|1	abnormal circulating calcium level|0.827457
+abnormal pancreas size|1	small pancreas|0.82717
+abnormal fertilization|1	impaired fertilization|0.825137
+conjunctivitis|1	abnormal conjunctiva morphology|0.823055
+abnormal enterocyte proliferation|1	abnormal enterocyte physiology|0.822478
+hindlimb paralysis|1	paralysis|0.818813
+abnormal lean body mass|1	decreased lean body mass|0.817624
+abnormal granulocyte physiology|1	abnormal neutrophil physiology|0.817463
+abnormal pancreatic beta cell mass|1	decreased pancreatic beta cell mass|0.816497
+abnormal pituitary gland size|1	small pituitary gland|0.816497
+abnormal autonomic nervous system physiology|1	abnormal sympathetic nervous system physiology|0.816497
+abnormal transitional stage b cell morphology|1	decreased transitional stage b cell number|0.816497
+abnormal synaptic plasticity|1	impaired synaptic plasticity|0.811844
+increased spleen weight|1	abnormal spleen weight|0.808757
+abnormal nasal bone morphology|1	small nasal bone|0.808608
+abnormal cardiac output|1	decreased cardiac output|0.807573
+abnormal thyroid physiology|1	decreased activity of thyroid|0.807573
+abnormal cardiovascular system physiology|1
+abnormal urine homeostasis|1
+abnormal innate immunity|1	abnormal macrophage physiology|0.8061
+decreased body temperature|1	abnormal body temperature|0.805566
+abnormal artery development|1	abnormal dorsal aorta morphology|0.8044
+abnormal articular cartilage morphology|1	abnormal hyaline cartilage morphology|0.8044
+decreased adrenocorticotropin level|1	decreased circulating adrenocorticotropin level|0.8044
+abnormal bone marrow cell number|1	decreased bone marrow cell number|0.803535
+ovary hemorrhage|1	genital hemorrhage|0.801784
+lymph node hypoplasia|1	small lymph nodes|0.800943
+abnormal circulating interleukin-2 level|1	increased circulating interleukin-2 level|0.797724
+increased circulating creatinine level|1
+decreased igg2b level|1	abnormal igg2b level|0.796498
+circling|1	stereotypic behavior|0.794949
+abnormal urination|1	polyuria|0.794719
+abnormal fluid regulation|1	edema|0.793577
+abnormal catecholamine level|1	abnormal dopamine level|0.793492
+abnormal adrenaline level|1	abnormal circulating adrenaline level|0.793492
+increased systemic arterial blood pressure|1	abnormal systemic arterial blood pressure|0.793011
+abnormal double-negative t cell morphology|1	increased double-negative t cell number|0.791368
+abnormal gait|1	abnormal locomotor coordination|0.790937
+abnormal uterus weight|1	decreased uterus weight|0.790569
+abnormal adaptive thermogenesis|1	impaired adaptive thermogenesis|0.789076
+decreased dopaminergic neuron number|1	abnormal dopaminergic neuron morphology|0.787839
+decreased percent body fat|1	abnormal percent body fat|0.786796
+abnormal midbrain morphology|1	abnormal brainstem morphology|0.783604
+abnormal brain development|1	abnormal nervous system development|0.783097
+abnormal long term potentiation|1	reduced long term potentiation|0.783004
+abnormal corpus luteum morphology|1	absent corpus luteum|0.782624
+abnormal hypaxial muscle morphology|1	abnormal diaphragm morphology|0.782081
+abnormal sex gland secretion|1	abnormal testes secretion|0.781736
+abnormal behavioral response to alcohol|1	enhanced behavioral response to alcohol|0.781736
+abnormal external male genitalia morphology|1	abnormal penis morphology|0.781736
+abnormal sensory ganglion morphology|1
+abnormal circulating sodium level|1	abnormal sodium ion homeostasis|0.78051
+increased length of long bones|1	long tibia|0.780189
+abnormal respiratory mucosa goblet cell morphology|1	abnormal respiratory mucosa morphology|0.780189
+abnormal colon morphology|1	abnormal large intestine morphology|0.779957
+abnormal outflow tract development|1	abnormal truncus arteriosus septation|0.778499
+increased circulating interleukin-6 level|1
+abnormal bone ossification|1	abnormal skeleton physiology|0.774068
+increased neuron apoptosis|1	abnormal neuron apoptosis|0.773823
+abnormal glucose tolerance|1	impaired glucose tolerance|0.773021
+abnormal limb development|1	abnormal limb bud morphology|0.770752
+abnormal mating frequency|1	reduced male mating frequency|0.7698
+abnormal vagina orifice morphology|1	abnormal vagina morphology|0.769309
+abnormal urine sodium level|1	decreased urine sodium level|0.765092
+abnormal kidney physiology|1
+abnormal interleukin-17 secretion|1	increased interleukin-17 secretion|0.763763
+increased mean corpuscular volume|1	abnormal mean corpuscular volume|0.763763
+deafness|1
+decreased interleukin-10 secretion|1	abnormal interleukin-10 secretion|0.763763
+increased neuron number|1	increased sensory neuron number|0.762001
+abnormal circulating vldl cholesterol level|1	decreased circulating vldl cholesterol level|0.760886
+abnormal peripheral nervous system regeneration|1	abnormal nervous system regeneration|0.760886
+decreased igg2a level|1	abnormal igg2a level|0.760345
+abnormal interleukin-2 secretion|1	decreased interleukin-2 secretion|0.759815
+abnormal eosinophil physiology|1	impaired eosinophil recruitment|0.759555
+decreased circulating insulin level|1
+abnormal placenta morphology|1	abnormal extraembryonic tissue morphology|0.756925
+increased liver triglyceride level|1	abnormal liver triglyceride level|0.756787
+lethality at weaning|1	complete lethality at weaning|0.755929
+skeletal muscle fiber atrophy|1
+diarrhea|1	abnormal defecation|0.754298
+decreased circulating iron level|1
+abnormal intestinal cholesterol absorption|1	abnormal intestinal lipid absorption|0.751809
+abnormal vascular smooth muscle physiology|1	abnormal vasodilation|0.750757
+abnormal avoidance learning behavior|1
+increased liver cholesterol level|1	abnormal liver cholesterol level|0.75
+abnormal induced retinal neovascularization|1	retinal neovascularization|0.75
+increased cd8-positive, alpha-beta t cell number|1
+abnormal tumor necrosis factor secretion|1	decreased tumor necrosis factor secretion|0.747087
+abnormal axon morphology|1	abnormal neurite morphology|0.745957
+abnormal head movements|1	abnormal stationary movement|0.745849
+abnormal keratinocyte differentiation|1	abnormal keratinocyte morphology|0.745356
+abnormal sperm head morphology|1
+abnormal nervous system physiology|1
+decreased susceptibility to infection|1	decreased susceptibility to bacterial infection|0.743948
+impaired learning|1
+decreased neutrophil cell number|1	decreased granulocyte number|0.74162
+altered metastatic potential|1	increased metastatic potential|0.740959
+abnormal thymus physiology|1
+abnormal gonadal fat pad morphology|1	decreased gonadal fat pad weight|0.737468
+increased adiponectin level|1	abnormal adiponectin level|0.73721
+impaired conditioning behavior|1	impaired contextual conditioning behavior|0.73598
+abnormal innervation|1	abnormal sensory neuron innervation pattern|0.734847
+abnormal motor coordination/ balance|1	impaired coordination|0.734631
+abnormal microglial cell physiology|1	abnormal glial cell physiology|0.734631
+decreased interleukin-6 secretion|1	abnormal interleukin-6 secretion|0.734553
+decreased macrophage cell number|1	decreased osteoclast cell number|0.733799
+abnormal interleukin-5 secretion|1	decreased interleukin-5 secretion|0.73252
+chronic inflammation|1	granulomatous inflammation|0.731925
+abnormal skin morphology|1	abnormal skin appearance|0.731733
+abnormal digestion|1	abnormal intestinal absorption|0.730815
+increased mature b cell number|1	increased b cell number|0.726698
+abnormal atrioventricular node conduction|1
+double aortic arch|1	vascular ring|0.722315
+abnormal ovarian folliculogenesis|1
+abnormal muscle fiber morphology|1
+decreased aggression towards males|1
+abnormal urine potassium level|1	decreased urine potassium level|0.720082
+abnormal visceral yolk sac blood island morphology|1	absent visceral yolk sac blood islands|0.719195
+brain inflammation|1	cns inflammation|0.719195
+abnormal incisor morphology|1	abnormal tooth morphology|0.718568
+abnormal cervical atlas morphology|1	abnormal cervical axis morphology|0.717805
+small spleen|1	spleen hypoplasia|0.717532
+abnormal osteoclast differentiation|1
+abnormal inguinal fat pad morphology|1	decreased inguinal fat pad weight|0.715678
+abnormal somite development|1	impaired somite development|0.715475
+kidney atrophy|1	renal tubule atrophy|0.715282
+decreased susceptibility to bacterial infection induced morbidity/mortality|1	decreased susceptibility to infection induced morbidity/mortality|0.712879
+abnormal type i hypersensitivity reaction|1	decreased susceptibility to type i hypersensitivity reaction|0.712212
+decreased cell proliferation|1	abnormal cell proliferation|0.711458
+abnormal kidney weight|1	decreased kidney weight|0.711068
+abnormal bone marrow cell morphology/development|1
+abnormal vitelline vasculature morphology|1	abnormal visceral yolk sac morphology|0.709432
+alopecia|1
+abnormal object recognition memory|1	abnormal long term object recognition memory|0.707107
+increased circulating ldl cholesterol level|1
+decreased food intake|1
+abnormal male germ cell apoptosis|1
+abnormal cellular respiration|1
+abnormal myelin sheath morphology|1
+tonic-clonic seizures|1
+increased exploration in new environment|1
+bradykinesia|1
+abnormal cone electrophysiology|1
+hydrops fetalis|1
+pericardial effusion|1
+abnormal heart development|1
+abnormal embryo turning|1
+increased susceptibility to injury|1
+abnormal occipital bone morphology|1
+abnormal maxilla morphology|1
+shortened head|1
+kidney failure|1
+abnormal skin condition|1
+decreased susceptibility to hepatic steatosis|1
+increased circulating hdl cholesterol level|1
+increased total body fat amount|1
+insulin resistance|1
+increased susceptibility to experimental autoimmune encephalomyelitis|1
+arrested b cell differentiation|1
+increased interleukin-6 secretion|1
+increased interleukin-4 secretion|1
+increased t cell proliferation|1
+female infertility|1
+vascular stenosis|1
+abnormal embryonic hematopoiesis|1
+abnormal trigeminal ganglion morphology|1
+no suckling reflex|1
+ataxia|1
+weight loss|1
+weakness|1
+partial lethality at weaning|1
+abnormal sciatic nerve morphology|1
+muscle weakness|1
+progressive muscle weakness|1
+abnormal microglial cell morphology|1
+abnormal oligodendrocyte morphology|1
+abnormal behavioral response to xenobiotic|1
+convulsive seizures|1
+decreased susceptibility to dopaminergic neuron neurotoxicity|1
+abnormal neuron physiology|1
+increased susceptibility to dopaminergic neuron neurotoxicity|1
+enhanced long term potentiation|1
+increased thigmotaxis|1
+abnormal response to novel object|1
+abnormal spatial working memory|1
+abnormal startle reflex|1
+increased startle reflex|1
+abnormal ampa-mediated synaptic currents|1
+abnormal nmda-mediated synaptic currents|1
+enhanced conditioning behavior|1
+abnormal behavioral response to cocaine|1
+abnormal coping response|1
+abnormal pulmonary respiratory rate|1
+apnea|1
+head bobbing|1
+abnormal cochlear hair cell stereociliary bundle morphology|1
+abnormal nervous system electrophysiology|1
+abnormal organ of corti supporting cell morphology|1
+increased susceptibility to noise-induced hearing loss|1
+domed cranium|1
+corneal vascularization|1
+abnormal eye size|1
+abnormal cranial nerve morphology|1
+abnormal vision|1
+abnormal vitreous body morphology|1
+exencephaly|1
+abnormal placenta development|1
+abnormal vitelline vascular remodeling|1
+pale yolk sac|1
+partial embryonic lethality during organogenesis|1
+heart hemorrhage|1
+failure of initiation of embryo turning|1
+embryonic growth arrest|1
+complete embryonic lethality|1
+abnormal allantois morphology|1
+abnormal tracheal cartilage morphology|1
+abnormal head size|1
+abnormal pulmonary artery morphology|1
+abnormal vascular endothelial cell physiology|1
+decreased vascular permeability|1
+kidney thrombosis|1
+abnormal cardiac muscle relaxation|1
+abnormal muscle relaxation|1
+abnormal heart left ventricle morphology|1
+cardiomyopathy|1
+enlarged myocardial fiber|1
+abnormal blood vessel physiology|1
+decreased vasodilation|1
+increased vasoconstriction|1
+impaired smooth muscle contractility|1
+hypertension|1
+increased mean systemic arterial blood pressure|1
+abnormal vascular wound healing|1
+abnormal vasculogenesis|1
+eye hemorrhage|1
+abnormal facial motor nucleus morphology|1
+abnormal pons morphology|1
+abnormal ear development|1
+abnormal zygomatic bone morphology|1
+abnormal temporal bone morphology|1
+abnormal pterygoid process morphology|1
+abnormal larynx morphology|1
+abnormal vertebral arch morphology|1
+cervical vertebral fusion|1
+curly tail|1
+abnormal lumbar vertebrae morphology|1
+abnormal xiphoid process morphology|1
+abnormal fibula morphology|1
+decreased width of hypertrophic chondrocyte zone|1
+disorganized long bone epiphyseal plate|1
+decreased long bone epiphyseal plate size|1
+abnormal endochondral bone ossification|1
+long incisors|1
+abnormal intramembranous bone ossification|1
+abnormal gas homeostasis|1
+complete perinatal lethality|1
+abnormal branching involved in lung morphogenesis|1
+abnormal bronchiole morphology|1
+abnormal prostate gland anterior lobe morphology|1
+intracerebral hemorrhage|1
+dilated renal glomerular capsule|1
+abnormal kidney collecting duct morphology|1
+dilated kidney collecting duct|1
+albuminuria|1
+pale kidney|1
+abnormal kidney apoptosis|1
+abnormal renal transport|1
+abnormal urine urea nitrogen level|1
+decreased systemic arterial diastolic blood pressure|1
+abnormal kidney medulla morphology|1
+oliguria|1
+abnormal tooth development|1
+abnormal molar morphology|1
+abnormal epidermis stratum granulosum morphology|1
+abnormal epidermal layer morphology|1
+abnormal keratinocyte apoptosis|1
+abnormal keratinocyte physiology|1
+irregular coat pigmentation|1
+abnormal lysosome physiology|1
+lysosomal protein accumulation|1
+abnormal mast cell physiology|1
+increased susceptibility to type i hypersensitivity reaction|1
+abnormal mast cell morphology|1
+peptic ulcer|1
+increased hepatocyte proliferation|1
+abnormal thromboxane level|1
+hyperpigmentation|1
+abnormal physiological response to xenobiotic|1
+increased physiological sensitivity to xenobiotic|1
+increased cell proliferation|1
+decreased metastatic potential|1
+abnormal total fat pad weight|1
+increased total fat pad weight|1
+increased body mass index|1
+abnormal epididymal fat pad morphology|1
+decreased epididymal fat pad weight|1
+decreased white adipose tissue amount|1
+decreased adiponectin level|1
+abnormal respiratory quotient|1
+hepatic steatosis|1
+increased percent body fat|1
+increased circulating insulin level|1
+abnormal gluconeogenesis|1
+liver inflammation|1
+increased hepatocyte apoptosis|1
+abnormal circulating alkaline phosphatase level|1
+decreased circulating alanine transaminase level|1
+abnormal circulating amylase level|1
+abnormal bone resorption|1
+decreased bone resorption|1
+abnormal trabecular bone thickness|1
+increased compact bone thickness|1
+abnormal long bone metaphysis morphology|1
+decreased circulating calcium level|1
+decreased circulating phosphate level|1
+increased growth rate|1
+decreased blood urea nitrogen level|1
+decreased circulating creatinine level|1
+enlarged mesenteric lymph nodes|1
+abnormal peripheral lymph node morphology|1
+extramedullary hematopoiesis|1
+increased interferon-gamma secretion|1
+decreased thymocyte number|1
+increased igg1 level|1
+decreased susceptibility to experimental autoimmune encephalomyelitis|1
+increased susceptibility to induced arthritis|1
+abnormal cell chemotaxis|1
+abnormal cell migration|1
+impaired neutrophil chemotaxis|1
+abnormal thymus weight|1
+decreased susceptibility to endotoxin shock|1
+decreased circulating interferon-gamma level|1
+abnormal t cell apoptosis|1
+abnormal lymph node cell ratio|1
+abnormal gamma-delta t cell morphology|1
+abnormal nk t cell physiology|1
+abnormal cd4-positive helper t cell morphology|1
+abnormal t-helper 1 cell morphology|1
+abnormal cd4-positive, alpha-beta t cell physiology|1
+abnormal t-helper 2 physiology|1
+abnormal t-helper 1 physiology|1
+increased interleukin-2 secretion|1
+abnormal small intestine crypts of lieberkuhn morphology|1
+abnormal enterocyte morphology|1
+abnormal duodenum morphology|1
+gastrointestinal hemorrhage|1
+abnormal large intestine crypts of lieberkuhn morphology|1
+decreased susceptibility to induced colitis|1
+abnormal enterocyte apoptosis|1
+decreased interleukin-1 beta secretion|1
+eye inflammation|1
+abnormal salivary gland physiology|1
+increased hematocrit|1
+abnormal mean corpuscular hemoglobin|1
+poikilocytosis|1
+impaired myelopoiesis|1
+abnormal spleen red pulp morphology|1
+increased platelet cell number|1
+increased pre-b cell number|1
+abnormal zona reticularis morphology|1
+abnormal adrenal gland morphology|1
+abnormal zona fasciculata morphology|1
+increased thyrotroph cell number|1
+abnormal response to novel odor|1
+abnormal operant conditioning behavior|1
+decreased alcohol consumption|1
+abnormal growth hormone level|1
+constricted vagina orifice|1
+abnormal thyroid follicle morphology|1
+abnormal social/conspecific interaction|1
+ovary cysts|1
+abnormal chondrocyte physiology|1
+abnormal mating receptivity|1
+decreased ovulation rate|1
+prolonged estrous cycle|1
+prolonged estrus|1
+delayed sexual maturation|1
+cryptorchism|1
+increased circulating testosterone level|1
+anovulation|1
+reduced female fertility|1
+reduced male fertility|1
+seminiferous tubule degeneration|1
+abnormal spermatid morphology|1
+abnormal spermiogenesis|1
+reproductive system inflammation|1
+increased diameter of long bones|1
+increased cardiac muscle contractility|1
+lactation failure|1
+abnormal decidualization|1
+abnormal pregnancy|1
+impaired embryo implantation|1
+increased uterine nk cell number|1
+abnormal lung compliance|1
+abnormal dermal layer morphology|1
+abnormal phospholipid level|1
+amyloidosis|1
+decreased digestive secretion|1
+stomach inflammation|1
+abnormal gastrointestinal motility|1
+embryo tissue necrosis|1
+abnormal mitochondrion morphology|1
+decreased heart rate variability|1
+abnormal thoracic cage shape|1
+abnormal sarcomere morphology|1
+centrally nucleated skeletal muscle fibers|1
+muscle degeneration|1
+abnormal muscle electrophysiology|1
+myocardial necrosis|1
+myocardial fiber degeneration|1
+abnormal endocardium morphology|1
+increased fear-related response|1
+abnormal bronchoconstrictive response|1
+abnormal body temperature homeostasis|1
+abnormal channel response|1
+abnormal single cell response|1
+abnormal inner cell mass morphology|1
+abnormal urine amino acid level|1
+abnormal nerve fiber response|1
+abnormal pulmonary ventilation|1
+decreased pulmonary ventilation|1
+abnormal lumbar dorsal root ganglion morphology|1
+decreased motor neuron number|1
+abnormal dentate gyrus morphology|1
+premature death|1
+complete postnatal lethality|1
+cachexia|1
+partial prenatal lethality|1
+abnormal spinal nerve morphology|1
+audiogenic seizures|1
+increased dopamine level|1
+abnormal associative learning|1
+abnormal cued conditioning behavior|1
+reduced long term depression|1
+absent long term depression|1
+increased vertical activity|1
+abnormal long term spatial reference memory|1
+decreased startle reflex|1
+increased prepulse inhibition|1
+abnormal glutamate-mediated receptor currents|1
+abnormal inhibitory postsynaptic currents|1
+enhanced behavioral response to morphine|1
+abnormal depression-related behavior|1
+impaired febrile response|1
+hyporesponsive to tactile stimuli|1
+abnormal nociception after inflammation|1
+abnormal neuronal migration|1
+abnormal axon extension|1
+abnormal cell differentiation|1
+abnormal neuron differentiation|1
+abnormal behavioral response to anesthetic|1
+impaired behavioral response to anesthetic|1
+akinesia|1
+abnormal susceptibility to hearing loss|1
+abnormal brain weight|1
+pathological neovascularization|1
+abnormal cornea morphology|1
+abnormal lens development|1
+small pharyngeal arch|1
+distended pericardium|1
+decreased trophoblast giant cell number|1
+abnormal endoderm development|1
+abnormal trachea morphology|1
+heart valve hyperplasia|1
+overriding aortic valve|1
+abnormal retinal vasculature morphology|1
+abnormal vascular permeability|1
+abnormal heart right ventricle pressure|1
+cardiac interstitial fibrosis|1
+decreased myocardial infarction size|1
+abnormal response to injury|1
+altered response of heart to induced stress|1
+increased systemic arterial diastolic blood pressure|1
+abnormal wound healing|1
+delayed wound healing|1
+impaired wound healing|1
+abnormal squamosal bone morphology|1
+abnormal palatine bone morphology|1
+spina bifida|1
+abnormal vertebral body morphology|1
+short vertebral column|1
+vertebral transformation|1
+cervical vertebral transformation|1
+kinked tail|1
+abnormal caudal vertebrae morphology|1
+short limbs|1
+abnormal long bone epiphyseal plate proliferative zone|1
+increased long bone epiphyseal plate size|1
+disproportionate dwarf|1
+abnormal bone mineralization|1
+delayed endochondral bone ossification|1
+abnormal head shape|1
+abnormal eye distance/ position|1
+abnormal coronal suture morphology|1
+abnormal cranial suture morphology|1
+decreased cranium height|1
+malocclusion|1
+abnormal surfactant physiology|1
+atelectasis|1
+respiratory failure|1
+enlarged lung|1
+abnormal lung vasculature morphology|1
+pulmonary edema|1
+abnormal muscle development|1
+translucent skin|1
+ear inflammation|1
+abnormal mesonephros morphology|1
+glomerular crescent|1
+glomerulosclerosis|1
+tubulointerstitial nephritis|1
+abnormal kidney cell proliferation|1
+renal glomerulus fibrosis|1
+abnormal biliary tract morphology|1
+liver fibrosis|1
+increased urine potassium level|1
+increased urine sodium level|1
+abnormal urine chloride ion level|1
+decreased mean systemic arterial blood pressure|1
+decreased systemic arterial blood pressure|1
+abnormal kidney afferent arteriole morphology|1
+abnormal kidney arterial blood vessel morphology|1
+kidney hemorrhage|1
+abnormal urinary bladder morphology|1
+distended urinary bladder|1
+abnormal urinary bladder physiology|1
+abnormal alveolar process morphology|1
+abnormal hair follicle development|1
+pallor|1
+thick epidermis|1
+dehydration|1
+abnormal sebaceous gland morphology|1
+increased length of allograft survival|1
+disheveled coat|1
+enlarged cecum|1
+abnormal coat/hair pigmentation|1
+hypopigmentation|1
+abnormal serotonin level|1
+increased airway responsiveness|1
+peritoneal inflammation|1
+abnormal optic choroid morphology|1
+abnormal active avoidance behavior|1
+allodynia|1
+abnormal bone healing|1
+absent ovarian follicles|1
+decreased physiological sensitivity to xenobiotic|1
+increased tumor growth/size|1
+abnormal adipose tissue physiology|1
+increased brown adipose tissue amount|1
+decreased respiratory quotient|1
+increased circulating vldl cholesterol level|1
+increased white adipose tissue amount|1
+increased fat cell size|1
+increased food intake|1
+polyphagia|1
+hyperglycemia|1
+hyperlipidemia|1
+abnormal kupffer cell morphology|1
+focal hepatic necrosis|1
+hepatic necrosis|1
+increased bone mass|1
+abnormal bone volume|1
+abnormal osteoclast physiology|1
+abnormal osteoblast physiology|1
+abnormal osteoblast differentiation|1
+decreased bone mass|1
+enlarged parathyroid gland|1
+increased circulating calcium level|1
+abnormal circulating phosphate level|1
+abnormal urine calcium level|1
+abnormal gallbladder physiology|1
+abnormal feces composition|1
+increased retroperitoneal fat pad weight|1
+increased inguinal fat pad weight|1
+abnormal acute phase protein level|1
+abnormal regulatory t cell physiology|1
+increased dendritic cell number|1
+abnormal cervical lymph node morphology|1
+abnormal pre-b cell morphology|1
+decreased monocyte cell number|1
+abnormal leukocyte adhesion|1
+abnormal chemokine secretion|1
+increased tumor necrosis factor secretion|1
+increased acute inflammation|1
+increased susceptibility to endotoxin shock|1
+abnormal circulating interleukin-12 level|1
+decreased circulating interleukin-6 level|1
+decreased circulating tumor necrosis factor level|1
+abnormal chemokine level|1
+abnormal circulating chemokine level|1
+decreased susceptibility to viral infection|1
+increased splenocyte proliferation|1
+abnormal splenic cell ratio|1
+abnormal interleukin-4 secretion|1
+abnormal dendritic cell physiology|1
+abnormal small intestine morphology|1
+abnormal intestinal goblet cell morphology|1
+abnormal digestive system physiology|1
+abnormal circulating interleukin-17 level|1
+increased susceptibility to autoimmune diabetes|1
+increased hemoglobin content|1
+increased erythrocyte cell number|1
+decreased mean corpuscular volume|1
+abnormal erythrocyte physiology|1
+increased bone marrow cell number|1
+abnormal common myeloid progenitor cell morphology|1
+abnormal erythroid progenitor cell morphology|1
+increased erythroid progenitor cell number|1
+abnormal adrenal medulla morphology|1
+abnormal adrenal cortex morphology|1
+increased uterus weight|1
+impaired luteinization|1
+abnormal conditioned taste aversion behavior|1
+increased alcohol consumption|1
+impaired behavioral response to alcohol|1
+abnormal thyrotroph morphology|1
+extended life span|1
+increased growth hormone level|1
+increased aggression towards males|1
+abnormal renal fat pad morphology|1
+increased renal fat pad weight|1
+abnormal uterus development|1
+enlarged endometrial glands|1
+abnormal granulosa cell morphology|1
+impaired granulosa cell differentiation|1
+abnormal ovulation|1
+abnormal superovulation|1
+decreased corpora lutea number|1
+abnormal metestrus|1
+abnormal epididymis morphology|1
+absent estrous cycle|1
+abnormal uterus morphology|1
+uterus hypoplasia|1
+impaired ovarian folliculogenesis|1
+abnormal endometrium morphology|1
+abnormal uterine horn morphology|1
+abnormal epididymis epithelium morphology|1
+abnormal secondary ovarian follicle morphology|1
+abnormal involution of the mammary gland|1
+abnormal mammary gland growth during lactation|1
+abnormal parturition|1
+abnormal uterus physiology|1
+abnormal uterine environment|1
+abnormal embryo implantation|1
+abnormal carotid artery morphology|1
+vascular smooth muscle cell hyperplasia|1
+aneurysm|1
+abnormal nose morphology|1
+abnormal pituitary gland physiology|1
+abnormal chief cell morphology|1
+enlarged stomach|1
+increased circulating glucagon level|1
+abnormal circulating glucagon level|1
+decreased circulating glucagon level|1
+abnormal exocrine pancreas morphology|1
+intestinal obstruction|1
+abnormal intestinal transit time|1
+abnormal mitochondrial physiology|1
+abnormal muscle tone|1
+abnormal sinus arrhythmia|1
+abnormal lung volume|1
+abnormal coronary circulation|1
+abnormal skeletal muscle morphology|1
+myopathy|1
+skeletal muscle degeneration|1
+abnormal transforming growth factor beta level|1
+abnormal muscle regeneration|1
+abnormal skeletal muscle regeneration|1
+myocarditis|1
+impaired neutrophil phagocytosis|1
+abnormal circadian rhythm|1
+abnormal vocalization|1
+impaired ability to fire action potentials|1
+hyperactivity|1
+limb grasping|1
+hunched posture|1
+slow postnatal weight gain|1
+partial perinatal lethality|1
+complete preweaning lethality|1
+abnormal myelination|1
+decreased susceptibility to neuronal excitotoxicity|1
+abnormal spatial learning|1
+decreased anxiety-related response|1
+abnormal spatial reference memory|1
+social withdrawal|1
+abnormal excitatory postsynaptic currents|1
+abnormal ligament morphology|1
+eyelids open at birth|1
+abnormal eye electrophysiology|1
+abnormal timing of postnatal eyelid opening|1
+complete prenatal lethality|1
+abnormal craniofacial development|1
+abnormal pharyngeal arch morphology|1
+abnormal heart looping|1
+abnormal rostral-caudal axis patterning|1
+abnormal chorion morphology|1
+absent limb buds|1
+interrupted aorta|1
+abnormal heart atrium morphology|1
+abnormal coronary vessel morphology|1
+abnormal blood-brain barrier function|1
+cardiac hypertrophy|1
+heart right ventricle hypertrophy|1
+cardiac fibrosis|1
+thin myocardium|1
+abnormal myocardial fiber physiology|1
+altered response to myocardial infarction|1
+increased myocardial infarction size|1
+abnormal vasoconstriction|1
+increased systemic arterial systolic blood pressure|1
+abnormal meckel's cartilage morphology|1
+abnormal trigeminal nerve morphology|1
+abnormal outer ear morphology|1
+abnormal chest morphology|1
+abnormal chondrocyte morphology|1
+abnormal neurocranium morphology|1
+abnormal parietal bone morphology|1
+abnormal ectoderm development|1
+syndactyly|1
+abnormal lung weight|1
+congestive heart failure|1
+abnormal respiratory conducting tube morphology|1
+maternal effect|1
+abnormal blood flow velocity|1
+kidney cysts|1
+renal glomerulus hypertrophy|1
+dilated renal tubules|1
+enlarged kidney|1
+decreased circulating renin level|1
+polydipsia|1
+increased circulating sodium level|1
+decreased systemic arterial systolic blood pressure|1
+hypotension|1
+kidney cortex atrophy|1
+kidney papillary atrophy|1
+thrombosis|1
+abnormal prostate gland physiology|1
+decreased hair follicle number|1
+abnormal epidermis stratum spinosum morphology|1
+abnormal skin physiology|1
+abnormal response to transplant|1
+abnormal vibrissa morphology|1
+pigmentation phenotype|1
+lethargy|1
+pulmonary fibrosis|1
+decreased sensitivity to induced morbidity/mortality|1
+increased papilloma incidence|1
+increased cellular sensitivity to ionizing radiation|1
+abnormal body mass index|1
+abnormal fat cell morphology|1
+abnormal gland physiology|1
+increased insulin secretion|1
+decreased circulating alkaline phosphatase level|1
+abnormal circulating serum albumin level|1
+increased bone volume|1
+abnormal bone remodeling|1
+decreased urine calcium level|1
+increased body temperature|1
+abnormal circulating ketone body level|1
+increased gonadal fat pad weight|1
+spleen hyperplasia|1
+increased b cell proliferation|1
+increased immature b cell number|1
+impaired neutrophil recruitment|1
+decreased spleen weight|1
+decreased circulating interleukin-1 beta level|1
+decreased susceptibility to parasitic infection|1
+abnormal single-positive t cell number|1
+decreased interleukin-17 secretion|1
+decreased susceptibility to autoimmune diabetes|1
+abnormal proerythroblast morphology|1
+abnormal noradrenaline level|1
+enlarged uterus|1
+abnormal latent inhibition of conditioning behavior|1
+proportional dwarf|1
+pup cannibalization|1
+abnormal estrus|1
+abnormal endometrial gland morphology|1
+abnormal mammary gland growth during pregnancy|1
+abnormal pancreatic alpha cell morphology|1
+hypotonia|1
+increased heart rate|1
+muscular atrophy|1
+increased variability of skeletal muscle fiber size|1
+abnormal circadian temperature homeostasis|1
+abnormal baroreceptor physiology|1
+decreased synaptic depression|1
+abnormal embryonic tissue physiology|1
+abnormal suckling behavior|1
+hypoactivity|1
+tremors|1
+abnormal posture|1
+partial preweaning lethality|1
+impaired cued conditioning behavior|1
+abnormal miniature excitatory postsynaptic currents|1
+abnormal gaba-mediated receptor currents|1
+increased chemically-elicited antinociception|1
+impaired behavioral response to cocaine|1
+abnormal grooming behavior|1
+decreased sensory neuron number|1
+abnormal vestibular labyrinth morphology|1
+abnormal action potential|1
+abnormal pillar cell morphology|1
+abnormal auditory brainstem response waveform shape|1
+abnormal eye development|1
+abnormal eyelid morphology|1
+abnormal intraocular pressure|1
+decreased retinal ganglion cell number|1
+absent vitelline blood vessels|1
+incomplete embryo turning|1
+delayed heart development|1
+persistent right dorsal aorta|1
+decreased heart weight|1
+decreased susceptibility to injury|1
+abnormal metabolism|1
+abnormal hyoid bone morphology|1
+small vertebral body|1
+increased width of hypertrophic chondrocyte zone|1
+delayed bone ossification|1
+abnormal frontal bone morphology|1
+abnormal pelvic girdle bone morphology|1
+abnormal foramen magnum morphology|1
+partial neonatal lethality|1
+abnormal scrotum morphology|1
+fetal growth retardation|1
+abnormal distal convoluted tubule morphology|1
+abnormal renal glomerular capsule morphology|1
+decreased urine chloride ion level|1
+kidney medulla atrophy|1
+thin epidermis|1
+abnormal hair follicle morphology|1
+integument phenotype|1
+skin lesions|1
+abnormal hair cycle|1
+abnormal lysosome morphology|1
+abnormal lung interstitium morphology|1
+pulmonary interstitial fibrosis|1
+abnormal thrombolysis|1
+increased stomach tumor incidence|1
+decreased sensitivity to xenobiotic induced morbidity/mortality|1
+abnormal cell morphology|1
+enlarged thymus|1
+abnormal brown fat cell morphology|1
+increased body length|1
+increased insulin sensitivity|1
+increased circulating glucose level|1
+abnormal retroperitoneal fat pad morphology|1
+liver failure|1
+liver degeneration|1
+abnormal hepatocyte physiology|1
+abnormal trabecular bone morphology|1
+abnormal bone trabecula morphology|1
+increased bone mineral density|1
+abnormal bone strength|1
+abnormal circulating parathyroid hormone level|1
+psoriasis|1
+abnormal circulating serum amyloid protein level|1
+increased pro-b cell number|1
+abnormal leukocyte migration|1
+increased susceptibility to viral infection induced morbidity/mortality|1
+decreased susceptibility to parasitic infection induced morbidity/mortality|1
+abnormal cd4-positive t cell differentiation|1
+pancreas inflammation|1
+abnormal nitric oxide homeostasis|1
+anemia|1
+hemolytic anemia|1
+pale liver|1
+abnormal interventricular groove morphology|1
+abnormal small intestinal crypt cell physiology|1
+small adrenal glands|1
+abnormal circulating noradrenaline level|1
+abnormal circulating antidiuretic hormone level|1
+adrenal cortical hyperplasia|1
+uterus cysts|1
+unidirectional circling|1
+increased abdominal fat pad weight|1
+decreased fluid intake|1
+abnormal liquid preference|1
+abnormal diencephalon morphology|1
+abnormal lactotroph morphology|1
+increased susceptibility to age related obesity|1
+increased circulating progesterone level|1
+abnormal ejaculation|1
+abnormal sexual interaction|1
+abnormal vagina size|1
+abnormal ovarian secretion|1
+reduced fertility|1
+thin uterus|1
+abnormal myometrium morphology|1
+abnormal reproductive system development|1
+testis hypoplasia|1
+enlarged heart atrium|1
+abnormal respiratory mechanics|1
+taste/olfaction phenotype|1
+abnormal digestive secretion|1
+short stride length|1
+irregular heartbeat|1
+abnormal ph regulation|1
+impaired muscle relaxation|1
+abnormal vein morphology|1
+induced hyperactivity|1
+abnormal basal ganglion morphology|1
+abnormal paired-pulse facilitation|1
+abnormal dorsal root ganglion morphology|1
+environmentally induced seizures|1
+decreased dopamine level|1
+increased susceptibility to neuronal excitotoxicity|1
+behavioral despair|1
+increased grooming behavior|1
+abnormal forebrain development|1
+abnormal tectorial membrane morphology|1
+persistence of hyaloid vascular system|1
+abnormal heart tube morphology|1
+abnormal nasal septum morphology|1
+decreased ventricle muscle contractility|1
+small heart|1
+abnormal response/metabolism to endogenous compounds|1
+abnormal esophagus morphology|1
+abnormal alisphenoid bone morphology|1
+abnormal parathyroid gland morphology|1
+ocular hypertelorism|1
+abnormal placenta size|1
+other phenotype|1
+intracranial hemorrhage|1
+abnormal vas deferens morphology|1
+decreased renal glomerulus number|1
+renal cast|1
+abnormal gallbladder morphology|1
+abnormal renal reabsorbtion|1
+enhanced wound healing|1
+reddish skin|1
+increased gland tumor incidence|1
+decreased liver weight|1
+obese|1
+abnormal interscapular fat pad morphology|1
+increased bone resorption|1
+increased igg2a level|1
+abnormal pro-b cell morphology|1
+abnormal antigen presentation|1
+microcytic anemia|1
+abnormal myelopoiesis|1
+abnormal adrenocortical cell morphology|1
+enlarged adrenal glands|1
+abnormal alcohol consumption|1
+small penis|1
+abnormal sinoatrial node conduction|1
+abnormal neurotransmitter uptake|1
+heart inflammation|1
+embryonic lethality at implantation|1
+demyelination|1
+decreased neuron apoptosis|1
+abnormal excitatory postsynaptic potential|1
+increased stereotypic behavior|1
+abnormal eye physiology|1
+decreased angiogenesis|1
+rib fusion|1
+abnormal cecum morphology|1
+increased bleeding time|1
+absent subcutaneous adipose tissue|1
+hypoglycemia|1
+abnormal class switch recombination|1
+increased susceptibility to autoimmune disorder|1
+abnormal female reproductive system physiology|1
+abnormal tongue morphology|1
+abnormal gabaergic neuron morphology|1
+abnormal social investigation|1
+abnormal enzyme/coenzyme activity|1
+abnormal cranium size|1
+abnormal proximal convoluted tubule morphology|1
+abnormal oxygen consumption|1
+abnormal reticulocyte morphology|1
+abnormal learning/memory/conditioning|1
+abnormal heart ventricle morphology|1
+abnormal tail morphology|1
+abnormal skeleton development|1
+increased susceptibility to weight gain|1
+improved glucose tolerance|1
+abnormal bone structure|1
+abnormal pericardium morphology|1

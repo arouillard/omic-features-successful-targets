@@ -1,0 +1,8 @@
+purine nucleotides degradation|1	adenosine nucleotides degradation|0.83666	urate biosynthesis/inosine 5'-phosphate degradation|0.774597
+mean|1	stdv|0.920317
+superpathway of purine nucleotide salvage|1
+noradrenaline and adrenaline degradation|1
+dermatan sulfate degradation (metazoa)|1
+dopamine degradation|1
+C20 prostanoid biosynthesis|1
+chondroitin sulfate degradation (metazoa)|1

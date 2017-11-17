@@ -1,0 +1,664 @@
+mean|1	stdv|0.940029	abnormality of nervous system physiology|0.758935	abnormality of the skeletal system|0.804906	abnormality of the nervous system|0.774488	abnormality of skeletal morphology|0.807357	abnormality of the head|0.802779	abnormality of head or neck|0.80227	abnormality of nervous system morphology|0.76842	abnormality of the face|0.79782	abnormal axial skeleton morphology|0.79637	abnormality of limb bone morphology|0.771561	abnormality of limb bone|0.771561	abnormal appendicular skeleton morphology|0.77241	abnormality of limbs|0.771658	abnormality of the eye|0.767997	aplasia/hypoplasia involving the skeleton|0.721101	morphological abnormality of the central nervous system|0.759585	abnormality of digit|0.718208	abnormality of the skull|0.775418	abnormality of the mouth|0.787939	abnormality of the upper limb|0.741006	abnormality of the hand|0.735507	abnormality of brain morphology|0.742737	abnormality of the musculature|0.71791	abnormal eye morphology|0.753692	abnormality of the globe|0.75184	abnormality of the oral cavity|0.761259	abnormality of the ocular region|0.745148	abnormality of the integument|0.75667	abnormality of the lower limb|0.725128	abnormality of the genitourinary system|0.741307	abnormal eye physiology|0.723856	abnormality of the nose|0.7251	growth abnormality|0.762194	abnormality of the outer ear|0.719519	abnormality of the ear|0.760126	abnormality of higher mental function|0.726146	abnormality of body height|0.711844	growth delay|0.718014	abnormality of the abdomen|0.738945	abnormality of the vertebral column|0.716393	abnormality of the cardiovascular system|0.724965	abnormal joint morphology|0.719142
+limb joint contracture|1	joint contracture of the hand|0.840673	contractures of the joints of the upper limbs|0.896038	flexion contracture of finger|0.775217	interphalangeal joint contracture of finger|0.76899	camptodactyly of finger|0.762713	abnormality of phalangeal joints of the hand|0.756783	flexion contracture of digit|0.849837	camptodactyly|0.838462	flexion contracture|0.762237	abnormal tendon morphology|0.754893
+abnormal genital system morphology|1	abnormality of the penis|0.723658	abnormality of male external genitalia|0.880552	abnormal external genitalia|0.891244	abnormality of the male genitalia|0.891244	abnormality of the testis|0.822551	abnormality of the genital system|0.933521	cryptorchidism|0.716139	abnormality of the female genitalia|0.708541
+radial deviation of finger|1	radial deviation of the hand or of fingers of the hand|0.997824	finger clinodactyly|0.915657	clinodactyly of the 5th finger|0.915657	deviation of the 5th finger|0.913282	deviation of finger|0.940303	clinodactyly|0.923416	deviation of the hand or of fingers of the hand|0.92438	abnormality of the 5th finger|0.869583
+abnormality of the cerebrum|1	abnormality of forebrain morphology|0.997712	aplasia/hypoplasia involving the central nervous system|0.907559	abnormality of skull size|0.771332	aplasia/hypoplasia of the cerebrum|0.863204	microcephaly|0.777851
+abnormality of finger|1	abnormality of phalanx of finger|0.822381
+forearm undergrowth|1	upper limb undergrowth|0.948683	abnormal morphology of ulna|0.799305	hypoplasia of the ulna|0.799305	abnormal morphology of bones of the upper limbs|0.866025	aplasia/hypoplasia of the ulna|0.755929	hypoplasia of the radius|0.833333	abnormal morphology of the radius|0.732467
+aplasia involving bones of the extremities|1	aplasia/hypoplasia of the extremities|0.95814	aplasia/hypoplasia involving bones of the hand|0.82736	aplasia/hypoplasia involving bones of the lower limbs|0.786796	aplasia/hypoplasia involving bones of the upper limbs|0.883041	short digit|0.725066	abnormality of lower limb bone|0.73394
+abnormality of the fundus|1	abnormality of the posterior segment of the eye|0.997906	abnormality of the optic nerve|0.781437	abnormality of the optic disc|0.749416	optic atrophy|0.723747	abnormality of the retina|0.861567
+abnormality of facial skeleton|1	aplasia/hypoplasia involving bones of the skull|0.807919	aplasia/hypoplasia of the mandible|0.786747	micrognathia|0.785725	aplasia/hypoplasia affecting bones of the axial skeleton|0.785434	abnormality of the mandible|0.872959
+hand polydactyly|1	polydactyly|0.901178	duplication involving bones of the feet|0.715564	duplication of phalanx of hand|0.96802	duplication of bones involving the upper extremities|0.964653	duplication of hand bones|0.964653	foot polydactyly|0.719243
+abnormality of the radius|1	abnormality of forearm bone|0.948683	abnormality of the forearm|0.941979	abnormality of upper limb bone|0.913475	abnormality of the ulna|0.781243	aplasia/hypoplasia involving forearm bones|0.709795	aplasia/hypoplasia of the radius|0.729209
+abnormality of the middle ear|1	hearing impairment|0.795269	hearing abnormality|0.791961	abnormality of the inner ear|0.889095	functional abnormality of the inner ear|0.885746	sensorineural hearing impairment|0.85762
+abnormality of the foot|1	abnormality of toe|0.739326
+synostosis of carpals/tarsals|1	carpal synostosis|0.845154	synostosis involving bones of the feet|0.788811	synostosis involving bones of the lower limbs|0.788811	tarsal synostosis|0.816497	synostosis involving bones of the hand|0.782461	synostosis of carpal bones|0.723747
+abnormalities of the peripheral arteries|1	arterial stenosis|1	abnormality of the coronary arteries|0.730383	coronary artery disease|0.73598	cerebral ischemia|0.795822	abnormality of cerebral artery|0.762414	abnormality of the systemic arterial tree|0.716115
+abnormality of the cardiac septa|1	abnormality of the atrial septum|0.807856	defect in the atrial septum|0.807856	abnormality of cardiac atrium|0.807868	abnormality of the ventricular septum|0.792509	ventricular septal defect|0.78584	abnormality of cardiac ventricle|0.716377
+abnormality of eye movement|1	abnormal involuntary eye movements|0.811894	nystagmus|0.810435	abnormal conjugate eye movement|0.718315	strabismus|0.716666
+abnormality of coordination|1	abnormality of the cerebellum|0.734043	abnormality of hindbrain morphology|0.73283	abnormality of the metencephalon|0.73283	abnormality of central motor function|0.722689	ataxia|0.811622	incoordination|0.751982
+abnormality of b cell physiology|1	abnormal immunoglobulin level|0.990867	abnormality of b cells|0.995485	abnormality of humoral immunity|0.91017	abnormality of lymphocytes|0.870988	hypogammaglobulinemia|0.863397
+hernia of the abdominal wall|1	abdominal wall defect|0.996086	hernia|0.939119	abnormality of the abdominal wall|0.926341	abnormality of the umbilicus|0.771047	umbilical hernia|0.771031
+bowing of the legs|1	abnormality of the calf|0.92582	anomaly of the limb diaphyses|0.866025	bowing of the long bones|0.866025	abnormal diaphysis morphology|0.832851	genu valgum|0.790569
+abnormality of the kidney|1	abnormality of the upper urinary tract|0.970437	abnormality of the urinary system|0.827748	abnormal renal physiology|0.73117	abnormal renal morphology|0.87259
+abnormality of muscle physiology|1	abnormal muscle tone|0.873678	muscular hypotonia|0.773067
+abnormality of the abdominal organs|1	abnormality of the gastrointestinal tract|0.80907	morphological abnormality of the gastrointestinal tract|0.778465	abnormality of the liver|0.761832
+abnormality of the external nose|1	abnormal nasal morphology|0.811716	abnormality of the nasal alae|0.844384	anteverted nares|0.788586	abnormality of the nares|0.785876
+abnormality of the anterior segment of the eye|1	abnormality of the lens|0.825457	cataract|0.811979	abnormality of the cornea|0.752009
+visceromegaly|1	abnormality of the spleen|0.758382	splenomegaly|0.766305	abnormality of the lymphatic system|0.709955	hepatomegaly|0.899085
+abnormality of glycosaminoglycan metabolism|1	abnormality of mucopolysaccharide metabolism|1	abnormality of polysaccharide metabolism|1	mucopolysacchariduria|0.970143	urinary glycosaminoglycan excretion|0.970143
+brain atrophy|1	brain very small|1	atrophy/degeneration affecting the cerebrum|0.981915	cerebral atrophy|0.974587	atrophy/degeneration affecting the central nervous system|0.93815
+abnormality of the zygomatic arch|1	hypoplastic facial bones|0.986617	malar anomaly|0.921352	malar flattening|0.911653	abnormality of the midface|0.871857
+broad phalanges of the hand|1	broad phalanx|0.942809	broad finger|0.970143	broad long bones|0.883452	broad thumb|0.883883
+abnormal location of ears|1	low-set ears|0.987959	posteriorly rotated ears|0.90065	low-set, posteriorly rotated ears|0.856763
+abnormality of the anterior pituitary|1	abnormality of the pituitary gland|0.995565	anterior hypopituitarism|0.839855	hypopituitarism|0.839855	abnormality of the hypothalamus-pituitary axis|0.823886
+polyuria|1	abnormal urine output|0.916515	abnormal drinking behavior|0.816497	polydipsia|0.816497	abnormality of renal excretion|0.850963
+upper motor neuron dysfunction|1	abnormal pyramidal signs|0.999292	hypertonia|0.776788	hyperreflexia|0.724911
+abnormality of divalent inorganic cation homeostasis|1	abnormality of calcium homeostasis|0.984084	abnormality of cation homeostasis|0.782881	abnormality of ion homeostasis|0.736788	abnormal concentration of calcium in blood|0.814345
+aplasia/hypoplasia of fingers|1	short finger|0.895897	abnormal hand morphology|0.817316
+abnormal morphology of forearm bone|1
+abnormality of the skin|1	generalized abnormality of skin|0.910409	abnormality of skin morphology|0.738068
+abnormality of the menstrual cycle|1	menstrual irregularities|1	amenorrhea|0.798706	primary amenorrhea|0.713176	puberty and gonadal disorders|0.708636
+abnormality of the palpebral fissures|1	abnormality of the periorbital region|0.736424	abnormality of the eyelid|0.788861	slanting of the palpebral fissure|0.893134	downslanted palpebral fissures|0.737125
+lower extremity joint dislocation|1	abnormality of the hip joint|0.750041	abnormality of the synovia|0.738704	hip dislocation|0.864505	joint dislocation|0.793183
+mode of inheritance|1	autosomal recessive inheritance|0.789596
+neurodevelopmental abnormality|1	neurodevelopmental delay|0.802873	intellectual disability|0.777634
+abnormality of the palate|1	abnormality of the hard palate|0.775087	cleft palate|0.772631	oral cleft|0.737179
+abnormality of cells of the erythroid lineage|1	abnormality of erythrocytes|1	anemia|0.957035	abnormality of bone marrow cell morphology|0.95647
+abnormal levels of creatine kinase in blood|1	elevated serum creatine phosphokinase|1	abnormality of circulating enzyme level|1	abnormality of circulating protein level|0.87178
+abnormality of the corpus callosum|1	abnormality of the cerebral white matter|0.952877	aplasia/hypoplasia of the corpus callosum|0.98468	abnormality of the cerebral subcortex|0.910567
+atherosclerosis|1	arteriosclerosis|0.98773
+hypoplastic male external genitalia|1	external genital hypoplasia|0.985074	hypoplasia of penis|0.965038
+abnormality of the epiphyses of the hand|1	abnormality of upper limb epiphysis morphology|0.981307	abnormality of the epiphyses of the phalanges of the hand|0.94054	abnormality of limb epiphysis morphology|0.72111
+abnormality of the respiratory system|1	abnormal respiratory system morphology|0.959231	abnormality of the lung|0.915519	functional respiratory abnormality|0.723781
+short stature|1
+abnormality of blood circulation|1	internal hemorrhage|1	gastrointestinal hemorrhage|0.839664	abnormal bleeding|0.729772
+elevated pulmonary artery pressure|1	pulmonary hypertension|1	abnormality of the pulmonary artery|0.778499	abnormality of the pulmonary vasculature|0.750587
+abnormality of globe location|1	abnormality of the orbital region|0.925228	hypertelorism|0.85757
+recurrent infections|1	recurrent respiratory infections|0.828122	respiratory tract infection|0.820986	abnormality of immune system physiology|0.825816
+aplasia/hypoplasia of toe|1	aplasia/hypoplasia involving bones of the feet|0.803954	short toe|0.941697
+abnormality of joint mobility|1
+irregular hyperpigmentation|1	macule|0.759416	hypermelanotic macule|0.759326	hyperpigmentation of the skin|0.887262
+hyperkeratosis|1	epidermal thickening|0.82153	thickened skin|0.782419	palmoplantar keratoderma|0.799214
+abnormality of skin adnexa|1	abnormality of the hair|0.893513	abnormal hair quantity|0.716676
+abnormality of the urinary system physiology|1	abnormality of urine homeostasis|0.771869
+abnormality of calvarial morphology|1	abnormal shape of the frontal region|0.71045	frontal bossing|0.71045	abnormality of the calvaria|0.905217
+abnormality of facial musculature|1	cranial nerve paralysis|0.765793	abnormality of the cranial nerves|0.731639	abnormality of facial soft tissue|0.801277
+hypoparathyroidism|1	abnormality of the parathyroid physiology|0.789076	abnormality of the parathyroid gland|0.74162	hyperthyroidism|0.710669
+diabetes mellitus|1	abnormal glucose homeostasis|0.780824	abnormality of carbohydrate metabolism/homeostasis|0.731437	type ii diabetes mellitus|0.723439
+subcutaneous hemorrhage|1	bruising susceptibility|0.733086	vascular skin abnormality|0.715678
+renotubular dysgenesis|1	decreased urine output|1	anuria|1
+dilatation of the renal pelvis|1	hydronephrosis|1	abnormality of the renal pelvis|0.991189
+abnormality of alkaline phosphatase activity|1	abnormal enzyme/coenzyme activity|0.985611	elevated alkaline phosphatase|0.954864
+aplasia/hypoplasia of the maxilla|1	hypoplasia of the maxilla|1	abnormality of the maxilla|0.916125
+abnormality of granulocytes|1	abnormality of myeloid leukocytes|0.960045	abnormality of neutrophils|0.946269
+abnormality of female internal genitalia|1	abnormal internal genitalia|0.965004
+abnormal platelet count|1	thrombocytopenia|0.976328	abnormality of thrombocytes|0.920073
+abnormality of corneal stroma|1	opacification of the corneal stroma|0.99637	corneal opacity|0.890564
+cardiomyopathy|1	abnormality of the myocardium|0.976702	hypertrophic cardiomyopathy|0.886683
+deviation of the hallux|1	hallux valgus|0.970143	deviation of toes|0.879049
+abnormality of thyroid physiology|1	hypothyroidism|0.995859	abnormality of the thyroid gland|0.829156
+abnormality of central nervous system electrophysiology|1	eeg abnormality|0.968608	abnormal nervous system electrophysiology|0.854113
+abnormality of the curvature of the vertebral column|1	scoliosis|0.951624
+aplasia/hypoplasia of the middle phalanges of the hand|1	abnormality of the middle phalanges of the hand|0.927961	short middle phalanx of finger|0.879883
+hypohidrosis or hyperhidrosis|1	abnormality of the sweat gland|0.974118	hyperhidrosis|0.822753
+abnormality of the nasopharynx|1	recurrent upper respiratory tract infections|0.898459	abnormality of the pharynx|0.889087
+abnormality of cardiac morphology|1	malformation of the heart and great vessels|0.989071
+talipes|1	positional foot deformity|0.997639	talipes equinovarus|0.781904
+abnormality of bone mineral density|1	reduced bone mineral density|0.892038	abnormal bone structure|0.880576
+abnormality of carboxylic acid metabolism|1	abnormality of amino acid metabolism|0.925316	aciduria|0.842665
+thick lower lip vermilion|1	thick vermilion border|0.956606	abnormality of lower lip|0.809571
+short attention span|1	attention deficit hyperactivity disorder|0.952479	hyperactivity|0.806637
+venous thrombosis|1	abnormal thrombosis|0.904534	thrombophlebitis|0.849837
+abnormality of the urethra|1	displacement of the external urethral meatus|0.923694	abnormality of the lower urinary tract|0.820268
+short neck|1	abnormality of the cervical spine|0.963624	abnormality of the neck|0.780189
+ovarian cyst|1	polycystic ovaries|0.97952	abnormality of the ovary|0.760345
+genital neoplasm|1	gonadal neoplasm|0.892915	neoplasm of the genitourinary tract|0.843527
+x-linked inheritance|1	gonosomal inheritance|0.985329	x-linked recessive inheritance|0.744983
+arachnodactyly|1	slender finger|0.966092	long fingers|0.752101
+abnormality of urine calcium concentration|1	hypercalciuria|0.953463	abnormal urinary electrolyte concentration|0.760886
+abnormally lax or hyperextensible skin|1	cutis laxa|0.855399	abnormal elasticity of skin|0.851859
+abnormality of the hip bone|1	abnormality of pelvic girdle bone morphology|0.888912	abnormality of lower limb joint|0.813688
+abnormality of skeletal maturation|1	delayed skeletal maturation|0.929448	abnormality of skeletal physiology|0.757346
+aplasia/hypoplasia involving the femoral head and neck|1	aplasia/hypoplasia of the femur|0.894427	aplasia/hypoplasia involving the pelvis|0.790569
+abnormality of the gingiva|1	abnormality of oral mucosa|0.892062	gingival overgrowth|0.787064
+functional abnormality of the bladder|1	vesicoureteral reflux|0.726038	abnormality of the bladder|0.946485
+short phalanx of finger|1	aplasia/hypoplasia of the phalanges of the hand|0.949425	abnormality of the distal phalanx of finger|0.713452
+aplasia/hypoplasia of metatarsal bones|1	short metatarsal|0.942809	abnormality of the metatarsal bones|0.717137
+aplasia/hypoplasia of the ribs|1	short ribs|0.87178	aplasia/hypoplasia involving bones of the thorax|0.785674
+decreased body weight|1	abnormality of body weight|0.851365	failure to thrive|0.806044
+abnormality of the femoral neck or head region|1	abnormality of the femoral neck|0.903826	abnormality of the femur|0.739022
+abnormality of the tracheobronchial system|1	abnormality of the trachea|0.755929	abnormality of the upper respiratory tract|0.88571
+abnormality of muscle size|1	abnormality of muscle morphology|0.708072	skeletal muscle atrophy|0.926451
+abnormality of sodium homeostasis|1	abnormality of monovalent inorganic cation homeostasis|0.729325	hyponatremia|0.894427
+abnormality of the intestine|1
+abnormality of the ilium|1	abnormality of the wing of the ilium|0.812404	hypoplastic ilia|0.787401
+feeding difficulties|1	feeding difficulties in infancy|0.875481	abdominal symptom|0.71628
+abnormality of the rib cage|1	abnormality of the ribs|0.87765	abnormality of the thorax|0.713565
+abnormal enchondral ossification|1	abnormal bone ossification|0.879316	abnormal epiphyseal ossification|0.711805
+hydrocephalus|1	abnormality of the cerebral ventricles|0.730424	abnormality of the cerebrospinal fluid|0.860413
+synostosis involving bones of the upper limbs|1	synostosis of joints|0.814735	radioulnar synostosis|0.772918
+leukemia|1	acute leukemia|0.822659	hematological neoplasm|0.75
+abnormality of the glomerulus|1	abnormality of the nephron|0.832725	glomerulopathy|0.739844
+regional abnormality of skin|1	abnormal dermatoglyphics|0.847791	abnormality of the palm|0.715426
+syndactyly|1	finger syndactyly|0.828978	toe syndactyly|0.72203
+abnormality of the carpal bones|1	abnormality of the wrist|0.816497
+abnormality of dental structure|1	abnormality of dental enamel|0.752355	carious teeth|0.749213
+abnormality of upper limb joint|1
+hyperinsulinemia|1	abnormality of circulating hormone level|0.786578
+abnormality of the cerebral vasculature|1
+abnormal urine cytology|1	hematuria|1
+cephalocele|1	encephalocele|1
+abnormality of the pylorus|1	pyloric stenosis|1
+abnormality of intracranial pressure|1	increased intracranial pressure|1
+abnormal platelet function|1	impaired platelet aggregation|1
+mortality/aging|1	time of death|1
+facial shape deformation|1	potter facies|1
+abnormality of cellular immune system|1	abnormality of leukocytes|1
+obstructive lung disease|1	chronic obstructive pulmonary disease|1
+early onset of sexual maturation|1	precocious puberty|1
+abnormal neutrophil cell number|1	neutropenia|1
+abnormality of the zygomatic bone|1	cheekbone underdevelopment|1
+anemia due to reduced life span of red cells|1	hemolytic anemia|1
+conductive hearing impairment|1	functional abnormality of the middle ear|0.993651
+eclabion|1	everted lower lip vermilion|0.993311
+intestinal obstruction|1	gastrointestinal obstruction|0.99322
+abnormality of nitrogen compound homeostasis|1	azotemia|0.991189
+hemangioma|1	vascular neoplasm|0.989949
+sudden cardiac death|1	cardiac arrest|0.988826
+conotruncal defect|1	tetralogy of fallot|0.98773
+facial edema|1	periorbital edema|0.986013
+chondrocalcinosis|1	abnormality of sharpey fibers|0.981981
+obesity|1	increased body weight|0.975137
+triangular shaped phalanges of the hand|1	abnormality of thumb phalanx|0.971825
+lymphadenopathy|1	abnormality of the lymph nodes|0.971558
+hemangiomatosis|1	visceral angiomatosis|0.970143
+diminished motivation|1	apathy|0.970143
+aplasia/hypoplasia of the hallux|1	short hallux|0.968246
+split hand|1	ectrodactyly|0.967559
+neoplasm by anatomical site|1	neoplasm|0.967418
+abnormally folded helix|1	overfolded helix|0.966092
+abnormality of acid-base homeostasis|1	acidosis|0.963952
+abnormal retinal pigmentation|1	abnormality of the retinal pigment epithelium|0.962622
+choanal atresia|1	abnormality of the choanae|0.961963
+abnormality of the humerus|1	abnormality of the upper arm|0.961769
+abnormal number of teeth|1	reduced number of teeth|0.959166
+neoplasm of the lung|1	neoplasm of the respiratory system|0.958603
+visual impairment|1	abnormality of vision|0.957876
+lipoatrophy|1	lipodystrophy|0.957427
+abnormality of blood glucose concentration|1	hypoglycemia|0.956757
+patent ductus arteriosus|1	congenital malformation of the great arteries|0.951734
+abnormality of the atrioventricular valves|1	abnormality of the mitral valve|0.946485
+decreased skull ossification|1	abnormality of skull ossification|0.944911
+iris hypopigmentation|1	ocular albinism|0.94054
+abnormality of hair pigmentation|1	hypopigmentation of hair|0.939336
+abnormal male reproductive system physiology|1	functional abnormality of male internal genitalia|0.938806
+narrow chest|1	thoracic hypoplasia|0.937826
+sinusitis|1	abnormality of the sinuses|0.935414
+hepatic failure|1	decreased liver function|0.934523
+abnormality of cells of the lymphoid lineage|1	lymphopenia|0.9337
+cranial hyperostosis|1	hyperostosis|0.92582
+cervical myelopathy|1	myelopathy|0.92582
+abnormality of the odontoid process|1	hypoplasia of the odontoid process|0.921954
+broad hallux|1	broad toe|0.916515
+autistic behavior|1	autism|0.915675
+delayed eruption of teeth|1	abnormality of dental eruption|0.913757
+increased susceptibility to fractures|1	recurrent fractures|0.912871
+migraine|1	headache|0.912871
+aplasia/hypoplasia of the abdominal wall musculature|1	abnormality of the abdominal musculature|0.912871
+melanocytic nevus|1	nevus|0.910927
+edema|1	abnormality of fluid regulation|0.901876
+abnormality of skin physiology|1	inflammatory abnormality of the skin|0.897794
+large fontanelles|1	abnormality of fontanelles|0.896994
+hypoplasia of dental enamel|1	hypoplasia of teeth|0.891883
+meningitis|1	cns infection|0.889001
+immunologic hypersensitivity|1	asthma|0.885785
+hemiplegia/hemiparesis|1	weakness due to upper motor neuron dysfunction|0.880631
+cognitive impairment|1
+abnormality of the level of lipoprotein cholesterol|1	hypolipoproteinemia|0.879049
+abnormality of the vertebrae|1	abnormal form of the vertebral bodies|0.877618
+global developmental delay|1
+myopia|1	abnormality of refraction|0.874475
+dialeptic seizures|1	absence seizures|0.872872
+paresthesia|1	sensory neuropathy|0.872019
+disproportionate short-limb short stature|1	disproportionate short stature|0.868243
+respiratory insufficiency|1
+diaphyseal sclerosis|1	increased density of long bones|0.866025
+abnormality of potassium homeostasis|1
+vestibular dysfunction|1	vertigo|0.853706
+hypopigmentation of the skin|1	hypopigmented skin patches|0.849076
+abnormality of phosphate homeostasis|1	hypophosphatemia|0.849076
+abnormal pattern of respiration|1	apnea|0.846114
+widely patent fontanelles and sutures|1	wide cranial sutures|0.840168
+ventriculomegaly|1
+cardiomegaly|1	abnormal heart morphology|0.83887
+brachydactyly syndrome|1
+onset|1	clinical modifier|0.832414
+abnormality of nucleobase metabolism|1	abnormality of purine metabolism|0.828079
+spasticity|1
+abnormality of the anus|1	anorectal anomaly|0.823055
+abnormality of multiple cell lineages in the bone marrow|1	bone marrow hypocellularity|0.822478
+abnormality of the fontanelles or cranial sutures|1	abnormality of cranial sutures|0.821102
+abnormality of the 2nd finger|1	abnormality of the phalanges of the 2nd finger|0.816497
+underdeveloped supraorbital ridges|1	abnormality of the supraorbital ridges|0.816497
+decreased fetal movement|1	prenatal movement abnormality|0.813733
+abnormality of the uvea|1	abnormality of the iris|0.80937
+abnormality of the immune system|1
+pectus excavatum|1	abnormality of the sternum|0.807573
+pancreatitis|1	abnormality of pancreas physiology|0.806947
+mandibular prognathia|1	abnormality of the chin|0.804156
+abnormal leukocyte count|1	leukopenia|0.804084
+tracheoesophageal fistula|1
+aplasia/hypoplasia of the lungs|1	pulmonary hypoplasia|0.793492
+abnormality of male internal genitalia|1	abnormality of the prostate|0.790569
+macroglossia|1	skeletal muscle hypertrophy|0.790569
+limb undergrowth|1	micromelia|0.788307
+long philtrum|1	abnormality of the philtrum|0.78766
+conjunctivitis|1	abnormality of the conjunctiva|0.787222
+abnormality of the aorta|1
+microdontia|1	abnormality of dental morphology|0.781133
+abnormality of the amniotic fluid|1	polyhydramnios|0.780869
+sarcoma|1	neoplasm by histology|0.777987
+renal insufficiency|1
+aplasia/hypoplasia of the earlobes|1	abnormality of earlobe|0.774597
+abnormal peripheral nervous system morphology|1	peripheral neuropathy|0.772802
+abnormality of corneal epithelium|1	corneal erosion|0.770208
+abnormal metacarpal morphology|1	abnormality of the metacarpal bones|0.766965
+mental deterioration|1	dementia|0.766672
+abnormality of the ureter|1
+ectopic calcification|1	cerebral calcification|0.763763
+severe short stature|1	proportionate short stature|0.762493
+depressed nasal ridge|1	abnormality of the nasal dorsum|0.762156
+abnormal ekg|1	prolonged qt interval|0.762001
+hypocalcemia|1
+abnormality of the pinna|1
+abnormal cns myelination|1	abnormal myelination|0.748625
+abnormality of the nasal bridge|1
+abnormality of eosinophils|1	leukocytosis|0.740153
+polyphagia|1	abnormal eating behavior|0.738549
+pace of progression|1	progressive disorder|0.738318
+reduced tendon reflexes|1	hyporeflexia|0.738108
+abnormality of the aortic valve|1	abnormality of the heart valves|0.737643
+abnormality of the teeth|1
+abnormality of mouth size|1	narrow mouth|0.733193
+functional abnormality of the gastrointestinal tract|1
+neoplasm of the gastrointestinal tract|1	neoplasm of the stomach|0.731357
+vomiting|1	nausea and vomiting|0.727607
+abnormality of skin pigmentation|1
+abnormality of the breast|1	abnormality of the nipple|0.712943
+abnormality of thyroid morphology|1	goiter|0.711354
+basal ganglia calcification|1	abnormality of the basal ganglia|0.707107
+abnormality of metabolism/homeostasis|1
+seizures|1
+abnormal facial shape|1
+abnormality of the forehead|1
+depressed nasal bridge|1
+abnormality of connective tissue|1
+abnormality of the metaphyses|1
+proptosis|1
+abnormality of the knees|1
+misalignment of teeth|1
+abnormality of the autonomic nervous system|1
+renal cyst|1
+tremor|1
+infantile onset|1
+coarse facial features|1
+abnormality of the sacrum|1
+anorexia|1
+ophthalmoparesis|1
+pes cavus|1
+autoimmunity|1
+arthralgia|1
+otitis media|1
+micropenis|1
+hypospadias|1
+abnormality of the eyebrow|1
+abnormality of the larynx|1
+abnormality of movement|1
+gait disturbance|1
+neurological speech impairment|1
+chorea|1
+slow progression|1
+abnormality of the hallux|1
+macrotia|1
+abnormality of the small intestine|1
+pes planus|1
+emg abnormality|1
+abnormality of the fingernails|1
+weight loss|1
+ascites|1
+somatic mutation|1
+stroke|1
+photophobia|1
+abnormality of primary teeth|1
+generalized seizures|1
+heterogeneous|1
+abnormality of coagulation|1
+sepsis|1
+eczema|1
+skin ulcer|1
+recurrent viral infections|1
+acne|1
+abnormality of the pleura|1
+abnormality of the pericardium|1
+gangrene|1
+abnormal blistering of the skin|1
+recurrent lower respiratory tract infections|1
+abnormality of the bronchi|1
+prolonged bleeding time|1
+malabsorption|1
+inguinal hernia|1
+high palate|1
+nephrotic syndrome|1
+abnormal morphology of bones of the lower limbs|1
+abnormality of epiphysis morphology|1
+platyspondyly|1
+renal hypoplasia/aplasia|1
+hypodontia|1
+hypertrichosis|1
+abnormality of the scalp|1
+convex nasal ridge|1
+holoprosencephaly|1
+abnormality of the clavicle|1
+abnormality of the stomach|1
+developmental regression|1
+phenotypic variability|1
+autosomal dominant inheritance|1
+abnormal emotion/affect behavior|1
+pathologic fracture|1
+bone pain|1
+gynecomastia|1
+small face|1
+broad forehead|1
+high forehead|1
+abnormality of the nasal tip|1
+dolichocephaly|1
+hypergonadotropic hypogonadism|1
+dilated cardiomyopathy|1
+telecanthus|1
+aplasia/hypoplasia of the nails|1
+cupped ear|1
+tall stature|1
+hyperextensible skin|1
+aortic valve stenosis|1
+xerostomia|1
+lacrimation abnormality|1
+abnormality of the tibia|1
+abnormality of the middle phalanges of the toes|1
+aplasia/hypoplasia of the thumb|1
+preaxial foot polydactyly|1
+abdominal distention|1
+waddling gait|1
+hyperlordosis|1
+enlarged thorax|1
+abnormality of the acetabulum|1
+genu varum|1
+osteoarthritis|1
+aplasia/hypoplasia of the cerebellum|1
+abnormality of the scapula|1
+abdominal pain|1
+sporadic|1
+intracranial hemorrhage|1
+hydrops fetalis|1
+premature birth|1
+paraplegia/paraparesis|1
+sensory impairment|1
+muscle weakness|1
+stillbirth|1
+accelerated skeletal maturation|1
+acanthosis nigricans|1
+osteolysis|1
+neoplasm of the skeletal system|1
+joint stiffness|1
+ovoid vertebral bodies|1
+dermatan sulfate excretion in urine|1
+hepatosplenomegaly|1
+periodontitis|1
+premature loss of teeth|1
+dermatological manifestations of systemic disorders|1
+cirrhosis|1
+fat malabsorption|1
+delayed speech and language development|1
+childhood onset|1
+blindness|1
+metabolic acidosis|1
+nausea|1
+muscle cramps|1
+abnormality of the endocardium|1
+syncope|1
+abnormality of the coagulation cascade|1
+joint hemorrhage|1
+abnormality of temperature regulation|1
+abnormal autonomic nervous system physiology|1
+lymphoma|1
+restrictive lung disease|1
+pruritus|1
+dry skin|1
+recurrent fungal infections|1
+pulmonary infiltrates|1
+polyneuropathy|1
+aseptic necrosis|1
+recurrent abscess formation|1
+osteomyelitis|1
+pneumonia|1
+decreased fertility|1
+infertility|1
+recurrent otitis media|1
+menorrhagia|1
+gingival bleeding|1
+localized skin lesion|1
+proteinuria|1
+flared metaphysis|1
+short thorax|1
+dental malocclusion|1
+vertebral segmentation defect|1
+craniosynostosis|1
+abnormality of the esophagus|1
+dysphagia|1
+involuntary movements|1
+dystonia|1
+abnormal aggressive, impulsive or violent behavior|1
+deeply set eye|1
+sleep disturbance|1
+abnormality of the tongue|1
+hypogonadism|1
+short nose|1
+short palm|1
+abnormality of the phalanges of the toes|1
+recurrent urinary tract infections|1
+abnormality of the pancreas|1
+memory impairment|1
+myalgia|1
+nephrocalcinosis|1
+myopathy|1
+seborrheic dermatitis|1
+intestinal malrotation|1
+pancytopenia|1
+hypohidrosis|1
+thickened helices|1
+abnormality of female external genitalia|1
+brachycephaly|1
+disproportionate tall stature|1
+coronal craniosynostosis|1
+cloverleaf skull|1
+turricephaly|1
+mixed hearing impairment|1
+hyperphosphatemia|1
+limited elbow extension|1
+abnormality of the fibula|1
+protuberant abdomen|1
+lumbar hyperlordosis|1
+coxa valga|1
+aplasia/hypoplasia involving the vertebral column|1
+disproportionate short-trunk short stature|1
+limited hip movement|1
+chest pain|1
+palpitations|1
+neoplasm of the nervous system|1
+abnormality of the large intestine|1
+abnormality of the rectum|1
+telangiectasia|1
+venous abnormality|1
+bronchomalacia|1
+tracheomalacia|1
+trigonocephaly|1
+sleep apnea|1
+fasciculations|1
+abnormality of cholesterol metabolism|1
+hypercholesterolemia|1
+abnormality of lipid metabolism|1
+abnormality of subcutaneous fat tissue|1
+symptomatic seizures|1
+hyperglycemia|1
+insulin resistance|1
+abnormality of the costochondral junction|1
+abnormality of calcium-phosphate metabolism|1
+prenatal maternal abnormality|1
+gastrointestinal dysmotility|1
+adult onset|1
+abnormality of the lumbar spine|1
+dysostosis multiplex|1
+neurodegeneration|1
+abnormal cortical bone morphology|1
+gonadotropin excess|1
+biliary tract abnormality|1
+tetany|1
+alkalosis|1
+abnormality of renin-angiotensin system|1
+neonatal onset|1
+hyperkalemia|1
+hyperpituitarism|1
+anxiety|1
+rigidity|1
+abnormality of salivation|1
+muscular hypotonia of the trunk|1
+irritability|1
+functional motor problems|1
+coma|1
+abnormal fear/anxiety-related behavior|1
+abnormality of vitamin b metabolism|1
+ventricular arrhythmia|1
+abnormality of the common coagulation pathway|1
+prolonged partial thromboplastin time|1
+abnormality of the intrinsic pathway|1
+deep venous thrombosis|1
+fever|1
+hypotension|1
+hypergammaglobulinemia|1
+retinopathy|1
+epistaxis|1
+glaucoma|1
+kyphosis|1
+abnormality of upper lip|1
+midface retrusion|1
+short long bone|1
+skeletal dysplasia|1
+alopecia|1
+abnormality of the spinal cord|1
+variable expressivity|1
+osteoporosis|1
+osteopenia|1
+erectile abnormalities|1
+abnormality of the sense of smell|1
+anosmia|1
+congestive heart failure|1
+abnormality of adipose tissue|1
+abnormality of the toenails|1
+short middle phalanx of toe|1
+absent toe|1
+metaphyseal cupping|1
+arthritis|1
+retinal degeneration|1
+abnormality of the vitreous humor|1
+contractures of the joints of the lower limbs|1
+cervical subluxation|1
+abnormality of the musculature of the limbs|1
+proximal muscle weakness|1
+delayed epiphyseal ossification|1
+abnormality of periauricular region|1
+increased circulating renin level|1
+dehydration|1
+abnormality of the renal tubule|1
+abnormality of the adrenal glands|1
+reduced consciousness/confusion|1
+dyspnea|1
+respiratory distress|1
+cerebral venous thrombosis|1
+emphysema|1
+vasculitis|1
+skin rash|1
+recurrent skin infections|1
+recurrent bacterial infections|1
+hemoptysis|1
+inflammatory abnormality of the eye|1
+diarrhea|1
+wide nasal bridge|1
+abnormality of the elbow|1
+metaphyseal widening|1
+wide mouth|1
+cerebellar malformation|1
+aplasia/hypoplasia affecting the eye|1
+postnatal growth retardation|1
+dysarthria|1
+myoclonus|1
+hypogonadotrophic hypogonadism|1
+arnold-chiari malformation|1
+diabetes insipidus|1
+urogenital fistula|1
+oligohydramnios|1
+abnormality of cardiovascular system physiology|1
+constipation|1
+hypercalcemia|1
+nephrolithiasis|1
+prematurely aged appearance|1
+choanal stenosis|1
+bifid scrotum|1
+female pseudohermaphroditism|1
+motor delay|1
+shortening of all middle phalanges of the fingers|1
+abnormality of the 3rd finger|1
+conical tooth|1
+2-3 toe syndactyly|1
+joint swelling|1
+intellectual disability, profound|1
+pulmonary fibrosis|1
+spinal canal stenosis|1
+visual field defect|1
+abnormality of prenatal development or birth|1
+small for gestational age|1
+congenital onset|1
+premature loss of primary teeth|1
+elevated hepatic transaminases|1
+long penis|1
+gonadal dysgenesis|1
+abnormality of extrapyramidal motor function|1
+abnormality of vitamin metabolism|1
+abnormal iris pigmentation|1
+intellectual disability, mild|1
+abnormality of prothrombin|1
+limited elbow movement|1
+congenital hip dislocation|1
+preaxial polydactyly|1
+abnormality of the skull base|1
+abnormality of the voice|1
+abnormality of reproductive system physiology|1
+growth hormone deficiency|1
+hirsutism|1
+arrhythmia|1
+delayed puberty|1
+mitral valve prolapse|1
+abnormality of the thumb|1
+abnormality of neuronal migration|1
+neoplasm of the skin|1
+cranial nerve compression|1
+abnormality of the biliary system|1
+parkinsonism|1
+tachycardia|1
+persistent bleeding after trauma|1
+abnormality of blood and blood-forming tissues|1
+epicanthus|1
+intrauterine growth retardation|1
+limitation of joint mobility|1
+nephropathy|1
+increased bone mineral density|1
+abnormality of the tarsal bones|1
+abnormality of the vagina|1
+abnormality of the helix|1
+abnormality of hair texture|1
+joint hypermobility|1
+metaphyseal irregularity|1
+retrognathia|1
+juvenile onset|1
+hypertension|1
+abnormality of the vasculature|1
+pulmonary embolism|1
+abnormality of the scrotum|1
+pectus carinatum|1
+abnormality of cell physiology|1
+ptosis|1
+abnormality of the endocrine system|1
+abnormality of the lip|1
+abnormality of the nail|1
+macrocephaly|1
+abnormality of long bone morphology|1
+behavioral abnormality|1

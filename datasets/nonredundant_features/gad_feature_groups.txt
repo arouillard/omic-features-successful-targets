@@ -1,0 +1,968 @@
+albuminuria; cardiovascular diseases; diabetes mellitus, type 2; hypertension; kidney diseases|1	type 2 diabetic nephropathy|1	nephropathy, diabetic; blood pressure, arterial; proteinuria|1	hypertrophy, left ventricular; left ventricular hypertrophy; ventricular remodeling|1	henoch-schoenlein purpura; kidney diseases; nephrotic syndrome; proteinuria; purpura, schoenlein-henoch|1	heart failure, diastolic|1	glomerulonephritis, iga; iga glomerulonephritides; proteinuria|1	gastrointestinal diseases; gastrointestinal hemorrhage; peptic ulcer; peptic ulcer hemorrhage|1	fibrosis; glomerulonephritis, iga; hepatitis c, chronic; iga glomerulonephritides|1	fibromuscular dysplasia; hypertension; renal artery obstruction|1	edema; nephrotic syndrome|1	dyslipidemias; metabolic syndrome x; obesity; renal hypertension|1	diabetes mellitus type ii; diabetes mellitus, type 2; hypertension|1	diabetes mellitus type ii; diabetes mellitus, type 2; diabetic nephropathies; diabetic nephropathy; diabetic neuropathies; disease susceptibility|1	coronary stenosis; recurrence|1	coronary disease; coronary heart disease; hyperlipidemias; hyperlipoproteinemia type i|1	coronary atherosclerosis.|1	coronary artery thrombosis|1	chronic renal failure; kidney failure, chronic; uremia; vesico-ureteral reflux; vesicoureteral reflux|1	chronic renal failure; kidney failure, chronic; nephritis, interstitial|1	chronic renal failure; hypertension; kidney failure, chronic; lupus erythematosus, systemic; lupus nephritis; nephritis sle; systemic lupus erythematosus|1	chronic renal failure; death, sudden, cardiac; kidney failure, chronic; long qt syndrome; sudden cardiac death|1	chronic glomerulonephritis|1	cardiovascular diseases; carotid artery diseases; cerebrovascular disorders; hypertension|1	body weight; hypertension; obesity|1	diabetes mellitus, type 1; hypoglycemia|0.866025	kidney failure, chronic; vesico-ureteral reflux|0.866025	aortic stiffness|0.866025	hypertension, renal; hypertrophy, left ventricular; retinal diseases|0.866025	hypertension; kidney diseases|0.866025	arterial disease|0.866025	cerebral white matter lesions|0.866025	esophageal varices|0.866025	hypertension; metabolic syndrome x|0.866025	polycystic kidney diseases|0.866025	chronic renal failure; glomerulonephritis, iga; iga glomerulonephritides; kidney failure, chronic|0.866025	hypertension; kidney failure, chronic|0.866025	diabetes mellitus; hypertension|0.866025	hypertension; left ventricular hypertrophy|0.774597	cysclosporine toxicity|0.774597	posttransplantation erythrocytosis|0.774597	carotid intima-media thickness|0.707107	cardiomyopathies; heart defects, congenital|0.774597	cardiomyopathy, hypertrophic, familial; hypertrophy, left ventricular|0.774597	connective tissue diseases; hypertension, pulmonary|0.774597	diabetes mellitus; diabetic angiopathies; hypertension|0.774597	altitude sickness; chronic disease|0.774597	albuminuria; hypertension|0.774597	angina, unstable; myocardial infarction; syndrome; unstable angina|0.707107	cardiomyopathy, hypertrophic; hypertrophic cardiomyopathy; hypertrophy, left ventricular; left ventricular hypertrophy|0.707107	chromosome deletion|0.707107	otosclerosis|0.707107
+critical illness; multiple organ failure; systemic inflam response synd; systemic inflammatory response syndrome|1	dermatitis, allergic contact; dermatitis, atopic; eczema allergic|1	diabetes mellitus type ii; diabetes mellitus, type 2; diabetic nephropathies; diabetic nephropathy; inflammation|1	aneurysm, ruptured; aortic aneurysm, abdominal|0.75	infection; kidney failure, acute|0.75	aortic aneurysm, abdominal; inflammation; postoperative complications|0.75	asthma; lipids; c-reactive protein; obesity; glucose; leptin; atopy|0.75	aortic aneurysm, abdominal; aortic rupture|0.75	inflammation; inflammatory bowel disease, nos; inflammatory bowel diseases|0.894427	osteolysis|0.894427	coal workers pneumoconiosis|0.75	erythema|0.75	pneumoconiosis; silicosis|0.75	apoplexy; atherosclerosis; inflammation; stroke|0.816497	inflammation; neoplasms|0.75	apoplexy; brain ischemia; encephalitis; stroke|0.866025	stomach cancer; gastritis|0.866025	duodenal ulcer; gastrointestinal diseases; helicobacter infections; stomach neoplasms; stomach ulcer; stomach; ulcer|0.866025	bacterial vaginosis; vaginosis, bacterial|0.866025	chronic periodontitis; periodontitis|0.75	dementia; inflammation|0.75	asphyxia neonatorum; brain ischemia; hypoxia-ischemia, brain|0.866025	glossitis, benign migratory|0.866025	critical illness;|0.866025	duodenal ulcer; gastritis; helicobacter infections; stomach neoplasms|0.75	bone diseases, metabolic; osteoporosis, postmenopausal|0.75	dental plaque; gingivitis|0.75	burns; multiple organ failure; shock|0.75	gastroenteritis|0.75	aids dementia complex; aids related dementia complex|0.75	precancerous conditions; stomach neoplasms|0.75	carcinoma; helicobacter infections; stomach neoplasms|0.75	gastroesophageal reflux; helicobacter infections|0.75	thinness|0.75	obstetric labor, premature|0.755929	bleeding after cardiac surgery|0.755929
+allograft dysfunction, renal|1	alveolitis, extrinsic allergic; bird fancier's lung; extrinsic allergic alveolitis|1	autoimmune diseases; pelvic pain; prostatitis; syndrome|1	alphavirus infections; infectious mononucleosis; q fever|0.75	common cold;|0.75	common cold; otitis media; picornaviridae infections|0.75	leukemia, acute myeloid; longevity; myelodysplasia|0.75	allograft outcome|0.894427	bronchiolitis obliterans syndrome|0.894427	cell-surface b7 expression; cytokine production|0.894427	chlamydia infections; infertility, female|0.894427	graft-vs-host disease|0.894427	hepatitis b; hepatitis c; reperfusion injury|0.894427	kidney graft survival|0.894427	parvovirus|0.894427	angina pectoris; coronary artery disease; inflammation; myocardial infarction|0.894427	renal allograft outcome|0.816497	kidney; failure; renal insufficiency|0.816497	clonorchiasis; fibrosis|0.75	lung transplant complications|0.755929	g6pd deficiency|0.755929	heart valve diseases; rheumatic heart disease|0.816497	eclampsia; pre-eclampsia|0.894427	brucellosis;|0.894427	hepatitis c; recurrence|0.816497	kidney disease; vascular disease|0.75	disease models, animal; fever; seizures, febrile|0.75	acute rejection|0.75	fatty liver; hepatitis c, chronic; insulin resistance|0.75	glomerulonephritis, iga; kidney failure, chronic|0.75
+atrial fibrillation; inflammation|1	cachexia; esophageal neoplasms; stomach neoplasms|0.730297	cytokine production|0.730297	dermatitis, atopic; dermatitis, irritant; dermatitis, occupational; hand dermatoses|0.730297	multiple organ failure; multiple trauma; sepsis; systemic infection|0.721688	hepatitis c, chronic; viremia|0.730297
+desensitization in solid organ transplant recipients|1	interstitial lung diseases|0.960769	scleroderma, systemic; skin ulcer; systemic scleroderma|0.963624	osteolysis; prosthesis failure|0.836242	pemphigus vulgaris|0.930949	disc disease, intervertebral|0.877058	arthritis; asthma; diabetes, type 1; pemphigus; il-1ri|0.880705	renal transplantation, rejection after|0.836242	graft-versus-host disease; longevity; spondyloarthropathies; aphthous stomatitis|0.800641	infection; postoperative complications|0.846154	arthritis; diabetes, type 1; pregnancy loss, recurrent; juvenile arthritis; pemphigus; il-1ri|0.877058	common variable immunodeficiency|0.762713	hepatitis c; longevity|0.733799	graves ophthalmopathy|0.752618	hiv; tuberculosis; cleft lip with cleft palate; cleft lip without cleft palate|0.7396	juvenile arthritis|0.707107
+parvovirus b19 infection|1	epstein-barr virus infections; lymphoproliferative disorders|0.774597	liver transplantation, immunosuppression after|0.707107	pulmonary disease, chronic obstructive; pulmonary emphysema|0.707107
+arthritis, juvenile rheumatoid; arthritis, rheumatoid; chronic childhood arthritis; periodontitis; rheumatoid arthritis|1	hemorrhagic fever with renal syndrome; pleural effusion|0.730297	gastritis, atrophic; stomach neoplasms|0.845154	helicobacter infections; purpura, thrombocytopenic, idiopathic|0.730297
+glomerulonephritis, iga; iga glomerulonephritides; recurrence|1
+appendicitis|1	burns; shock, septic|1	burns; infection; wounds and injuries|0.8	burns; sepsis; systemic infection|0.730297	bacteremia; gram-negative bacterial infections|0.730297	periodontal disease|0.745356	acute pancreatitis|0.730297
+cervical intraepithelial neoplasia; papillomavirus infections; uterine cervical neoplasms|1
+fat mass|1	lung diseases, obstructive; scleroderma, systemic; systemic scleroderma|1	occupational diseases; osteoarthritis|0.894427
+allergies; common cold|1
+periodontal diseases|1	vulvar cancer|0.730297
+brain ischemia; intracranial arterial diseases; stroke|1	thrombotic diseases|0.8	pregnancy complications, hematologic; premature birth; thrombophilia|0.8	apoplexy; ischemic attack, transient; stroke; transient ischemic attack|0.730297	thromboembolism; venous thrombosis|0.730297	abruptio placentae; thrombophilia|0.730297	vertebral artery dissection|0.730297
+allograft rejection, heart|1	aggressive periodontitis; periodontitis, juvenile|0.714435
+androgen levels|1	colon cancer; rectal cancer|1	cardiomyopathy, hypertrophic; hypertrophy, left ventricular|0.707107	cryptorchidism; hypospadias|0.774597	ovarian failure, premature; pof - premature ovarian failure|0.707107	biliary calculi; biliary tract neoplasm; biliary tract neoplasms; gallstones|0.707107
+carcinoma, squamous cell; esophageal neoplasms; lymphatic metastasis; thoracic neoplasms|1	esophageal neoplasms; hyperglycemia; oesophageal neoplasm|0.846154
+cardiovascular diseases; myocardial ischemia|1	cardiomyopathy; heart failure|0.866025	heart rate, resting|0.866025	fibromyalgia; syndrome|0.866025	blood pressure, arterial; heart rate; adrenaline; coronary flow velocity; ecg; noradrenaline|0.75
+preterm labour|1
+stomatitis, aphthous|1	chagas cardiomyopathy|0.737865
+endotoxemia|1
+carotid plaque|1
+atrophy; peptic ulcer|1
+frontal brain electrical asymmetry|1	negative affective facial stimuli|0.866025	alcoholism; substance withdrawal syndrome|0.774597	suicide ;  mood disorders|0.774597
+virus diseases|1	aspergillosis;|0.816497	hiv-1 viral load|0.816497	bronchiolitis obliterans|0.738549
+antipsychotic-induced adverse reactions|1	alzheimer's disease; anxiety disorder; depression; psychoses; aggressive behavior|0.866025	puerperal disorders|0.75
+inflammatory response, trauma induced|1
+cystic fibrosis;|1
+brain ischemia; inflammation; stroke|1	chlamydia infections; inflammation; trachoma|0.969697	coronary artery disease; inflammation|0.880771
+anemia, sickle cell; beta thalassemia; beta-thalassemia; blood coagulation disorders, inherited; sickle cell anemia; vascular diseases|1	aspirin resistance|0.948683	recurrent pregnancy loss|0.845154
+panic disorder; migraine|1	temperament traits|0.894427	gambling behaviour|0.866025
+cardiovascular diseases; coronary disease; myocardial infarction; stroke|1	fluvastatin induced cholesterol changes|1	hyperlipoproteinemia type ii|0.745356
+connective tissue diseases; fetal diseases; inflammation; musculoskeletal diseases; pregnancy complications, hematologic; premature birth; skin diseases|1	infection; inflammation; premature birth|0.964212	premature birth|0.726056
+shyness|1	depression, postpartum;|0.866025	cognitive function|0.755929
+heart failure; myocardial infarction|1	coronary disease; myocardial ischemia|0.866025	heart failure; myocardial ischemia|0.75
+autoimmune diseases; gastritis|1	leptospirosis; swamp fever|0.878871	uveomeningoencephalitic syndrome|0.724138
+renal function|1
+chronic obstructive pulmonary disease|1	bladder cancer|0.816275	lung cancer|0.775536
+juvenile endogenous attack-like psychoses|1	psychoses, substance-induced|0.833333	cocaine abuse|0.707107
+carcinoma, hepatocellular; diabetes complications; diabetes mellitus; inflammation; liver neoplasms|1	hodgkin disease; lymphoma; lymphoma, non-hodgkin|0.824958
+fetal death|1
+biliary cirrhosis; hepatitis, autoimmune; liver cirrhosis, biliary|1
+cough|1
+nausea|1	eating disorders|0.771517	substance withdrawal syndrome|0.721688
+liver diseases, alcoholic|1
+asthma; eczema; allergic disease|1	graft rejection, liver|0.717137
+bone density; fractures|1	fractures, spontaneous; osteoporosis, postmenopausal|0.730297	femoral neck fractures; fractures, stress|0.721688
+atrial fibrillation; hypertension|1
+startle reflex|1	bulimia|0.707107	fibromyalgia|0.707107
+alcoholism; heroin dependence|1
+mean|1	stdv|0.734304
+atherosclerosis; brain ischemia; carotid stenosis; thrombosis|1	brain ischemia; stroke; vascular diseases|0.923077
+spinal ossification|1	spondylosis, lumbar|0.894427
+metamphetamine dependence|1	alcoholism; renal disease, end stage|0.866025
+impulse control disorder|1	schizophrenia; tardive dyskinesia|0.866025
+hypertension; myocardial ischemia|1
+suntan|1	tanning|0.857143
+aortic aneurysm, abdominal;|1	hyperhomocysteinemia|0.831497
+arterial stiffness|1
+leukemia, myelogenous, chronic, bcr-abl positive; neovascularization, pathologic|1	leukemia, myelogenous, chronic, bcr-abl positive|0.809693
+gastritis, atrophic; helicobacter infections|1
+psychophysiologic disorders|1	musculoskeletal pain|0.797724
+esophageal neoplasms; oesophageal neoplasm; stomach neoplasms|1
+sudden cardiac arrest risk|1
+calcium homeostasis and peripheral bone density|1	hyperparathyroidism|0.774597
+obesity; vascular diseases|1
+hemorrhagic fever with renal syndrome|1
+pulmonary embolism; pulmonary embolisms; venous thrombosis|1
+hiv infections; lipodystrophy|1
+hepatitis c; pregnancy complications, infectious|1
+adenocarcinoma; helicobacter infections; stomach neoplasms|1
+alcoholism; recurrence|1
+gastritis, atrophic; helicobacter infections; metaplasia; peptic ulcer|1
+restenosis|1	recurrence; venous thromboembolism|0.732895
+substance withdrawal syndrome; tobacco use disorder|1	musical aptitude|0.730297
+hot flashes|1	testicular germ cell tumor|0.725241
+ahg deficiency disease; hemophilia a|1	hemophilia a|0.714435
+1-carbon metabolism|1	heart defects, congenital; spinal dysraphism|0.714286
+intima-media thickness|1	myocardial infarct; cholesterol, hdl; triglycerides; atherosclerosis, coronary; macular degeneration; colorectal cancer|0.710047
+respiratory syncytial virus|1
+duodenal ulcer; stomach neoplasms; stomach ulcer|1	berylliosis; respiratory hypersensitivity|0.707107
+male-to-female transsexualism|1
+obsessive-compulsive disorder|1
+height|1
+alzheimer's disease|1
+arthritis, rheumatoid;|1
+macular degeneration|1
+celiac disease|1
+respiratory function tests|1
+pancreatic neoplasms|1
+bone mineral density|1
+amyotrophic lateral sclerosis|1
+diabetes mellitus, type 2|1
+neutrophils|1
+tunica media|1
+pemphigus|1
+colorectal cancer|1
+prostate cancer|1
+colorectal neoplasms|1
+renal allograft rejection|1
+leukemia|1
+coronary aneurysm; mucocutaneous lymph node syndrome|1
+liver cancer|1
+drug-related genes|1
+alcohol|1
+narcolepsy|1
+hyperlipidemias|1
+dementia|1
+metabolic syndrome x|1
+blood pressure, arterial|1
+amyotrophic lateral sclerosis;|1
+type 2 diabetes|1
+brain ischemia|1
+cleft lip; cleft palate|1
+osteoporosis|1
+type 2 diabetes; reduced prostate cancer risk|1
+waist-hip ratio|1
+fatigue; fatigue syndrome, chronic|1
+liver cirrhosis, biliary|1
+parkinson disease|1
+lymphocytes|1
+lipids|1
+kidney aging|1
+hyperparathyroidism, secondary|1
+myasthenia gravis|1
+abortion, habitual|1
+pre-eclampsia|1
+preeclampsia|1
+sarcoidosis, pulmonary|1
+arthritis, juvenile rheumatoid; chronic childhood arthritis|1
+otitis media; recurrence|1
+helicobacter infections|1
+bacteremia;|1
+puerperal disorders; sepsis; streptococcal infections; systemic infection|1
+sepsis|1
+atopy|1
+periodontitis|1
+tuberculosis, pulmonary|1
+malaria|1
+malaria, falciparum|1
+focal segmental glomsclerosis; glomerulosclerosis, focal segmental|1
+hodgkin disease; inflammation|1
+thryoiditis, subacute granulomatous|1
+paediatric renal allograft|1
+arthritis; osteoarthritis|1
+gastric disease|1
+rubella vaccination|1
+irritable bowel syndrome|1
+dengue hemorrhagic fever|1
+prosthesis failure|1
+carcinoma, renal cell; inflammation; kidney neoplasms; neoplasm metastasis|1
+wegener's granulomatosis|1
+brill-symmers disease; lymphoma, follicular; lymphoma, non-hodgkin; lymphoma, non-hodgkin's|1
+helicobacter infections; peptic ulcer|1
+graves' disease|1
+inflammation|1
+aspergillosis; lung diseases, fungal|1
+uveitis|1
+bone density; osteoporosis|1
+lipid profile|1
+tic; combined vocal and multiple motor; tourette syndrome|1
+colonic neoplasms; neoplasm recurrence, local|1
+pain, postoperative|1
+lymphoma, b-cell; lymphoma, t-cell|1
+subarachnoid hemorrhage|1
+bone mineral density ;  osteoporosis|1
+chronic periodontitis|1
+cardiovascular disease; periodontal disease|1
+h. pylori infection|1
+silicosis|1
+pneumoconiosis|1
+ankylosing spondylitis|1
+rheumatoid spondylitis; spondylitis, ankylosing|1
+chronic ulcerative colitis; colitis, ulcerative|1
+knee osteoarthritis|1
+osteoarthritis, knee|1
+sudden infant death|1
+intervertebral disk displacement|1
+spinal diseases|1
+arthritis, rheumatoid|1
+asthma;|1
+neoplasms|1
+lymphoma, non-hodgkin|1
+leukemia, lymphocytic, chronic, b-cell|1
+multiple myeloma|1
+cervical cancer|1
+lymphoma|1
+drug hypersensitivity|1
+dental implants|1
+myopia|1
+pain, postoperative; radius fractures; reflex sympathetic dystrophy|1
+diabetes mellitus, insulin-dependent; diabetes mellitus, type 1|1
+hepatitis b, chronic|1
+hiv infections; [x]human immunodeficiency virus disease|1
+pregnancy loss|1
+behcet syndrome|1
+psoriasis|1
+graft vs host disease|1
+sclerosis, systemic|1
+chagas cardiomyopathy; chagas disease|1
+urticaria|1
+cholangitis, sclerosing|1
+behcet syndrome;|1
+kidney transplantation|1
+celiac disease;|1
+type 1 diabetes|1
+cirrhosis|1
+respiratory syncytial virus infections|1
+malaria, cerebral|1
+chronic ulcerative colitis; colitis, ulcerative; crohn disease; crohn's disease; inflammatory bowel disease, nos; inflammatory bowel diseases|1
+crohn disease;|1
+colitis, ulcerative; crohn disease;|1
+crohn disease; crohn's disease|1
+inflammatory bowel disease, nos; inflammatory bowel diseases|1
+colitis, ulcerative|1
+ulcerative colitis|1
+asthma; bronchial hyperreactivity|1
+postoperative complications|1
+atherosclerosis; obesity|1
+apoplexy; myocardial infarction; stroke|1
+carcinoma, hepatocellular; hepatitis c, chronic; lcc - liver cell carcinoma; liver neoplasms|1
+hypothyroidism|1
+retinopathy, diabetic|1
+retinopathy of prematurity|1
+pulmonary fibrosis|1
+lung diseases|1
+lung function|1
+benzene toxicity|1
+cystic fibrosis; pseudomonas infections|1
+hepatitis b, chronic; liver cirrhosis|1
+pancreatitis, chronic|1
+carcinoma, hepatocellular; lcc - liver cell carcinoma; liver neoplasms|1
+carcinoma, squamous cell; mouth neoplasms; squamous cell carcinoma|1
+non-hodgkin's lymphoma|1
+preterm delivery|1
+carcinoma, hepatocellular; liver neoplasms|1
+alpha 1-antitrypsin deficiency; lung neoplasms; neoplasm of lung ; pulmonary disease, chronic obstructive|1
+esophageal neoplasms; head and neck neoplasms; laryngeal neoplasms; mouth neoplasms; pharyngeal neoplasms|1
+carcinoma, hepatocellular; hepatitis b, chronic; lcc - liver cell carcinoma; liver neoplasms|1
+pterygium|1
+carcinoma, renal cell; kidney neoplasms; renal cell carcinoma|1
+carcinoma, renal cell; kidney neoplasms|1
+pancreatitis, alcoholic|1
+alcohol abuse|1
+carcinoma, squamous cell; esophageal neoplasms|1
+cutaneous squamous cell carcinoma|1
+infertility, male|1
+breast neoplasms; mammary neoplasms|1
+dementia, vascular|1
+diabetic nephropathy|1
+hdl cholesterol|1
+dyslipidemias|1
+hyperlipidemia|1
+heart disease, ischemic|1
+myocardial ischemia|1
+lipid metabolism|1
+myocardial infarct|1
+atherosclerosis, coronary|1
+kidney failure, chronic|1
+apoplexy; stroke|1
+heart disease|1
+atherosclerosis|1
+diabetes, type 2|1
+coronary disease|1
+adiposity and abdominal obesity|1
+insulin; lipoproteins|1
+lipoproteins and hdl|1
+dyslipidemias; hiv infections; [x]human immunodeficiency virus disease|1
+cardiovascular diseases; diabetes mellitus type ii; diabetes mellitus, type 2|1
+carotid atherosclerosis|1
+lipoprotein|1
+cardiovascular diseases; inflammation|1
+nephropathy|1
+metabolic syndrome x; obesity|1
+altitude sickness; pulmonary edema|1
+glaucoma; glaucoma, primary open-angle|1
+hypertension induced by pregnancy; hypertension, pregnancy-induced|1
+elite atheletes|1
+hypertension; myocardial infarction|1
+meningococcal infections|1
+altitude sickness|1
+brain ischemia; carotid stenosis|1
+diabetes mellitus, type 2; hypertension|1
+diabetes mellitus, type 1; diabetes mellitus, type 2; diabetic retinopathy|1
+nephropathy in other diseases|1
+endurance performance|1
+cardiomyopathy, dilated; dcm - dilated cardiomyopathy|1
+apoplexy; brain ischemia; stroke|1
+neural tube defects|1
+congenital heart defects; heart defects, congenital|1
+homocysteine|1
+bone necrosis; osteonecrosis|1
+thromboembolism; thrombophilia; venous thrombosis|1
+cardiovascular risk|1
+aneurysm, ruptured; intracranial aneurysm; stroke; subarachnoid hemorrhage|1
+apoplexy; myocardial ischemia; stroke|1
+atherosclerosis; thrombosis|1
+stroke, ischemic|1
+coronary disease; hypertension|1
+cerebral infarction|1
+atherosclerosis; myocardial infarction|1
+perioperative genomic profiles|1
+cerebral palsy;|1
+venous thrombosis|1
+coronary atherosclerosis|1
+atherosclerosis, generalized|1
+apoplexy; hypertension; myocardial infarction; stroke|1
+heart diseases; hypercholesterolemia; hypertension|1
+aging|1
+polycystic ovarian syndrome; polycystic ovary syndrome|1
+polycystic ovary syndrome|1
+leiomyoma; uterine neoplasms|1
+endometriosis; leiomyoma; uterine neoplasms|1
+kidney stone disease|1
+fractures, bone; osteoporosis; osteoporosis, postmenopausal|1
+bone mass|1
+fractures, bone; osteoporosis, postmenopausal|1
+fractures, bone; osteoporosis|1
+extracellular magnesium concentration|1
+age at natural menopause|1
+uterine prolapse|1
+premenstrual syndrome|1
+bone mineral density (hip)|1
+bone loss|1
+kidney calculi|1
+prostate cancer   ;  breast cancer|1
+thyroid diseases|1
+diabetes, type 2; liver disease|1
+myocardial infarction; myocardial ischemia|1
+scoliosis|1
+biliary calculi; gallstones|1
+weight loss|1
+insulin resistance; metabolic diseases|1
+bronchial hyperreactivity; wounds and injuries|1
+hiv-associated lipodystrophy syndrome|1
+hyperuicemia|1
+diabetes mellitus type ii; diabetes mellitus, type 2; insulin resistance|1
+insulin|1
+healthy oldest-old|1
+adiposity|1
+coronary restenosis|1
+body weight; obesity|1
+obesity; asthma|1
+response to antidepressants|1
+stress|1
+depression|1
+schizophrenia ;  bipolar disorder|1
+methamphetamine use|1
+heroin dependence|1
+substance-related disorders|1
+adhd|1
+adhd ;  attention deficit hyperactivity disorder|1
+attention deficit hyperactivity disorder|1
+psychosis|1
+personality|1
+smoking behavior|1
+alcoholism;|1
+dyskinesia, drug-induced|1
+alcoholism|1
+personality disorders|1
+schizophrenia; psychoses; aggressive behavior; verbal fluency|1
+dyspepsia|1
+major psychiatric disorders|1
+epilepsy, temporal lobe|1
+panic disorder|1
+citalopram|1
+amyotrophic lateral sclerosis; anoxia;|1
+cystic fibrosis; urogenital abnormalities|1
+nasal polyposis|1
+leukemia, lymphoid|1
+cognitive ability|1
+sids/sudden infant death syndrome|1
+azoospermia|1
+death, sudden, cardiac; sudden cardiac death|1
+qt interval|1
+heart diseases; inflammation; myocardial infarction|1
+glucose|1
+blood pressure|1
+body mass index|1
+lipoproteins, vldl|1
+carcinoma, basal cell; carcinoma, squamous cell; melanoma; skin neoplasms|1
+nephropathy, iga|1
+pregnancy loss, recurrent|1
+albuminuria; inflammation; kidney diseases|1
+glomerulonephritis, iga; iga glomerulonephritides|1
+graft-versus-host disease|1
+kidney transplant|1
+arthritis|1
+graves disease; graves' disease|1
+lymphoma, large b-cell, diffuse|1
+hepatitis b|1
+arthritis, psoriatic; psoriatic arthropathy|1
+lupus|1
+pneumonia|1
+malaria, falciparum; parasitemia|1
+duodenal ulcer; helicobacter infections|1
+bacterial infection|1
+tuberculosis|1
+autoimmune hepatitis|1
+albuminuria; diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy; diabetic retinopathy|1
+vesico-ureteral reflux; vesicoureteral reflux|1
+biliary tract neoplasms; inflammation|1
+communicable diseases; severe acute respiratory syndrome|1
+graft vs host disease; hematologic neoplasms; neoplasm recurrence, local|1
+preterm birth|1
+brucellosis|1
+graft versus host disease|1
+measles; mumps; rubella|1
+arthritis, juvenile|1
+allergic rhinitis|1
+rhabdomyolysis|1
+primary open-angle glaucoma|1
+duodenal ulcer|1
+nephrolithiasis|1
+nasal polyps; rhinitis; sinusitis|1
+coronary restenosis; coronary stenosis|1
+inflammation; myocardial infarction|1
+hypertension, pulmonary; pulmonary disease, chronic obstructive|1
+hemophilia|1
+hashimoto disease|1
+dermatitis, atopic; eczema allergic|1
+helicobacter infections; stomach neoplasms|1
+nephrotic syndrome|1
+mood disorders|1
+urinary calculi|1
+arthritis, psoriatic; psoriasis; psoriatic arthropathy|1
+osteoarthritis|1
+abortion, spontaneous|1
+lupus erythematosus|1
+lupus erythematosus, systemic; systemic lupus erythematosus|1
+systemic lupus erythematosus|1
+lymphoma, non-hodgkin; lymphoma, non-hodgkin's|1
+nasopharyngeal neoplasms|1
+melanoma|1
+melanoma; skin neoplasms|1
+normal variation|1
+pharmacogenetic studies|1
+bronchopulmonary dysplasia;|1
+natural menopause; obesity; pof - premature ovarian failure; polycystic ovarian syndrome; polycystic ovary syndrome; primary ovarian insufficiency; puberty, delayed; puberty, precocious; thrombophilia; tobacco use disorder|1
+idiopathic pulmonary fibrosis|1
+dawson's inclusion body encephalitis; subacute sclerosing panencephalitis|1
+respiratory syncytial virus bronchiolitis|1
+spondylitis, ankylosing|1
+neuroblastoma|1
+graft vs host disease; hematologic neoplasms|1
+cirrhosis, biliary primary|1
+rubella vaccine|1
+bone marrow transplantation|1
+hemochromatosis|1
+kidney transplant complications|1
+scleroderma, systemic|1
+scleroderma, systemic; systemic scleroderma|1
+systemic sclerosis|1
+severe acute respiratory syndrome|1
+hiv|1
+hepatocellular carcinoma|1
+rhinitis, allergic, seasonal|1
+sarcoidosis; tuberculosis|1
+rhinitis; sinusitis|1
+carotid artery diseases|1
+diabetes mellitus, type 1|1
+vitiligo|1
+respiratory distress syndrome, adult|1
+dermatitis and eczema|1
+chronic ulcerative colitis; colitis, ulcerative; crohn disease; crohn's disease|1
+colitis, ulcerative; crohn disease|1
+inflammatory bowel disease|1
+crohn disease; crohn's disease; inflammatory bowel disease, nos; inflammatory bowel diseases|1
+crohn's disease|1
+ache, low back; acute disease; low back pain; pain; sciatica|1
+hepatopulmonary syndrome|1
+alzheimer's disease; parkinson's disease|1
+diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy|1
+abdominal aortic aneurysm|1
+endometriosis;|1
+aortic aneurysm, abdominal|1
+endometriosis; uterine diseases|1
+acute coronary syndrome; inflammation|1
+peripheral vascular diseases|1
+coronary disease;|1
+familial mediterranean fever|1
+birth weight; retinopathy of prematurity|1
+diabetic retinopathy|1
+femur head necrosis;|1
+glomerular filtration rate|1
+pulmonary function|1
+brain ischemia; dementia; myocardial infarction|1
+maduromycosis|1
+cervical neoplasm; uterine cervical neoplasms|1
+intrauterine growth|1
+hypospadias|1
+stomach neoplasms|1
+gastric cancer|1
+stomach cancer|1
+adenoma; colorectal neoplasms|1
+dna damage|1
+diabetic nephropathies; diabetic nephropathy|1
+skin cancer, non-melanoma|1
+emphysema|1
+copd ;  chronic obstructive pulmonary disease|1
+pulmonary disease, chronic obstructive|1
+alcohol abuse; smoking behavior|1
+hearing loss|1
+rectal neoplasms|1
+brain cancer|1
+esophageal cancer|1
+overall effect|1
+alcoholism; liver cirrhosis, alcoholic|1
+osteonecrosis|1
+neoplasms, prostatic; prostatic neoplasms|1
+gastritis, chronic atrophic; stomach cancer|1
+pancreatic neoplasm; pancreatic neoplasms|1
+breast neoplasms|1
+delirium|1
+alzheimer disease; alzheimer's disease; dementia|1
+brain infarction|1
+diabetes complications;|1
+cardiovascular diseases; fam hyperbetalipoproteinaemia; hyperlipoproteinemia type ii|1
+lipid levels|1
+lipid profiles|1
+hypertriglyceridemia|1
+coronary disease; coronary heart disease; inflammation; insulin resistance|1
+carotid artery diseases;|1
+angina pectoris; myocardial infarction; obesity; recurrence|1
+cardiovascular|1
+acute coronary syndrome|1
+kidney failure|1
+renal graft function|1
+lipoproteins, ldl|1
+asthma; lipids; memory impairment|1
+kidney failure, acute|1
+cicatrization; kidney diseases; vesico-ureteral reflux; vesicoureteral reflux|1
+polycystic kidney disease|1
+essential hypertension|1
+hypertension; cardiovascular disease|1
+chronic periodontitis;|1
+fetal membranes, premature rupture; premature birth|1
+heart failure; hypertension|1
+hypertrophy, left ventricular; left ventricular hypertrophy|1
+infant, premature, diseases|1
+lupus nephritis; nephritis sle|1
+syncope, vasovagal|1
+kidney disease|1
+carotid artery stenosis; carotid stenosis|1
+cardiovascular diseases; coronary artery disease|1
+hypertension; hypertrophy, left ventricular; left ventricular hypertrophy|1
+coronary disease; hyperlipoproteinemia type ii|1
+atrial fibrillation|1
+atrial fibrillation;|1
+bipolar affective disorder|1
+hypertension; blood pressure, arterial|1
+iga nephropathy|1
+left ventricular hypertrophy|1
+nephropathy, diabetic|1
+kidney diseases|1
+gaucher disease|1
+polycystic ovarian syndrome|1
+erectile dysfunction|1
+hemifacial spasm|1
+albuminuria; diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy|1
+diabetic neuropathy|1
+giant cell arteritis|1
+cardiomyopathies|1
+hypertension; obesity|1
+carcinoma, non-small-cell lung; lung neoplasms; neoplasm of lung|1
+adenoma; colorectal neoplasms; neoplasm recurrence, local|1
+birth weight; preterm delivery|1
+varicose ulcers|1
+thrombophilia|1
+infertility, female|1
+fetal loss, late|1
+thrombosis, deep vein|1
+thrombosis|1
+beta-thalassemia|1
+hypertension, pregnancy induced|1
+hypertension, gestational|1
+pregnancy complications|1
+cerebral palsy|1
+hemorrhagic disorders|1
+carotid artery stenosis|1
+coronary artery disease; coronary stenosis|1
+breath tests|1
+heart anomalies, congenital|1
+hemorrhage|1
+ahg deficiency disease; hemophilia a; hemophilia b; hemorrhage|1
+glaucoma|1
+glaucoma, open-angle|1
+menopause|1
+cardiovascular diseases; thrombosis|1
+abortion, habitual; infertility, female|1
+breast cancer; prostate cancer|1
+estradiol; sex hormone binding globulin|1
+endometrial cancer|1
+mammographic density|1
+cadaver; prostatic hyperplasia|1
+prostatic hyperplasia|1
+hypogonadism|1
+ovarian failure, premature|1
+hip fractures; osteoporosis, postmenopausal|1
+grave`s disease|1
+leukemia ;  bone mineral density|1
+hip fractures|1
+hip fractures; osteoporosis|1
+osteoporosis, postmenopausal|1
+osteonecrosis; precursor cell lymphoblastic leukemia-lymphoma|1
+bone resorption|1
+bone density|1
+bone mineral density (spine)|1
+hypertrophy, left ventricular|1
+birth weight|1
+colonic neoplasms|1
+other metabolic traits|1
+glucose intolerance|1
+insulin resistance; polycystic ovary syndrome|1
+ventricular dysfunction, left|1
+insulin resistance; metabolic syndrome x|1
+fatty liver|1
+insulin resistance; polycystic ovarian syndrome; polycystic ovary syndrome|1
+body mass; insulin; obesity; glucose|1
+cardiomyopathy, dilated;|1
+low tension glaucoma|1
+blood pressure; heart rate|1
+body mass|1
+obesity, morbid|1
+obesity; weight loss|1
+insulin resistance; obesity|1
+sleep apnea, obstructive|1
+obesity; hypertension|1
+hellp syndrome|1
+fatigue syndrome, chronic; fatigue syndrome; postviral|1
+bipolar affective disorder.|1
+personality traits|1
+impulsivity|1
+heroin addiction|1
+pain|1
+financial and psychological risk attitudes|1
+migraine disorders|1
+cocaine-related disorders|1
+posttraumatic stress disorder|1
+tardive dyskinesia|1
+treatment resistance to typical neuroleptics|1
+adhd ;  attention-deficit hyperactivity disorder|1
+suicidal behavior|1
+coronary restenosis; postoperative complications|1
+brain injuries|1
+gastrointestinal disorders|1
+anorexia nervosa|1
+depressive disorder, major|1
+major depressive disorder|1
+akathisia, drug-induced|1
+migraine with aura|1
+cocaine-related disorders;|1
+epilepsy|1
+warfarin response|1
+heart diseases|1
+treatment response in psychotic patients|1
+pharmacogenetic variation|1
+brain ischemia; myocardial infarction; stroke|1
+pancreatitis, alcoholic; pancreatitis, chronic|1
+copd|1
+fatty liver; insulin resistance|1
+hemoglobin a, glycosylated|1
+macular degeneration, age-related|1
+myeloid leukemia|1
+lymphoproliferative disorders; myelodysplastic syndromes|1
+fatigue; sleep disorders; sleep initiation and maintenance disorders|1
+gastroparesis|1
+body weight|1
+cholesterol|1
+heart rate|1
+neuroticism|1
+peripheral arterial disease|1
+alzheimer disease|1
+asthma; candidiasis; high-altitude illness|1
+sarcoidosis|1
+atherosclerosis; inflammation; retinal vein occlusion|1
+helicobacter infections; inflammation; precancerous conditions; stomach neoplasms|1
+cirrhosis; pancreatitis|1
+heart transplant complications|1
+hepatitis b; recurrence|1
+uveitis, anterior|1
+multiple system atrophy|1
+htlv-1 infection|1
+barrett esophagus; hernia, hiatal; inflammation|1
+urolithiasis|1
+autoimmune diseases; thyroid diseases|1
+aids dementia complex; hiv infections|1
+keratoconus|1
+suicide|1
+degenerative arthropathy ; osteoarthritis|1
+glomerulonephritis, iga|1
+rheumatoid arthritis|1
+asthma; bronchiolitis, viral; respiratory syncytial virus infections|1
+cystic fibrosis|1
+precursor cell lymphoblastic leukemia-lymphoma|1
+oral lichen planus|1
+sjogren's syndrome|1
+hepatitis c, chronic|1
+graves disease|1
+acquired immunodeficiency syndrome; hiv infections|1
+hiv infections|1
+typhoid fever|1
+multiple sclerosis, relapsing-remitting|1
+mucocutaneous lymph node syndrome|1
+hepatitis c|1
+bronchiolitis, viral; respiratory syncytial virus infections|1
+arthritis, juvenile rheumatoid;|1
+acquired immunodeficiency syndrome|1
+diabetes mellitus type ii; diabetes mellitus, type 2; diabetic retinopathy|1
+prenatal exposure delayed effects|1
+alcoholic liver diseases; liver diseases, alcoholic|1
+pancreatitis|1
+neutropenia|1
+pancreatic cancer|1
+hodgkin disease|1
+coronary artery disease; hypercholesterolemia|1
+coronary artery disease; hypertension|1
+atherosclerosis; hypercholesterolemia|1
+myocardial infarction ;  metabolic syndrome|1
+cholelithiasis|1
+ldl cholesterol|1
+hypercholesterolemia|1
+cardiovascular disease|1
+coronary artery disease;|1
+metabolic syndrome|1
+cardiovascular diseases|1
+longevity|1
+intracranial aneurysm|1
+ischemia|1
+cirrhosis, alcoholic; alcoholism|1
+coronary stenosis|1
+hypertension, pregnancy-induced; pre-eclampsia|1
+fatigue syndrome, chronic|1
+hypertension, pregnancy-induced|1
+albuminuria|1
+apoplexy; cerebral hemorrhage; cerebral hemorrhages; intracranial hemorrhages; stroke; subarachnoid hemorrhage|1
+elite runners|1
+cerebrovascular disease; sickle cell anemia|1
+vascular disease|1
+hemolytic-uremic syndrome|1
+choroidal neovascularization; macular degeneration|1
+aneurysm, ruptured; subarachnoid hemorrhage|1
+cerebral infarct|1
+prostate carcinoma|1
+osteoporosis, postmenopausal; estradiol|1
+als/amyotrophic lateral sclerosis|1
+diabetes mellitus, type 1; diabetes mellitus, type 2; diabetic angiopathies|1
+diabetes mellitus|1
+hepatitis c; remission, spontaneous|1
+diabetes mellitus type ii; diabetes mellitus, type 2|1
+diabetes mellitus; diabetes mellitus type ii; diabetes mellitus, type 2|1
+idiopathic orthostatic intolerance|1
+obesity; overweight|1
+diabetes, type 2; obesity|1
+insulin resistance|1
+diabetes mellitus, type 2;|1
+reward dependence temperament|1
+anxiety disorder|1
+substance abuse|1
+tourette syndrome|1
+continuous performance task|1
+weight gain|1
+depressive disorder, major; bipolar disorder|1
+migraine; migraine with aura|1
+affective disorder|1
+obsessive- compulsive disorder|1
+major depression|1
+hallucinations|1
+schizophrenia; bipolar disorder|1
+budd-chiari syndrome|1
+cyclosporine|1
+cystic fibrosis; hypertension, portal; liver cirrhosis; liver diseases|1
+genetic diseases, inborn|1
+inflammation; premature birth|1
+hypogonadotropic hypogonadism|1
+guillain-barre syndrome|1
+meningococcal infections; pneumococcal infections|1
+endometriosis|1
+chronic renal failure; kidney failure, chronic|1
+rheumatic heart disease|1
+gastric carcinoma|1
+adenocarcinoma|1
+diabetes mellitus; myocardial infarction|1
+respiratory tract infections|1
+delayed graft function|1
+seizures, febrile|1
+kidney cancer|1
+lymphocytosis; lymphoproliferative disorders|1
+malaria, cerebral; malaria, falciparum|1
+graves disease; hashimoto disease|1
+rheumatic diseases; rheumatism|1
+hypertension; insulin resistance|1
+gastritis; helicobacter infections|1
+epilepsy, temporal lobe;|1
+graves ophthalmopathy; thyroid associated opthalmopathies|1
+meningococcal disease|1
+antibiotic-induced cutaneous allergic reactions|1
+lymphoproliferative disorders|1
+behcet's disease|1
+asthma; bronchial hyperreactivity; hypersensitivity, immediate|1
+erythema nodosum; sarcoidosis|1
+multiple sclerosis|1
+oral submucous fibrosis|1
+alopecia areata|1
+biliary cirrhosis; liver cirrhosis, biliary|1
+hypersensitivity|1
+alopecia areata; autoimmune diseases|1
+coeliac disease|1
+haemophilia a|1
+crohn's disease; ulcerative colitis|1
+cerebral infarction;|1
+acquired immunodeficiency syndrome; hiv infections; [x]human immunodeficiency virus disease|1
+hiv infection|1
+helicobacter infections; metaplasia|1
+carcinoma, squamous cell; inflammation; mouth neoplasms; thrombosis|1
+liver cirrhosis, alcoholic|1
+rhinitis, allergic, perennial|1
+oxidative stress|1
+adenocarcinoma; stomach neoplasms|1
+carcinoma, squamous cell; mouth neoplasms|1
+carcinoma, basal cell; skin basal cell carcinoma; skin neoplasms|1
+chronic obstructive pulmonary disease/copd|1
+adenocarcinoma; carcinoma, squamous cell; esophageal neoplasms; lymphatic metastasis; neoplasm recurrence, local; oesophageal neoplasm; squamous cell carcinoma|1
+azoospermia; oligospermia|1
+cancer|1
+dementia;|1
+hypertension/complications*|1
+dyslipidemias; hypertriglyceridemia|1
+coronary artery disease; myocardial infarction|1
+myocardial infarction; stroke|1
+hypertension|1
+hepatopulmonary syndrome; liver cirrhosis|1
+lipoproteins, hdl|1
+migraine without aura|1
+c-reactive protein|1
+memory impairment|1
+t-pa and pai-1 levels|1
+renal insufficiency|1
+glomerulonephritis|1
+hypertension, renal|1
+calcinosis; coronary artery disease|1
+diabetes mellitus type ii; diabetes mellitus, type 2; diabetic nephropathies; diabetic nephropathy|1
+cerebrovascular disorders|1
+vesicoureteral reflux|1
+hyperlipidemias; hypertension|1
+renal disease, end stage|1
+cardiovascular diseases; hypertension|1
+hyperandrogenism; polycystic ovary syndrome|1
+femur head necrosis|1
+metabolism disorders|1
+cardiomyopathy|1
+spinal dysraphism|1
+ischemic stroke|1
+thrombophilia; venous thrombosis|1
+hypertension; stroke|1
+thromboembolism, venous|1
+hematology indices|1
+hormone disturbance|1
+human spermatogenic defect|1
+dementia, vascular;|1
+cardiovascular disease risk|1
+cognitive impairment|1
+cellulitis; obesity|1
+arthritis, reactive; campylobacter infections; salmonella infections|1
+tuberculosis; tuberculosis, pulmonary|1
+chronic renal failure; diabetes mellitus, insulin-dependent; diabetes mellitus, type 1; diabetic nephropathies; diabetic nephropathy; kidney failure, chronic|1
+acromegaly|1
+colonic neoplasms; microsatellite instability|1
+gout|1
+brain neoplasms; occupational diseases|1
+glioblastoma; glioma|1
+cholesterol; cholesterol, ldl|1
+diabetic nephropathies|1
+waist circumference|1
+obsessive compulsive disorder|1
+mental retardation|1
+heroin abuse|1
+opioid-related disorders|1
+alcohol-related disorders|1
+methamphetamine abuse|1
+olanzapine|1
+bipolar disorder; depression|1
+mood disorder|1
+diseases in twins|1
+anorexia nervosa; bulimia|1
+migraine|1
+marijuana abuse; psychoses, substance-induced|1
+bleeding complications|1
+atherosclerosis; cardiovascular diseases|1
+parkinson's disease|1
+wounds and injuries|1
+alzheimer disease; alzheimer's disease; amnesia|1
+long qt syndrome|1
+cholesterol, hdl|1
+fibrinogen|1
+hypertension; precursor cell lymphoblastic leukemia-lymphoma|1
+restless legs syndrome|1
+purpura, thrombocytopenic, idiopathic; werlhof's disease|1
+sepsis; systemic infection|1
+fabry disease|1
+peptic ulcer; stomach neoplasms|1
+aggressive periodontitis;|1
+aggressive periodontitis; alveolar bone loss; chronic periodontitis; periodontal attachment loss; periodontal pocket; periodontitis|1
+lichen planus, oral|1
+arthritis, rheumatoid; rheumatoid arthritis|1
+lupus erythematosus, systemic|1
+leprosy|1
+liver transplant|1
+colitis, ulcerative;|1
+mouth neoplasms|1
+oral cancer|1
+head and neck cancer|1
+head and neck neoplasms; neoplasm recurrence, local; neoplasms, second primary|1
+alcohol dependence|1
+coronary heart disease|1
+brain ischemia; stroke|1
+quantitative traits|1
+elite athletes|1
+myocardial infarct; atherosclerosis, coronary|1
+cardiomyopathy, hypertrophic|1
+thrombosis, venous|1
+venous thromboembolism|1
+fractures, bone|1
+asthma; eosinophilia|1
+obesity; type 2 diabetes|1
+bmi|1
+anxiety|1
+bipolar disorder|1
+platelet count|1
+cholesterol, ldl|1
+q fever|1
+malaria, plasmodium falciparum|1
+kawasaki disease|1
+chorioamnionitis; fetal membranes, premature rupture; infection of amniotic sac and membranes; obstetric labor, premature; pre-eclampsia; premature birth|1
+brain neoplasms; glioma|1
+hepatitis c, chronic; liver cirrhosis|1
+coronary disease; coronary heart disease|1
+myocardial infarction|1
+lipoproteins|1
+coronary disease; coronary heart disease; myocardial infarction|1
+endometrial neoplasms|1
+autism|1
+several psychiatric disorders|1
+psychiatric disorders|1
+iron|1
+smoking|1
+crohn disease|1
+acute coronary syndrome;|1
+cardiovascular diseases;|1
+obesity|1
+arteries|1
+asthma|1
+epithelial ovarian cancer|1
+ovarian cancer|1
+diabetes, type 1|1
+heart failure|1
+exercise test|1
+triglycerides|1
+coronary artery disease|1
+hip|1
+smoking cessation|1
+breast cancer|1
+hematocrit|1
+hemoglobins|1
+stroke|1
+body height|1
+schizophrenia|1
+tobacco use disorder|1

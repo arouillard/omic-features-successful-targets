@@ -1,0 +1,28 @@
+mean|1	stdv|0.955635
+Cholesterol, total|1	LDL cholesterol|0.935612
+Obesity-related traits|1
+IgG glycosylation|1
+Blood metabolite levels|1
+Rheumatoid arthritis|1
+Coronary heart disease|1
+Triglycerides|1
+Lipid traits|1
+Bipolar disorder and schizophrenia|1
+Ulcerative colitis|1
+Type 2 diabetes|1
+Pulmonary function|1
+Serum metabolite levels|1
+Urate levels|1
+End-stage coagulation|1
+Fibrinogen|1
+Type 1 diabetes autoantibodies|1
+Multiple sclerosis|1
+Tanning|1
+HDL cholesterol|1
+Metabolic traits|1
+Lipid metabolism phenotypes|1
+Metabolite levels|1
+Inflammatory bowel disease|1
+QT interval|1
+Breast cancer|1
+Height|1

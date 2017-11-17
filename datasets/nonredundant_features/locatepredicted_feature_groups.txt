@@ -1,0 +1,9 @@
+intracellular organelle|1	organelle|1	intracellular membrane-bounded organelle|0.999666	membrane-bounded organelle|0.999666	mean|0.952457	stdv|0.891482	intracellular part|0.907093	cell part|0.849089	cytoplasmic part|0.756455	nucleus|0.73821
+lysosome|1	lytic vacuole|1	vacuole|1
+microbody|1	peroxisome|1
+membrane|1	plasma membrane|1
+extracellular region|1
+endoplasmic reticulum|1
+mitochondrion|1
+golgi apparatus|1
+cytoplasm|1
