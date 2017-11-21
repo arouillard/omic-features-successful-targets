@@ -1,0 +1,68 @@
+abbreviation	name	path
+biogpshuman_cleaned	BioGPS Human Cell Type and Tissue Gene Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/biogpshuman/gene_attribute_matrix_cleaned.txt.gz
+biogpsmouse_cleaned	BioGPS Mouse Cell Type and Tissue Gene Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/biogpsmouse/gene_attribute_matrix_cleaned.txt.gz
+biogrid	BioGRID Protein-Protein Interactions	C:/Users/ar988996/Documents/Harmonizome/datasets/biogrid/gene_attribute_matrix.txt.gz
+brainatlasadulthuman_cleaned	Allen Brain Atlas Adult Human Brain Tissue Gene Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/brainatlasadulthuman/gene_attribute_matrix_cleaned.txt.gz
+brainatlasadultmouse_cleaned	Allen Brain Atlas Adult Mouse Brain Tissue Gene Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/brainatlasadultmouse/gene_attribute_matrix_cleaned.txt.gz
+clinvar	ClinVar SNP-Phenotype Associations	C:/Users/ar988996/Documents/Harmonizome/datasets/clinvar/gene_attribute_matrix.txt.gz
+cmap	CMAP Signatures of Differentially Expressed Genes for Small Molecules	C:/Users/ar988996/Documents/Harmonizome/datasets/cmap/gene_attribute_matrix.txt.gz
+ctdchemical	CTD Gene-Chemical Interactions	C:/Users/ar988996/Documents/Harmonizome/datasets/ctdchemical/gene_attribute_matrix.txt.gz
+ctddisease_cleaned	CTD Gene-Disease Associations - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/ctddisease/gene_attribute_matrix_cleaned.txt.gz
+dbgap_cleaned	dbGAP Gene-Trait Associations - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/dbgap/gene_attribute_matrix_cleaned.txt.gz
+depod	DEPOD Substrates of Phosphatases	C:/Users/ar988996/Documents/Harmonizome/datasets/depod/gene_attribute_matrix.txt.gz
+dip	DIP Protein-Protein Interactions	C:/Users/ar988996/Documents/Harmonizome/datasets/dip/gene_attribute_matrix.txt.gz
+encodehm	ENCODE Histone Modification Site Profiles	C:/Users/ar988996/Documents/Harmonizome/datasets/encodehm/gene_attribute_matrix.txt.gz
+encodetf	ENCODE Transcription Factor Binding Site Profiles	C:/Users/ar988996/Documents/Harmonizome/datasets/encodetf/gene_attribute_matrix.txt.gz
+epigenomicsdnamethylation_cleaned	Roadmap Epigenomics Cell and Tissue DNA Methylation Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/epigenomicsdnamethylation/gene_attribute_matrix_cleaned.txt.gz
+epigenomicshm	Roadmap Epigenomics Histone Modification Site Profiles	C:/Users/ar988996/Documents/Harmonizome/datasets/epigenomicshm/gene_attribute_matrix.txt.gz
+epigenomicsmrna_cleaned	Roadmap Epigenomics Cell and Tissue Gene Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/epigenomicsmrna/gene_attribute_matrix_cleaned.txt.gz
+gad	GAD Gene-Disease Associations	C:/Users/ar988996/Documents/Harmonizome/datasets/gad/gene_attribute_matrix.txt.gz
+gadhighlevel_cleaned	GAD High Level Gene-Disease Associations - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/gadhighlevel/gene_attribute_matrix_cleaned.txt.gz
+genesigdb	GeneSigDB Published Gene Signatures	C:/Users/ar988996/Documents/Harmonizome/datasets/genesigdb/gene_attribute_matrix.txt.gz
+gobp	GO Biological Process Annotations	C:/Users/ar988996/Documents/Harmonizome/datasets/gobp/gene_attribute_matrix.txt.gz
+gocc	GO Cellular Component Annotations	C:/Users/ar988996/Documents/Harmonizome/datasets/gocc/gene_attribute_matrix.txt.gz
+gomf	GO Molecular Function Annotations	C:/Users/ar988996/Documents/Harmonizome/datasets/gomf/gene_attribute_matrix.txt.gz
+gtexeqtl	GTEx eQTL	C:/Users/ar988996/Documents/Harmonizome/datasets/gtexeqtl/gene_attribute_matrix.txt.gz
+gtextissue_cleaned	GTEx Tissue Gene Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/gtextissue/gene_attribute_matrix_cleaned.txt.gz
+guidetopharmchemical	Guide to Pharmacology Chemical Ligands of Receptors	C:/Users/ar988996/Documents/Harmonizome/datasets/guidetopharmchemical/gene_attribute_matrix.txt.gz
+guidetopharmprotein	Guide to Pharmacology Protein Ligands of Receptors	C:/Users/ar988996/Documents/Harmonizome/datasets/guidetopharmprotein/gene_attribute_matrix.txt.gz
+gwascatalog_cleaned	GWAS Catalog SNP-Phenotype Associations - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/gwascatalog/gene_attribute_matrix_cleaned.txt.gz
+gwasdbdisease_cleaned	GWASdb SNP-Disease Associations - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/gwasdbdisease/gene_attribute_matrix_cleaned.txt.gz
+gwasdbphenotype_cleaned	GWASdb SNP-Phenotype Associations - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/gwasdbphenotype/gene_attribute_matrix_cleaned.txt.gz
+hpacelllines_cleaned	HPA Cell Line Gene Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/hpacelllines/gene_attribute_matrix_cleaned.txt.gz
+hpatissuesmrna_cleaned	HPA Tissue Gene Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/hpatissuesmrna/gene_attribute_matrix_cleaned.txt.gz
+hpatissuesprotein_cleaned	HPA Tissue Protein Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/hpatissuesprotein/gene_attribute_matrix_cleaned.txt.gz
+hpm_cleaned	HPM Cell Type and Tissue Protein Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/hpm/gene_attribute_matrix_cleaned.txt.gz
+hpo	HPO Gene-Disease Associations	C:/Users/ar988996/Documents/Harmonizome/datasets/hpo/gene_attribute_matrix.txt.gz
+hugenavigator	HuGE Navigator Gene-Phenotype Associations	C:/Users/ar988996/Documents/Harmonizome/datasets/hugenavigator/gene_attribute_matrix.txt.gz
+humancyc	HumanCyc Pathways	C:/Users/ar988996/Documents/Harmonizome/datasets/humancyc/gene_attribute_matrix.txt.gz
+intact	IntAct Biomolecular Interactions	C:/Users/ar988996/Documents/Harmonizome/datasets/intact/gene_attribute_matrix.txt.gz
+interpro	InterPro Predicted Protein Domain Annotations	C:/Users/ar988996/Documents/Harmonizome/datasets/interpro/gene_attribute_matrix.txt.gz
+jasparpwm	JASPAR Predicted Transcription Factor Targets	C:/Users/ar988996/Documents/Harmonizome/datasets/jasparpwm/gene_attribute_matrix.txt.gz
+jensencompartmentcurated_cleaned	COMPARTMENTS Curated Protein Localization Evidence Scores - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/jensencompartmentcurated/gene_attribute_matrix_cleaned.txt.gz
+jensencompartmentexpts_cleaned	COMPARTMENTS Experimental Protein Localization Evidence Scores - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/jensencompartmentexpts/gene_attribute_matrix_cleaned.txt.gz
+jensencompartmenttextmining_cleaned	COMPARTMENTS Text-mining Protein Localization Evidence Scores - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/jensencompartmenttextmining/gene_attribute_matrix_cleaned.txt.gz
+jensendiseasecurated	DISEASES Curated Gene-Disease Assocation Evidence Scores	C:/Users/ar988996/Documents/Harmonizome/datasets/jensendiseasecurated/gene_attribute_matrix.txt.gz
+jensendiseaseexpts_cleaned	DISEASES Experimental Gene-Disease Assocation Evidence Scores - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/jensendiseaseexpts/gene_attribute_matrix_cleaned.txt.gz
+jensendiseasetextmining_cleaned	DISEASES Text-mining Gene-Disease Assocation Evidence Scores - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/jensendiseasetextmining/gene_attribute_matrix_cleaned.txt.gz
+jensentissuecurated	TISSUES Curated Tissue Protein Expression Evidence Scores	C:/Users/ar988996/Documents/Harmonizome/datasets/jensentissuecurated/gene_attribute_matrix.txt.gz
+jensentissueexpts_cleaned	TISSUES Experimental Tissue Protein Expression Evidence Scores - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/jensentissueexpts/gene_attribute_matrix_cleaned.txt.gz
+jensentissuetextmining_cleaned	TISSUES Text-mining Tissue Protein Expression Evidence Scores - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/jensentissuetextmining/gene_attribute_matrix_cleaned.txt.gz
+kegg	KEGG Pathways	C:/Users/ar988996/Documents/Harmonizome/datasets/kegg/gene_attribute_matrix.txt.gz
+kinativ_cleaned	Kinativ Kinase Inhibitor Bioactivity Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/kinativ/gene_attribute_matrix_cleaned.txt.gz
+kinomescan_cleaned	KinomeScan Kinase Inhibitor Targets - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/kinomescan/gene_attribute_matrix_cleaned.txt.gz
+locate	LOCATE Curated Protein Localization Annotations	C:/Users/ar988996/Documents/Harmonizome/datasets/locate/gene_attribute_matrix.txt.gz
+locatepredicted	LOCATE Predicted Protein Localization Annotations	C:/Users/ar988996/Documents/Harmonizome/datasets/locatepredicted/gene_attribute_matrix.txt.gz
+mgimpo	MPO Gene-Phenotype Associations	C:/Users/ar988996/Documents/Harmonizome/datasets/mgimpo/gene_attribute_matrix.txt.gz
+mirtarbase	MiRTarBase microRNA Targets	C:/Users/ar988996/Documents/Harmonizome/datasets/mirtarbase/gene_attribute_matrix.txt.gz
+msigdbcomp	MSigDB Cancer Gene Co-expression Modules	C:/Users/ar988996/Documents/Harmonizome/datasets/msigdbcomp/gene_attribute_matrix.txt.gz
+nursa	NURSA Protein Complexes	C:/Users/ar988996/Documents/Harmonizome/datasets/nursa/gene_attribute_matrix.txt.gz
+omim	OMIM Gene-Disease Associations	C:/Users/ar988996/Documents/Harmonizome/datasets/omim/gene_attribute_matrix.txt.gz
+panther	PANTHER Pathways	C:/Users/ar988996/Documents/Harmonizome/datasets/panther/gene_attribute_matrix.txt.gz
+proteomicsdb_cleaned	ProteomicsDB Cell Type and Tissue Protein Expression Profiles - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/proteomicsdb/gene_attribute_matrix_cleaned.txt.gz
+reactome	Reactome Pathways	C:/Users/ar988996/Documents/Harmonizome/datasets/reactome/gene_attribute_matrix.txt.gz
+targetscan_cleaned	TargetScan Predicted Conserved microRNA Targets - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/targetscan/gene_attribute_matrix_cleaned.txt.gz
+targetscannonconserved_cleaned	TargetScan Predicted Nonconserved microRNA Targets - Cleaned	C:/Users/ar988996/Documents/Harmonizome/datasets/targetscannonconserved/gene_attribute_matrix_cleaned.txt.gz
+virusmint	Virus MINT Protein-Virus Interactions	C:/Users/ar988996/Documents/Harmonizome/datasets/virusmint/gene_attribute_matrix.txt.gz
+virusmintppi	Virus MINT Protein-Viral Protein Interactions	C:/Users/ar988996/Documents/Harmonizome/datasets/virusmintppi/gene_attribute_matrix.txt.gz
+wikipathways	Wikipathways Pathways	C:/Users/ar988996/Documents/Harmonizome/datasets/wikipathways/gene_attribute_matrix.txt.gz
