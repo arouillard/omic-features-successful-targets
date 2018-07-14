@@ -1,6 +1,6 @@
 # Systematic interrogation of diverse Omic data reveals interpretable, robust, and generalizable transcriptomic features of clinically successful therapeutic targets
 ### Andrew D. Rouillard, Mark R. Hurle, and Pankaj Agarwal
-### https://www.biorxiv.org/content/early/2017/11/16/220848
+### https://doi.org/10.1371/journal.pcbi.1006142
 
 ## Contents
 
